@@ -1,0 +1,41 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/epg.xml.gz"
+#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="英语新闻-主推",ABC News Live (720p)
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 tvg-name="ABC News Live 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="英语新闻-主推",ABC News Live 8 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Al_Jazeera_English_logo.svg/960px-Al_Jazeera_English_logo.svg.png" group-title="英语新闻-主推",Al Jazeera English (1080p)
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera English CDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Al_Jazeera_English_logo.svg/960px-Al_Jazeera_English_logo.svg.png" group-title="英语新闻-备用",Al Jazeera English (CDN 备)
+https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+#EXTINF:-1 tvg-name="France 24 English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/France_24_English_logo.svg/960px-France_24_English_logo.svg.png" group-title="英语新闻-主推",France 24 English (720p)
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-name="France 24 English Klowd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/France_24_English_logo.svg/960px-France_24_English_logo.svg.png" group-title="英语新闻-备用",France 24 English (Klowd 备)
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TRT_World_logo.svg/960px-TRT_World_logo.svg.png" group-title="英语新闻-主推",TRT World (1080p)
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/BBC_News_2019.svg/960px-BBC_News_2019.svg.png" group-title="英语新闻-备用",BBC News (576p)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/BBC_News_2019.svg/960px-BBC_News_2019.svg.png" group-title="英语新闻-备用",BBC World News (720p)
+https://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/960px-Fox_News_Channel_logo.svg.png" group-title="英语新闻-备用",Fox News Channel (720p)
+http://138.121.15.230:9002/FOX-NEWS/index.m3u8
+#EXTINF:-1 tvg-name="ABC News Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/960px-ABC_News_Live_logo_2021.svg.png" group-title="英语广播-听力",ABC News Radio (AAC)
+https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
+#EXTINF:-1 tvg-name="VOA Global English" tvg-logo="https://epg.112114.xyz/logo/VOA.png" group-title="英语广播-听力",VOA 环球英语 (AAC)
+http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
+#EXTINF:-1 tvg-name="NPR News" tvg-logo="https://epg.112114.xyz/logo/NPR.png" group-title="英语广播-听力",NPR News (AAC)
+https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
+#EXTINF:-1 tvg-name="半岛新闻广播" tvg-logo="https://epg.112114.xyz/logo/半岛新闻.png" group-title="英语广播-听力",半岛新闻 Al Jazeera Audio
+http://tunein.ord.streamguys1.com/secure-aljazeera-english
+#EXTINF:-1 tvg-name="Power FM" tvg-logo="https://epg.112114.xyz/logo/POWERFM.png" group-title="英语广播-听力",Power FM (MP3)
+https://crystalout.surfernetwork.com:8001/KVSP_MP3
+#EXTINF:-1 tvg-name="RTI Central" tvg-logo="https://epg.112114.xyz/logo/RTI.png" group-title="英语广播-听力",RTI 中央广播
+https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC Australia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/ABC_Australia_logo.svg/960px-ABC_Australia_logo.svg.png" group-title="英语教育",ABC Australia (教育)
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
+#EXTINF:-1 tvg-name="Africa 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Africa24_logo.svg/960px-Africa24_logo.svg.png" group-title="英语新闻-备用",Africa 24 (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 tvg-name="TV360 Turkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV360_logo.svg/960px-TV360_logo.svg.png" group-title="英语新闻-备用",TV360 News (720p)
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-name="99TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/99TV_logo.svg/960px-99TV_logo.svg.png" group-title="英语新闻-备用",99TV News (720p)
+https://cdn-1.pishow.tv/live/1211/master.m3u8

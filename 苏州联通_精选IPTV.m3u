@@ -1,0 +1,152 @@
+#EXTM3U url-tvg="https://epg.pw/api/guide.php?channel={channel}&format=json"
+#EXTINF:-1 tvg-name="说明" group-title="说明",⚠️ 请在苏州联通网络下使用
+#EXTINF:-1 tvg-name="说明" group-title="说明",本列表按"江苏本省>联通>电信"排序
+#EXTINF:-1 tvg-name="说明" group-title="说明",云端探测多返回403属正常，本地播放器实测为准
+
+# === 央视频道 ===
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道" 主,CCTV1
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道" 备,CCTV1
+http://58.56.162.102:4466/newlive/live/hls/1/live.m3u8
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道" 主,CCTV2
+http://113.57.140.161:10081/newlive/live/hls/2/live.m3u8
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道" 备,CCTV2
+http://219.147.245.238:25480/newlive/live/hls/2/live.m3u8
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视频道" 主,CCTV3
+http://121.57.88.206:898/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视频道" 备,CCTV3
+http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道" 主,CCTV4
+http://120.40.39.246:352/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道" 备,CCTV4
+http://219.147.245.238:25480/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视频道" 主,CCTV5
+http://113.57.140.161:10081/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视频道" 备,CCTV5
+http://58.56.162.102:4466/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道" 主,CCTV5+
+http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道" 备,CCTV5+
+http://219.147.245.238:25480/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道" 主,CCTV6
+http://113.57.140.161:10081/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道" 备,CCTV6
+http://58.56.162.102:4466/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道" 主,CCTV7
+http://219.147.245.238:25480/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道" 备,CCTV7
+http://120.40.39.246:352/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视频道" 主,CCTV8
+http://113.57.140.161:10081/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视频道" 备,CCTV8
+http://58.56.162.102:4466/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视频道" 主,CCTV9
+http://113.57.140.161:10081/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视频道" 备,CCTV9
+http://219.147.245.238:25480/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道" 主,CCTV10
+http://113.57.140.161:10081/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道" 备,CCTV10
+http://219.147.245.238:25480/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道" 主,CCTV11
+http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道" 备,CCTV11
+http://58.56.162.102:4466/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视频道" 主,CCTV12
+http://222.223.41.27:8888/hls/12/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视频道" 备,CCTV12
+http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道" 主,CCTV13
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道" 备,CCTV13
+http://120.40.39.246:352/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道" 主,CCTV14
+http://113.57.140.161:10081/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道" 备,CCTV14
+http://219.147.245.238:25480/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道" 主,CCTV15
+http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道" 备,CCTV15
+http://120.40.39.246:352/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 tvg-name="CCTV16" group-title="央视频道" 主,CCTV16
+http://219.147.245.238:25480/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 tvg-name="CCTV16" group-title="央视频道" 备,CCTV16
+http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视频道" 主,CCTV17
+http://171.38.148.188:9003/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视频道" 备,CCTV17
+http://1.190.240.47:9003/hls/3017/index.m3u8
+
+# === 江浙沪卫视 ===
+#EXTINF:-1 tvg-name="东方卫视" group-title="江浙沪卫视" 主,东方卫视
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="江浙沪卫视" 备,东方卫视
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="江浙沪卫视" 主,江苏卫视
+http://113.57.140.161:10081/newlive/live/hls/31/live.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="江浙沪卫视" 备,江苏卫视
+http://118.122.144.115:8888/newlive/live/hls/31/live.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="江浙沪卫视" 主,浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
+#EXTINF:-1 tvg-name="浙江卫视" group-title="江浙沪卫视" 备,浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="上海第一财经" group-title="江浙沪卫视" 主,上海第一财经
+https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="江浙沪卫视" 主,深圳卫视
+http://113.57.140.161:10081/newlive/live/hls/37/live.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="江浙沪卫视" 备,深圳卫视
+http://61.161.61.119:9004/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="江浙沪卫视" 主,北京卫视
+http://1.190.240.47:9003/hls/3044/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="江浙沪卫视" 备,北京卫视
+http://171.38.148.188:9003/hls/69/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="江浙沪卫视" 主,湖南卫视
+https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="江浙沪卫视" 备,湖南卫视
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="江浙沪卫视" 主,广东卫视
+https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+#EXTINF:-1 tvg-name="广东卫视" group-title="江浙沪卫视" 备,广东卫视
+http://139.214.181.174:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="山东卫视" group-title="江浙沪卫视" 主,山东卫视
+http://113.57.140.161:10081/newlive/live/hls/35/live.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="江浙沪卫视" 备,山东卫视
+http://120.40.39.246:352/newlive/live/hls/35/live.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="江浙沪卫视" 主,安徽卫视
+http://58.56.162.102:4466/newlive/live/hls/40/live.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="江浙沪卫视" 备,安徽卫视
+http://118.122.144.115:8888/newlive/live/hls/40/live.m3u8
+#EXTINF:-1 tvg-name="东南卫视" group-title="江浙沪卫视" 主,东南卫视
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" group-title="江浙沪卫视" 备,东南卫视
+http://113.57.140.161:10081/newlive/live/hls/20/live.m3u8
+#EXTINF:-1 tvg-name="海峡卫视" group-title="江浙沪卫视" 主,海峡卫视
+http://113.57.140.161:10081/newlive/live/hls/27/live.m3u8
+#EXTINF:-1 tvg-name="海峡卫视" group-title="江浙沪卫视" 备,海峡卫视
+http://58.56.162.102:4466/newlive/live/hls/27/live.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" group-title="江浙沪卫视" 主,厦门卫视
+http://113.57.140.161:10081/newlive/live/hls/28/live.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" group-title="江浙沪卫视" 备,厦门卫视
+http://120.40.39.246:352/newlive/live/hls/28/live.m3u8
+
+# === 苏州本地 ===
+#EXTINF:-1 tvg-name="苏州4K" group-title="苏州本地" 主,苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+
+# === 少儿频道 ===
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿频道" 主,金鹰卡通
+http://171.38.148.188:9003/hls/50/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="少儿频道" 备,金鹰卡通
+http://1.190.240.47:9003/hls/3075/index.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" group-title="少儿频道" 主,卡酷少儿
+http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
+#EXTINF:-1 tvg-name="卡酷少儿" group-title="少儿频道" 备,卡酷少儿
+http://112.99.195.122:65000/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="优漫卡通" group-title="少儿频道" 主,优漫卡通
+http://1.190.240.47:9003/hls/2073/index.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" group-title="少儿频道" 备,优漫卡通
+http://175.0.69.253:9002/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="浙江少儿" group-title="少儿频道" 主,浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" group-title="少儿频道" 备,浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?

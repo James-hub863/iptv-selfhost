@@ -1,0 +1,102 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml"
+# 宁都IPTV播放列表 - 2026年整理
+# 适用：江西电信/移动宽带
+# 注意：宁都台走趣看(quklive)平台，Key会定期变化，建议配合代理使用
+
+# ========== 央视频道 ==========
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1综合" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道",CCTV-1综合
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2财经" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="央视频道",CCTV-2财经
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225488/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3综艺" tvg-logo="https://tb.zbds.top/logo/CCTV3.png" group-title="央视频道",CCTV-3综艺
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4中文国际" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="央视频道",CCTV-4中文国际
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225490/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5体育" tvg-logo="https://tb.zbds.top/logo/CCTV5.png" group-title="央视频道",CCTV-5体育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225491/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6电影" tvg-logo="https://tb.zbds.top/logo/CCTV6.png" group-title="央视频道",CCTV-6电影
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225493/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7国防军事" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视频道",CCTV-7国防军事
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8电视剧" tvg-logo="https://tb.zbds.top/logo/CCTV8.png" group-title="央视频道",CCTV-8电视剧
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225495/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13新闻" tvg-logo="https://tb.zbds.top/logo/CCTV13.png" group-title="央视频道",CCTV-13新闻
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225500/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14少儿" tvg-logo="https://tb.zbds.top/logo/CCTV14.png" group-title="央视频道",CCTV-14少儿
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
+
+# ========== 江西卫视/省级台 ==========
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://tb.zbds.top/logo/江西卫视.png" group-title="江西卫视",江西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225492/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://tb.zbds.top/logo/江西新闻.png" group-title="江西卫视",江西新闻
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://tb.zbds.top/logo/江西都市.png" group-title="江西卫视",江西都市
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://tb.zbds.top/logo/江西经济.png" group-title="江西卫视",江西经济生活
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://tb.zbds.top/logo/江西影视.png" group-title="江西卫视",江西影视旅游
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/2/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://tb.zbds.top/logo/江西少儿.png" group-title="江西卫视",江西少儿
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://tb.zbds.top/logo/江西教育.png" group-title="江西卫视",江西教育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
+
+# ========== 赣州本地台 ==========
+#EXTINF:-1 tvg-id="赣州新闻综合" tvg-name="赣州新闻综合" tvg-logo="https://tb.zbds.top/logo/赣州新闻综合.png" group-title="赣州本地",赣州新闻综合
+http://pl1.cloud.dayang.com.cn/live/10062_nfeG7l.m3u8
+#EXTINF:-1 tvg-id="赣州新闻综合" tvg-name="赣州新闻综合.备用" tvg-logo="https://tb.zbds.top/logo/赣州新闻综合.png" group-title="赣州本地",赣州新闻综合.备用
+http://wb.jxgztv.com/live/gztv1.m3u8
+#EXTINF:-1 tvg-id="赣州公共" tvg-name="赣州公共" tvg-logo="https://tb.zbds.top/logo/赣州公共.png" group-title="赣州本地",赣州公共
+https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526334096251.m3u8
+
+# ========== 宁都本地台（重点） ==========
+# 注意：宁都台走趣看(quklive)平台，auth_key会定期变化
+# 建议通过掌上宁都APP或宁都融媒API获取最新地址
+# 以下为趣看平台地址模板，Key需定期更新
+
+#EXTINF:-1 tvg-id="宁都综合" tvg-name="宁都综合" tvg-logo="https://tb.zbds.top/logo/宁都综合.png" group-title="宁都本地",宁都综合（趣看平台）
+http://play-sh13.quklive.com/live/1775696284668325.m3u8?auth_key=1780477064-9ab0c22850ce428f98a2148cc8355833-0-57e18055f5d735b269ca4c6df3f7ee13
+#EXTINF:-1 tvg-id="宁都综合" tvg-name="宁都综合.FLV" tvg-logo="https://tb.zbds.top/logo/宁都综合.png" group-title="宁都本地",宁都综合.FLV流
+http://play-a2.quklive.com/live/1749084198822069.m3u8
+#EXTINF:-1 tvg-id="宁都综合" tvg-name="宁都综合.RTMP" tvg-logo="https://tb.zbds.top/logo/宁都综合.png" group-title="宁都本地",宁都综合.RTMP流
+rtmp://play-a2.quklive.com/live/1749084198822069
+
+# 宁都融媒Web端（需通过API获取动态地址）
+# 接口参考：https://api.ningdurmt.cn/webDetails/live/tvLive?tenantId=248&id=36
+# 提示：该接口返回JSON中含直播地址，可用PHP代理实时解析
+
+# ========== 江西其他县市台 ==========
+#EXTINF:-1 tvg-id="遂川综合" tvg-name="遂川综合" tvg-logo="https://tb.zbds.top/logo/遂川综合.png" group-title="江西县市台",遂川综合
+http://zhibo.jxxw.com.cn/live/suichuantv.m3u8
+#EXTINF:-1 tvg-id="大余综合" tvg-name="大余综合" tvg-logo="https://tb.zbds.top/logo/大余综合.png" group-title="江西县市台",大余综合
+http://zhibo.jxxw.com.cn/live/dayutv.m3u8
+#EXTINF:-1 tvg-id="上犹综合" tvg-name="上犹综合" tvg-logo="https://tb.zbds.top/logo/上犹综合.png" group-title="江西县市台",上犹综合
+http://zhibo.jxxw.com.cn/live/shangytv.m3u8
+#EXTINF:-1 tvg-id="定南综合" tvg-name="定南综合" tvg-logo="https://tb.zbds.top/logo/定南综合.png" group-title="江西县市台",定南综合
+http://zhibo.jxxw.com.cn/live/dingntv.m3u8
+#EXTINF:-1 tvg-id="赣县综合" tvg-name="赣县综合" tvg-logo="https://tb.zbds.top/logo/赣县综合.png" group-title="江西县市台",赣县综合
+http://zhibo.jxxw.com.cn/live/ganxtv.m3u8
+#EXTINF:-1 tvg-id="信丰综合" tvg-name="信丰综合" tvg-logo="https://tb.zbds.top/logo/信丰综合.png" group-title="江西县市台",信丰综合
+http://zhibo.jxxw.com.cn/live/xinfengtv.m3u8
+
+# ========== 卫视频道 ==========
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://tb.zbds.top/logo/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225510/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://tb.zbds.top/logo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225512/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://tb.zbds.top/logo/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225513/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://tb.zbds.top/logo/东方卫视.png" group-title="卫视频道",东方卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225514/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://tb.zbds.top/logo/广东卫视.png" group-title="卫视频道",广东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225516/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://tb.zbds.top/logo/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225519/index.m3u8?fmt=ts2hls
+
+# ========== 聚合订阅 ==========
+#EXTINF:-1 tvg-id="JiangXi-IPTV" tvg-name="江西IPTV聚合(IPv4+IPv6)" tvg-logo="https://tb.zbds.top/logo/江西卫视.png" group-title="聚合订阅",江西IPTV聚合(IPv4+IPv6)
+https://imghost.subtlyrabbit.top/iptv/subscribe/ipv4v6.txt
+#EXTINF:-1 tvg-id="江西电信" tvg-name="江西电信直播源" tvg-logo="https://tb.zbds.top/logo/江西电信.png" group-title="聚合订阅",江西电信直播源
+https://live.zhoujie218.top/dsyy/hd.m3u
+#EXTINF:-1 tvg-id="全国直播源" tvg-name="全国自动扫描源" tvg-logo="https://tb.zbds.top/logo/全国源.png" group-title="聚合订阅",全国自动扫描源(每12h更新)
+https://live.zhoujie218.top/dsyy/mylist.m3u

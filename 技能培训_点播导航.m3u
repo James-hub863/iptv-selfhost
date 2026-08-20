@@ -1,0 +1,29 @@
+#EXTM3U
+# 说明：技能/职业培训以"点播课程+直播公开课"为主，没有稳定的24h直播流。
+# 下方以"导航书签"形式整理常用入口，TVBox/浏览器类播放器可识别为网页入口。
+# 视频类（点播/回放）
+#EXTINF:-1 tvg-name="黑马免费公开课" group-title="IT编程",黑马IT免费直播公开课
+https://yun.itheima.com/open
+#EXTINF:-1 tvg-name="传智播客" group-title="IT编程",传智播客官网课程
+https://www.itcast.cn/
+#EXTINF:-1 tvg-name="教育部24365就业" group-title="求职就业",教育部24365就业指导
+https://xz.chsi.com.cn/jyzdk/
+#EXTINF:-1 tvg-name="起点课堂" group-title="产品运营",起点课堂直播回放
+http://vip.qidianla.com/liveCourse.html
+#EXTINF:-1 tvg-name="工控老曾PLC" group-title="工业自动化",工控老曾PLC教学
+https://space.bilibili.com/
+#EXTINF:-1 tvg-name="Coursera" group-title="综合MOOC",Coursera 免费课程
+https://www.coursera.org/
+#EXTINF:-1 tvg-name="edX" group-title="综合MOOC",edX 名校公开课
+https://www.edx.org/
+#EXTINF:-1 tvg-name="Khan Academy" group-title="综合MOOC",可汗学院英文教学
+https://www.khanacademy.org/
+#EXTINF:-1 tvg-name="Udemy Free" group-title="综合MOOC",Udemy 免费课
+https://www.udemy.com/courses/free/
+# 英语听力补充（按语言聚合的大列表，适合自己再筛选）
+#EXTINF:-1 tvg-name="iptv-org 英语全量" group-title="英语聚合订阅",English 全量 (2290+ 台)
+https://iptv-org.github.io/iptv/languages/eng.m3u
+#EXTINF:-1 tvg-name="iptv-org 教育分类" group-title="英语聚合订阅",Education 分类 (246+ 台)
+https://iptv-org.github.io/iptv/categories/education.m3u
+#EXTINF:-1 tvg-name="iptv-org 新闻分类" group-title="英语聚合订阅",News 分类 (941+ 台)
+https://iptv-org.github.io/iptv/categories/news.m3u
