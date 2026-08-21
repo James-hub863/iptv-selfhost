@@ -11,8 +11,6 @@ https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,BBC News (576p)
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-#EXTINF:-1,Fox News Channel (720p)
-http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 #EXTINF:-1,ABC News Radio (AAC)
 https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
 #EXTINF:-1,VOA 环球英语 (AAC)
@@ -169,8 +167,6 @@ http://1.190.240.47:9003/hls/2073/index.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1,浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
-#EXTINF:-1,江西IPTV聚合(IPv4+IPv6)
-https://imghost.subtlyrabbit.top/iptv/subscribe/ipv4v6.txt
 #EXTINF:-1,苏州新闻[备]
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1,苏州社会[备]
@@ -185,6 +181,12 @@ https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
 https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 #EXTINF:-1,苏州4K[备·tylive]
 http://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1,CCTV-3 综艺
+http://183.207.248.71/cntv/live1/-/JSGD-SMS-cctv3
+#EXTINF:-1,CCTV-8 电视剧
+http://183.207.248.71/cntv/live1/-/JSGD-SMS-cctv8
+#EXTINF:-1,CCTV-10 科教
+http://183.207.248.71/cntv/live1/-/JSGD-SMS-cctv10
 #EXTINF:-1,suxuang移动IPTV精选
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 #EXTINF:-1,苏州4K.备用
