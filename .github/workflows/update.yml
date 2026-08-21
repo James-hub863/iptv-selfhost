@@ -21,7 +21,7 @@ jobs:
           sudo apt-get install -y ffmpeg
           pip install requests aiohttp
       - name: Run check script
-        run: python check_m3u.py
+        run: python probe.py
       - name: Commit and push
         run: |
           git config user.name "github-actions"
