@@ -26,6 +26,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add live.m3u live.txt
+          git add live.m3u
           git commit -m "auto: $(date +'%Y-%m-%d %H:%M') 测活更新" || exit 0
           git push
