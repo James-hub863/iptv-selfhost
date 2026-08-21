@@ -1,0 +1,221 @@
+#EXTM3U
+#EXTINF:-1,ABC News Live (720p)
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1,ABC News Live 8 (720p)
+https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master.m3u8
+#EXTINF:-1,Al Jazeera English (1080p)
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1,France 24 English (720p)
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,TRT World (1080p)
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,BBC News (576p)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1,Fox News Channel (720p)
+http://138.121.15.230:9002/FOX-NEWS/index.m3u8
+#EXTINF:-1,ABC News Radio (AAC)
+https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
+#EXTINF:-1,VOA 环球英语 (AAC)
+http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
+#EXTINF:-1,NPR News (AAC)
+https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
+#EXTINF:-1,Power FM (MP3)
+https://crystalout.surfernetwork.com:8001/KVSP_MP3
+#EXTINF:-1,RTI 中央广播
+https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+#EXTINF:-1,ABC Australia (教育)
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
+#EXTINF:-1,Africa 24 (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1,TV360 News (720p)
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1,99TV News (720p)
+https://cdn-1.pishow.tv/live/1211/master.m3u8
+#EXTINF:-1,bjzhou/iptv-collector 移动影视源
+https://testingcf.jsdelivr.net/gh/bjzhou/iptv-collector@output/iptv-cm.m3u
+#EXTINF:-1,CCTV1
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1,CCTV1
+http://58.56.162.102:4466/newlive/live/hls/1/live.m3u8
+#EXTINF:-1,CCTV2
+http://113.57.140.161:10081/newlive/live/hls/2/live.m3u8
+#EXTINF:-1,CCTV2
+http://219.147.245.238:25480/newlive/live/hls/2/live.m3u8
+#EXTINF:-1,CCTV3
+http://121.57.88.206:898/hls/3/index.m3u8
+#EXTINF:-1,CCTV3
+http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
+#EXTINF:-1,CCTV4
+http://120.40.39.246:352/newlive/live/hls/4/live.m3u8
+#EXTINF:-1,CCTV4
+http://219.147.245.238:25480/newlive/live/hls/4/live.m3u8
+#EXTINF:-1,CCTV5
+http://113.57.140.161:10081/newlive/live/hls/5/live.m3u8
+#EXTINF:-1,CCTV5
+http://58.56.162.102:4466/newlive/live/hls/5/live.m3u8
+#EXTINF:-1,CCTV5+
+http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
+#EXTINF:-1,CCTV5+
+http://219.147.245.238:25480/newlive/live/hls/6/live.m3u8
+#EXTINF:-1,CCTV6
+http://113.57.140.161:10081/newlive/live/hls/7/live.m3u8
+#EXTINF:-1,CCTV6
+http://58.56.162.102:4466/newlive/live/hls/7/live.m3u8
+#EXTINF:-1,CCTV7
+http://219.147.245.238:25480/newlive/live/hls/8/live.m3u8
+#EXTINF:-1,CCTV7
+http://120.40.39.246:352/newlive/live/hls/8/live.m3u8
+#EXTINF:-1,CCTV8
+http://113.57.140.161:10081/newlive/live/hls/9/live.m3u8
+#EXTINF:-1,CCTV8
+http://58.56.162.102:4466/newlive/live/hls/9/live.m3u8
+#EXTINF:-1,CCTV9
+http://113.57.140.161:10081/newlive/live/hls/10/live.m3u8
+#EXTINF:-1,CCTV9
+http://219.147.245.238:25480/newlive/live/hls/10/live.m3u8
+#EXTINF:-1,CCTV10
+http://113.57.140.161:10081/newlive/live/hls/11/live.m3u8
+#EXTINF:-1,CCTV10
+http://219.147.245.238:25480/newlive/live/hls/11/live.m3u8
+#EXTINF:-1,CCTV11
+http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
+#EXTINF:-1,CCTV11
+http://58.56.162.102:4466/newlive/live/hls/12/live.m3u8
+#EXTINF:-1,CCTV12
+http://222.223.41.27:8888/hls/12/index.m3u8
+#EXTINF:-1,CCTV12
+http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8
+#EXTINF:-1,CCTV13
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1,CCTV13
+http://120.40.39.246:352/newlive/live/hls/14/live.m3u8
+#EXTINF:-1,CCTV14
+http://113.57.140.161:10081/newlive/live/hls/15/live.m3u8
+#EXTINF:-1,CCTV14
+http://219.147.245.238:25480/newlive/live/hls/15/live.m3u8
+#EXTINF:-1,CCTV15
+http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
+#EXTINF:-1,CCTV15
+http://120.40.39.246:352/newlive/live/hls/16/live.m3u8
+#EXTINF:-1,CCTV16
+http://219.147.245.238:25480/newlive/live/hls/17/live.m3u8
+#EXTINF:-1,CCTV16
+http://113.57.140.161:10081/newlive/live/hls/17/live.m3u8
+#EXTINF:-1,CCTV17
+http://171.38.148.188:9003/hls/17/index.m3u8
+#EXTINF:-1,CCTV17
+http://1.190.240.47:9003/hls/3017/index.m3u8
+#EXTINF:-1,东方卫视
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
+#EXTINF:-1,东方卫视
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+#EXTINF:-1,江苏卫视
+http://113.57.140.161:10081/newlive/live/hls/31/live.m3u8
+#EXTINF:-1,江苏卫视
+http://118.122.144.115:8888/newlive/live/hls/31/live.m3u8
+#EXTINF:-1,浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
+#EXTINF:-1,浙江卫视
+https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1,上海第一财经
+https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+#EXTINF:-1,深圳卫视
+http://113.57.140.161:10081/newlive/live/hls/37/live.m3u8
+#EXTINF:-1,深圳卫视
+http://61.161.61.119:9004/hls/37/index.m3u8
+#EXTINF:-1,北京卫视
+http://1.190.240.47:9003/hls/3044/index.m3u8
+#EXTINF:-1,北京卫视
+http://171.38.148.188:9003/hls/69/index.m3u8
+#EXTINF:-1,湖南卫视
+https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+#EXTINF:-1,湖南卫视
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1,广东卫视
+https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
+#EXTINF:-1,山东卫视
+http://113.57.140.161:10081/newlive/live/hls/35/live.m3u8
+#EXTINF:-1,山东卫视
+http://120.40.39.246:352/newlive/live/hls/35/live.m3u8
+#EXTINF:-1,安徽卫视
+http://58.56.162.102:4466/newlive/live/hls/40/live.m3u8
+#EXTINF:-1,安徽卫视
+http://118.122.144.115:8888/newlive/live/hls/40/live.m3u8
+#EXTINF:-1,东南卫视
+http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1,东南卫视
+http://113.57.140.161:10081/newlive/live/hls/20/live.m3u8
+#EXTINF:-1,海峡卫视
+http://113.57.140.161:10081/newlive/live/hls/27/live.m3u8
+#EXTINF:-1,海峡卫视
+http://58.56.162.102:4466/newlive/live/hls/27/live.m3u8
+#EXTINF:-1,厦门卫视
+http://113.57.140.161:10081/newlive/live/hls/28/live.m3u8
+#EXTINF:-1,厦门卫视
+http://120.40.39.246:352/newlive/live/hls/28/live.m3u8
+#EXTINF:-1,苏州4K
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1,金鹰卡通
+http://171.38.148.188:9003/hls/50/index.m3u8
+#EXTINF:-1,金鹰卡通
+http://1.190.240.47:9003/hls/3075/index.m3u8
+#EXTINF:-1,卡酷少儿
+http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
+#EXTINF:-1,卡酷少儿
+http://112.99.195.122:65000/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,优漫卡通
+http://1.190.240.47:9003/hls/2073/index.m3u8
+#EXTINF:-1,浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1,浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+#EXTINF:-1,江西IPTV聚合(IPv4+IPv6)
+https://imghost.subtlyrabbit.top/iptv/subscribe/ipv4v6.txt
+#EXTINF:-1,苏州新闻[备]
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1,苏州社会[备]
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
+#EXTINF:-1,苏州文化[备]
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1,苏州电影[备]
+https://live-auth.51kandianshi.com/szgd/csztv4.m3u8
+#EXTINF:-1,苏州生活[备]
+https://live-auth.51kandianshi.com/szgd/csztv5.m3u8
+#EXTINF:-1,苏州4K[备·HTTPS]
+https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+#EXTINF:-1,苏州4K[备·tylive]
+http://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1,CCTV-4 中文国际
+http://183.207.248.71/cntv/live1/-/JSGD-SMS-cctv4
+#EXTINF:-1,CCTV-7 国防军事
+http://183.207.248.71/cntv/live1/-/JSGD-SMS-cctv7
+#EXTINF:-1,suxuang移动IPTV精选
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+#EXTINF:-1,苏州4K.备用
+https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1,常熟综合
+http://streamer.cstv.com.cn/live/cstv1.m3u8
+#EXTINF:-1,IPv6直播源
+https://live.fanmingming.com/tv/m3u/ipv6.m3u
+#EXTINF:-1,赣州新闻综合.备用2
+http://115.150.63.77:9902/tsfile/live/0001_50.m3u8?key=txiptv
+#EXTINF:-1,江西IPTV聚合源(IPv4+IPv6)
+https://imghost.subtlyrabbit.top/iptv/subscribe/ipv4v6.txt
+#EXTINF:-1,黑马IT免费直播公开课
+https://yun.itheima.com/open
+#EXTINF:-1,传智播客官网课程
+https://www.itcast.cn/
+#EXTINF:-1,起点课堂直播回放
+http://vip.qidianla.com/liveCourse.html
+#EXTINF:-1,Coursera 免费课程
+https://www.coursera.org/
+#EXTINF:-1,edX 名校公开课
+https://www.edx.org/
+#EXTINF:-1,可汗学院英文教学
+https://www.khanacademy.org/
+#EXTINF:-1,English 全量 (2290+ 台)
+https://iptv-org.github.io/iptv/languages/eng.m3u
+#EXTINF:-1,Education 分类 (246+ 台)
+https://iptv-org.github.io/iptv/categories/education.m3u
+#EXTINF:-1,News 分类 (941+ 台)
+https://iptv-org.github.io/iptv/categories/news.m3u
