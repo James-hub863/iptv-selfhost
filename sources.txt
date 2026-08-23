@@ -775,3 +775,14 @@ https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 tvg-name="99TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/99TV_logo.svg/960px-99TV_logo.svg.png" group-title="英语新闻-备用",99TV News (720p)
 https://cdn-1.pishow.tv/live/1211/master.m3u8
+# 国内聚合源（每日测活）
+https://live.zbds.top/tv/iptv4.m3u
+https://cdn.jsdelivr.net/gh/yuanzl77/IPTV@latest/live.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+
+# 移动宽带专用
+https://testingcf.jsdelivr.net/gh/bjzhou/iptv-collector@output/iptv-cm.m3u
+https://itv.aptv.app/china-iptv/jsyd.m3u
+
+# 国际英语源（可选）
+https://iptv-org.github.io/iptv/languages/eng.m3u
