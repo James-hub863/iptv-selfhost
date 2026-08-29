@@ -1,74 +1,84 @@
 #EXTM3U url-tvg="https://epg.pw/api/guide.php?channel={channel}&format=json"
 # 苏州联通优选 · 自动测活生成
-#EXTINF:-1 tvg-name="东方卫视" tvg-id="东方卫视" tvg-logo="https://tb.zbds.top/logo/东方卫视.png" group-title="卫视频道", 东方卫视
-https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/湖南卫视.png",湖南卫视
 https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-id="东方卫视" tvg-logo="https://tb.zbds.top/logo/东方卫视.png" group-title="卫视频道", 东方卫视
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-id="16" tvg-logo="https://tb.zbds.top/logo/CCTV6.png" group-title="央视频道", CCTV6
 http://112.30.73.119:229/tsfile/live/0006_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="CCTV7" tvg-id="20" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视频道", CCTV7
-http://113.57.140.161:10081/newlive/live/hls/8/live.m3u8
-#EXTINF:-1 tvg-name="CCTV8" tvg-id="14" tvg-logo="https://tb.zbds.top/logo/CCTV8.png" group-title="央视频道", CCTV8
-http://113.57.140.161:10081/newlive/live/hls/9/live.m3u8
-#EXTINF:-1 tvg-name="CCTV11" tvg-id="20" tvg-logo="https://tb.zbds.top/logo/CCTV11.png" group-title="央视频道", CCTV11
-http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
-#EXTINF:-1 tvg-name="厦门卫视" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/厦门卫视.png" group-title="卫视频道", 厦门卫视
-http://113.57.140.161:10081/newlive/live/hls/28/live.m3u8
-#EXTINF:-1 tvg-name="江苏卫视" tvg-id="27" tvg-logo="https://tb.zbds.top/logo/江苏卫视.png" group-title="卫视频道", 江苏卫视
-http://113.57.140.161:10081/newlive/live/hls/31/live.m3u8
-#EXTINF:-1 tvg-name="深圳卫视" tvg-id="10" tvg-logo="https://tb.zbds.top/logo/深圳卫视.png" group-title="卫视频道", 深圳卫视
-http://221.7.175.154:8445/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV2" tvg-id="18" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="央视频道", CCTV2
+#EXTINF:-1 tvg-id="苏州" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/苏州4K.png" group-title="4K频道",苏州4K
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-id="17" tvg-logo="https://tb.zbds.top/logo/CCTV2.png" group-title="央视频道", CCTV2
 http://221.7.175.154:8445/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV9" tvg-id="24" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视频道", CCTV9
-http://221.7.175.154:8445/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV12" tvg-id="28" tvg-logo="https://tb.zbds.top/logo/CCTV12.png" group-title="央视频道", CCTV12
-http://221.7.175.154:8445/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-id="3" tvg-logo="https://tb.zbds.top/logo/卡酷少儿.png" group-title="儿童频道", 卡酷少儿
 http://111.59.139.82:11888/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="3" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
-http://221.7.175.154:8445/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV10" tvg-id="22" tvg-logo="https://tb.zbds.top/logo/CCTV10.png" group-title="央视频道", CCTV10
-http://58.56.162.102:4466/newlive/live/hls/11/live.m3u8
-#EXTINF:-1 tvg-name="CCTV4" tvg-id="22" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="央视频道", CCTV4
-http://58.56.162.102:4466/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视4K.png" http-user-agent="aliplayer" group-title="4K频道",东方卫视4K
+http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="4" tvg-logo="https://tb.zbds.top/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://112.27.5.218:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV8" tvg-id="14" tvg-logo="https://tb.zbds.top/logo/CCTV8.png" group-title="央视频道", CCTV8
+http://113.57.140.161:10081/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/海峡卫视.png" group-title="卫视频道",海峡卫视
+http://8.138.7.223/tv/hxws.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-id="19" tvg-logo="https://tb.zbds.top/logo/CCTV17.png" group-title="央视频道", CCTV17
 http://221.7.175.154:8445/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="安徽卫视" tvg-id="23" tvg-logo="https://tb.zbds.top/logo/安徽卫视.png" group-title="卫视频道", 安徽卫视
-http://221.7.175.154:8445/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="CCTV3" tvg-id="15" tvg-logo="https://tb.zbds.top/logo/CCTV3.png" group-title="央视频道", CCTV3
-http://58.56.162.102:4466/newlive/live/hls/3/live.m3u8
-#EXTINF:-1 tvg-name="CCTV16" tvg-id="17" tvg-logo="https://tb.zbds.top/logo/CCTV16.png" group-title="央视频道", CCTV16
-http://118.122.144.115:8888/newlive/live/hls/17/live.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-id="24" tvg-logo="https://tb.zbds.top/logo/CCTV15.png" group-title="央视频道", CCTV15
-http://219.147.245.238:25480/newlive/live/hls/16/live.m3u8
-#EXTINF:-1 tvg-name="苏州文化生活" tvg-id="苏州文化生活" tvg-logo="https://tb.zbds.top/logo/苏州文化生活.png" group-title="地方频道", 苏州文化生活
-https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/东方卫视.png" http-user-agent="AptvPlayer-UA",东方卫视
-http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-#EXTINF:-1 tvg-name="苏州新闻综合" tvg-id="苏州新闻综合" tvg-logo="https://tb.zbds.top/logo/苏州新闻综合.png" group-title="地方频道", 苏州新闻综合
-https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-#EXTINF:-1 tvg-name="CCTV14" tvg-id="23" tvg-logo="https://tb.zbds.top/logo/CCTV14.png" group-title="央视频道", CCTV14
-http://120.40.39.246:352/newlive/live/hls/15/live.m3u8
-#EXTINF:-1 tvg-name="山东卫视" tvg-id="25" tvg-logo="https://tb.zbds.top/logo/山东卫视.png" group-title="卫视频道", 山东卫视
-http://120.40.39.246:352/newlive/live/hls/35/live.m3u8
-#EXTINF:-1 tvg-name="海峡卫视" tvg-id="3" tvg-logo="https://tb.zbds.top/logo/海峡卫视.png" group-title="卫视频道", 海峡卫视
-http://120.40.39.246:352/newlive/live/hls/27/live.m3u8
-#EXTINF:-1 tvg-name="上海第一财经" tvg-id="上海第一财经" tvg-logo="https://tb.zbds.top/logo/上海第一财经.png" group-title="地方频道", 上海第一财经
-https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-id="浙江卫视" tvg-logo="https://tb.zbds.top/logo/浙江卫视.png" group-title="卫视频道", 浙江卫视
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-id="23" tvg-logo="https://tb.zbds.top/logo/CCTV7.png" group-title="央视频道", CCTV7
+http://221.226.51.220:50081/newlive/live/hls/8/live.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-id="CCTV-1" tvg-logo="https://tb.zbds.top/logo/CCTV1.png" group-title="央视频道", CCTV1
 http://74.91.26.218:82/live/cctv1hd.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://parco-zh.github.io/demo/HNWS.png",湖南卫视
-http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 tvg-name="浙江少儿" tvg-id="3" tvg-logo="https://tb.zbds.top/logo/浙江少儿.png" group-title="儿童频道", 浙江少儿
-http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-id="CCTV13" tvg-logo="https://tb.zbds.top/logo/CCTV13.png" group-title="央视频道", CCTV13
-http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江卫视" tvg-id="浙江卫视" tvg-logo="https://tb.zbds.top/logo/浙江卫视.png" group-title="卫视频道", 浙江卫视
-http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-id="23" tvg-logo="https://tb.zbds.top/logo/CCTV10.png" group-title="央视频道", CCTV10
+http://221.226.51.220:50081/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-id="21" tvg-logo="https://tb.zbds.top/logo/CCTV14.png" group-title="央视频道", CCTV14
+http://120.40.39.246:352/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-id="CCTV-5+" tvg-logo="https://tb.zbds.top/logo/CCTV5+.png" group-title="央视频道", CCTV5+
+https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+#EXTINF:-1 tvg-name="海峡卫视" tvg-id="1" tvg-logo="https://tb.zbds.top/logo/海峡卫视.png" group-title="卫视频道", 海峡卫视
+http://120.40.39.246:352/newlive/live/hls/27/live.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-id="25" tvg-logo="https://tb.zbds.top/logo/山东卫视.png" group-title="卫视频道", 山东卫视
+http://113.57.140.161:10081/newlive/live/hls/35/live.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" tvg-id="8" tvg-logo="https://tb.zbds.top/logo/深圳卫视.png" group-title="卫视频道", 深圳卫视
+http://113.57.140.161:10081/newlive/live/hls/37/live.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-id="22" tvg-logo="https://tb.zbds.top/logo/CCTV4.png" group-title="央视频道", CCTV4
+http://58.56.162.102:4466/newlive/live/hls/4/live.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.cn/tv/浙江少儿.png" group-title="浙江频道",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江卫视.png",浙江卫视
-https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-id="CCTV-3" tvg-logo="https://tb.zbds.top/logo/CCTV3.png" group-title="央视频道", CCTV3
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 tvg-id="苏州新闻综合" tvg-name="苏州新闻综合" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou1.png" group-title="☘️江苏频道",苏州新闻综合
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-id="22" tvg-logo="https://tb.zbds.top/logo/CCTV9.png" group-title="央视频道", CCTV9
+http://219.147.245.238:25480/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 tvg-name="上海第一财经" tvg-id="上海第一财经" tvg-logo="https://tb.zbds.top/logo/上海第一财经.png" group-title="地方频道", 上海第一财经
+https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+#EXTINF:-1 tvg-name="浙江少儿" tvg-id="2" tvg-logo="https://tb.zbds.top/logo/浙江少儿.png" group-title="儿童频道", 浙江少儿
+http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="苏州文化生活" tvg-name="苏州文化生活" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/jiangsu/Suzhou3.png" group-title="☘️江苏频道",苏州文化生活
+https://live-auth.51kandianshi.com/szgd/csztv3.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-id="14" tvg-logo="https://tb.zbds.top/logo/CCTV16.png" group-title="央视频道", CCTV16
+http://58.56.162.102:4466/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-id="21" tvg-logo="https://tb.zbds.top/logo/CCTV11.png" group-title="央视频道", CCTV11
+http://219.147.245.238:25480/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-id="23" tvg-logo="https://tb.zbds.top/logo/CCTV15.png" group-title="央视频道", CCTV15
+http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-id="28" tvg-logo="https://tb.zbds.top/logo/江苏卫视.png" group-title="卫视频道", 江苏卫视
+http://120.40.39.246:352/newlive/live/hls/31/live.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://parco-zh.github.io/demo/HNWS.png",湖南卫视
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-id="26" tvg-logo="https://tb.zbds.top/logo/CCTV12.png" group-title="央视频道", CCTV12
+http://58.56.162.102:4466/newlive/live/hls/13/live.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-id="23" tvg-logo="https://tb.zbds.top/logo/安徽卫视.png" group-title="卫视频道", 安徽卫视
+http://219.147.245.238:25480/newlive/live/hls/40/live.m3u8
+#EXTINF:-1 tvg-name="厦门卫视" tvg-id="6" tvg-logo="https://tb.zbds.top/logo/厦门卫视.png" group-title="卫视频道", 厦门卫视
+http://58.56.162.102:4466/newlive/live/hls/28/live.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/江苏卫视4K.png" http-user-agent="aliplayer" group-title="4K频道",江苏卫视4K
+http://8.138.7.223/tv/jsws4k.php
+#EXTINF:-1 tvg-name="CCTV13" tvg-id="CCTV13" tvg-logo="https://tb.zbds.top/logo/CCTV13.png" group-title="央视频道", CCTV13
+http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+#EXTINF:-1 tvg-name="优漫卡通" tvg-id="13" tvg-logo="https://tb.zbds.top/logo/优漫卡通.png" group-title="儿童频道", 优漫卡通
+http://222.136.68.235:9901/tsfile/live/1109_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="东南卫视" tvg-id="东南卫视" tvg-logo="https://tb.zbds.top/logo/东南卫视.png" group-title="卫视频道", 东南卫视
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
