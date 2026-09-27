@@ -24,7 +24,7 @@ jobs:
           pip install requests aiohttp
           
       - name: Run check script
-        run: python probe.py   # 确保这里调用的是 probe.py
+        run: python probe.py, yuanbao_python_20260927_b3bD8A.py,collect_m3u.py  # 确保这里调用的是 probe.py
         
       - name: Commit and push
         run: |
