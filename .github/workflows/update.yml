@@ -1,55 +1,91 @@
-name: Update IPTV
+name: 收集并测活 IPTV 直播源
 
 on:
   schedule:
-    # 注意：cron 使用 UTC 时间，比北京时间晚 8 小时
-    # 下面表示北京时间 08:00 和 20:00 各跑一次
-    - cron: '0 0,12 * * *'
-  workflow_dispatch:  # 允许手动触发，调试时不必等定时
+    # 每 8 小时一次：UTC 00:00 / 08:00 / 16:00（北京时间 08:00 / 16:00 / 24:00）
+    - cron: '0 */8 * * *'
+  workflow_dispatch:      # 允许在 Actions 页面手动触发
+  push:
+    branches: [main]
+    paths:
+      - 'sources.txt'
+      - '.github/workflows/update.yml'
 
+# 允许本 workflow 向仓库写入（commit + push）
 permissions:
-  contents: write     # 推送提交必须显式声明写权限
+  contents: write
 
-concurrency:
-  group: update-iptv
-  cancel-in-progress: false
+env:
+  TZ: Asia/Shanghai          # 日志时间显示北京时间
+  PYTHONUNBUFFERED: "1"
 
 jobs:
-  build:
-    runs-on: ubuntu-24.04   # 显式钉版本，避免 ubuntu-latest 未来迁移系统镜像
-
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90       # 大列表测活可能耗时，给足余量
     steps:
-      - name: Checkout
-        uses: actions/checkout@v5      # v3/v4 已跑在废弃的 Node 20 上
-        with:
-          fetch-depth: 0
+      - name: 检出仓库
+        uses: actions/checkout@v6   # 2026-09-23 后必须 v5+，Node 20 已移除
 
-      - name: Set up Python
+      - name: 设置 Python
         uses: actions/setup-python@v6
         with:
-          python-version: '3.11'
-          # ⚠️ 关键修复：不要写 cache: 'pip'
-          # 依赖已在下一步显式 pip install，仓库里没有 requirements.txt
-          # 一旦写了 cache: 'pip'，setup-python 会因找不到依赖清单文件而直接报错退出
+          python-version: '3.12'
 
-      - name: Install dependencies
+      - name: 安装依赖
         run: |
           python -m pip install --upgrade pip
-          pip install requests aiohttp
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg
+          # requests 用于稳定并发测活；ffmpeg 可选，供后续分辨率探测扩展
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          pip install requests
 
-      - name: Run update
-        run: python3 run.py
+      - name: 收集多源 M3U
+        run: python collect.py
 
-      - name: Commit and push
+      - name: 并发测活并择优
+        run: python check.py
+
+      - name: 生成全量聚合清单（不去重，便于审计）
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f live.m3u epg.xml
-          if git diff --staged --quiet; then
-            echo "本次无内容变化，跳过提交"
+          python - <<'PY'
+          import json
+          with open('raw_channels.json', encoding='utf-8') as f:
+              items = json.load(f)
+          seen = set()
+          lines = ['#EXTM3U']
+          for it in items:
+              if it['url'] in seen: continue
+              seen.add(it['url'])
+              logo = it.get('logo') or ''
+              logo_attr = f' tvg-logo="{logo}"' if logo else ''
+              lines.append(
+                  f'#EXTINF:-1 tvg-name="{it.get("name","")}"{logo_attr} '
+                  f'group-title="{it.get("group","其他")}",{it.get("name","")}'
+              )
+              lines.append(it['url'])
+          with open('live_all.m3u', 'w', encoding='utf-8') as f:
+              f.write('\n'.join(lines) + '\n')
+          print('全量清单', len(seen), '条')
+          PY
+
+      - name: 提交结果
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "无变更，跳过提交"
           else
-            git commit -m "chore: update live.m3u & epg.xml [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git commit -m "chore: 自动收集测活 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
             git push
           fi
+
+      - name: 上传测活报告与死链清单（保留 7 天）
+        uses: actions/upload-artifact@v7   # 2026-09-23 后必须 v5+
+        with:
+          name: iptv-report-${{ github.run_number }}
+          path: |
+            report.json
+            dead_urls.txt
+          retention-days: 7
