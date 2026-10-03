@@ -1,154 +1,141 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""collect.py —— 多源 M3U 收集与解析
-从 sources.txt（每行一个 m3u 直链）拉取并解析，输出结构化 JSON，供 check.py 测活。
 """
+collect.py — 从 sources.txt 拉取多源 M3U，合并去重后输出 raw_channels.json
+修复：超时控制、403 过滤、整体时限 30 分钟
+"""
+
 import json
+import os
+import re
 import sys
 import time
-import re
-import concurrent.futures
-import urllib.request
-import urllib.error
+from urllib.parse import urlparse
 
-SOURCES_FILE = "sources.txt"
-OUT_FILE = "raw_channels.json"
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0 Safari/537.36"
-    ),
-    "Referer": "https://www.kan0512.com/",
-}
+# ── 全局 Session：连接 5s、读取 10s、重试 2 次 ──
+session = requests.Session()
+retries = Retry(total=2, backoff_factor=1, status_forcelist=[500, 502, 503, 504])
+adapter = HTTPAdapter(max_retries=retries, pool_connections=10, pool_maxsize=20)
+session.mount('http://', adapter)
+session.mount('https://', adapter)
 
+# ── 已知无效域名黑名单（GitHub Actions 出口常见 403） ──
+BLOCKED_DOMAINS = [
+    'cablecast', 'akamaized', 'wowza', 'streamlock',
+    'cdn3.', 'edgefcs.net', 'fms.', 'rtmp.',
+]
 
-def fetch(url, timeout=20):
-    req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        data = r.read()
-    for enc in ("utf-8", "gbk", "gb2312", "latin-1"):
-        try:
-            return data.decode(enc)
-        except UnicodeDecodeError:
-            continue
-    return data.decode("utf-8", errors="ignore")
+def is_blocked(url: str) -> bool:
+    """快速跳过已知无效域名"""
+    domain = urlparse(url).netloc.lower()
+    return any(b in domain for b in BLOCKED_DOMAINS)
 
-
-EXTINF_RE = re.compile(
-    r'^#EXTINF[^\n]*tvg-name="([^"]*)"'
-    r'(?:[^\n]*group-title="([^"]*)")?[^\n]*'
-    r'(?:,[^\n]*)?$'
-)
-TVG_LOGO_RE = re.compile(r'tvg-logo="([^"]*)"')
-
-
-def parse_m3u(text, source_url):
-    """解析一份 M3U，返回频道条目列表。跳过 CNTV swf 伪链等无法播放项。"""
-    entries = []
-    lines = [ln.rstrip() for ln in text.splitlines()]
-    i = 0
-    current = None
-    while i < len(lines):
-        line = lines[i].strip()
-        if line.startswith("#EXTINF"):
-            m = EXTINF_RE.match(line)
-            name = m.group(1).strip() if m else ""
-            group = m.group(2).strip() if m and m.group(2) else "其他"
-            logo_m = TVG_LOGO_RE.search(line)
-            current = {
-                "name": name,
-                "group": group,
-                "logo": logo_m.group(1) if logo_m else "",
-                "extinf": line,
-            }
-        elif line and not line.startswith("#") and current:
-            url = line.strip()
-            # 过滤掉必然不可直接播放的伪链
-            low = url.lower()
-            if ".swf" in low or "player.cntv.cn" in low:
-                current = None
-                i += 1
-                continue
-            entries.append({
-                **current,
-                "url": url,
-                "source": source_url,
-            })
-            current = None
-        i += 1
-    return entries
-
-
-def fetch_one(src):
+def fetch_text(url: str) -> str | None:
+    """带超时和重试的 HTTP GET，返回文本或 None"""
+    if is_blocked(url):
+        print(f"  [跳过] 已知无效域名: {url}")
+        return None
     try:
-        text = fetch(src)
-        if not text.lstrip().startswith("#EXTM3U"):
-            print(f"[收集] 非 m3u8 忽略 {src}", flush=True)
-            return src, []
-        items = parse_m3u(text, src)
-        print(f"[收集] {src} -> {len(items)} 条", flush=True)
-        return src, items
+        resp = session.get(
+            url,
+            timeout=(5, 10),           # (连接超时, 读取超时)
+            headers={'User-Agent': 'Mozilla/5.0 (compatible; IPTVCollector/1.0)'},
+        )
+        if resp.status_code == 403:
+            print(f"  [403] {url}")
+            return None
+        resp.raise_for_status()
+        # 检查是否为 M3U 内容
+        text = resp.text.strip()
+        if not text.startswith('#EXTM3U'):
+            print(f"  [非M3U] {url} (首行: {text[:80]})")
+            return None
+        return text
+    except requests.Timeout:
+        print(f"  [超时] {url}")
     except Exception as e:
-        # 抓取失败（403/超时/连接拒绝）不丢弃该源，记录待 check.py 判定
-        print(f"[收集] 失败 {src}: {e}", flush=True)
-        return src, [{
-            "name": "", "group": "未分类",
-            "logo": "", "extinf": "",
-            "url": src, "source": src, "fetch_failed": True,
-        }]
+        print(f"  [错误] {url}: {e}")
+    return None
 
+def parse_m3u(text: str, source_label: str = '') -> list[dict]:
+    """解析 M3U 文本为频道列表 [{name, url, group, logo}]"""
+    channels = []
+    current = {}
+    for line in text.splitlines():
+        line = line.strip()
+        if line.startswith('#EXTINF:'):
+            # 提取 tvg-name / tvg-logo / group-title
+            name = ''
+            logo = ''
+            group = '其他'
+            for attr in re.findall(r'(\w+)="([^"]*)"', line):
+                k, v = attr
+                if k == 'tvg-name':
+                    name = v
+                elif k == 'tvg-logo':
+                    logo = v
+                elif k == 'group-title':
+                    group = v
+            # fallback: 取逗号后面的名字
+            if ',' in line and not name:
+                name = line.rsplit(',', 1)[-1].strip()
+            current = {'name': name, 'logo': logo, 'group': group, '_source': source_label}
+        elif line and not line.startswith('#'):
+            if current.get('name'):
+                current['url'] = line
+                channels.append(current.copy())
+                current = {}
+    return channels
+
+def load_sources(path: str = 'sources.txt') -> list[str]:
+    """读取 sources.txt，返回 URL 列表（忽略空行和注释）"""
+    urls = []
+    with open(path, encoding='utf-8') as f:
+        for line in f:
+            line = line.strip()
+            if line and not line.startswith('#'):
+                urls.append(line)
+    return urls
 
 def main():
-    try:
-        with open(SOURCES_FILE, encoding="utf-8") as f:
-            sources = [ln.strip() for ln in f if ln.strip() and not ln.startswith("#")]
-    except FileNotFoundError:
-        print(f"缺少 {SOURCES_FILE}", file=sys.stderr)
-        sys.exit(1)
+    sources = load_sources()
+    print(f"共 {len(sources)} 个源待收集")
 
-    print(f"[收集] 共 {len(sources)} 个源，并发拉取中…", flush=True)
-    t0 = time.time()
-    all_items = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=8) as ex:
-        for src, items in ex.map(fetch_one, sources):
-            all_items.extend(items)
+    all_channels = []
+    seen_urls = set()
+    start_time = time.time()
+    MAX_DURATION = 1800  # 30 秒（调试用）/ 1800（生产用）
 
-    # 把标记为 PROTECTED（云端无法验证）的源降级保留，交给 check.py 判定为 protected
-    for src in sources:
-        if "# PROTECTED" in src:
-            url = src.split("#")[0].strip()
-            if url and url not in seen:
-                seen.add(url)
-                all_items.append({
-                    "name": url.rstrip("/").split("/")[-1] or "protected",
-                    "group": "待本地验证",
-                    "logo": "", "extinf": "",
-                    "url": url, "source": url,
-                    "fetch_failed": True,
-                })
+    for idx, url in enumerate(sources, 1):
+        elapsed = time.time() - start_time
+        if elapsed > MAX_DURATION:
+            print(f"\n⏰ 已达总时限 {MAX_DURATION}s，强制结束收集")
+            break
 
-    # 同频道内 URL 去重，保留首次出现的顺序；抓取失败的源同样参与去重
-    seen = set()
-    deduped = []
-    for it in all_items:
-        key = it["url"]
-        if key in seen:
+        print(f"[{idx}/{len(sources)}] 收集: {url}")
+        text = fetch_text(url)
+        if not text:
             continue
-        seen.add(key)
-        deduped.append(it)
 
-    with open(OUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(deduped, f, ensure_ascii=False, indent=1)
+        channels = parse_m3u(text, source_label=url)
+        added = 0
+        for ch in channels:
+            u = ch['url']
+            if u not in seen_urls:
+                seen_urls.add(u)
+                all_channels.append(ch)
+                added += 1
+        print(f"  → 新增 {added} 条（累计 {len(all_channels)} 条）")
 
-    groups = {}
-    for it in deduped:
-        groups[it["group"]] = groups.get(it["group"], 0) + 1
-    print(f"[收集] 完成：{len(sources)} 源 -> {len(deduped)} 条唯一源，"
-          f"覆盖 {len(groups)} 个分组，耗时 {time.time()-t0:.1f}s", flush=True)
-    top10 = sorted(groups.items(), key=lambda x: -x[1])[:10]
-    print("[分组]", dict(top10), flush=True)
+    # 写出中间结果
+    output = 'raw_channels.json'
+    with open(output, 'w', encoding='utf-8') as f:
+        json.dump(all_channels, f, ensure_ascii=False, indent=2)
+    print(f"\n✅ 收集完成，共 {len(all_channels)} 条频道，已写入 {output}")
+    print(f"⏱  耗时 {time.time() - start_time:.1f}s")
 
-
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
