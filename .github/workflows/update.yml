@@ -1,37 +1,55 @@
 name: Update IPTV
+
 on:
   schedule:
-    - cron: '0 */8 * * *'
-  workflow_dispatch:
+    # 注意：cron 使用 UTC 时间，比北京时间晚 8 小时
+    # 下面表示北京时间 08:00 和 20:00 各跑一次
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:  # 允许手动触发，调试时不必等定时
 
 permissions:
-  contents: write
+  contents: write     # 推送提交必须显式声明写权限
+
+concurrency:
+  group: update-iptv
+  cancel-in-progress: false
 
 jobs:
   build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+    runs-on: ubuntu-24.04   # 显式钉版本，避免 ubuntu-latest 未来迁移系统镜像
 
-      - uses: actions/setup-python@v5
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5      # v3/v4 已跑在废弃的 Node 20 上
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
         with:
           python-version: '3.11'
-          cache: 'pip'
+          # ⚠️ 关键修复：不要写 cache: 'pip'
+          # 依赖已在下一步显式 pip install，仓库里没有 requirements.txt
+          # 一旦写了 cache: 'pip'，setup-python 会因找不到依赖清单文件而直接报错退出
 
       - name: Install dependencies
         run: |
-          pip install --upgrade pip
+          python -m pip install --upgrade pip
           pip install requests aiohttp
-          ffmpeg -version || sudo apt-get install -y ffmpeg
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
 
-      - name: Run pipeline
+      - name: Run update
         run: python3 run.py
 
       - name: Commit and push
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-          git add live.m3u epg.xml history/ sources.txt 2>/dev/null || true
-          git diff --staged --quiet && echo "No changes" && exit 0
-          git commit -m "auto: $(TZ='Asia/Shanghai' date +'%Y-%m-%d %H:%M') 测活更新"
-          git push
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f live.m3u epg.xml
+          if git diff --staged --quiet; then
+            echo "本次无内容变化，跳过提交"
+          else
+            git commit -m "chore: update live.m3u & epg.xml [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git push
+          fi
