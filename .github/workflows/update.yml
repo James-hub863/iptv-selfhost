@@ -6,54 +6,56 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # 必须：允许 Action 写入仓库（解决 403）
+  contents: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - name: 检出代码（完整仓库，含历史）
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 初始化 Git 环境与认证（统一修复 403）
+      - name: 初始化 Git 环境与认证
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.com"
-          git config --global http.postBuffer 524288000
-          # 关键：将远程地址替换为带 Token 的地址，后续 git push 无需再设
           git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
+          git fetch origin main
 
       - name: 安装依赖
-        run: sudo apt-get install -y -qq git-lfs
+        run: |
+          sudo apt-get install -y -qq git-lfs
+          git lfs install
+          pip install requests
 
       - name: 并发收集与测活
-        run: |
-          python collect.py
-          python check.py
+        run: python collect.py && python check.py
 
       - name: 生成全量聚合清单
-        run: python -c "import m3u; m3u.generate_all()" || echo "生成全量清单"
+        run: |
+          echo "当前目录：$(pwd)"
+          ls -la m3u.py 2>/dev/null && echo "m3u.py 存在" || echo "m3u.py 不存在"
+          if [ -f "m3u.py" ]; then
+            python m3u.py
+          else
+            echo "⚠️ m3u.py 不存在，尝试模块调用"
+            PYTHONPATH=. python -c "import m3u; m3u.generate_all()" || echo "生成全量清单失败"
+          fi
 
-     - name: 提交 GitHub 结果（含缓存，自动变基防冲突）
-  run: |
-    git fetch origin main
-    # 暂存所有变更（包括未跟踪文件）
-    git add -A
-    # 检查是否有实际变更需提交
-    if git diff --cached --quiet; then
-      echo "无变更，跳过提交"
-      exit 0
-    fi
-    # 提交本地变更
-    git commit -m "chore: 自动收集测活 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
-    # 此时工作区已干净，可安全 rebase
-    git pull --rebase origin main
-    git push origin main
+      - name: 提交 GitHub 结果（含缓存，自动变基防冲突）
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "无变更，跳过提交"
+            exit 0
+          fi
+          git commit -m "chore: 自动收集测活 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
+          git pull --rebase origin main
+          git push origin main
 
       - name: 上传测活报告与死链清单（保留 7 天）
         uses: actions/upload-artifact@v7
@@ -73,7 +75,6 @@ jobs:
 
       - name: 提交更新后的 README
         run: |
-          git fetch origin main
           git add README.md
           if git diff --cached --quiet; then
             echo "README 无变更，跳过"
