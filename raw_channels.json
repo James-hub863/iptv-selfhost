@@ -10876,5 +10876,26 @@
     "group": "其他",
     "_source": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
     "url": "https://live.ottiptv.cc/huya/23824164"
+  },
+  {
+    "name": "未知",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://ctlive2.wjdaily.com/wjtv/ch1.m3u8",
+    "url": "ch1-179097663.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
+  },
+  {
+    "name": "未知",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://ctlive2.wjdaily.com/wjtv/ch1.m3u8",
+    "url": "ch1-179097664.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
+  },
+  {
+    "name": "未知",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://ctlive2.wjdaily.com/wjtv/ch1.m3u8",
+    "url": "ch1-179097665.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
   }
 ]
