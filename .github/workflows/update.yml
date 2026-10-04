@@ -4,28 +4,27 @@ on:
   schedule:
     # 每 8 小时一次：UTC 00:00 / 08:00 / 16:00（北京时间 08:00 / 16:00 / 24:00）
     - cron: '0 */8 * * *'
-  workflow_dispatch:      # 允许在 Actions 页面手动触发
+  workflow_dispatch:
   push:
     branches: [main]
     paths:
       - 'sources.txt'
       - '.github/workflows/update.yml'
 
-# 允许本 workflow 向仓库写入（commit + push）
 permissions:
   contents: write
 
 env:
-  TZ: Asia/Shanghai          # 日志时间显示北京时间
+  TZ: Asia/Shanghai
   PYTHONUNBUFFERED: "1"
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 90       # 大列表测活可能耗时，给足余量
+    timeout-minutes: 90
     steps:
       - name: 检出仓库
-        uses: actions/checkout@v6   # 2026-09-23 后必须 v5+，Node 20 已移除
+        uses: actions/checkout@v6
 
       - name: 设置 Python
         uses: actions/setup-python@v6
@@ -35,7 +34,6 @@ jobs:
       - name: 安装依赖
         run: |
           python -m pip install --upgrade pip
-          # requests 用于稳定并发测活；ffmpeg 可选，供后续分辨率探测扩展
           sudo apt-get update -qq
           sudo apt-get install -y -qq ffmpeg
           pip install requests
@@ -48,12 +46,12 @@ jobs:
           fi
 
       - name: 收集多源 M3U
-        timeout-minutes: 30   # 单步最多 30 分钟
-        continue-on-error: true  # 收集部分失败不影响后续
+        timeout-minutes: 30
+        continue-on-error: true
         run: python collect.py
 
-      - name: 并发测活并择优
-        timeout-minutes: 45   # 单步最多 45 分钟
+      - name: 并发测活并择优（去重保留最快源）
+        timeout-minutes: 65
         run: python check.py
 
       - name: 生成全量聚合清单（不去重，便于审计）
@@ -84,11 +82,10 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.com"
           
-          # 确保拉取完整历史（避免浅克隆导致 rebase 失败）
           git fetch origin main --unshallow || git fetch origin main
           
           git add -A
-          git add -f cache.json  # 强制跟踪缓存文件，确保跨次生效
+          git add -f cache.json
           
           if git diff --cached --quiet; then
             echo "无变更，跳过提交"
@@ -96,15 +93,13 @@ jobs:
           fi
           
           git commit -m "chore: 自动收集测活 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
-          
-          # 先拉取远程变更并变基，解决非快进拒绝（rejected）问题
           git pull --rebase origin main
           git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 上传测活报告与死链清单（保留 7 天）
-        uses: actions/upload-artifact@v7   # 2026-09-23 后必须 v5+
+        uses: actions/upload-artifact@v7
         with:
           name: iptv-report-${{ github.run_number }}
           path: |
