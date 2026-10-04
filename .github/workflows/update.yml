@@ -40,10 +40,20 @@ jobs:
           sudo apt-get install -y -qq ffmpeg
           pip install requests
 
+      - name: 初始化缓存（首次运行）
+        run: |
+          if [ ! -f cache.json ]; then
+            echo '{}' > cache.json
+            echo "已创建初始 cache.json"
+          fi
+
       - name: 收集多源 M3U
+        timeout-minutes: 30   # 单步最多 30 分钟
+        continue-on-error: true  # 收集部分失败不影响后续
         run: python collect.py
 
       - name: 并发测活并择优
+        timeout-minutes: 45   # 单步最多 45 分钟
         run: python check.py
 
       - name: 生成全量聚合清单（不去重，便于审计）
@@ -69,7 +79,7 @@ jobs:
           print('全量清单', len(seen), '条')
           PY
 
-     - name: 提交结果（含缓存，自动变基防冲突）
+      - name: 提交结果（含缓存，自动变基防冲突）
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.com"
@@ -94,7 +104,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 上传测活报告与死链清单（保留 7 天）
-        uses: actions/upload-artifact@v7
+        uses: actions/upload-artifact@v7   # 2026-09-23 后必须 v5+
         with:
           name: iptv-report-${{ github.run_number }}
           path: |
