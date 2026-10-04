@@ -131,9 +131,12 @@ def main():
     # 写主清单 live_ok.m3u
     lines = ["#EXTM3U"]
     for name, it in sorted(by_name.items()):
-        logo = it.get("logo") or ""
-        logo_attr = f' tvg-logo="{logo}"' if logo else ""
-        lines.append(f'#EXTINF:-1 tvg-name="{name}"{logo_attr} group-title="{it.get("group","其他")}",{name}')
+        # 清洗名称，避免引号干扰
+        clean_name = name.replace('"', "'")
+        logo = it.get("logo", "").replace('"', "'")
+        group = it.get("group", "其他").replace('"', "'")
+        # 标准 m3u_plus 格式，强制保留 tvg-logo 属性
+        lines.append(f'#EXTINF:-1 tvg-name="{clean_name}" tvg-logo="{logo}" group-title="{group}",{clean_name}')
         lines.append(it["url"])
     Path(OUTPUT_OK).write_text("\n".join(lines) + "\n", encoding="utf-8")
 
