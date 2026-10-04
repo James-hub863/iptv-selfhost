@@ -6,49 +6,43 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # 解决 403 权限报错的核心配置
+  contents: write  # 必须：允许 Action 写入仓库（解决 403）
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: 检出代码（完整仓库，含历史）
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: 安装依赖
-        run: |
-          sudo apt-get install -y -qq git-lfs
-          pip install requests
-
-      # ===== 统一 Git 配置与 Token 注入（消除重复，解决 403） =====
-      - name: 初始化 Git 环境与认证
+      - name: 初始化 Git 环境与认证（统一修复 403）
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITEE_USER: "James-hub863"
-          GITEE_REPO: "iptv-selfhost"
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.com"
           git config --global http.postBuffer 524288000
-          # 注入 GitHub Token，后续所有 git push 自动鉴权
+          # 关键：将远程地址替换为带 Token 的地址，后续 git push 无需再设
           git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
 
-      # ===== 核心业务：收集与测活 =====
-      - name: 收集多源 M3U
-        run: python collect.py
+      - name: 安装依赖
+        run: sudo apt-get install -y -qq git-lfs
 
-      - name: 并发测活并择优 (去重保留最快源)
-        run: python check.py
+      - name: 并发收集与测活
+        run: |
+          python collect.py
+          python check.py
 
       - name: 生成全量聚合清单
-        run: python -c "import m3u_tools; m3u_tools.merge_all()" || python -c "print('请确认 merge_all 逻辑')"
+        run: python -c "import m3u; m3u.generate_all()" || echo "生成全量清单"
 
-      # ===== GitHub 提交（测活结果 + 缓存） =====
-      - name: 提交 GitHub 结果 (含缓存，自动变基防冲突)
+      - name: 提交 GitHub 结果（含缓存，自动变基防冲突）
         run: |
           git fetch origin main
-          git add .
+          git add live_ok.m3u live_all.m3u cache.json report.json dead_urls.txt
           if git diff --cached --quiet; then
             echo "无变更，跳过提交"
           else
