@@ -25,3 +25,39 @@ https://ctlive2.wjdaily.com/wjtv/ch1.m3u8
 http://pili-publish.living.ksrmtzx.com/ksntv/ks-tv.m3u8  # PROTECTED:云出口不可测，保留供本地验证
 http://cstvplay.21cs.cn/cstv1/cstv1.m3u8  # PROTECTED:云出口不可测，保留供本地验证
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8  # PROTECTED:云出口不可测，保留供本地验证
+# ============================================================
+#  IPTV 源清单（sources.txt）
+#  每行一个订阅地址，# 开头的行会被忽略
+#  支持 iptv-org 语言分类 + 精选单一语言源
+# ============================================================
+
+# -------- 全量主源（每日自动更新）--------
+https://iptv-org.github.io/iptv/index.m3u
+
+# -------- 按语言分类（2026 最新可用）--------
+# English  约 585 个频道
+https://iptv-org.github.io/iptv/languages/eng.m3u
+# Korean   约 29~31 个频道
+https://iptv-org.github.io/iptv/languages/kor.m3u
+# Japanese 约 15~18 个频道
+https://iptv-org.github.io/iptv/languages/jpn.m3u
+# German   约 192 个频道
+https://iptv-org.github.io/iptv/languages/deu.m3u
+
+# -------- 精选单一语言源（质量更高、冗余备份）--------
+# 德语精选：仅德国免费公共频道，每日 CI 更新，去重去购物台
+https://raw.githubusercontent.com/josxha/german-tv-m3u/main/german-tv.m3u
+# 德语 Pluto TV 德国（免费合法 FAST 频道，稳定）
+https://iptv-org.github.io/iptv/streams/de_pluto.m3u
+# 韩语精选：69 个频道，含 KBS/MBC/SBS/Arirang 等
+https://raw.githubusercontent.com/WHYMEHacker/m3uopen/main/korean.m3u8
+# 韩语按国家切片（89 频道，含区域台）
+https://iptv-org.github.io/iptv/countries/kr.m3u
+# 日语按国家切片（11~18 频道，含 NHK World）
+https://iptv-org.github.io/iptv/countries/jp.m3u
+# 英语按国家切片（美国/英国等大区）
+https://iptv-org.github.io/iptv/countries/us.m3u
+https://iptv-org.github.io/iptv/countries/uk.m3u
+
+# -------- 德语 Pluto TV 精选（合法稳定）--------
+https://iptv-org.github.io/iptv/streams/de_pluto.m3u
