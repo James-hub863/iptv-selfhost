@@ -137,3 +137,25 @@ jobs:
           echo "✅ 同步完成！APTV 请使用以下国内直连地址（极速无超时）："
           echo "https://gitee.com/$GITEE_USER/$GITEE_REPO/raw/master/live_ok.m3u"
           echo "（全量版）：https://gitee.com/$GITEE_USER/$GITEE_REPO/raw/master/live_all.m3u"
+- name: 更新 README 首页直连地址
+        run: python scripts/update_readme.py
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITEE_USER: "James-hub863"
+          GITEE_REPO: "iptv-selfhost"
+
+      - name: 提交更新后的 README
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.com"
+          git fetch origin main --unshallow || git fetch origin main
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "README 无变更，跳过"
+            exit 0
+          fi
+          git commit -m "docs: 更新 README 订阅地址 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
+          git pull --rebase origin main
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
