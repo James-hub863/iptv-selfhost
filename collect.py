@@ -61,35 +61,36 @@ def fetch_text(url: str) -> str | None:
     return None
 
 def parse_m3u(text: str, source_label: str = '') -> list[dict]:
-    """解析 M3U 文本为频道列表 [{name, url, group, logo}]"""
     channels = []
     current = {}
     for line in text.splitlines():
         line = line.strip()
         if line.startswith('#EXTINF:'):
-            # 提取 tvg-name / tvg-logo / group-title
             name = ''
             logo = ''
             group = '其他'
+            # 提取属性
             for attr in re.findall(r'(\w+)="([^"]*)"', line):
                 k, v = attr
                 if k == 'tvg-name':
-                    name = v
+                    name = v.strip()
                 elif k == 'tvg-logo':
-                    logo = v
+                    logo = v.strip()
                 elif k == 'group-title':
-                    group = v
-            # fallback: 取逗号后面的名字
-            if ',' in line and not name:
-                name = line.rsplit(',', 1)[-1].strip()
-            current = {'name': name, 'logo': logo, 'group': group, '_source': source_label}
+                    group = v.strip() or '其他'
+            # 关键：从逗号后提取真实频道名（兜底）
+            if ',' in line:
+                comma_name = line.rsplit(',', 1)[-1].strip()
+                # 若 tvg-name 为空或看起来像时间，则用逗号后的名字
+                if not name or re.match(r'^\d{4}-\d{2}-\d{2}', name):
+                    name = comma_name
+            current = {'name': name or '未知', 'logo': logo, 'group': group, '_source': source_label}
         elif line and not line.startswith('#'):
             if current.get('name'):
-                current['url'] = line
+                current['url'] = line.strip()
                 channels.append(current.copy())
                 current = {}
     return channels
-
 def load_sources(path: str = 'sources.txt') -> list[str]:
     """读取 sources.txt，返回 URL 列表（忽略空行和注释）"""
     urls = []
