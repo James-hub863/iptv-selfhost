@@ -39,17 +39,21 @@ jobs:
       - name: 生成全量聚合清单
         run: python -c "import m3u; m3u.generate_all()" || echo "生成全量清单"
 
-      - name: 提交 GitHub 结果（含缓存，自动变基防冲突）
-        run: |
-          git fetch origin main
-          git add live_ok.m3u live_all.m3u cache.json report.json dead_urls.txt
-          if git diff --cached --quiet; then
-            echo "无变更，跳过提交"
-          else
-            git commit -m "chore: 自动收集测活 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
-            git pull --rebase origin main
-            git push origin main
-          fi
+     - name: 提交 GitHub 结果（含缓存，自动变基防冲突）
+  run: |
+    git fetch origin main
+    # 暂存所有变更（包括未跟踪文件）
+    git add -A
+    # 检查是否有实际变更需提交
+    if git diff --cached --quiet; then
+      echo "无变更，跳过提交"
+      exit 0
+    fi
+    # 提交本地变更
+    git commit -m "chore: 自动收集测活 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
+    # 此时工作区已干净，可安全 rebase
+    git pull --rebase origin main
+    git push origin main
 
       - name: 上传测活报告与死链清单（保留 7 天）
         uses: actions/upload-artifact@v7
