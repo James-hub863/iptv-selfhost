@@ -1,22 +1,14 @@
-name: 收集并测活 IPTV 直播源
+name: IPTV 收集测活与 Gitee 同步
 
 on:
   schedule:
-    # 每 8 小时一次：UTC 00:00 / 08:00 / 16:00（北京时间 08:00 / 16:00 / 24:00）
     - cron: '0 */8 * * *'
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths:
-      - 'sources.txt'
-      - '.github/workflows/update.yml'
-
-permissions:
-  contents: write
 
 env:
-  TZ: Asia/Shanghai
   PYTHONUNBUFFERED: "1"
+  GITEE_REPO: "iptv-selfhost"
+  GITEE_USER: "James-hub863"
 
 jobs:
   update:
@@ -25,6 +17,8 @@ jobs:
     steps:
       - name: 检出仓库
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
       - name: 设置 Python
         uses: actions/setup-python@v6
@@ -77,7 +71,7 @@ jobs:
           print('全量清单', len(seen), '条')
           PY
 
-      - name: 提交结果（含缓存，自动变基防冲突）
+      - name: 提交 GitHub 结果（含缓存，自动变基防冲突）
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.com"
@@ -89,12 +83,11 @@ jobs:
           
           if git diff --cached --quiet; then
             echo "无变更，跳过提交"
-            exit 0
+          else
+            git commit -m "chore: 自动收集测活 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
+            git pull --rebase origin main
+            git push origin main
           fi
-          
-          git commit -m "chore: 自动收集测活 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
-          git pull --rebase origin main
-          git push origin main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -106,3 +99,41 @@ jobs:
             report.json
             dead_urls.txt
           retention-days: 7
+
+      # ===== 以下为新增：自动同步到 Gitee =====
+      - name: 设置 Git 身份与安装工具
+        run: |
+          sudo apt-get install -y -qq git-lfs
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "action@github.com"
+          git config --global http.postBuffer 524288000
+
+      - name: 确保 Gitee 仓库存在（不存在则创建私有仓）
+        env:
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+        run: |
+          curl -X POST "https://gitee.com/api/v5/user/repos" \
+            -H "Content-Type: application/x-www-form-urlencoded" \
+            -d "access_token=$GITEE_TOKEN&name=$GITEE_REPO&private=true" || true
+
+      - name: 推送 live_ok.m3u 到 Gitee（强制更新）
+        env:
+          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
+        run: |
+          cd /tmp
+          rm -rf gitee-mirror
+          git clone "https://oauth2:$GITEE_TOKEN@gitee.com/$GITEE_USER/$GITEE_REPO.git" gitee-mirror || \
+          git clone "https://oauth2:$GITEE_TOKEN@gitee.com/$GITEE_USER/$GITEE_REPO.git" gitee-mirror
+          
+          cd gitee-mirror
+          cp $GITHUB_WORKSPACE/live_ok.m3u .
+          cp $GITHUB_WORKSPACE/live_all.m3u .
+          git add .
+          git commit -m "sync: $(date '+%Y-%m-%d %H:%M')" || echo "无变更"
+          git push --force "https://oauth2:$GITEE_TOKEN@gitee.com/$GITEE_USER/$GITEE_REPO.git" HEAD:master
+
+      - name: 输出国内直连地址
+        run: |
+          echo "✅ 同步完成！APTV 请使用以下国内直连地址（极速无超时）："
+          echo "https://gitee.com/$GITEE_USER/$GITEE_REPO/raw/master/live_ok.m3u"
+          echo "（全量版）：https://gitee.com/$GITEE_USER/$GITEE_REPO/raw/master/live_all.m3u"
