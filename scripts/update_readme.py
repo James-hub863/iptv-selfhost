@@ -1,43 +1,31 @@
 #!/usr/bin/env python3
-"""
-update_readme.py — 自动更新 README.md，写入最新直连地址与测活统计
-由 GitHub Actions 在测活完成后调用
-"""
-
-import json
+"""更新 README 中的直连地址"""
 import os
-import re
-from datetime import datetime
-from pathlib import Path
 
-REPO = os.environ.get("GITHUB_REPOSITORY", "James-hub863/iptv-selfhost")
-GITEE_USER = os.environ.get("GITEE_USER", "James-hub863")
-GITEE_REPO = os.environ.get("GITEE_REPO", "iptv-selfhost")
+def main():
+    gitee_user = os.getenv("GITEE_USER", "James-hub863")
+    gitee_repo = os.getenv("GITEE_REPO", "iptv-selfhost")
+    
+    github_url = f"https://github.com/{gitee_user}/{gitee_repo}/raw/main/live_ok.m3u"
+    gitee_url_ok = f"https://gitee.com/{gitee_user}/{gitee_repo}/raw/master/live_ok.m3u"
+    gitee_url_all = f"https://gitee.com/{gitee_user}/{gitee_repo}/raw/master/live_all.m3u"
+    
+    content = [
+        "# 📺 IPTV 直播源自托管",
+        "",
+        "自动测活与聚合，每日更新。",
+        "",
+        "## 直连地址（推荐 Gitee 国内极速）",
+        f"- GitHub（存活版）：{github_url}",
+        f"- Gitee（存活版）：{gitee_url_ok}",
+        f"- Gitee（全量版）：{gitee_url_all}",
+        "",
+        "数据由 GitHub Actions 自动生成，无需人工干预。"
+    ]
+    
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write("\n".join(content))
+    print("✅ README 更新完成")
 
-README_PATH = Path("README.md")
-
-def load_report() -> dict:
-    """读取 report.json，若无则返回空"""
-    if Path("report.json").exists():
-        return json.loads(Path("report.json").read_text(encoding="utf-8"))
-    return {}
-
-def build_readme(report: dict) -> str:
-    now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    total = report.get("total", 0)
-    alive = report.get("alive", 0)
-    ok_channels = report.get("ok_channels", 0)
-    duration = report.get("duration", 0)
-
-    # 计算存活率
-    rate = f"{(alive / total * 100):.1f}%" if total > 0 else "N/A"
-
-    return f"""# 📺 IPTV 直播源自托管 (iptv-selfhost)
-
-> 全自动收集 · 并发测活 · 去重择优 · 多语言 · 国内直连
-
----
-
-## 🚀 一键订阅（国内极速 · 推荐）
-
-**APTV / PotPlayer / VLC / Kodi 等播放器直接添加以下地址：**
+if __name__ == "__main__":
+    main()
