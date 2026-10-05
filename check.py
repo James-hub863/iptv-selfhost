@@ -13,14 +13,46 @@ OUTPUT_OK = "live_ok.m3u"
 REPORT_FILE = "report.json"
 DEAD_FILE = "dead_urls.txt"
 
-CONCURRENCY = 15          # 并发线程数
+CONCURRENCY = 20          # 并发线程数（提升至20）
 PER_TIMEOUT = (5, 10)     # (连接超时, 读取超时)
-MAX_DURATION = 2100       # 整体测活上限 35 分钟（秒）
-CACHE_TTL = 86400 * 3     # 缓存有效 3 天（秒）
+MAX_DURATION = 1200       # 整体测活上限 20 分钟（秒）
+CACHE_TTL = 86400 * 1     # 缓存有效 1 天（秒）
 MAX_CHANNELS = 150        # 国内外各保留 150 个，共 300 个
 
-# 已知易卡/403 域名可快速跳过（可选）
-BLOCKED = ("akamaized", "cdn3.wowza", "cablecast", "streamlock")
+# 扩展后的 BLOCKED 列表（高频死链域名）
+BLOCKED = (
+    # 原有保留项
+    "akamaized", "cdn3.wowza", "cablecast", "streamlock",
+    # 新增高频死链域名
+    "freetv.fun",           # 出现频率极高，数百条死链
+    "hls-gateway.vpstv.net", # 大量死链
+    "zby.130519.xyz",       # 大量死链
+    "migu.188766.xyz",      # 大量死链
+    "tvpull.dxhmt.cn",      # 大量死链
+    "ottrrs.hl.chinamobile.com", # 移动源，大部分已失效
+    "otttv.bj.chinamobile.com",  # 移动源，大部分已失效
+    "gslbmgsplive.miguvideo.com", # 咪咕源，大部分已失效
+    "iptv.666230.xyz",      # 代理源，不稳定
+    "php.jdshipin.com",     # 代理源，不稳定
+    "iptv.huuc.edu.cn",     # 教育网源，大部分已失效
+    "cdn.jdshipin.com",     # 代理源
+    "live.ottiptv.cc",      # 代理源
+    "live.metshop.top",     # 代理源
+    "live.iill.top",        # 代理源
+    "stream.thmz.com",      # 无锡台，已失效
+    "live1.habctv.com",     # 淮安台，已失效
+    "goo.bkpcp.top",        # 代理源
+    "z.b.bkpcp.top",        # 代理源
+    "t.061899.xyz",         # 代理源
+    "smart.pendy.dpdns.org", # 代理源
+    "litv.tzh911.qzz.io",   # 代理源
+    "cdn12.178.indevs.in",  # 海外代理
+    "cdn6.163189.xyz",      # 海外代理
+    "cdn9.163189.xyz",      # 海外代理
+    # IPv6 地址段（移动内网，外部不可达）
+    "2409:8087",            # 移动IPv6内网段
+    "[2409:",               # IPv6格式
+)
 
 # 国内频道关键词（用于区分国内外源）
 CN_KEYWORDS = (
