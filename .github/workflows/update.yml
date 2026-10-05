@@ -46,16 +46,38 @@ jobs:
             PYTHONPATH=. python -c "import m3u; m3u.generate_all()" || echo "生成全量清单失败"
           fi
 
-      - name: 提交 GitHub 结果（含缓存，自动变基防冲突）
-        run: |
-          git add -A
-          if git diff --cached --quiet; then
-            echo "无变更，跳过提交"
-            exit 0
-          fi
-          git commit -m "chore: 自动收集测活 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
-          git pull --rebase origin main
-          git push origin main
+     - name: 提交 GitHub 结果（含缓存，自动变基防冲突）
+  run: |
+    git fetch origin main
+    
+    # 1. 暂存所有本地变更
+    git add -A
+    if git diff --cached --quiet; then
+      echo "无变更，跳过提交"
+      exit 0
+    fi
+    
+    # 2. 提交本地测活结果
+    git commit -m "chore: 自动收集测活 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
+    
+    # 3. 尝试 rebase，若冲突则强制用本地文件覆盖
+    if ! git pull --rebase origin main; then
+      echo "⚠️ 检测到合并冲突，正在强制使用本地测活结果覆盖..."
+      # 列出冲突文件
+      CONFLICTS=$(git diff --name-only --diff-filter=U)
+      echo "$CONFLICTS"
+      # 对冲突文件，强制采用本地版本（已 add 的版本）
+      for file in $CONFLICTS; do
+        echo "解决冲突（保留本地）: $file"
+        git checkout --ours -- "$file"  # 保留本地（当前分支）内容
+        git add "$file"
+      done
+      # 继续 rebase
+      git rebase --continue
+    fi
+    
+    # 4. 推送到远程
+    git push origin main
 
       - name: 上传测活报告与死链清单（保留 7 天）
         uses: actions/upload-artifact@v7
