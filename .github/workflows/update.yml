@@ -18,12 +18,10 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 初始化 Git 环境与认证
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.com"
-          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
+          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
           git fetch origin main
 
       - name: 安装依赖
@@ -33,139 +31,45 @@ jobs:
           pip install requests
 
       - name: 并发收集与测活
-        run: |
-          python collect.py
-          python check.py
+        run: python collect.py && python check.py
 
       - name: 生成全量聚合清单
         run: |
-          echo "当前目录：$(pwd)"
           if [ -f "m3u.py" ]; then
             python m3u.py
           else
-            echo "⚠️ m3u.py 不存在，尝试模块调用"
-            PYTHONPATH=. python -c "import m3u; m3u.generate_all()" || echo "生成全量清单失败"
+            echo "⚠️ m3u.py 不存在，跳过生成全量清单"
           fi
 
       - name: 提交 GitHub 结果（含缓存，自动变基防冲突）
         run: |
           git fetch origin main
           
-          # 1. 暂存所有本地变更
           git add -A
           if git diff --cached --quiet; then
             echo "无变更，跳过提交"
             exit 0
           fi
           
-          # 2. 提交本地测活结果
           git commit -m "chore: 自动收集测活 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
           
-          # 3. 尝试 rebase，若冲突则强制用本地文件覆盖
           if ! git pull --rebase origin main; then
             echo "⚠️ 检测到合并冲突，正在强制使用本地测活结果覆盖..."
             CONFLICTS=$(git diff --name-only --diff-filter=U)
-            echo "$CONFLICTS"
             for file in $CONFLICTS; do
-              echo "解决冲突（保留本地）: $file"
               git checkout --ours -- "$file"
               git add "$file"
             done
             git rebase --continue
           fi
           
-          # 4. 推送到远程
           git push origin main
 
       - name: 上传测活报告与死链清单（保留 7 天）
-        uses: actions/upload-artifact@v7
+        uses: actions/upload-artifact@v4
         with:
           name: iptv-report-${{ github.run_number }}
           path: |
             report.json
             dead_urls.txt
           retention-days: 7
-
-      - name: 更新 README 首页直连地址
-        env:
-          GITEE_USER: "James-hub863"
-          GITEE_REPO: "iptv-selfhost"
-        run: python scripts/update_readme.py
-
-      - name: 提交更新后的 README
-        run: |
-          git add README.md
-          if git diff --cached --quiet; then
-            echo "README 无变更，跳过"
-            exit 0
-          fi
-          git commit -m "docs: 更新 README 订阅地址 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
-          git pull --rebase origin main
-          git push origin main
-
-      - name: 确保 Gitee 仓库存在
-        env:
-          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
-          GITEE_REPO: "iptv-selfhost"
-        run: |
-          # 使用 HTTP Header 传递 Token，避免 URL 泄露
-          RESPONSE=$(curl -s -o /dev/null -w "%{http_code}" -X POST \
-            "https://gitee.com/api/v5/user/repos" \
-            -H "Authorization: token $GITEE_TOKEN" \
-            -H "Content-Type: application/x-www-form-urlencoded" \
-            -d "name=$GITEE_REPO&private=true")
-          
-          if [ "$RESPONSE" = "201" ]; then
-            echo "✅ Gitee 仓库创建成功"
-          elif [ "$RESPONSE" = "409" ]; then
-            echo "ℹ️ Gitee 仓库已存在，跳过创建"
-          else
-            echo "⚠️ 仓库创建返回状态码: $RESPONSE（可能已存在或其他原因）"
-          fi
-
-      - name: 推送清单到 Gitee（强制更新）
-        env:
-          GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}
-          GITEE_USER: "James-hub863"
-          GITEE_REPO: "iptv-selfhost"
-        run: |
-          TEMP_DIR="/tmp/gitee-mirror-$$"
-          rm -rf "$TEMP_DIR"
-          
-          # 克隆 Gitee 仓库
-          git clone "https://oauth2:$GITEE_TOKEN@gitee.com/$GITEE_USER/$GITEE_REPO.git" "$TEMP_DIR"
-          
-          cd "$TEMP_DIR"
-          
-          # 复制最新清单
-          cp $GITHUB_WORKSPACE/live_ok.m3u .
-          cp $GITHUB_WORKSPACE/live_all.m3u .
-          
-          git add .
-          if git diff --cached --quiet; then
-            echo "无变更，跳过推送"
-          else
-            git commit -m "sync: $(date '+%Y-%m-%d %H:%M')"
-            git push --force origin master
-            echo "✅ 已推送到 Gitee"
-          fi
-          
-          # 清理临时目录
-          rm -rf "$TEMP_DIR"
-
-      - name: 输出国内直连地址
-        env:
-          GITEE_USER: "James-hub863"
-          GITEE_REPO: "iptv-selfhost"
-        run: |
-          echo ""
-          echo "========================================"
-          echo "✅ 同步完成！APTV 请使用以下国内直连地址："
-          echo "========================================"
-          echo ""
-          echo "📺 存活版（推荐）："
-          echo "https://gitee.com/$GITEE_USER/$GITEE_REPO/raw/master/live_ok.m3u"
-          echo ""
-          echo "📋 全量版："
-          echo "https://gitee.com/$GITEE_USER/$GITEE_REPO/raw/master/live_all.m3u"
-          echo ""
