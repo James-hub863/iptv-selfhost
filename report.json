@@ -1,8 +1,12 @@
 {
   "total": 12697,
-  "alive": 6513,
-  "ok_channels": 6188,
-  "dead": 4202,
-  "duration": 2428.2,
-  "timestamp": "2026-10-05 03:27:26"
+  "alive": 7638,
+  "cn_channels": 150,
+  "foreign_channels": 150,
+  "total_output": 300,
+  "dead": 5059,
+  "duration": 251.1,
+  "timestamp": "2026-10-05 09:13:08",
+  "fastest_cn": "CCTV-1",
+  "fastest_foreign": "CETV-1"
 }
