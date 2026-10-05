@@ -1962,7 +1962,7 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
 #EXTINF:-1 tvg-name="CCTV-14" tvg-logo="" group-title="其他",CCTV-14
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
 #EXTINF:-1 tvg-name="CCTV-15" tvg-logo="" group-title="其他",CCTV-15
-http://198.204.228.26/live/cctv15hd.m3u8
+http://204.12.221.218:8181/3m1080p/cctv15.m3u8
 #EXTINF:-1 tvg-name="CCTV-15 (1080p)" tvg-logo="" group-title="其他",CCTV-15 (1080p)
 https://xykt-fix.github.io/play/a02e/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-16" tvg-logo="" group-title="其他",CCTV-16
@@ -1984,13 +1984,13 @@ https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV-4K HD (1080p)" tvg-logo="" group-title="其他",CCTV-4K HD (1080p)
 http://198.204.240.250:82/live/cctv4k.m3u8
 #EXTINF:-1 tvg-name="CCTV-5" tvg-logo="" group-title="其他",CCTV-5
-http://207.56.13.146:81/cdnlive/cctv5.m3u8
+http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-5+" tvg-logo="" group-title="其他",CCTV-5+
 http://120.76.248.139/live/bfgd/4200000246.m3u8
 #EXTINF:-1 tvg-name="CCTV-6" tvg-logo="" group-title="其他",CCTV-6
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv6hd
+http://198.204.228.26/live/cctv6hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-7" tvg-logo="" group-title="其他",CCTV-7
-http://207.56.13.146:81/cdnlive/cctv7.m3u8
+http://107.150.60.122/live/cctv7hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-8" tvg-logo="" group-title="其他",CCTV-8
 http://207.56.13.146:81/cdnlive/cctv8.m3u8
 #EXTINF:-1 tvg-name="CCTV-8K HD (1080p)" tvg-logo="" group-title="其他",CCTV-8K HD (1080p)
@@ -4677,6 +4677,8 @@ https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Gugak TV (1080p)" tvg-logo="" group-title="其他",Gugak TV (1080p)
 https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Gugbang TV (1080p) [Not 24/7]" tvg-logo="" group-title="其他",Gugbang TV (1080p) [Not 24/7]
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Guide Love TV (720p)" tvg-logo="" group-title="其他",Guide Love TV (720p)
 https://video1.getstreamhosting.com:1936/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-name="Gujarat First (576p)" tvg-logo="" group-title="其他",Gujarat First (576p)
@@ -9217,6 +9219,8 @@ https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Powervision TV (720p)" tvg-logo="" group-title="其他",Powervision TV (720p)
 https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8
+#EXTINF:-1 tvg-name="Pradesh24 Gujarati (1080p)" tvg-logo="" group-title="其他",Pradesh24 Gujarati (1080p)
+https://stream2.livebox.co.in/pradesh24hls/live.m3u8
 #EXTINF:-1 tvg-name="Prag News (576p)" tvg-logo="" group-title="其他",Prag News (576p)
 https://streams.tangotv.in/PRAGNEWS/ORIGIN/index.m3u8
 #EXTINF:-1 tvg-name="Praise TV (720p)" tvg-logo="" group-title="其他",Praise TV (720p)
@@ -9375,6 +9379,10 @@ https://jmp2.uk/plu-696e61287d2afdec4ff2cb75.m3u8
 https://mumt05.tangotv.in/87NeALx2THEQ/index.m3u8
 #EXTINF:-1 tvg-name="QTV-1" tvg-logo="" group-title="其他",QTV-1
 http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+#EXTINF:-1 tvg-name="QTV-2" tvg-logo="" group-title="其他",QTV-2
+http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8
+#EXTINF:-1 tvg-name="QTV-3" tvg-logo="" group-title="其他",QTV-3
+http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8
 #EXTINF:-1 tvg-name="QTV-4" tvg-logo="" group-title="其他",QTV-4
 http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 #EXTINF:-1 tvg-name="QTV-5" tvg-logo="" group-title="其他",QTV-5
@@ -9817,6 +9825,8 @@ https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8
 https://vivo.solumedia.com:19360/realpolitik/realpolitik.m3u8
 #EXTINF:-1 tvg-name="Radio Ritmo FM (1080p) [Not 24/7]" tvg-logo="" group-title="其他",Radio Ritmo FM (1080p) [Not 24/7]
 https://panel.tvstream.cl:1936/8046/8046/playlist.m3u8
+#EXTINF:-1 tvg-name="Radio Romania Antena Satelor (720p) [Not 24/7]" tvg-logo="" group-title="其他",Radio Romania Antena Satelor (720p) [Not 24/7]
+https://stream3.srr.ro/live/AntenaSatelor/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Romania Oltenia-Craiova (576p) [Not 24/7]" tvg-logo="" group-title="其他",Radio Romania Oltenia-Craiova (576p) [Not 24/7]
 https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8
 #EXTINF:-1 tvg-name="Radio Romania Targu Mures (576p)" tvg-logo="" group-title="其他",Radio Romania Targu Mures (576p)
@@ -11641,8 +11651,120 @@ http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
 https://vdopanel.jlahozconsulting.com/p/3417/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="Tele Elx (1080p)" tvg-logo="" group-title="其他",Tele Elx (1080p)
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
+#EXTINF:-1 tvg-name="Tele Pam (1080p)" tvg-logo="" group-title="其他",Tele Pam (1080p)
+https://watch.haitilive.net/app/2020/telepam/index.fmp4.m3u8
+#EXTINF:-1 tvg-name="Tele Peyi (720p)" tvg-logo="" group-title="其他",Tele Peyi (720p)
+https://edge20.vedge.infomaniak.com/livecast/ik:33dm06/manifest.m3u8
+#EXTINF:-1 tvg-name="Tele Poder TV (720p) [Not 24/7]" tvg-logo="" group-title="其他",Tele Poder TV (720p) [Not 24/7]
+https://cdn.telepoder.online:3229/dash/stream.m3u8
+#EXTINF:-1 tvg-name="Tele Posadas (720p)" tvg-logo="" group-title="其他",Tele Posadas (720p)
+https://lbgo.bozztv.com/giatv/giatv-teleposadastv/teleposadastv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Regency TV (576p)" tvg-logo="" group-title="其他",Tele Regency TV (576p)
+https://streams.playtv.com.ng/Tele-Regency_TRTV/index.m3u8
+#EXTINF:-1 tvg-name="Tele Safor (720p) [Not 24/7]" tvg-logo="" group-title="其他",Tele Safor (720p) [Not 24/7]
+https://video.telesafor.com/hls/video.m3u8
+#EXTINF:-1 tvg-name="Tele Sahel (1080p)" tvg-logo="" group-title="其他",Tele Sahel (1080p)
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
+#EXTINF:-1 tvg-name="Tele Saltillo" tvg-logo="" group-title="其他",Tele Saltillo
+https://servilive.com:3879/live/telesaltillolive.m3u8
+#EXTINF:-1 tvg-name="Tele Tchad (1080p)" tvg-logo="" group-title="其他",Tele Tchad (1080p)
+https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Uno (720p) [Not 24/7]" tvg-logo="" group-title="其他",Tele Uno (720p) [Not 24/7]
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+#EXTINF:-1 tvg-name="Tele Zoukla" tvg-logo="" group-title="其他",Tele Zoukla
+https://vdo.pro-fhi.net:3228/stream/play.m3u8
 #EXTINF:-1 tvg-name="Tele7ABC HD (720p)" tvg-logo="" group-title="其他",Tele7ABC HD (720p)
 https://live.tele7abc.ro/hls/stream/index.m3u8
+#EXTINF:-1 tvg-name="TeleAragua (480p)" tvg-logo="" group-title="其他",TeleAragua (480p)
+http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
+#EXTINF:-1 tvg-name="TeleBendicion (720p) [Not 24/7]" tvg-logo="" group-title="其他",TeleBendicion (720p) [Not 24/7]
+https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8
+#EXTINF:-1 tvg-name="TeleCauquenes (720p)" tvg-logo="" group-title="其他",TeleCauquenes (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8
+#EXTINF:-1 tvg-name="TeleCibaoHD (720p) [Not 24/7]" tvg-logo="" group-title="其他",TeleCibaoHD (720p) [Not 24/7]
+https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TeleDom" tvg-logo="" group-title="其他",TeleDom
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 tvg-name="TeleHit (1080p)" tvg-logo="" group-title="其他",TeleHit (1080p)
+http://190.61.47.54:8000/play/a029/index.m3u8
+#EXTINF:-1 tvg-name="TeleM Botosani (540p) [Not 24/7]" tvg-logo="" group-title="其他",TeleM Botosani (540p) [Not 24/7]
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 tvg-name="TeleMas (720p) [Not 24/7]" tvg-logo="" group-title="其他",TeleMas (720p) [Not 24/7]
+https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="TeleMia (576p)" tvg-logo="" group-title="其他",TeleMia (576p)
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
+#EXTINF:-1 tvg-name="TeleMistretta (1080p)" tvg-logo="" group-title="其他",TeleMistretta (1080p)
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="TeleMoldova + [Geo-blocked]" tvg-logo="" group-title="其他",TeleMoldova + [Geo-blocked]
+https://vdo.ssl-stream.com:3247/stream/play.m3u8
+#EXTINF:-1 tvg-name="Teleangol (720p)" tvg-logo="" group-title="其他",Teleangol (720p)
+https://pantera1-100gb-cl-movistar.dps.live/teleangol/teleangol.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Teleangol Radio (720p)" tvg-logo="" group-title="其他",Teleangol Radio (720p)
+https://pantera1-100gb-cl-movistar.dps.live/teleangolradio/teleangolradio.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Teleantioquia (1080p)" tvg-logo="" group-title="其他",Teleantioquia (1080p)
+http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8
+#EXTINF:-1 tvg-name="Telecafe (Russia) (720p)" tvg-logo="" group-title="其他",Telecafe (Russia) (720p)
+https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
+#EXTINF:-1 tvg-name="Telecanal 28 (1080p) [Not 24/7]" tvg-logo="" group-title="其他",Telecanal 28 (1080p) [Not 24/7]
+https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Telecaribe (1080p)" tvg-logo="" group-title="其他",Telecaribe (1080p)
+http://138.121.15.230:9002/TELECARIBE/index.m3u8
+#EXTINF:-1 tvg-name="Telecentro (Venezuela) (480p) [Not 24/7]" tvg-logo="" group-title="其他",Telecentro (Venezuela) (480p) [Not 24/7]
+https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
+#EXTINF:-1 tvg-name="Telecine Action (1080p)" tvg-logo="" group-title="其他",Telecine Action (1080p)
+http://46.151.196.223:14326/
+#EXTINF:-1 tvg-name="Telecolor Lombardia (1080p) [Not 24/7]" tvg-logo="" group-title="其他",Telecolor Lombardia (1080p) [Not 24/7]
+https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
+#EXTINF:-1 tvg-name="Telecolor Yurimaguas (720p) [Not 24/7]" tvg-logo="" group-title="其他",Telecolor Yurimaguas (720p) [Not 24/7]
+https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:-1 tvg-name="Telecomercio TV (720p) [Not 24/7]" tvg-logo="" group-title="其他",Telecomercio TV (720p) [Not 24/7]
+https://streaming.grupomediosdelnorte.com:19360/telecomerciotv/telecomerciotv.m3u8
+#EXTINF:-1 tvg-name="Telecontacto" tvg-logo="" group-title="其他",Telecontacto
+https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
+#EXTINF:-1 tvg-name="Telecosta (Guatemala) (720p)" tvg-logo="" group-title="其他",Telecosta (Guatemala) (720p)
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1 tvg-name="Teledeporte" tvg-logo="" group-title="其他",Teledeporte
+https://rtve01p.origin.c21livecloud.com/live-origin/tdp-hls/bitrate_1.m3u8
+#EXTINF:-1 tvg-name="Telefe (1080p)" tvg-logo="" group-title="其他",Telefe (1080p)
+http://45.173.231.22:8000/play/a053/index.m3u8
+#EXTINF:-1 tvg-name="Telefe Internacional (1080p)" tvg-logo="" group-title="其他",Telefe Internacional (1080p)
+http://200.115.120.1:8000/play/ca016/index.m3u8
+#EXTINF:-1 tvg-name="Telefoggia (480p) [Not 24/7]" tvg-logo="" group-title="其他",Telefoggia (480p) [Not 24/7]
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8
+#EXTINF:-1 tvg-name="Telefriuli (1080p)" tvg-logo="" group-title="其他",Telefriuli (1080p)
+https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
+#EXTINF:-1 tvg-name="Telefuturo (Dominican Republic) (480p) [Not 24/7]" tvg-logo="" group-title="其他",Telefuturo (Dominican Republic) (480p) [Not 24/7]
+http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
+#EXTINF:-1 tvg-name="Telefuturo (Paraguay) (1080p)" tvg-logo="" group-title="其他",Telefuturo (Paraguay) (1080p)
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
+#EXTINF:-1 tvg-name="Teleganes (720p)" tvg-logo="" group-title="其他",Teleganes (720p)
+https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
+#EXTINF:-1 tvg-name="Telehit Musica (1080p)" tvg-logo="" group-title="其他",Telehit Musica (1080p)
+http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
+#EXTINF:-1 tvg-name="Teleimpacto (720p) [Not 24/7]" tvg-logo="" group-title="其他",Teleimpacto (720p) [Not 24/7]
+https://vpss2003.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-name="Telekanal Krasnodar (1080p)" tvg-logo="" group-title="其他",Telekanal Krasnodar (1080p)
+https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Telekanal RAI (480p)" tvg-logo="" group-title="其他",Telekanal RAI (480p)
+https://stream.rai.ua/rai/stream.m3u8
+#EXTINF:-1 tvg-name="Telelima (720p)" tvg-logo="" group-title="其他",Telelima (720p)
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/telelima.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Telemadrid HD (1080p)" tvg-logo="" group-title="其他",Telemadrid HD (1080p)
+https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8
+#EXTINF:-1 tvg-name="Telemar (720p)" tvg-logo="" group-title="其他",Telemar (720p)
+https://cloudpro.servidoresdestream.com:8081/8020/index.m3u8
+#EXTINF:-1 tvg-name="Telemas (1080p)" tvg-logo="" group-title="其他",Telemas (1080p)
+https://s.emisoras.tv:8081/telemas/index.m3u8
+#EXTINF:-1 tvg-name="Telemax (Argentina)" tvg-logo="" group-title="其他",Telemax (Argentina)
+https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/main.m3u8
+#EXTINF:-1 tvg-name="Telemax (Mexico) XEWH-TDT (1080p)" tvg-logo="" group-title="其他",Telemax (Mexico) XEWH-TDT (1080p)
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-name="Telemetro (720p)" tvg-logo="" group-title="其他",Telemetro (720p)
+http://181.78.121.15:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-name="Telemetro TV [Not 24/7]" tvg-logo="" group-title="其他",Telemetro TV [Not 24/7]
+https://streamunoapp.com:3366/live/telemetrolive.m3u8
+#EXTINF:-1 tvg-name="Telemolise (1080p)" tvg-logo="" group-title="其他",Telemolise (1080p)
+http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Viutv" tvg-logo="" group-title="其他",Viutv
 http://r.jdshipin.com/vSJvl
 #EXTINF:-1 tvg-name="apart TV (1080p)" tvg-logo="" group-title="其他",apart TV (1080p)
