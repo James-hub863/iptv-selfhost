@@ -30,8 +30,20 @@ jobs:
           git lfs install
           pip install requests
 
-      - name: 并发收集与测活
-       run: | python collect.py&python check.py&python group_m3u.py
+      - name: 收集原始源
+        run: |
+          echo "🔍 开始收集原始源..."
+          python collect.py
+          echo "✅ 收集完成"
+
+      - name: 测活与分组重写
+        run: |
+          echo "🏥 开始测活..."
+          python check.py
+          echo "✅ 测活完成"
+          echo "📋 开始分组重写..."
+          python group_m3u.py
+          echo "✅ 分组重写完成"
 
       - name: 生成全量聚合清单
         run: |
@@ -72,4 +84,5 @@ jobs:
           path: |
             report.json
             dead_urls.txt
+            live_ok.m3u
           retention-days: 7
