@@ -10882,21 +10882,21 @@
     "logo": "",
     "group": "其他",
     "_source": "https://ctlive2.wjdaily.com/wjtv/ch1.m3u8",
-    "url": "ch1-179119462.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
+    "url": "ch1-179121488.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
   },
   {
     "name": "未知",
     "logo": "",
     "group": "其他",
     "_source": "https://ctlive2.wjdaily.com/wjtv/ch1.m3u8",
-    "url": "ch1-179119463.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
+    "url": "ch1-179121489.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
   },
   {
     "name": "未知",
     "logo": "",
     "group": "其他",
     "_source": "https://ctlive2.wjdaily.com/wjtv/ch1.m3u8",
-    "url": "ch1-179119464.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
+    "url": "ch1-179121490.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
   },
   {
     "name": "00s Replay",
@@ -12201,11 +12201,53 @@
     "url": "https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8"
   },
   {
+    "name": "¡OPA! (720p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8"
+  },
+  {
+    "name": "¡Viva Latino! (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://stream.mcquack.net/285/index.m3u8"
+  },
+  {
+    "name": "&TV (576p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://103.151.60.162:2122/play/a020/index.m3u8?hls"
+  },
+  {
+    "name": "&TV HD (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://202.70.146.135:8000/play/a06c/index.m3u8"
+  },
+  {
     "name": "&TV International (1080p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8"
+    "url": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8"
+  },
+  {
+    "name": "&xplor HD (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://51.75.127.199:3141/andxplorehd/index.m3u8"
+  },
+  {
+    "name": "+TV (576p) [Geo-blocked]",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://stream.plustv.by/plustv-web/plustv/playlist.m3u8"
   },
   {
     "name": ".black (576p)",
@@ -12241,48 +12283,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "http://88.212.15.27/live/test_trojka_25p/playlist.m3u8"
-  },
-  {
-    "name": "¡OPA! (720p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8"
-  },
-  {
-    "name": "¡Viva Latino! (1080p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "http://stream.mcquack.net/285/index.m3u8"
-  },
-  {
-    "name": "&TV (576p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "http://103.151.60.162:2122/play/a020/index.m3u8?hls"
-  },
-  {
-    "name": "&TV HD (1080p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "http://202.70.146.135:8000/play/a06c/index.m3u8"
-  },
-  {
-    "name": "&xplor HD (1080p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "http://51.75.127.199:3141/andxplorehd/index.m3u8"
-  },
-  {
-    "name": "+TV (576p) [Geo-blocked]",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://stream.plustv.by/plustv-web/plustv/playlist.m3u8"
   },
   {
     "name": "A1 (576p)",
@@ -15204,6 +15204,13 @@
     "url": "http://170.83.49.66:8083/AMCHD/index.m3u8"
   },
   {
+    "name": "AMC Series Latin America (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://45.171.64.30:6060/play/a005/index.m3u8"
+  },
+  {
     "name": "Ame 47 (576p)",
     "logo": "",
     "group": "其他",
@@ -15869,6 +15876,13 @@
     "url": "https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8"
   },
   {
+    "name": "Antena HD",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://92.114.85.87:8010/play/a00g/index.m3u8"
+  },
+  {
     "name": "Antena International",
     "logo": "",
     "group": "其他",
@@ -16280,27 +16294,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://nl1.nghk.ai/SK2SRHD/index.m3u8"
-  },
-  {
-    "name": "Arena Sport Premium M1",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/AM1P"
-  },
-  {
-    "name": "Arena Sport Premium M2",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/AM2P"
-  },
-  {
-    "name": "Arena Sport Premium M3",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/AM3P"
   },
   {
     "name": "Argentinisima Satelital (540p)",
@@ -16737,11 +16730,11 @@
     "url": "http://51.75.127.199:3141/asianet/index.m3u8"
   },
   {
-    "name": "Asianet HD (720p)",
+    "name": "Asianet HD (720p) [Not 24/7]",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8"
+    "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8"
   },
   {
     "name": "Asianet Middle East (576p)",
@@ -17227,6 +17220,13 @@
     "url": "https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8"
   },
   {
+    "name": "Aunar (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://190.128.214.97:64333/play/a057/index.m3u8"
+  },
+  {
     "name": "Aupur Television (1080p)",
     "logo": "",
     "group": "其他",
@@ -17521,13 +17521,6 @@
     "url": "http://5.57.74.130:8000/play/a0at/index.m3u8"
   },
   {
-    "name": "AXN Asia Philippines (576p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://sra72yz.s.gy/AXN_ASIA_PHILIPPINES.m3u8"
-  },
-  {
     "name": "AXN Asia Taiwan (1080p)",
     "logo": "",
     "group": "其他",
@@ -17661,18 +17654,25 @@
     "url": "https://2203.weebvideo.stream/hls/1288486/s/DI_yOeqLvqKFgnP7nYS18cjzG8MYtfk13VVnqo8DPkw/current/high/index.m3u8"
   },
   {
-    "name": "AXN Spin",
+    "name": "AXN Spin (Hungary)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8"
   },
   {
-    "name": "AXN Spin Poland",
+    "name": "AXN Spin (Hungary) Poland",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://polska.hach.workers.dev/14847.m3u8"
+  },
+  {
+    "name": "AXN Spin (Poland)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://92.114.85.87:8010/play/a00b/index.m3u8"
   },
   {
     "name": "AXN White",
@@ -17785,6 +17785,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://tv.webmedialive.com/azatvhn/live/playlist.m3u8"
+  },
+  {
+    "name": "Azad TV (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8"
   },
   {
     "name": "Azahares Radiovisual Multimedia (720p)",
@@ -19418,13 +19425,6 @@
     "url": "http://92.60.238.10:1935/live/belleamie/playlist.m3u8"
   },
   {
-    "name": "Belsat TV",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/BELSAT"
-  },
-  {
     "name": "Bem Mais TV (1080p)",
     "logo": "",
     "group": "其他",
@@ -20088,13 +20088,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://pb-wm04vonaerv0k.akamaized.net/billi.m3u8"
-  },
-  {
-    "name": "Billiards TV [Geo-blocked]",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://xyktmobile00.s.gy/PPV942_BILLIARD"
   },
   {
     "name": "Bilyonaryo News Channel (1080p) [Geo-blocked]",
@@ -20879,13 +20872,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://mp.panelchs.com:1936/8028/ngrp:8028_all/playlist.m3u8"
-  },
-  {
-    "name": "Brain TV",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://xyktmobile00.s.gy/PPV941_BRAIN"
   },
   {
     "name": "Brat TV (1080p)",
@@ -22071,11 +22057,11 @@
     "url": "https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8"
   },
   {
-    "name": "Canal 4 Posadas (576p)",
+    "name": "Canal 4 Posadas (1080p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8"
+    "url": "http://190.128.214.97:64333/play/a06l/index.m3u8"
   },
   {
     "name": "Canal 4 RD (1080p)",
@@ -22930,13 +22916,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://videostream.chileservidores.com:8081/chiloe2/index.m3u8"
-  },
-  {
-    "name": "Canal CHV Noticias",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://xyktmobile00.s.gy/PPV929_CIV_NOTICIAS"
   },
   {
     "name": "Canal Cine Dios",
@@ -25186,6 +25165,13 @@
     "url": "https://sunplay-cdn.bitratelabs.com/live/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8_1080p/index.m3u8"
   },
   {
+    "name": "Channel 16",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8"
+  },
+  {
     "name": "Channel 18 GAC",
     "logo": "",
     "group": "其他",
@@ -26523,13 +26509,6 @@
     "url": "https://www.dailymotion.com/cdn/live/video/x91c8ww.m3u8?sec=D9OwEfHs-e7O6pQ-qlnROg"
   },
   {
-    "name": "Class TV Moda",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/CLASS_TV_MODA"
-  },
-  {
     "name": "Classic Arts Showcase (720p)",
     "logo": "",
     "group": "其他",
@@ -27039,6 +27018,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://ss2.tvrdomi.com:1936/colometv/colometv/playlist.m3u8"
+  },
+  {
+    "name": "Color Vision (720p) [Geo-blocked]",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://cdn4.wind.do/streams/colorvision/colorvision_master.m3u8"
   },
   {
     "name": "Colors (576p)",
@@ -29400,11 +29386,11 @@
     "url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8"
   },
   {
-    "name": "Dens Food Channel [Geo-blocked]",
+    "name": "Dens Food Channel [Not 24/7]",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8"
+    "url": "https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8"
   },
   {
     "name": "Dens Knowledge [Geo-blocked]",
@@ -29440,6 +29426,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/denver/G0080_002/playlist.m3u8"
+  },
+  {
+    "name": "DeParinti.ro (576p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8"
   },
   {
     "name": "Deportes por Movistar Plus+",
@@ -30020,7 +30013,7 @@
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "http://202.70.146.135:8000/play/a01q/index.m3u8"
+    "url": "http://51.75.127.199:3141/disneychannel/index.m3u8"
   },
   {
     "name": "Disney Channel (India) HD (1080p)",
@@ -30042,13 +30035,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "http://86.87.15.10:8004/play/a02g/index.m3u8"
-  },
-  {
-    "name": "Disney Channel (Netherlands) HD (1080i)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://masterofiptv.s.gy/iptv2/disney_channel_nl_uhd.m3u8"
   },
   {
     "name": "Disney Channel (Poland) HD (1080p)",
@@ -30854,13 +30840,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://cdn12.178.indevs.in/163189/dreamworks"
-  },
-  {
-    "name": "DreamWorks Channel Latin America",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://xyktmobile00.s.gy/PPV913_DREAMWO"
   },
   {
     "name": "Dreiko TV (720p) [Not 24/7]",
@@ -32256,13 +32235,6 @@
     "url": "http://31.148.48.15/English_club_TV_HD/index.m3u8"
   },
   {
-    "name": "English Club Global",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/ECG_SD"
-  },
-  {
     "name": "English Club TV (576i)",
     "logo": "",
     "group": "其他",
@@ -32520,6 +32492,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTCosmos/default/index.m3u8"
+  },
+  {
+    "name": "ERT Cosmos Cyprus (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8"
   },
   {
     "name": "ERT News HD (1080p)",
@@ -34363,20 +34342,6 @@
     "url": "http://103.250.28.74:8000/play/a02k/index.m3u8"
   },
   {
-    "name": "FILMBOX+ Action",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/FB_ACTION_PL"
-  },
-  {
-    "name": "FILMBOX+ Comedy",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/FB_COMEDY_PL"
-  },
-  {
     "name": "FILMBOX+ Comedy Czechia",
     "logo": "",
     "group": "其他",
@@ -34396,13 +34361,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://nosignal1.antenaplay.ro/hls/fb-comedy-hd/index.m3u8"
-  },
-  {
-    "name": "FILMBOX+ Emotion",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/FB_EMOTION_PL"
   },
   {
     "name": "FILMBOX+ Emotion Adria",
@@ -34458,14 +34416,7 @@
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/FB_FESTIVAL_PL"
-  },
-  {
-    "name": "FILMBOX+ Hits",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/FB_HITS_PL"
+    "url": "http://92.114.85.87:8018/play/a009/index.m3u8"
   },
   {
     "name": "FILMBOX+ Hits Adria",
@@ -37226,11 +37177,11 @@
     "url": "https://cdn.streamhispanatv.net:3126/live/genesistvlive.m3u8"
   },
   {
-    "name": "GTV (Indonesia) HD",
+    "name": "GTV (Indonesia) HD (1080p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://mncmedia.malingtv.workers.dev/gtv.m3u8"
+    "url": "http://202.150.172.59/GTVHD/index.m3u8"
   },
   {
     "name": "GTV (Mongolia) (1080p)",
@@ -37842,20 +37793,6 @@
     "url": "https://jmp2.uk/plu-63934c218ef524000757b122.m3u8"
   },
   {
-    "name": "HBO Drama (1080p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://sra72yz.s.gy/HBO_DRAMA_HD.m3u8"
-  },
-  {
-    "name": "HBO Hits West HD (1080p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://sra72yz.s.gy/HBO_HITS_WEST_HD.m3u8"
-  },
-  {
     "name": "HBO Movies (720p)",
     "logo": "",
     "group": "其他",
@@ -38248,14 +38185,7 @@
     "url": "http://88.212.15.19/live/test_h2/playlist.m3u8"
   },
   {
-    "name": "History 2 (Poland)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/H2_PL"
-  },
-  {
-    "name": "History 2 (Russia) (1080p)",
+    "name": "History 2 (1080p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
@@ -38309,13 +38239,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "http://88.212.15.19/live/history_hun/index.m3u8"
-  },
-  {
-    "name": "History (Poland)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/HISTORY_PL"
   },
   {
     "name": "History (Romania)",
@@ -38729,6 +38652,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "http://str2.iptvhd.ru:8080/home_plus/index.m3u8"
+  },
+  {
+    "name": "Home TV",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://92.114.85.87:8010/play/a00h/index.m3u8"
   },
   {
     "name": "Home.Made.Nation (720p)",
@@ -40222,6 +40152,13 @@
     "url": "https://tvstreamcast.com/indonesiana.m3u8"
   },
   {
+    "name": "Indosiar HD (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://202.150.172.59/Indosiar/index.m3u8"
+  },
+  {
     "name": "Indywood TV (720p)",
     "logo": "",
     "group": "其他",
@@ -40243,11 +40180,11 @@
     "url": "https://cdn.pishow.tv/ott/live/411/master.m3u8"
   },
   {
-    "name": "iNews HD (720p)",
+    "name": "iNews HD (1080p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://mncmedia.malingtv.workers.dev/inews.m3u8"
+    "url": "http://202.150.172.59/iNews/index.m3u8"
   },
   {
     "name": "INFAST (1080p)",
@@ -40941,13 +40878,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://proxystream.iteltv.com.ar/output/iteltv/playlist.m3u8"
-  },
-  {
-    "name": "ITV1 London +1",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://xyktmobile00.s.gy/TICK_44100"
   },
   {
     "name": "ITV2 HD (1080p)",
@@ -42413,13 +42343,6 @@
     "url": "https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8"
   },
   {
-    "name": "Kanal ZERO TV",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/ZERO_PL"
-  },
-  {
     "name": "KandelaTV (480p)",
     "logo": "",
     "group": "其他",
@@ -42644,25 +42567,11 @@
     "url": "https://brightonco.cablecast.tv/live-4/live/live.m3u8"
   },
   {
-    "name": "KBS America",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://xyktmobile00.s.gy/PPV918_KBSAMERI"
-  },
-  {
     "name": "KBS Joy [Not 24/7]",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://xykt-fix.github.io/flv/KJ_W.m3u8"
-  },
-  {
-    "name": "KBS N Sports [Geo-blocked]",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://xyktmobile00.s.gy/PPV919_KBSNSPO_SD"
   },
   {
     "name": "KBS World (720p)",
@@ -44499,11 +44408,11 @@
     "url": "http://118.107.85.5:1935/live/smil:LTV.smil/chunklist.m3u8"
   },
   {
-    "name": "LAMIL35 TV (480p)",
+    "name": "LAMIL35 TV (720p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://streamingvideo.com.ar/hls/eea3c96df781e0a3.m3u8"
+    "url": "https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8"
   },
   {
     "name": "Lamore Rock Show WebTV (720p)",
@@ -46333,11 +46242,11 @@
     "url": "https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8"
   },
   {
-    "name": "Magna Channel (1080p) [Not 24/7]",
+    "name": "Magna Channel (1080p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8"
+    "url": "http://202.150.172.59/MagnaChannel/index.m3u8"
   },
   {
     "name": "Magnat (1080p)",
@@ -47215,6 +47124,41 @@
     "url": "https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8"
   },
   {
+    "name": "Maxcine 2 (720p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8"
+  },
+  {
+    "name": "Maxcine (720p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8"
+  },
+  {
+    "name": "Maxcine Comedy (720p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8"
+  },
+  {
+    "name": "Maxcine Family (720p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8"
+  },
+  {
+    "name": "Maxcine Kids (720p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8"
+  },
+  {
     "name": "Maxima TV",
     "logo": "",
     "group": "其他",
@@ -47292,11 +47236,11 @@
     "url": "https://sh.cdn1-stmify.workers.dev/out/v1/MBC_1_USA/index.m3u8"
   },
   {
-    "name": "MBC 3 USA (1080p) [Geo-blocked]",
+    "name": "MBC 3 USA (1080p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8"
+    "url": "https://sh.cdn1-stmify.workers.dev/out/v1/MBC_3_USA/index.m3u8"
   },
   {
     "name": "MBC 4 (1080p)",
@@ -47439,18 +47383,11 @@
     "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8"
   },
   {
-    "name": "MBC TV (India) (576p)",
+    "name": "MBC TV (576p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://mumbai-edge.smartplaytv.in/MBCTV/index.m3u8"
-  },
-  {
-    "name": "MBC TV (South Korea) [Geo-blocked]",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://xyktmobile00.s.gy/PPV930_S_OPERA_SD"
   },
   {
     "name": "MBC+ Drama (1080p)",
@@ -47780,6 +47717,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://cnn.hostlagarto.com/megacinetv/playlist.m3u8"
+  },
+  {
+    "name": "Mega Ficcion (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8"
   },
   {
     "name": "Mega TV (Paraguay) (1080p)",
@@ -52941,11 +52885,11 @@
     "url": "http://212.5.144.156:8080/nickjr/index.m3u8"
   },
   {
-    "name": "Nick Jr. (United States) East HD (1080p)",
+    "name": "Nick Jr. (United States) East HD (720p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://sra72yz.s.gy/NICK_JR_HD.m3u8"
+    "url": "http://107.167.16.138/nickjr/index.m3u8?token=test"
   },
   {
     "name": "Nick Jr. Asia (720p)",
@@ -53214,11 +53158,11 @@
     "url": "https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8"
   },
   {
-    "name": "Nicktoons (United States) (1080p)",
+    "name": "Nicktoons (United States) (720p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://sra72yz.s.gy/NICKTOONS_HD.m3u8"
+    "url": "http://41.205.93.154/NICKTOONS/index.m3u8"
   },
   {
     "name": "Nicktoons (United States) CA",
@@ -57344,14 +57288,7 @@
     "url": "https://live-evg7.tv360.bitel.com.pe/bitel/piuratvSRT/playlist.m3u8"
   },
   {
-    "name": "Pixel TV (Poland) (720p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-66bb374ba4ee27000841a62c.m3u8"
-  },
-  {
-    "name": "Pixel TV (Ukraine) (1080p)",
+    "name": "Pixel TV (1080p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
@@ -57769,13 +57706,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8"
-  },
-  {
-    "name": "Pluto TV Backcountry",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-5cabdf1437b88b26947346b2.m3u8"
   },
   {
     "name": "Pluto TV Bang Bang",
@@ -60543,6 +60473,13 @@
     "url": "https://cdn-s-lb2.pluscdn.pl/lv/1511888/322/hls/bd3b0bfe/masterlist.m3u8"
   },
   {
+    "name": "Polsat Rodzina HD",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://92.114.85.87:8014/play/a00i/index.m3u8"
+  },
+  {
     "name": "Polsat Sport 1 (1080p) [Geo-blocked]",
     "logo": "",
     "group": "其他",
@@ -60555,20 +60492,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "http://92.114.85.87:8016/play/a00b/index.m3u8"
-  },
-  {
-    "name": "Polsat Sport Premium 1",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/PSP1_SHD"
-  },
-  {
-    "name": "Polsat Sport Premium 2",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/PSP2_SHD"
   },
   {
     "name": "Polsat Viasat Explore",
@@ -60760,6 +60683,13 @@
     "url": "https://powertvkannada.com/hls/stream.m3u8"
   },
   {
+    "name": "Power TV (Poland)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://92.114.85.87:8010/play/a00k/index.m3u8"
+  },
+  {
     "name": "Power TV (Turkiye) (1080p)",
     "logo": "",
     "group": "其他",
@@ -60814,13 +60744,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://mumbai-edge.smartplaytv.in/PowerVision/index.m3u8"
-  },
-  {
-    "name": "Poyo TV [Geo-blocked]",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://xyktmobile00.s.gy/PPV936_PORORO_HD"
   },
   {
     "name": "Pradesh24 Gujarati (1080p)",
@@ -60914,18 +60837,11 @@
     "url": "http://stream.mcquack.net/421/index.m3u8"
   },
   {
-    "name": "Premier Football",
+    "name": "Premier Sports 2 (1080p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/PREMIER_FOOTBALL"
-  },
-  {
-    "name": "Premier Sports 2 (1086p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/PS2PH"
+    "url": "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8"
   },
   {
     "name": "Premier Sports (1080p)",
@@ -60933,13 +60849,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8"
-  },
-  {
-    "name": "Premier Sports HD",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/PS1PH"
   },
   {
     "name": "Prensa Latina TV (1080p)",
@@ -62972,6 +62881,13 @@
     "url": "https://stream3.srr.ro/live/Radio-Oltenia/chunklist_w1200239883.m3u8"
   },
   {
+    "name": "Radio Romania Resita (576p) [Not 24/7]",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://stream3.srr.ro/RadioResita/live/playlist.m3u8"
+  },
+  {
     "name": "Radio Romania Targu Mures (576p)",
     "logo": "",
     "group": "其他",
@@ -63602,11 +63518,11 @@
     "url": "https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RAJTV/master_1.m3u8"
   },
   {
-    "name": "Rajawali TV (576i)",
+    "name": "Rajawali TV (1080p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "http://175.158.57.130:8888/stream/channelid/412436804"
+    "url": "http://202.150.172.59/RajawaliTV/index.m3u8"
   },
   {
     "name": "Rajdhani TV SD (1080p)",
@@ -64092,11 +64008,11 @@
     "url": "http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8"
   },
   {
-    "name": "RCC TV",
+    "name": "RCC TV (1080p) [Not 24/7]",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://xyktmobile00.s.gy/TICK_RCC"
+    "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion"
   },
   {
     "name": "RCG TV 2 (360p) [Not 24/7]",
@@ -64134,11 +64050,11 @@
     "url": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8"
   },
   {
-    "name": "RCTI HD (720p)",
+    "name": "RCTI HD (1080p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://mncmedia.malingtv.workers.dev/rcti.m3u8"
+    "url": "http://202.150.172.59/RCTIHD/index.m3u8"
   },
   {
     "name": "RCTV3 (480p)",
@@ -65462,6 +65378,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://5ff3d9babae13.streamlock.net/wympnqeqts/wympnqeqts/playlist.m3u8"
+  },
+  {
+    "name": "Rock & Pop (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://190.128.214.97:64333/play/a032/index.m3u8"
   },
   {
     "name": "ROCK Action (1080p)",
@@ -68215,20 +68138,6 @@
     "url": "https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8"
   },
   {
-    "name": "SBS [Geo-blocked]",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://xyktmobile00.s.gy/PPV921_SBS"
-  },
-  {
-    "name": "SBS Golf",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://xyktmobile00.s.gy/PPV922_GOLF_TV"
-  },
-  {
     "name": "SBS WorldWatch",
     "logo": "",
     "group": "其他",
@@ -68257,11 +68166,11 @@
     "url": "https://8994803e454548319ffc0775bc04e0c1.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-TVZyn/index.m3u8"
   },
   {
-    "name": "SBT Nacional (720p)",
+    "name": "SBT Nacional (1080p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "http://170.84.165.204/SBT_HD/index.m3u8"
+    "url": "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8"
   },
   {
     "name": "SBT News (720p)",
@@ -68523,11 +68432,11 @@
     "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8"
   },
   {
-    "name": "SCTV [Geo-blocked]",
+    "name": "SCTV",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8"
+    "url": "http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8"
   },
   {
     "name": "SCVTV (1080p)",
@@ -69956,13 +69865,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://livestream.telvue.com/santamariactv3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
-  },
-  {
-    "name": "Smithsonian Channel Asia [Geo-blocked]",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://xyktmobile00.s.gy/PPV940_SMITHSONIAN"
   },
   {
     "name": "Smithsonian Channel Pluto TV",
@@ -77931,13 +77833,6 @@
     "url": "https://amg01329-otterainc-toongoggles-samsungau-ad-4c.amagi.tv/playlist/amg01329-otterainc-toongoggles-samsungau/playlist.m3u8"
   },
   {
-    "name": "Tooniverse [Geo-blocked]",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://xyktmobile00.s.gy/PPV939_TOONCAST"
-  },
-  {
     "name": "TOP Barca (1080p)",
     "logo": "",
     "group": "其他",
@@ -79891,11 +79786,11 @@
     "url": "https://cdn-tiva-isaocorp-cloudecast-com.smartbit.co/tvadorar/index.m3u8"
   },
   {
-    "name": "TV Aire",
+    "name": "TV Aire (1080p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8"
+    "url": "http://190.128.214.97:64333/play/a05y/index.m3u8"
   },
   {
     "name": "TV Aldeia (720p)",
@@ -82292,11 +82187,11 @@
     "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8"
   },
   {
-    "name": "TVE Internacional Asia-Oceania",
+    "name": "TVE Internacional Asia-Oceania (576p) [Geo-blocked]",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://racitonsen.s.gy/TVE_ASIA"
+    "url": "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8"
   },
   {
     "name": "TVE Internacional Asia-Oceania HD (1080p) [Geo-blocked]",
@@ -82775,6 +82670,13 @@
     "url": "http://tvoetv.space:8080/tvoetv_humor/index.m3u8"
   },
   {
+    "name": "TVP 3 Warszawa",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://92.114.85.87:8010/play/a006/index.m3u8"
+  },
+  {
     "name": "TVP Culiacan (720p) [Not 24/7]",
     "logo": "",
     "group": "其他",
@@ -83202,11 +83104,11 @@
     "url": "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8"
   },
   {
-    "name": "TVRI Sport [Geo-blocked]",
+    "name": "TVRI Sport (1080p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8"
+    "url": "http://202.150.172.59/TVRISport/index.m3u8"
   },
   {
     "name": "TVRI World (1080p)",
@@ -83249,6 +83151,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://api.dani-dev.co.za/v1/stream/mytv/live/tvs"
+  },
+  {
+    "name": "TVS (Poland)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://92.114.85.87:8010/play/a00e/index.m3u8"
   },
   {
     "name": "TVS (Venezuela) (720p)",
@@ -85484,6 +85393,13 @@
     "url": "http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599"
   },
   {
+    "name": "Viasat True Crime",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://92.114.85.87:8010/play/a00a/index.m3u8"
+  },
+  {
     "name": "Viasat True Crime Ukraine",
     "logo": "",
     "group": "其他",
@@ -85615,6 +85531,20 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "http://stream.mcquack.net/100/index.m3u8"
+  },
+  {
+    "name": "viju TV1000 novella HD (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8"
+  },
+  {
+    "name": "viju TV1000 romantica HD (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://46.53.200.153:7777/play/Viju_Drama/index.m3u8"
   },
   {
     "name": "viju TV1000 russkoe (576p)",
@@ -86189,6 +86119,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://jmp2.uk/plu-680291e38e1ff89c2427aefd.m3u8"
+  },
+  {
+    "name": "VoyenTV (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://media1.skifnet.by/voentv/index.m3u8"
   },
   {
     "name": "Voyo Sport 1 (1080p)",
@@ -87659,6 +87596,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8"
+  },
+  {
+    "name": "Xizang TV Chinese",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8"
   },
   {
     "name": "Xizang TV Tibetan (720p) [Not 24/7]",
