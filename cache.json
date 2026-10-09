@@ -8716,8 +8716,8 @@
   },
   "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8": {
     "alive": true,
-    "ts": 1791429158.068546,
-    "rt": 0.504
+    "ts": 1791515857.1964562,
+    "rt": 0.259
   },
   "http://51.75.127.199:3141/andxplorehd/index.m3u8": {
     "alive": false,
@@ -33651,8 +33651,8 @@
   },
   "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8": {
     "alive": true,
-    "ts": 1791259699.3870754,
-    "rt": 0.373
+    "ts": 1791515858.018306,
+    "rt": 0.437
   },
   "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8": {
     "alive": true,
@@ -33686,8 +33686,8 @@
   },
   "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8": {
     "alive": true,
-    "ts": 1791116536.5523312,
-    "score": 100
+    "ts": 1791515857.9579282,
+    "rt": 0.845
   },
   "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678b07ac7d13fe71/index.m3u8": {
     "alive": true,
@@ -37731,8 +37731,8 @@
   },
   "https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8": {
     "alive": true,
-    "ts": 1791429158.1381164,
-    "rt": 0.297
+    "ts": 1791515857.3630643,
+    "rt": 0.277
   },
   "http://176.61.157.250/Nickelodeon/index.m3u8": {
     "alive": true,
@@ -45601,8 +45601,8 @@
   },
   "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion": {
     "alive": true,
-    "ts": 1791429158.9818118,
-    "rt": 0.361
+    "ts": 1791515858.6475732,
+    "rt": 0.46
   },
   "https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8": {
     "alive": false,
@@ -64221,78 +64221,78 @@
   },
   "http://45.171.64.30:6060/play/a005/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.0710912,
-    "rt": 0.19
+    "ts": 1791515857.198272,
+    "rt": 0.165
   },
   "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starasianet.smil/chunklist_b1928000.m3u8": {
     "alive": true,
-    "ts": 1791429158.0741084,
-    "rt": 0.278
+    "ts": 1791515857.2271504,
+    "rt": 0.227
   },
   "http://92.114.85.87:8010/play/a00b/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.1105638,
-    "rt": 0.273
+    "ts": 1791515857.2290146,
+    "rt": 0.284
   },
   "http://92.114.85.87:8010/play/a00g/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.0724342,
-    "rt": 0.263
+    "ts": 1791515857.2262862,
+    "rt": 0.295
   },
   "http://51.75.127.199:3141/disneychannel/index.m3u8": {
-    "alive": true,
-    "ts": 1791429158.246916,
-    "rt": 0.249
+    "alive": false,
+    "ts": 1791515857.5174797,
+    "rt": 9999
   },
   "http://92.114.85.87:8010/play/a00h/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.3834944,
-    "rt": 0.292
+    "ts": 1791515857.6803586,
+    "rt": 0.277
   },
   "http://92.114.85.87:8018/play/a009/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.3371255,
-    "rt": 0.266
+    "ts": 1791515857.576864,
+    "rt": 0.283
   },
   "http://190.128.214.97:64333/play/a057/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.1097682,
-    "rt": 0.381
+    "ts": 1791515857.228296,
+    "rt": 0.37
   },
   "https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8": {
     "alive": true,
-    "ts": 1791429158.1333857,
-    "rt": 0.521
+    "ts": 1791515857.239197,
+    "rt": 0.468
   },
   "http://190.128.214.97:64333/play/a06l/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.1259096,
-    "rt": 0.373
+    "ts": 1791515857.2321632,
+    "rt": 0.363
   },
   "http://202.150.172.59/GTVHD/index.m3u8": {
-    "alive": true,
-    "ts": 1791429158.3532023,
-    "rt": 0.399
+    "alive": false,
+    "ts": 1791515857.6157274,
+    "rt": 9999
   },
   "http://202.150.172.59/Indosiar/index.m3u8": {
-    "alive": true,
-    "ts": 1791429158.4026003,
-    "rt": 0.405
+    "alive": false,
+    "ts": 1791515857.7037902,
+    "rt": 9999
   },
   "http://202.150.172.59/iNews/index.m3u8": {
-    "alive": true,
-    "ts": 1791429158.4348884,
-    "rt": 0.394
+    "alive": false,
+    "ts": 1791515857.70517,
+    "rt": 9999
   },
   "https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8": {
     "alive": true,
-    "ts": 1791429158.5729938,
-    "rt": 0.358
+    "ts": 1791515857.925229,
+    "rt": 0.215
   },
   "http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.7521188,
-    "rt": 0.09
+    "ts": 1791515858.0278273,
+    "rt": 0.128
   },
   "https://sh.cdn1-stmify.workers.dev/out/v1/MBC_3_USA/index.m3u8": {
     "alive": false,
@@ -64301,28 +64301,28 @@
   },
   "http://202.150.172.59/MagnaChannel/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.4998324,
-    "rt": 0.396
+    "ts": 1791515857.768914,
+    "rt": 0.376
   },
   "https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8": {
     "alive": true,
-    "ts": 1791429158.5372193,
-    "rt": 1.427
+    "ts": 1791515857.8603036,
+    "rt": 0.162
   },
   "https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8": {
     "alive": true,
-    "ts": 1791429158.4960852,
-    "rt": 0.463
+    "ts": 1791515857.7657118,
+    "rt": 0.639
   },
   "http://107.167.16.138/nickjr/index.m3u8?token=test": {
     "alive": true,
-    "ts": 1791429158.833742,
-    "rt": 0.221
+    "ts": 1791515858.1450317,
+    "rt": 0.338
   },
   "https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8": {
     "alive": true,
-    "ts": 1791429158.141114,
-    "rt": 1.103
+    "ts": 1791515857.3964612,
+    "rt": 0.547
   },
   "http://202.150.172.59/RajawaliTV/index.m3u8": {
     "alive": true,
@@ -64330,134 +64330,134 @@
     "rt": 0.188
   },
   "http://202.150.172.59/RCTIHD/index.m3u8": {
-    "alive": true,
-    "ts": 1791429159.0072455,
-    "rt": 0.205
+    "alive": false,
+    "ts": 1791515858.6523697,
+    "rt": 9999
   },
   "https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8": {
     "alive": true,
-    "ts": 1791429158.6032574,
-    "rt": 0.291
+    "ts": 1791515857.9439325,
+    "rt": 0.198
   },
   "http://92.114.85.87:8014/play/a00i/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.868285,
-    "rt": 0.272
+    "ts": 1791515858.395784,
+    "rt": 0.281
   },
   "http://92.114.85.87:8010/play/a00k/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.8938086,
-    "rt": 0.267
+    "ts": 1791515858.4169393,
+    "rt": 0.279
   },
   "http://202.150.172.59/SCTV/tracks-v1a1/mono.m3u8": {
-    "alive": true,
-    "ts": 1791429159.0830638,
-    "rt": 0.198
+    "alive": false,
+    "ts": 1791515858.802708,
+    "rt": 9999
   },
   "https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8": {
     "alive": true,
-    "ts": 1791429158.5863152,
-    "rt": 1.61
+    "ts": 1791515857.9301054,
+    "rt": 0.199
   },
   "https://cdn4.wind.do/streams/colorvision/colorvision_master.m3u8": {
     "alive": true,
-    "ts": 1791429158.1374922,
-    "rt": 0.52
+    "ts": 1791515857.361422,
+    "rt": 0.473
   },
   "http://202.150.172.59/TVRISport/index.m3u8": {
     "alive": true,
-    "ts": 1791429159.4187996,
-    "rt": 0.197
+    "ts": 1791515859.434069,
+    "rt": 0.376
   },
   "https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8": {
     "alive": false,
-    "ts": 1791429158.8946753,
+    "ts": 1791515858.45539,
     "rt": 9999
   },
   "http://190.128.214.97:64333/play/a032/index.m3u8": {
     "alive": true,
-    "ts": 1791429159.0552921,
-    "rt": 0.376
+    "ts": 1791515858.6960185,
+    "rt": 0.375
   },
   "http://41.205.93.154/NICKTOONS/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.8388183,
-    "rt": 0.475
+    "ts": 1791515858.1560397,
+    "rt": 0.491
   },
   "http://92.114.85.87:8010/play/a006/index.m3u8": {
     "alive": true,
-    "ts": 1791429159.4061596,
-    "rt": 0.274
+    "ts": 1791515859.3712366,
+    "rt": 0.279
   },
   "https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8": {
     "alive": true,
-    "ts": 1791429159.0670838,
-    "rt": 0.428
+    "ts": 1791515858.762234,
+    "rt": 0.38
   },
   "http://190.128.214.97:64333/play/a05y/index.m3u8": {
     "alive": true,
-    "ts": 1791429159.3223968,
-    "rt": 0.368
+    "ts": 1791515859.2875237,
+    "rt": 0.372
   },
   "http://92.114.85.87:8010/play/a00e/index.m3u8": {
     "alive": true,
-    "ts": 1791429159.4307187,
-    "rt": 0.269
+    "ts": 1791515859.44338,
+    "rt": 0.281
   },
   "https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8": {
     "alive": true,
-    "ts": 1791429158.1169813,
-    "rt": 1.169
+    "ts": 1791515857.2294564,
+    "rt": 0.916
   },
   "http://92.114.85.87:8010/play/a00a/index.m3u8": {
     "alive": true,
-    "ts": 1791429159.4956539,
-    "rt": 0.279
+    "ts": 1791515859.5962298,
+    "rt": 0.277
   },
   "http://46.53.200.153:7777/play/VIJU_TV_1000_novella/index.m3u8": {
     "alive": true,
-    "ts": 1791429159.4967277,
-    "rt": 0.298
+    "ts": 1791515859.6506913,
+    "rt": 0.322
   },
   "http://46.53.200.153:7777/play/Viju_Drama/index.m3u8": {
     "alive": true,
-    "ts": 1791429159.5056028,
-    "rt": 0.284
+    "ts": 1791515859.659212,
+    "rt": 0.322
   },
   "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8": {
     "alive": true,
-    "ts": 1791429159.3435338,
-    "rt": 0.511
+    "ts": 1791515859.3271677,
+    "rt": 1.332
   },
   "https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8": {
     "alive": true,
-    "ts": 1791429158.139861,
-    "rt": 1.725
+    "ts": 1791515857.3945,
+    "rt": 1.5
   },
   "https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8": {
     "alive": false,
-    "ts": 1791429158.2901576,
+    "ts": 1791515857.521971,
     "rt": 9999
   },
   "https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8": {
     "alive": true,
-    "ts": 1791429158.6546748,
-    "rt": 0.239
+    "ts": 1791515857.95565,
+    "rt": 0.181
   },
   "http://media1.skifnet.by/voentv/index.m3u8": {
     "alive": true,
-    "ts": 1791429159.5138285,
-    "rt": 0.988
+    "ts": 1791515859.6700988,
+    "rt": 0.912
   },
   "https://stream3.srr.ro/RadioResita/live/playlist.m3u8": {
     "alive": false,
-    "ts": 1791429158.9319162,
+    "ts": 1791515858.6018867,
     "rt": 9999
   },
   "https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8": {
     "alive": true,
-    "ts": 1791429159.5227213,
-    "rt": 0.707
+    "ts": 1791515859.7299836,
+    "rt": 0.738
   },
   "ch1-179127279.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
     "alive": false,
@@ -64491,123 +64491,123 @@
   },
   "http://38.65.175.84:8000/play/a093/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.1364279,
-    "rt": 0.103
+    "ts": 1791515857.3554523,
+    "rt": 0.077
   },
   "http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.1353567,
-    "rt": 0.107
+    "ts": 1791515857.2661881,
+    "rt": 0.13
   },
   "http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.1418583,
-    "rt": 0.105
+    "ts": 1791515857.4329324,
+    "rt": 0.064
   },
   "http://38.252.238.18:8000/play/a053/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.1313827,
-    "rt": 0.158
+    "ts": 1791515857.2353857,
+    "rt": 0.139
   },
   "http://38.65.175.84:8000/play/a0an/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.2419808,
-    "rt": 0.098
+    "ts": 1791515857.511601,
+    "rt": 0.077
   },
   "http://38.44.109.41:8003/play/a033/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.1179924,
-    "rt": 0.237
+    "ts": 1791515857.2299035,
+    "rt": 0.282
   },
   "http://45.171.64.30:6060/play/a032/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.2401602,
-    "rt": 0.162
+    "ts": 1791515857.4543142,
+    "rt": 0.161
   },
   "http://158.172.217.18:8000/play/a03a/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.1320274,
-    "rt": 0.351
+    "ts": 1791515857.2371087,
+    "rt": 0.381
   },
   "https://techtraveleat.in/stream.m3u8?id=historytv18eng": {
     "alive": false,
-    "ts": 1791429158.3558352,
+    "ts": 1791515857.6400511,
     "rt": 9999
   },
   "https://techtraveleat.in/stream.m3u8?id=foodxp": {
     "alive": false,
-    "ts": 1791429158.3401675,
+    "ts": 1791515857.5887237,
     "rt": 9999
   },
   "http://38.65.175.84:8000/play/a0ch/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.4828422,
-    "rt": 0.103
+    "ts": 1791515857.7084057,
+    "rt": 0.076
   },
   "https://stream.4fun.tv:8888/sd/4fun_sd_high.m3u8": {
     "alive": true,
-    "ts": 1791429158.0526316,
-    "rt": 0.719
+    "ts": 1791515857.1957362,
+    "rt": 0.536
   },
   "http://200.122.223.13:55000/play/a022/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.5342019,
-    "rt": 0.284
+    "ts": 1791515857.8344405,
+    "rt": 0.184
   },
   "http://200.122.223.13:55000/play/la-kalle-tdt/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.4938316,
-    "rt": 0.345
+    "ts": 1791515857.733603,
+    "rt": 1.216
   },
   "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8": {
     "alive": false,
-    "ts": 1791429158.818925,
+    "ts": 1791515858.1410618,
     "rt": 9999
   },
   "http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8": {
-    "alive": true,
-    "ts": 1791429158.8080542,
-    "rt": 0.199
+    "alive": false,
+    "ts": 1791515858.1368008,
+    "rt": 9999
   },
   "https://frndly.keralive.workers.dev/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/militaryhistory_live_nr/ab44a8245afe413db1169317ee5cda08/index.m3u8?type=ae2": {
     "alive": false,
-    "ts": 1791429158.7722642,
+    "ts": 1791515858.1299832,
     "rt": 9999
   },
   "http://80.79.6.221:25461/smash/public/22": {
     "alive": true,
-    "ts": 1791429158.8306296,
-    "rt": 0.234
+    "ts": 1791515858.1433487,
+    "rt": 0.273
   },
   "http://80.79.6.221:25461/smash/public/23": {
     "alive": true,
-    "ts": 1791429158.8440335,
-    "rt": 0.239
+    "ts": 1791515858.329518,
+    "rt": 0.274
   },
   "https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-medtv-1-restreaming/bitok/eyJzdGlkIjoiMGUzYjU2OWQtYTY3NC00ZDQxLThmZmMtNjA2NWU5YzMwNTViIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8": {
     "alive": false,
-    "ts": 1791429158.6763008,
+    "ts": 1791515858.022211,
     "rt": 9999
   },
   "http://200.122.223.13:55000/play/raizal-tv-ses-6/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.9597309,
-    "rt": 0.31
+    "ts": 1791515858.6040773,
+    "rt": 13.366
   },
   "http://45.171.64.30:6060/play/a014/index.m3u8": {
     "alive": true,
-    "ts": 1791429159.1612618,
-    "rt": 0.161
+    "ts": 1791515858.894403,
+    "rt": 0.16
   },
   "http://23.237.104.106:8080/USA_TRUTV/index.m3u8": {
     "alive": true,
-    "ts": 1791429159.3143778,
-    "rt": 0.052
+    "ts": 1791515859.2615926,
+    "rt": 0.065
   },
   "http://200.122.223.13:55000/play/tele-amiga-ses-6/index.m3u8": {
     "alive": true,
-    "ts": 1791429159.179933,
-    "rt": 0.207
+    "ts": 1791515858.9393492,
+    "rt": 0.217
   },
   "https://dokagents.site/live/primacomedy/mono.m3u8": {
     "alive": true,
@@ -64616,63 +64616,63 @@
   },
   "http://168.196.127.137:6001/play/a095/index.m3u8": {
     "alive": true,
-    "ts": 1791429159.2806582,
-    "rt": 0.138
+    "ts": 1791515859.1560853,
+    "rt": 0.131
   },
   "http://45.171.64.30:6060/play/a03i/index.m3u8": {
     "alive": true,
-    "ts": 1791429159.269938,
-    "rt": 0.161
+    "ts": 1791515859.1074798,
+    "rt": 0.158
   },
   "http://38.134.250.110:8000/play/a01t/index.m3u8": {
     "alive": true,
-    "ts": 1791429159.2870584,
-    "rt": 0.21
+    "ts": 1791515859.2548208,
+    "rt": 0.208
   },
   "http://80.79.6.221:25461/smash/public/19": {
     "alive": true,
-    "ts": 1791429159.3866115,
-    "rt": 0.119
+    "ts": 1791515859.3609488,
+    "rt": 0.137
   },
   "http://193.254.245.162/TNT-HD/index.m3u8": {
-    "alive": true,
-    "ts": 1791429159.2443922,
-    "rt": 0.269
+    "alive": false,
+    "ts": 1791515859.0709124,
+    "rt": 9999
   },
   "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8": {
     "alive": true,
-    "ts": 1791429159.2135863,
-    "rt": 0.308
+    "ts": 1791515859.0083802,
+    "rt": 0.32
   },
   "https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8": {
     "alive": true,
-    "ts": 1791429159.366524,
-    "rt": 0.327
+    "ts": 1791515859.3287435,
+    "rt": 0.551
   },
   "http://88.212.15.19/live/via_tv/index.m3u8": {
     "alive": true,
-    "ts": 1791429159.4331026,
-    "rt": 0.335
+    "ts": 1791515859.498067,
+    "rt": 0.305
   },
   "https://streams.tangotv.in/RBANGLA/ORIGIN/index.m3u8": {
     "alive": true,
-    "ts": 1791429159.014162,
-    "rt": 0.988
+    "ts": 1791515858.6768422,
+    "rt": 1.053
   },
   "https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8": {
     "alive": true,
-    "ts": 1791429159.3339448,
-    "rt": 1.174
+    "ts": 1791515859.324426,
+    "rt": 1.02
   },
   "http://193.254.245.162/TBS/index.m3u8": {
     "alive": false,
-    "ts": 1791429159.1427426,
+    "ts": 1791515858.848715,
     "rt": 9999
   },
   "https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8": {
     "alive": true,
-    "ts": 1791429158.261835,
-    "rt": 5.066
+    "ts": 1791515857.5187244,
+    "rt": 2.077
   },
   "ch1-179133080.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
     "alive": false,
@@ -64703,5 +64703,200 @@
     "alive": false,
     "ts": 1791493041.2840726,
     "rt": 9999
+  },
+  "ch1-179137116.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1791515857.159173,
+    "rt": 9999
+  },
+  "https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/merge.m3u8": {
+    "alive": false,
+    "ts": 1791515857.1981184,
+    "rt": 9999
+  },
+  "ch1-179137117.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1791515857.1644206,
+    "rt": 9999
+  },
+  "ch1-179137118.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1791515857.170073,
+    "rt": 9999
+  },
+  "http://23.239.31.26:8989/animalplanet/index.m3u8": {
+    "alive": true,
+    "ts": 1791515857.2100704,
+    "rt": 0.056
+  },
+  "http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8": {
+    "alive": true,
+    "ts": 1791515857.232591,
+    "rt": 0.123
+  },
+  "http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8": {
+    "alive": true,
+    "ts": 1791515857.2349703,
+    "rt": 0.122
+  },
+  "http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8": {
+    "alive": true,
+    "ts": 1791515857.2093675,
+    "rt": 0.152
+  },
+  "http://45.167.1.138:8000/play/a00w": {
+    "alive": true,
+    "ts": 1791515857.2377172,
+    "rt": 0.156
+  },
+  "http://23.237.104.106:8080/USA_COOKING/index.m3u8": {
+    "alive": true,
+    "ts": 1791515857.374278,
+    "rt": 0.075
+  },
+  "http://193.254.245.162/ANIMAL-PLANET/index.m3u8": {
+    "alive": false,
+    "ts": 1791515857.2358236,
+    "rt": 9999
+  },
+  "http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8": {
+    "alive": true,
+    "ts": 1791515857.4558637,
+    "rt": 0.062
+  },
+  "http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8": {
+    "alive": true,
+    "ts": 1791515857.5131667,
+    "rt": 0.062
+  },
+  "https://cdn.qd.je/163189/ch5": {
+    "alive": false,
+    "ts": 1791515857.2387512,
+    "rt": 9999
+  },
+  "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8": {
+    "alive": true,
+    "ts": 1791515857.5782394,
+    "rt": 0.065
+  },
+  "http://15.204.246.24:8080/HBOHD/index.m3u8": {
+    "alive": true,
+    "ts": 1791515857.6181903,
+    "rt": 0.062
+  },
+  "http://190.110.96.238:8000/play/a0f5/index.m3u8": {
+    "alive": true,
+    "ts": 1791515857.3574915,
+    "rt": 0.348
+  },
+  "http://23.237.104.106:8080/USA_HLN/index.m3u8": {
+    "alive": true,
+    "ts": 1791515857.6429663,
+    "rt": 0.065
+  },
+  "http://38.134.250.110:8000/play/a003/index.m3u8": {
+    "alive": true,
+    "ts": 1791515857.4972541,
+    "rt": 0.212
+  },
+  "http://212.5.144.156:8080/discovery/index.m3u8": {
+    "alive": true,
+    "ts": 1791515857.449923,
+    "rt": 0.318
+  },
+  "http://57.128.231.171:8080/248/index.m3u8": {
+    "alive": true,
+    "ts": 1791515857.5993886,
+    "rt": 0.326
+  },
+  "http://190.197.41.183/MAGNOLIA_NETWORK/index.m3u8": {
+    "alive": true,
+    "ts": 1791515857.7848535,
+    "rt": 0.145
+  },
+  "http://138.59.227.20:8000/play/a085/index.m3u8": {
+    "alive": true,
+    "ts": 1791515857.5958586,
+    "rt": 0.36
+  },
+  "http://212.5.144.156:8080/id/index.m3u8": {
+    "alive": true,
+    "ts": 1791515857.7076542,
+    "rt": 0.32
+  },
+  "http://23.237.104.106:8080/USA_OWN/index.m3u8": {
+    "alive": true,
+    "ts": 1791515858.327777,
+    "rt": 0.066
+  },
+  "https://tgn.bozztv.com/eshgtv-dvrfl05/gin-iribpooya/tracks-v1a1/mono.m3u8": {
+    "alive": true,
+    "ts": 1791515858.4043505,
+    "rt": 0.356
+  },
+  "https://651c69fa2ff4e.streamlock.net/3707/live1/chunklist.m3u8": {
+    "alive": false,
+    "ts": 1791515858.7610402,
+    "rt": 9999
+  },
+  "https://zg9mhld.s.gy/HD-NICK-IT.ts": {
+    "alive": true,
+    "ts": 1791515858.145958,
+    "rt": 0.696
+  },
+  "http://178.76.68.60:7442/15/mpegts": {
+    "alive": true,
+    "ts": 1791515858.4941046,
+    "rt": 0.353
+  },
+  "http://45.171.64.30:6060/play/a04n/index.m3u8": {
+    "alive": true,
+    "ts": 1791515858.8433416,
+    "rt": 0.164
+  },
+  "http://15.204.246.24:8080/TNTHD/index.m3u8": {
+    "alive": true,
+    "ts": 1791515859.1295793,
+    "rt": 0.125
+  },
+  "http://38.134.250.110:8000/play/a00n/index.m3u8": {
+    "alive": true,
+    "ts": 1791515859.055076,
+    "rt": 0.206
+  },
+  "http://190.128.214.97:64333/play/a008/index.m3u8": {
+    "alive": true,
+    "ts": 1791515858.9503276,
+    "rt": 0.374
+  },
+  "http://181.78.211.244:8005/play/a09g/index.m3u8": {
+    "alive": true,
+    "ts": 1791515859.1423392,
+    "rt": 0.229
+  },
+  "http://eb4b8dcf.kablakaka.ru/iptv/AE8BY6FHF5ZGAG/6990/index.m3u8": {
+    "alive": false,
+    "ts": 1791515858.4828198,
+    "rt": 9999
+  },
+  "http://178.76.68.60:7442/7/mpegts": {
+    "alive": true,
+    "ts": 1791515859.266268,
+    "rt": 0.177
+  },
+  "http://38.134.250.110:8000/play/a006/index.m3u8": {
+    "alive": true,
+    "ts": 1791515859.463924,
+    "rt": 0.206
+  },
+  "https://streaming.toutech.net/live/jtv/index.m3u8": {
+    "alive": false,
+    "ts": 1791515857.7095628,
+    "rt": 9999
+  },
+  "http://38.134.250.110:8000/play/a029/index.m3u8": {
+    "alive": true,
+    "ts": 1791515859.7250202,
+    "rt": 0.207
   }
 }
