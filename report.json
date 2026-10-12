@@ -1,12 +1,12 @@
 {
   "total": 12755,
-  "alive": 6707,
+  "alive": 6597,
   "cn_channels": 150,
   "foreign_channels": 150,
   "total_output": 300,
-  "dead": 6048,
-  "duration": 39.0,
-  "timestamp": "2026-10-12 02:51:56",
+  "dead": 6158,
+  "duration": 1108.4,
+  "timestamp": "2026-10-12 17:23:12",
   "fastest_cn": "ABTV Bariloche",
   "fastest_foreign": "9 Plus News (1080p)"
 }
