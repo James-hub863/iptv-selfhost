@@ -3108,11 +3108,11 @@ http://cdn.jdshipin.com:8880/huya.php?id=23824164
 #EXTINF:-1 tvg-name="射雕英雄传" tvg-logo="" group-title="其他",射雕英雄传
 https://live.ottiptv.cc/huya/23824164
 #EXTINF:-1 tvg-name="未知" tvg-logo="" group-title="其他",未知
-ch1-179172686.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000
+ch1-179174978.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000
 #EXTINF:-1 tvg-name="未知" tvg-logo="" group-title="其他",未知
-ch1-179172687.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000
+ch1-179174979.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000
 #EXTINF:-1 tvg-name="未知" tvg-logo="" group-title="其他",未知
-ch1-179172688.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000
+ch1-179174980.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000
 #EXTINF:-1 tvg-name="00s Replay" tvg-logo="" group-title="其他",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
 #EXTINF:-1 tvg-name="1+1 International" tvg-logo="" group-title="其他",1+1 International
@@ -3225,20 +3225,12 @@ https://hls.4utv.live/hls/stream.m3u8
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-name="5 Cops" tvg-logo="" group-title="其他",5 Cops
 https://jmp2.uk/plu-5d2c571faeb3e2738ae27933.m3u8
-#EXTINF:-1 tvg-name="5Gold (1080p)" tvg-logo="" group-title="其他",5Gold (1080p)
-http://str2.iptvhd.ru:8080/sport5gold/index.m3u8
-#EXTINF:-1 tvg-name="5Live (1080p)" tvg-logo="" group-title="其他",5Live (1080p)
-http://str2.iptvhd.ru:8080/5live/index.m3u8
 #EXTINF:-1 tvg-name="5 minut tishiny (1080p)" tvg-logo="" group-title="其他",5 minut tishiny (1080p)
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 #EXTINF:-1 tvg-name="5Plus (1080p)" tvg-logo="" group-title="其他",5Plus (1080p)
 http://89.33.29.115:8080/sportplus/index.m3u8
 #EXTINF:-1 tvg-name="5 Plus (720p)" tvg-logo="" group-title="其他",5 Plus (720p)
 https://mmtvs.exliatycl.online/5plus/stream.m3u8
-#EXTINF:-1 tvg-name="5Sport 4K (2160p)" tvg-logo="" group-title="其他",5Sport 4K (2160p)
-http://str2.iptvhd.ru:8080/5SPORT_4K/index.m3u8
-#EXTINF:-1 tvg-name="5Sport (1080p)" tvg-logo="" group-title="其他",5Sport (1080p)
-http://str2.iptvhd.ru:8080/5sport/index.m3u8
 #EXTINF:-1 tvg-name="5Stars (1080p)" tvg-logo="" group-title="其他",5Stars (1080p)
 http://89.33.29.115:8080/IL_5Stars/index.m3u8
 #EXTINF:-1 tvg-name="5tv" tvg-logo="" group-title="其他",5tv
@@ -3483,20 +3475,8 @@ https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 https://jmp2.uk/plu-6720bc6cdaad7f000872a6e2.m3u8
 #EXTINF:-1 tvg-name="90210" tvg-logo="" group-title="其他",90210
 https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
-#EXTINF:-1 tvg-name="¡OPA! (720p)" tvg-logo="" group-title="其他",¡OPA! (720p)
-https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
-#EXTINF:-1 tvg-name="¡Viva Latino! (1080p)" tvg-logo="" group-title="其他",¡Viva Latino! (1080p)
-http://stream.mcquack.net/285/index.m3u8
-#EXTINF:-1 tvg-name="&TV (576p)" tvg-logo="" group-title="其他",&TV (576p)
-http://103.151.60.162:2122/play/a020/index.m3u8?hls
-#EXTINF:-1 tvg-name="&TV HD (1080p)" tvg-logo="" group-title="其他",&TV HD (1080p)
-http://202.70.146.135:8000/play/a06c/index.m3u8
 #EXTINF:-1 tvg-name="&TV International (1080p)" tvg-logo="" group-title="其他",&TV International (1080p)
-https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8
-#EXTINF:-1 tvg-name="&xplor HD (1080p) [Geo-blocked]" tvg-logo="" group-title="其他",&xplor HD (1080p) [Geo-blocked]
-http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
-#EXTINF:-1 tvg-name="+TV (576p) [Geo-blocked]" tvg-logo="" group-title="其他",+TV (576p) [Geo-blocked]
-https://stream.plustv.by/plustv-web/plustv/playlist.m3u8
+https://3f56f997.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9BbmRUVl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-name=".black (576p)" tvg-logo="" group-title="其他",.black (576p)
 http://stream.mcquack.net/263/index.m3u8
 #EXTINF:-1 tvg-name=".red (576p)" tvg-logo="" group-title="其他",.red (576p)
@@ -3507,6 +3487,20 @@ http://178.134.1.158:8081/red/index.m3u8
 http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1 tvg-name=":24 (1080p)" tvg-logo="" group-title="其他",:24 (1080p)
 http://88.212.15.27/live/test_trojka_25p/playlist.m3u8
+#EXTINF:-1 tvg-name="¡OPA! (720p)" tvg-logo="" group-title="其他",¡OPA! (720p)
+https://5f1af61612fb5.streamlock.net/genteopa/videogenteopa_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="¡Viva Latino! (1080p)" tvg-logo="" group-title="其他",¡Viva Latino! (1080p)
+http://stream.mcquack.net/285/index.m3u8
+#EXTINF:-1 tvg-name="&TV (576p)" tvg-logo="" group-title="其他",&TV (576p)
+http://103.151.60.162:2122/play/a020/index.m3u8?hls
+#EXTINF:-1 tvg-name="&TV HD (1080p)" tvg-logo="" group-title="其他",&TV HD (1080p)
+http://202.70.146.135:8000/play/a06c/index.m3u8
+#EXTINF:-1 tvg-name="&xplor HD (1080p) [Geo-blocked]" tvg-logo="" group-title="其他",&xplor HD (1080p) [Geo-blocked]
+http://dksmedia.tv/play/live.php?mac=00:1A:79:B6:60:3D&stream=209743&extension=ts&play_token=mR7FwO88sY
+#EXTINF:-1 tvg-name="+MaisUm (720p)" tvg-logo="" group-title="其他",+MaisUm (720p)
+https://stream.ichibansys.com:3230/hybrid/play.m3u8
+#EXTINF:-1 tvg-name="+TV (576p) [Geo-blocked]" tvg-logo="" group-title="其他",+TV (576p) [Geo-blocked]
+https://stream.plustv.by/plustv-web/plustv/playlist.m3u8
 #EXTINF:-1 tvg-name="A1 (576p)" tvg-logo="" group-title="其他",A1 (576p)
 http://31.148.48.15/A1/index.m3u8
 #EXTINF:-1 tvg-name="A1 TV (1080p) [Not 24/7]" tvg-logo="" group-title="其他",A1 TV (1080p) [Not 24/7]
@@ -4529,14 +4523,18 @@ http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/antenauno.stream/playlist.m3u8
 https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8
 #EXTINF:-1 tvg-name="Antena 3" tvg-logo="" group-title="其他",Antena 3
 https://cdn.stmify.com/zapitv/stream/ANTENA_3/test.mpd
-#EXTINF:-1 tvg-name="Antena 3 CNN (576p)" tvg-logo="" group-title="其他",Antena 3 CNN (576p)
-https://live4dai.antenaplay.ro/live2_aws4_sdi11/live2_aws4_sdi11_600k.m3u8
+#EXTINF:-1 tvg-name="Antena 3 CNN (1080p)" tvg-logo="" group-title="其他",Antena 3 CNN (1080p)
+https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 #EXTINF:-1 tvg-name="Antena 3 Internacional (1080p)" tvg-logo="" group-title="其他",Antena 3 Internacional (1080p)
 http://38.252.238.18:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-name="Antena 7 (480p)" tvg-logo="" group-title="其他",Antena 7 (480p)
 https://alba-do-antena7-antena7.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-name="Antena 7 HD (1080p) [Not 24/7]" tvg-logo="" group-title="其他",Antena 7 HD (1080p) [Not 24/7]
+https://hls.tvabierta.net/hls/007.m3u8
 #EXTINF:-1 tvg-name="Antena 21 (480p)" tvg-logo="" group-title="其他",Antena 21 (480p)
 https://alba-do-antena7-c21.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-name="Antena 21 HD (720p) [Not 24/7]" tvg-logo="" group-title="其他",Antena 21 HD (720p) [Not 24/7]
+https://hls.tvabierta.net/hls/021.m3u8
 #EXTINF:-1 tvg-name="Antena HD" tvg-logo="" group-title="其他",Antena HD
 http://92.114.85.87:8010/play/a00g/index.m3u8
 #EXTINF:-1 tvg-name="Antena International" tvg-logo="" group-title="其他",Antena International
@@ -4773,6 +4771,8 @@ https://stream.asiatvnet.com/1/live/master.m3u8
 https://cdn.vegasplus.us/vegas/actv/playlist.m3u8
 #EXTINF:-1 tvg-name="Asian Drama (1080p)" tvg-logo="" group-title="其他",Asian Drama (1080p)
 http://103.172.187.30:12000/stream/mytv/null-11/master.m3u8
+#EXTINF:-1 tvg-name="Asian Food Network Vietnam (1080p)" tvg-logo="" group-title="其他",Asian Food Network Vietnam (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=215
 #EXTINF:-1 tvg-name="Asian News (1080p)" tvg-logo="" group-title="其他",Asian News (1080p)
 https://stream.ottlive.co.in/asiannews/index.m3u8
 #EXTINF:-1 tvg-name="AsianBox (1080p)" tvg-logo="" group-title="其他",AsianBox (1080p)
@@ -5005,10 +5005,10 @@ http://188.115.15.121:8000/play/a02z
 http://193.254.245.162/AXN/index.m3u8
 #EXTINF:-1 tvg-name="AXN Adria" tvg-logo="" group-title="其他",AXN Adria
 http://5.57.74.130:8000/play/a0at/index.m3u8
+#EXTINF:-1 tvg-name="AXN Asia Malaysia (1080p)" tvg-logo="" group-title="其他",AXN Asia Malaysia (1080p)
+https://2x2.me/5aE8sA
 #EXTINF:-1 tvg-name="AXN Asia Taiwan (1080p)" tvg-logo="" group-title="其他",AXN Asia Taiwan (1080p)
 http://125.227.210.55:4050/VideoInput/play.ts
-#EXTINF:-1 tvg-name="AXN Asia Thailand (720p)" tvg-logo="" group-title="其他",AXN Asia Thailand (720p)
-http://58.8.186.128:10007/bysid/2814
 #EXTINF:-1 tvg-name="AXN Black (576p)" tvg-logo="" group-title="其他",AXN Black (576p)
 http://hls127.freeott.top:8080/BG_AXN_Black/video.m3u8
 #EXTINF:-1 tvg-name="AXN Black Czech Republic" tvg-logo="" group-title="其他",AXN Black Czech Republic
@@ -5035,8 +5035,8 @@ http://138.121.15.230:9002/AXN/index.m3u8
 http://181.78.8.199:8000/play/a0cu/index.m3u8
 #EXTINF:-1 tvg-name="AXN Latin America Mexico" tvg-logo="" group-title="其他",AXN Latin America Mexico
 http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
-#EXTINF:-1 tvg-name="AXN Latin America South (1080p)" tvg-logo="" group-title="其他",AXN Latin America South (1080p)
-http://181.78.12.119:16123/play/ch46/index.m3u8
+#EXTINF:-1 tvg-name="AXN Latin America South" tvg-logo="" group-title="其他",AXN Latin America South
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/axn.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="AXN Movies (Portugal) (720p)" tvg-logo="" group-title="其他",AXN Movies (Portugal) (720p)
 http://50.7.120.34:8080/AXN_BLACK/index.m3u8
 #EXTINF:-1 tvg-name="AXN Movies (Spain)" tvg-logo="" group-title="其他",AXN Movies (Spain)
@@ -5923,6 +5923,8 @@ https://jmp2.uk/plu-66166989635c7500084105a2.m3u8
 https://yuppnimrestreammum.akamaized.net/181224/smil:bogglebollywood.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-name="Boom TV (1080p)" tvg-logo="" group-title="其他",Boom TV (1080p)
 https://tvboom.ro/live-tv/live.m3u8
+#EXTINF:-1 tvg-name="Boomerang (720p)" tvg-logo="" group-title="其他",Boomerang (720p)
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-name="Boonniyom TV" tvg-logo="" group-title="其他",Boonniyom TV
 https://live.x2.co.th/live/bntv.m3u8
 #EXTINF:-1 tvg-name="Boreal (720p) [Not 24/7]" tvg-logo="" group-title="其他",Boreal (720p) [Not 24/7]
@@ -6853,16 +6855,30 @@ https://fs.uplink.kz/karusel/mono.m3u8?token=onlinetv
 https://acceso.mediosdecostarica.com:3511/stream/play.m3u8
 #EXTINF:-1 tvg-name="Cartoon Classics" tvg-logo="" group-title="其他",Cartoon Classics
 https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network (Italy) HD" tvg-logo="" group-title="其他",Cartoon Network (Italy) HD
+https://zg9mhld.s.gy/HD-CARTOON-IT.ts
+#EXTINF:-1 tvg-name="Cartoon Network (United States) (720p)" tvg-logo="" group-title="其他",Cartoon Network (United States) (720p)
+http://tvsen7.aynascope.net/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network Asia (720p)" tvg-logo="" group-title="其他",Cartoon Network Asia (720p)
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network CEE Czech Republic" tvg-logo="" group-title="其他",Cartoon Network CEE Czech Republic
+http://88.212.15.17/live/test_cartoon_network_tizen/playlist.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network CEE Ukraine (576p)" tvg-logo="" group-title="其他",Cartoon Network CEE Ukraine (576p)
+http://45.132.87.69:8080/cartoon_network/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network Latin America" tvg-logo="" group-title="其他",Cartoon Network Latin America
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network Latin America Brazil (720p) [Geo-blocked]" tvg-logo="" group-title="其他",Cartoon Network Latin America Brazil (720p) [Geo-blocked]
 http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network Latin America Mexico" tvg-logo="" group-title="其他",Cartoon Network Latin America Mexico
+https://zg9mhld.s.gy/HD-CARTOON-MX.ts
 #EXTINF:-1 tvg-name="Cartoon Network Latin America North Atlantic (1080p)" tvg-logo="" group-title="其他",Cartoon Network Latin America North Atlantic (1080p)
 http://38.252.238.18:8000/play/a053/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network Latin America South Atlantic (1080p)" tvg-logo="" group-title="其他",Cartoon Network Latin America South Atlantic (1080p)
 http://158.172.217.18:8000/play/a03a/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network Latin America South Pacific (576p)" tvg-logo="" group-title="其他",Cartoon Network Latin America South Pacific (576p)
 http://45.167.1.138:8000/play/a00w
+#EXTINF:-1 tvg-name="Cartoonito Asia (720p)" tvg-logo="" group-title="其他",Cartoonito Asia (720p)
+http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-name="Caruban TV (1080p)" tvg-logo="" group-title="其他",Caruban TV (1080p)
 https://stream.carubantv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-name="Casa Italia 53 (720p)" tvg-logo="" group-title="其他",Casa Italia 53 (720p)
@@ -7427,6 +7443,8 @@ http://212.70.131.37:8000/play/a08b
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
 #EXTINF:-1 tvg-name="Cinecanal Pacific (1080p)" tvg-logo="" group-title="其他",Cinecanal Pacific (1080p)
 http://138.121.15.230:9002/CINECANAL/index.m3u8
+#EXTINF:-1 tvg-name="Cinecanal South" tvg-logo="" group-title="其他",Cinecanal South
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Cinecanal-key/chunks.m3u8
 #EXTINF:-1 tvg-name="CineLatino (720p)" tvg-logo="" group-title="其他",CineLatino (720p)
 http://206.135.11.174:8010/play/a0lq/index.m3u8
 #EXTINF:-1 tvg-name="Cinema (Mongolia) (1080p)" tvg-logo="" group-title="其他",Cinema (Mongolia) (1080p)
@@ -7437,7 +7455,11 @@ http://flussonic.linkintel.ru/cinema/index.m3u8
 https://hls02ns.antenaplay.ro/hls/cinemaraton-plus-hd/index.m3u8
 #EXTINF:-1 tvg-name="CinemaWorld (720p)" tvg-logo="" group-title="其他",CinemaWorld (720p)
 http://nmk.ioapk.com:5050/4gtv-live069/index.m3u8
-#EXTINF:-1 tvg-name="Cinemax West (720p)" tvg-logo="" group-title="其他",Cinemax West (720p)
+#EXTINF:-1 tvg-name="Cinemax 2" tvg-logo="" group-title="其他",Cinemax 2
+http://88.212.15.17/live/test_cinemax2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="Cinemax (Czech Republic)" tvg-logo="" group-title="其他",Cinemax (Czech Republic)
+http://88.212.15.17/live/test_cinemax_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-name="Cinemax (United States) West (720p)" tvg-logo="" group-title="其他",Cinemax (United States) West (720p)
 http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 #EXTINF:-1 tvg-name="Cinemax Classics (1080p)" tvg-logo="" group-title="其他",Cinemax Classics (1080p)
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
@@ -7667,8 +7689,6 @@ https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3
 http://41.205.93.154/CNBC/index.m3u8
 #EXTINF:-1 tvg-name="CNBC Arabiya (1080p)" tvg-logo="" group-title="其他",CNBC Arabiya (1080p)
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
-#EXTINF:-1 tvg-name="CNBC Asia (720p)" tvg-logo="" group-title="其他",CNBC Asia (720p)
-http://nmk.ioapk.com:5050/4gtv-live130/index.m3u8
 #EXTINF:-1 tvg-name="CNBC Awaaz (1080p)" tvg-logo="" group-title="其他",CNBC Awaaz (1080p)
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-name="CNBC Bajar (1080p)" tvg-logo="" group-title="其他",CNBC Bajar (1080p)
@@ -7715,8 +7735,12 @@ https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 http://190.110.96.238:8000/play/a0f5/index.m3u8
 #EXTINF:-1 tvg-name="CNN en Espanol (1080p)" tvg-logo="" group-title="其他",CNN en Espanol (1080p)
 https://streaming.onnethn.com/CNN_ESPANOL/playlist.m3u8
-#EXTINF:-1 tvg-name="CNN International" tvg-logo="" group-title="其他",CNN International
-http://88.212.15.17/live/test_cnn_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="" group-title="其他",CNN Indonesia
+https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8
+#EXTINF:-1 tvg-name="CNN International (1080p)" tvg-logo="" group-title="其他",CNN International (1080p)
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+#EXTINF:-1 tvg-name="CNN International North America (1080p)" tvg-logo="" group-title="其他",CNN International North America (1080p)
+https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
 #EXTINF:-1 tvg-name="CNN Portugal" tvg-logo="" group-title="其他",CNN Portugal
 https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8
 #EXTINF:-1 tvg-name="CNN Prima News (1080p)" tvg-logo="" group-title="其他",CNN Prima News (1080p)
@@ -8549,6 +8573,12 @@ http://185.227.34.179:8080/disco-polo-music/index.m3u8
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 tvg-name="Discovering China (1080p)" tvg-logo="" group-title="其他",Discovering China (1080p)
 https://fastlive.cctvplus.com/out/v1/8442c3bfd4c64a3984389328f6087879/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel (Hungary)" tvg-logo="" group-title="其他",Discovery Channel (Hungary)
+http://88.212.15.17/live/discovery_hungary/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel (Italy) (1080p)" tvg-logo="" group-title="其他",Discovery Channel (Italy) (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel (Netherlands) (360p)" tvg-logo="" group-title="其他",Discovery Channel (Netherlands) (360p)
+https://lb.iptvnetwork.net/ls28/10015/playlist.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel (Russia) (1080p)" tvg-logo="" group-title="其他",Discovery Channel (Russia) (1080p)
 http://stream.mcquack.net/177/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel (United States) (1080p) [Geo-blocked]" tvg-logo="" group-title="其他",Discovery Channel (United States) (1080p) [Geo-blocked]
@@ -8585,16 +8615,14 @@ https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 http://213.91.179.28:8000/play/a059
 #EXTINF:-1 tvg-name="Disney Channel (Czech Republic)" tvg-logo="" group-title="其他",Disney Channel (Czech Republic)
 http://88.212.15.19/live/test_disney/playlist.m3u8
-#EXTINF:-1 tvg-name="Disney Channel (Germany)" tvg-logo="" group-title="其他",Disney Channel (Germany)
-http://178.27.12.3:9981/stream/channelid/269948147?profile=pass
+#EXTINF:-1 tvg-name="Disney Channel (Germany) (576p)" tvg-logo="" group-title="其他",Disney Channel (Germany) (576p)
+https://s6.hopslan.com/disneyX/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel (Hungary)" tvg-logo="" group-title="其他",Disney Channel (Hungary)
 http://88.212.15.19/live/disney_channel_hun/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel (India) HD (1080p)" tvg-logo="" group-title="其他",Disney Channel (India) HD (1080p)
 http://66.102.126.10:8000/play/a013/index.m3u8
-#EXTINF:-1 tvg-name="Disney Channel (Israel) (576p)" tvg-logo="" group-title="其他",Disney Channel (Israel) (576p)
-http://str2.iptvhd.ru:8080/disney/index.m3u8
-#EXTINF:-1 tvg-name="Disney Channel (Netherlands)" tvg-logo="" group-title="其他",Disney Channel (Netherlands)
-http://86.87.15.10:8004/play/a02g/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel (Netherlands) (360p)" tvg-logo="" group-title="其他",Disney Channel (Netherlands) (360p)
+https://lb.iptvnetwork.net/ls28/10014/playlist.m3u8
 #EXTINF:-1 tvg-name="Disney Channel (Poland) HD (1080p)" tvg-logo="" group-title="其他",Disney Channel (Poland) HD (1080p)
 http://185.227.34.179:8080/disney-channel-hd/index.m3u8
 #EXTINF:-1 tvg-name="Disney Channel (Portugal) (1080p)" tvg-logo="" group-title="其他",Disney Channel (Portugal) (1080p)
@@ -8729,8 +8757,8 @@ https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
 https://cc-mgr91yrk4pehy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mgr91yrk4pehy/playlist.m3u8
 #EXTINF:-1 tvg-name="DocuBox" tvg-logo="" group-title="其他",DocuBox
 https://dash3.antik.sk/live/test_docubox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-name="DocuBox Russia (1080p)" tvg-logo="" group-title="其他",DocuBox Russia (1080p)
-http://str2.iptvhd.ru:8080/DocuBoxHD/index.m3u8
+#EXTINF:-1 tvg-name="DocuBox Russia" tvg-logo="" group-title="其他",DocuBox Russia
+http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8
 #EXTINF:-1 tvg-name="Documentary Humanities Channel (1080p)" tvg-logo="" group-title="其他",Documentary Humanities Channel (1080p)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-name="Documentary+ (1080p)" tvg-logo="" group-title="其他",Documentary+ (1080p)
@@ -9357,6 +9385,8 @@ http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 https://barinaslive1.boldmss.com/ESPN_2/ESPN_2.isml/ESPN_2.m3u8
 #EXTINF:-1 tvg-name="ESPN 2 Latin America Argentina" tvg-logo="" group-title="其他",ESPN 2 Latin America Argentina
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8
+#EXTINF:-1 tvg-name="ESPN 2 Latin America Colombia (1080p)" tvg-logo="" group-title="其他",ESPN 2 Latin America Colombia (1080p)
+http://190.61.47.54:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 3 (Brazil) (1080p)" tvg-logo="" group-title="其他",ESPN 3 (Brazil) (1080p)
 http://190.83.2.182:8090/ESPN3/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 3 (Netherlands)" tvg-logo="" group-title="其他",ESPN 3 (Netherlands)
@@ -9393,6 +9423,8 @@ https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd?
 https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.m3u8
 #EXTINF:-1 tvg-name="ESPN Latin America Argentina" tvg-logo="" group-title="其他",ESPN Latin America Argentina
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn-mux/chunks.m3u8
+#EXTINF:-1 tvg-name="ESPN Latin America Colombia (1080p)" tvg-logo="" group-title="其他",ESPN Latin America Colombia (1080p)
+http://190.61.47.54:8000/play/a004/index.m3u8
 #EXTINF:-1 tvg-name="ESPN Premium (Argentina) HD (1080p)" tvg-logo="" group-title="其他",ESPN Premium (Argentina) HD (1080p)
 http://190.128.214.97:64333/play/a02i/index.m3u8
 #EXTINF:-1 tvg-name="ESPN Premium (Chile)" tvg-logo="" group-title="其他",ESPN Premium (Chile)
@@ -9535,8 +9567,8 @@ https://acb6ca89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheH
 https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 #EXTINF:-1 tvg-name="Euronews Romania (576p)" tvg-logo="" group-title="其他",Euronews Romania (576p)
 https://hls02ns.antenaplay.ro/hls/euronews-ro-sd/index.m3u8
-#EXTINF:-1 tvg-name="Euronews Russian (1080p)" tvg-logo="" group-title="其他",Euronews Russian (1080p)
-http://str2.iptvhd.ru:8080/Euronews/index.m3u8
+#EXTINF:-1 tvg-name="Euronews Russian (720p)" tvg-logo="" group-title="其他",Euronews Russian (720p)
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-name="Euronews Spanish (1080p)" tvg-logo="" group-title="其他",Euronews Spanish (1080p)
 https://iptv.bitred.cl/euronews/index.m3u8
 #EXTINF:-1 tvg-name="Europa Europa (1080p)" tvg-logo="" group-title="其他",Europa Europa (1080p)
@@ -10009,10 +10041,10 @@ https://stream.fomixmedia.nl/FomixTV/video.m3u8
 https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Fonte TV" tvg-logo="" group-title="其他",Fonte TV
 https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1224511652.m3u8
-#EXTINF:-1 tvg-name="Food Channel (1080p)" tvg-logo="" group-title="其他",Food Channel (1080p)
-http://str2.iptvhd.ru:8080/FoodChannel/index.m3u8
 #EXTINF:-1 tvg-name="Food Food (576p)" tvg-logo="" group-title="其他",Food Food (576p)
 https://mumt03.tangotv.in/Dsly5z3HFOODFOOD/index.m3u8
+#EXTINF:-1 tvg-name="Food Network (Italy) (1080p)" tvg-logo="" group-title="其他",Food Network (Italy) (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
 #EXTINF:-1 tvg-name="Food Network (Russia) (1080p)" tvg-logo="" group-title="其他",Food Network (Russia) (1080p)
 http://stream.mcquack.net/298/index.m3u8
 #EXTINF:-1 tvg-name="Food Network (United States) (720p)" tvg-logo="" group-title="其他",Food Network (United States) (720p)
@@ -10461,8 +10493,6 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
 #EXTINF:-1 tvg-name="Global Social TV (720p) [Not 24/7]" tvg-logo="" group-title="其他",Global Social TV (720p) [Not 24/7]
 https://stream.castr.com/6809124f3f3e7e594c63cf15/live_8e5d0b50206a11f08690576446b3c082/index.fmp4.m3u8
-#EXTINF:-1 tvg-name="Global Trekker (720p)" tvg-logo="" group-title="其他",Global Trekker (720p)
-http://nmk.ioapk.com:5050/4gtv-live112/index.m3u8
 #EXTINF:-1 tvg-name="Global TV (Dominican Republic) (720p)" tvg-logo="" group-title="其他",Global TV (Dominican Republic) (720p)
 https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8
 #EXTINF:-1 tvg-name="Global TV (Mongolia) (1080p)" tvg-logo="" group-title="其他",Global TV (Mongolia) (1080p)
@@ -10871,8 +10901,16 @@ https://jmp2.uk/plu-63934c218ef524000757b122.m3u8
 http://38.65.175.84:8000/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-name="HBO 2 Latin America HD (1080p)" tvg-logo="" group-title="其他",HBO 2 Latin America HD (1080p)
 http://45.171.64.30:6060/play/a00i/index.m3u8
+#EXTINF:-1 tvg-name="HBO (720p)" tvg-logo="" group-title="其他",HBO (720p)
+http://tvsen7.aynascope.net/hbo/index.m3u8
+#EXTINF:-1 tvg-name="HBO Asia HD (1080p)" tvg-logo="" group-title="其他",HBO Asia HD (1080p)
+https://2x2.me/yTKXaE
 #EXTINF:-1 tvg-name="HBO Family Latin America (1080p)" tvg-logo="" group-title="其他",HBO Family Latin America (1080p)
 http://45.171.64.30:6060/play/a00k/index.m3u8
+#EXTINF:-1 tvg-name="HBO Hits (720p)" tvg-logo="" group-title="其他",HBO Hits (720p)
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+#EXTINF:-1 tvg-name="HBO Hits Asia HD (1080p)" tvg-logo="" group-title="其他",HBO Hits Asia HD (1080p)
+https://2x2.me/BbwzPx
 #EXTINF:-1 tvg-name="HBO Latin America (720p) [Geo-blocked]" tvg-logo="" group-title="其他",HBO Latin America (720p) [Geo-blocked]
 http://15.204.246.24:8080/HBOHD/index.m3u8
 #EXTINF:-1 tvg-name="HBO Movies (720p)" tvg-logo="" group-title="其他",HBO Movies (720p)
@@ -10945,6 +10983,10 @@ https://jmp2.uk/plu-66c79221b1a34600087e264d.m3u8
 http://117.156.28.119/270000001111/1110000149/index.m3u8
 #EXTINF:-1 tvg-name="HGPTV (720p) [Not 24/7]" tvg-logo="" group-title="其他",HGPTV (720p) [Not 24/7]
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8
+#EXTINF:-1 tvg-name="HGTV (1080p)" tvg-logo="" group-title="其他",HGTV (1080p)
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
+#EXTINF:-1 tvg-name="HGTV Asia (1080p)" tvg-logo="" group-title="其他",HGTV Asia (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=99
 #EXTINF:-1 tvg-name="HGTV Latin America (1080p)" tvg-logo="" group-title="其他",HGTV Latin America (1080p)
 http://38.87.224.19:2220/play/a01p/index.m3u8
 #EXTINF:-1 tvg-name="Hi Dost! (720p)" tvg-logo="" group-title="其他",Hi Dost! (720p)
@@ -11005,6 +11047,8 @@ http://213.91.179.28:8000/play/a0c1
 http://88.212.15.19/live/test_history/playlist.m3u8
 #EXTINF:-1 tvg-name="History (Hungary)" tvg-logo="" group-title="其他",History (Hungary)
 http://88.212.15.19/live/history_hun/index.m3u8
+#EXTINF:-1 tvg-name="History (Netherlands) (360p)" tvg-logo="" group-title="其他",History (Netherlands) (360p)
+https://lb.iptvnetwork.net/ls28/10022/playlist.m3u8
 #EXTINF:-1 tvg-name="History (Slovenia) (1080p)" tvg-logo="" group-title="其他",History (Slovenia) (1080p)
 https://streamer12.xploretv.si/__cl/cg:prod/__c/A1_SI_HISTORYHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 #EXTINF:-1 tvg-name="History (United States) (720p)" tvg-logo="" group-title="其他",History (United States) (720p)
@@ -11123,8 +11167,6 @@ https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 http://streaming.zaytonatube.com:8080/holyquran/holyquran/video.m3u8
 #EXTINF:-1 tvg-name="Home & Shopping (720p)" tvg-logo="" group-title="其他",Home & Shopping (720p)
 https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
-#EXTINF:-1 tvg-name="Home + (576p)" tvg-logo="" group-title="其他",Home + (576p)
-http://str2.iptvhd.ru:8080/home_plus/index.m3u8
 #EXTINF:-1 tvg-name="Home TV" tvg-logo="" group-title="其他",Home TV
 http://92.114.85.87:8010/play/a00h/index.m3u8
 #EXTINF:-1 tvg-name="Home.Made.Nation (720p)" tvg-logo="" group-title="其他",Home.Made.Nation (720p)
@@ -11175,8 +11217,6 @@ https://ext.cdn.nashnet.tv/228.0.0.172/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8
 #EXTINF:-1 tvg-name="Horoshee Kino (720p)" tvg-logo="" group-title="其他",Horoshee Kino (720p)
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
-#EXTINF:-1 tvg-name="Horror Channel (1080p)" tvg-logo="" group-title="其他",Horror Channel (1080p)
-http://str2.iptvhd.ru:8080/Horror/index.m3u8
 #EXTINF:-1 tvg-name="Horse & Country TV (1080p)" tvg-logo="" group-title="其他",Horse & Country TV (1080p)
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 #EXTINF:-1 tvg-name="Horse TV (720p)" tvg-logo="" group-title="其他",Horse TV (720p)
@@ -11189,24 +11229,10 @@ https://ktismaservers.in:3349/live/hosannatvlive.m3u8
 https://mumbai-edge.smartplaytv.in/HosannaTV/index.m3u8
 #EXTINF:-1 tvg-name="Hosanna Vision (720p) [Not 24/7]" tvg-logo="" group-title="其他",Hosanna Vision (720p) [Not 24/7]
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/playlist.m3u8
-#EXTINF:-1 tvg-name="HOT8 (1080p)" tvg-logo="" group-title="其他",HOT8 (1080p)
-http://str2.iptvhd.ru:8080/channel8/index.m3u8
 #EXTINF:-1 tvg-name="Hot Bench (720p)" tvg-logo="" group-title="其他",Hot Bench (720p)
 https://jmp2.uk/plu-6036e6e7ac69c400072afca2.m3u8
-#EXTINF:-1 tvg-name="HOT Cinema 1 (1080p)" tvg-logo="" group-title="其他",HOT Cinema 1 (1080p)
-http://str2.iptvhd.ru:8080/Gold/index.m3u8
-#EXTINF:-1 tvg-name="HOT Cinema 2 (1080p)" tvg-logo="" group-title="其他",HOT Cinema 2 (1080p)
-http://str2.iptvhd.ru:8080/action/index.m3u8
-#EXTINF:-1 tvg-name="HOT Cinema 3 (1080p)" tvg-logo="" group-title="其他",HOT Cinema 3 (1080p)
-http://str2.iptvhd.ru:8080/fun/index.m3u8
-#EXTINF:-1 tvg-name="HOT Cinema 4 (1080p)" tvg-logo="" group-title="其他",HOT Cinema 4 (1080p)
-http://str2.iptvhd.ru:8080/drama/index.m3u8
-#EXTINF:-1 tvg-name="HOT Comedy (1080p)" tvg-logo="" group-title="其他",HOT Comedy (1080p)
-http://str2.iptvhd.ru:8080/HOTComedy/index.m3u8
 #EXTINF:-1 tvg-name="HOT Drama (1080p)" tvg-logo="" group-title="其他",HOT Drama (1080p)
 http://stream.mcquack.net/381/index.m3u8
-#EXTINF:-1 tvg-name="HOT Senior (1080p)" tvg-logo="" group-title="其他",HOT Senior (1080p)
-http://str2.iptvhd.ru:8080/HOT_Senior/index.m3u8
 #EXTINF:-1 tvg-name="HOT Zone (1080p)" tvg-logo="" group-title="其他",HOT Zone (1080p)
 http://stream.mcquack.net/379/index.m3u8
 #EXTINF:-1 tvg-name="House of Lies" tvg-logo="" group-title="其他",House of Lies
@@ -11434,13 +11460,13 @@ https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
 #EXTINF:-1 tvg-name="IFC (1080p)" tvg-logo="" group-title="其他",IFC (1080p)
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 #EXTINF:-1 tvg-name="iFilm 2" tvg-logo="" group-title="其他",iFilm 2
-https://live.presstv.ir/hls/ifilm2.m3u8
+https://live.presstv.co.uk/hls/ifilm2.m3u8
 #EXTINF:-1 tvg-name="iFilm Arabic" tvg-logo="" group-title="其他",iFilm Arabic
-https://live.presstv.ir/hls/ifilmar.m3u8
+https://live.presstv.co.uk/hls/ifilmar.m3u8
 #EXTINF:-1 tvg-name="iFilm English" tvg-logo="" group-title="其他",iFilm English
-https://live.presstv.ir/hls/ifilmen.m3u8
+https://live.presstv.co.uk/hls/ifilmen.m3u8
 #EXTINF:-1 tvg-name="iFilm Persian" tvg-logo="" group-title="其他",iFilm Persian
-https://live.presstv.ir/hls/ifilmfa.m3u8
+https://live.presstv.co.uk/hls/ifilmfa.m3u8
 #EXTINF:-1 tvg-name="Iglesia Del Camino (480p) [Not 24/7]" tvg-logo="" group-title="其他",Iglesia Del Camino (480p) [Not 24/7]
 http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
 #EXTINF:-1 tvg-name="Ignite Television (1080p) [Not 24/7]" tvg-logo="" group-title="其他",Ignite Television (1080p) [Not 24/7]
@@ -11637,6 +11663,8 @@ https://jmp2.uk/plu-5dcde27ffae9520009c0c75a.m3u8
 https://jmp2.uk/plu-5cf96b8f4f1ca3f0629f4bf1.m3u8
 #EXTINF:-1 tvg-name="Investigation by Pluto TV" tvg-logo="" group-title="其他",Investigation by Pluto TV
 https://jmp2.uk/plu-6683cd2fca74680008772545.m3u8
+#EXTINF:-1 tvg-name="Investigation Discovery (Hungary)" tvg-logo="" group-title="其他",Investigation Discovery (Hungary)
+http://88.212.15.17/live/id_hun/index.m3u8
 #EXTINF:-1 tvg-name="Investigation Discovery (Russia) (1080p)" tvg-logo="" group-title="其他",Investigation Discovery (Russia) (1080p)
 http://stream.mcquack.net/205/index.m3u8
 #EXTINF:-1 tvg-name="Investigation Discovery (United States) (1080p) [Geo-blocked]" tvg-logo="" group-title="其他",Investigation Discovery (United States) (1080p) [Geo-blocked]
@@ -12045,8 +12073,6 @@ https://jmp2.uk/plu-6380c428dd0f47000799907c.m3u8
 https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
 #EXTINF:-1 tvg-name="Juice TV (1080p) [Not 24/7]" tvg-logo="" group-title="其他",Juice TV (1080p) [Not 24/7]
 https://juicex.nz/hls/mystream.m3u8
-#EXTINF:-1 tvg-name="Junior (1080p)" tvg-logo="" group-title="其他",Junior (1080p)
-http://str2.iptvhd.ru:8080/junior/index.m3u8
 #EXTINF:-1 tvg-name="Junior Technologia TV (1080p) [Not 24/7]" tvg-logo="" group-title="其他",Junior Technologia TV (1080p) [Not 24/7]
 https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
 #EXTINF:-1 tvg-name="Juntos TV (Chile) (720p)" tvg-logo="" group-title="其他",Juntos TV (Chile) (720p)
@@ -12093,8 +12119,8 @@ http://180.188.254.253/live/KABADDI24X7.m3u8
 https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 #EXTINF:-1 tvg-name="kabel eins" tvg-logo="" group-title="其他",kabel eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
-#EXTINF:-1 tvg-name="kabel eins Doku" tvg-logo="" group-title="其他",kabel eins Doku
-http://178.27.12.3:9981/stream/channelid/1958526590?profile=pass
+#EXTINF:-1 tvg-name="kabel eins Doku (720p)" tvg-logo="" group-title="其他",kabel eins Doku (720p)
+https://s6.hopslan.com/dokuX/index.m3u8
 #EXTINF:-1 tvg-name="Kadak (1080p)" tvg-logo="" group-title="其他",Kadak (1080p)
 https://n18syndication.akamaized.net/bpk-tv/Kadak_NW18_MOB/output01/master.m3u8
 #EXTINF:-1 tvg-name="Kaifa TV (576p)" tvg-logo="" group-title="其他",Kaifa TV (576p)
@@ -12963,6 +12989,8 @@ http://nmk.ioapk.com:5050/4gtv-live029/index.m3u8
 http://138.121.15.230:9002/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-name="Lifetime Latin America Brazil (720p)" tvg-logo="" group-title="其他",Lifetime Latin America Brazil (720p)
 http://170.83.16.50/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-name="Lifetime Latin America Mexico (1080p)" tvg-logo="" group-title="其他",Lifetime Latin America Mexico (1080p)
+https://streaming.onnethn.com/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-name="Lifetime Movies (1080p)" tvg-logo="" group-title="其他",Lifetime Movies (1080p)
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 tvg-name="LifeTv (1080p)" tvg-logo="" group-title="其他",LifeTv (1080p)
@@ -13181,8 +13209,6 @@ https://jmp2.uk/plu-61c19b7785706b00072d421a.m3u8
 https://jmp2.uk/plu-61c1e060197fe600073c1ffb.m3u8
 #EXTINF:-1 tvg-name="Luksusfellen Sverige" tvg-logo="" group-title="其他",Luksusfellen Sverige
 https://jmp2.uk/plu-61c1e0f1d6d97900076ea16f.m3u8
-#EXTINF:-1 tvg-name="Luli (1080p)" tvg-logo="" group-title="其他",Luli (1080p)
-http://str2.iptvhd.ru:8080/HOT_Luli/index.m3u8
 #EXTINF:-1 tvg-name="Luna TV Canal 53 (720p)" tvg-logo="" group-title="其他",Luna TV Canal 53 (720p)
 https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
 #EXTINF:-1 tvg-name="Lux TV (1080p)" tvg-logo="" group-title="其他",Lux TV (1080p)
@@ -13283,8 +13309,6 @@ https://edge12.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-name="Maestrat TV (1080p)" tvg-logo="" group-title="其他",Maestrat TV (1080p)
 https://stream.maestrat.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-name="Maestro (576p)" tvg-logo="" group-title="其他",Maestro (576p)
-http://str2.iptvhd.ru:8080/maestro/index.m3u8
 #EXTINF:-1 tvg-name="MagellanTV Now (1080p)" tvg-logo="" group-title="其他",MagellanTV Now (1080p)
 https://amg00376-magellan-amg00376c5-samsung-au-1708.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowww-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="MagentaMusik 360 (1080p)" tvg-logo="" group-title="其他",MagentaMusik 360 (1080p)
@@ -13815,8 +13839,8 @@ https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.m
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-name="Mezokovesdi Televizio (360p)" tvg-logo="" group-title="其他",Mezokovesdi Televizio (360p)
 https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Mezzo (1080p)" tvg-logo="" group-title="其他",Mezzo (1080p)
-http://str2.iptvhd.ru:8080/Mezzo_HD/index.m3u8
+#EXTINF:-1 tvg-name="Mezzo (576p)" tvg-logo="" group-title="其他",Mezzo (576p)
+http://91.228.35.249:8001/1:0:1:422B:2F44:13E:820000:0:0:0:
 #EXTINF:-1 tvg-name="Mezzo Live (1080p)" tvg-logo="" group-title="其他",Mezzo Live (1080p)
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-name="mfm (1080p)" tvg-logo="" group-title="其他",mfm (1080p)
@@ -14713,6 +14737,8 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&e
 http://103.185.24.134:3001/NATGEO-HD/index.m3u8
 #EXTINF:-1 tvg-name="National Geographic (Mexico) (1080p)" tvg-logo="" group-title="其他",National Geographic (Mexico) (1080p)
 http://138.121.15.230:9002/NAT-GEO/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic (Netherlands) (360p)" tvg-logo="" group-title="其他",National Geographic (Netherlands) (360p)
+https://lb.iptvnetwork.net/ls28/10016/playlist.m3u8
 #EXTINF:-1 tvg-name="National Geographic (Netherlands) HD (1080p)" tvg-logo="" group-title="其他",National Geographic (Netherlands) HD (1080p)
 http://46.32.176.50/NationalGeographicHD/index.m3u8
 #EXTINF:-1 tvg-name="National Geographic (Romania)" tvg-logo="" group-title="其他",National Geographic (Romania)
@@ -15137,6 +15163,8 @@ https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8
 #EXTINF:-1 tvg-name="NFL Channel (720p)" tvg-logo="" group-title="其他",NFL Channel (720p)
 https://jmp2.uk/plu-5ced7d5df64be98e07ed47b6.m3u8
+#EXTINF:-1 tvg-name="NFL Network (720p)" tvg-logo="" group-title="其他",NFL Network (720p)
+http://198.58.104.90:8989/nfl/index.m3u8
 #EXTINF:-1 tvg-name="NG Federal (720p)" tvg-logo="" group-title="其他",NG Federal (720p)
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
 #EXTINF:-1 tvg-name="NG Radio TV (360p)" tvg-logo="" group-title="其他",NG Radio TV (360p)
@@ -15175,8 +15203,6 @@ http://88.212.15.19/live/test_nick_jr/playlist.m3u8
 http://88.212.15.19/live/nick_junior_hun/index.m3u8
 #EXTINF:-1 tvg-name="Nick Jr. (India) (576p)" tvg-logo="" group-title="其他",Nick Jr. (India) (576p)
 http://103.185.24.134:3001/NICK-JR/index.m3u8
-#EXTINF:-1 tvg-name="Nick Jr. (Israel) (576p)" tvg-logo="" group-title="其他",Nick Jr. (Israel) (576p)
-http://str2.iptvhd.ru:8080/nickjr/index.m3u8
 #EXTINF:-1 tvg-name="Nick Jr. (Italy) (720p)" tvg-logo="" group-title="其他",Nick Jr. (Italy) (720p)
 http://102.129.186.182:81/nick/index.m3u8
 #EXTINF:-1 tvg-name="Nick Jr. (Russia) (576p)" tvg-logo="" group-title="其他",Nick Jr. (Russia) (576p)
@@ -15185,10 +15211,6 @@ http://stream.mcquack.net/220/index.m3u8
 http://212.5.144.156:8080/nickjr/index.m3u8
 #EXTINF:-1 tvg-name="Nick Jr. (United States) East HD (720p)" tvg-logo="" group-title="其他",Nick Jr. (United States) East HD (720p)
 http://107.167.16.138/nickjr/index.m3u8?token=test
-#EXTINF:-1 tvg-name="Nick Jr. Asia (720p)" tvg-logo="" group-title="其他",Nick Jr. Asia (720p)
-http://nmk.ioapk.com:5050/4gtv-live032/index.m3u8
-#EXTINF:-1 tvg-name="Nick Jr. Asia HD (720p)" tvg-logo="" group-title="其他",Nick Jr. Asia HD (720p)
-http://58.8.186.128:10003/bysid/2330
 #EXTINF:-1 tvg-name="Nick Jr. Club (Germany) (720p)" tvg-logo="" group-title="其他",Nick Jr. Club (Germany) (720p)
 https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
 #EXTINF:-1 tvg-name="Nick Jr. Club (United States) BR (720p)" tvg-logo="" group-title="其他",Nick Jr. Club (United States) BR (720p)
@@ -15199,6 +15221,8 @@ https://jmp2.uk/plu-5ddd7cb2cbb9010009b4fe32.m3u8
 https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
 #EXTINF:-1 tvg-name="Nick Jr. Pluto TV CA" tvg-logo="" group-title="其他",Nick Jr. Pluto TV CA
 https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
+#EXTINF:-1 tvg-name="Nick Schweiz" tvg-logo="" group-title="其他",Nick Schweiz
+https://zg9mhld.s.gy/CH-NICK-SCHWEIZ-HD.ts
 #EXTINF:-1 tvg-name="Nickelodeon (Brazil) (480p)" tvg-logo="" group-title="其他",Nickelodeon (Brazil) (480p)
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon (Bulgaria) (576p)" tvg-logo="" group-title="其他",Nickelodeon (Bulgaria) (576p)
@@ -15225,8 +15249,6 @@ http://stream.mcquack.net/443/index.m3u8
 http://tvsen7.aynascope.net/nicklodean/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon (United States) (720p)" tvg-logo="" group-title="其他",Nickelodeon (United States) (720p)
 http://198.58.104.90:8989/nickelodeon/index.m3u8
-#EXTINF:-1 tvg-name="Nickelodeon Asia (1080p)" tvg-logo="" group-title="其他",Nickelodeon Asia (1080p)
-http://nmk.ioapk.com:5050/4gtv-live105/index.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon CIS (1080p)" tvg-logo="" group-title="其他",Nickelodeon CIS (1080p)
 https://stream8.cinerama.uz/1500/playlist.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon Clasico (720p)" tvg-logo="" group-title="其他",Nickelodeon Clasico (720p)
@@ -15893,8 +15915,6 @@ https://cloudvideo.servers10.com:8081/8116/index.m3u8
 https://stmv4.voxtvhd.com.br/ondastereo/ondastereo/playlist.m3u8
 #EXTINF:-1 tvg-name="Ondas Quevedenas TV (720p) [Not 24/7]" tvg-logo="" group-title="其他",Ondas Quevedenas TV (720p) [Not 24/7]
 https://stmv6.voxtvhd.com.br/radiosuprema/radiosuprema/playlist.m3u8
-#EXTINF:-1 tvg-name="One 2 (1080p)" tvg-logo="" group-title="其他",One 2 (1080p)
-http://str2.iptvhd.ru:8080/One/index.m3u8
 #EXTINF:-1 tvg-name="One 31 (720p)" tvg-logo="" group-title="其他",One 31 (720p)
 https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
 #EXTINF:-1 tvg-name="One" tvg-logo="" group-title="其他",One
@@ -16051,6 +16071,8 @@ https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
 https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-name="Outdoor Channel HD (720p)" tvg-logo="" group-title="其他",Outdoor Channel HD (720p)
 http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
+#EXTINF:-1 tvg-name="Outdoor Channel Vietnam (1080p)" tvg-logo="" group-title="其他",Outdoor Channel Vietnam (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=216
 #EXTINF:-1 tvg-name="OuterSphere (1080p)" tvg-logo="" group-title="其他",OuterSphere (1080p)
 https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 #EXTINF:-1 tvg-name="Outlaw WGGS-TV (720p)" tvg-logo="" group-title="其他",Outlaw WGGS-TV (720p)
@@ -17337,6 +17359,8 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 #EXTINF:-1 tvg-name="Polimer TV (720p)" tvg-logo="" group-title="其他",Polimer TV (720p)
 https://cdn.pishow.tv/ott/live/1241/master.m3u8
+#EXTINF:-1 tvg-name="Polsat 2 (1080p)" tvg-logo="" group-title="其他",Polsat 2 (1080p)
+http://57.128.210.196:8080/208/index.m3u8
 #EXTINF:-1 tvg-name="Polsat (1080p) [Geo-blocked]" tvg-logo="" group-title="其他",Polsat (1080p) [Geo-blocked]
 https://cdn-s-playnow-live.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:-1 tvg-name="Polsat Comedy Central Extra (1080p)" tvg-logo="" group-title="其他",Polsat Comedy Central Extra (1080p)
@@ -18517,7 +18541,7 @@ http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 http://45.162.64.114/REDE_SECULO_21/index.m3u8
 #EXTINF:-1 tvg-name="Rede SPTV (360p)" tvg-logo="" group-title="其他",Rede SPTV (360p)
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF:-1 tvg-name="Rede TV! (720p)" tvg-logo="" group-title="其他",Rede TV! (720p)
+#EXTINF:-1 tvg-name="Rede TV! SD (720p)" tvg-logo="" group-title="其他",Rede TV! SD (720p)
 http://45.162.64.114/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-name="Rede TV! Mais" tvg-logo="" group-title="其他",Rede TV! Mais
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
@@ -18749,18 +18773,12 @@ https://streamunoapp.com:3331/live/rocavisiontvlive.m3u8
 https://5ff3d9babae13.streamlock.net/wympnqeqts/wympnqeqts/playlist.m3u8
 #EXTINF:-1 tvg-name="Rock & Pop (1080p)" tvg-logo="" group-title="其他",Rock & Pop (1080p)
 http://190.128.214.97:64333/play/a032/index.m3u8
-#EXTINF:-1 tvg-name="ROCK Action (1080p)" tvg-logo="" group-title="其他",ROCK Action (1080p)
-http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
 #EXTINF:-1 tvg-name="Rock Antenne [Not 24/7]" tvg-logo="" group-title="其他",Rock Antenne [Not 24/7]
 https://stream.rockantenne.de/rockantenne/stream/mp3
-#EXTINF:-1 tvg-name="ROCK Entertainment HD (720p)" tvg-logo="" group-title="其他",ROCK Entertainment HD (720p)
-http://58.8.186.128:10006/bysid/2612
 #EXTINF:-1 tvg-name="Rock TV (North Macedonia) (1080p) [Not 24/7]" tvg-logo="" group-title="其他",Rock TV (North Macedonia) (1080p) [Not 24/7]
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 #EXTINF:-1 tvg-name="Rock TV (Romania) (720p)" tvg-logo="" group-title="其他",Rock TV (Romania) (720p)
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-#EXTINF:-1 tvg-name="ROCK X Stream (720p)" tvg-logo="" group-title="其他",ROCK X Stream (720p)
-http://58.8.186.128:10007/bysid/2811
 #EXTINF:-1 tvg-name="Rockland TV (480p) [Not 24/7]" tvg-logo="" group-title="其他",Rockland TV (480p) [Not 24/7]
 https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Rocky Hill Channel 16 (480p)" tvg-logo="" group-title="其他",Rocky Hill Channel 16 (480p)
@@ -19415,6 +19433,8 @@ https://cdn.pishow.tv/ott/live/1143/master.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3SANGEETBHOJPURI/index.m3u8
 #EXTINF:-1 tvg-name="Sangeet Marathi (720p)" tvg-logo="" group-title="其他",Sangeet Marathi (720p)
 https://cdn.pishow.tv/ott/live/1229/master.m3u8
+#EXTINF:-1 tvg-name="Sangeorz TV (576p)" tvg-logo="" group-title="其他",Sangeorz TV (576p)
+https://live.sangeorztv.ro:8443/live/index.m3u8?cookieCheck=1
 #EXTINF:-1 tvg-name="Sangkem TV" tvg-logo="" group-title="其他",Sangkem TV
 https://live.sangkemtv.com/memfs/sangkem.m3u8
 #EXTINF:-1 tvg-name="Sankara TV (576p)" tvg-logo="" group-title="其他",Sankara TV (576p)
@@ -19571,7 +19591,7 @@ https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-s
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2240
 #EXTINF:-1 tvg-name="Scripps News (1080p)" tvg-logo="" group-title="其他",Scripps News (1080p)
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist.m3u8
-#EXTINF:-1 tvg-name="SCTV2 (720p)" tvg-logo="" group-title="其他",SCTV2 (720p)
+#EXTINF:-1 tvg-name="SCTV2 SD (720p)" tvg-logo="" group-title="其他",SCTV2 SD (720p)
 https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8
 #EXTINF:-1 tvg-name="SCTV3 (720p)" tvg-logo="" group-title="其他",SCTV3 (720p)
 https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
@@ -19895,6 +19915,8 @@ https://simf.1tvcrimea.ru/simferopol24.m3u8
 https://hls.simon.ua/live-HD/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Simpang5 TV (360p) [Not 24/7]" tvg-logo="" group-title="其他",Simpang5 TV (360p) [Not 24/7]
 http://122.248.43.242:1935/SIMPANG5TV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="Sin Limites (1080p)" tvg-logo="" group-title="其他",Sin Limites (1080p)
+http://170.244.209.30:8000/play/a1im/index.m3u8
 #EXTINF:-1 tvg-name="Sin tetas no hay paraiso" tvg-logo="" group-title="其他",Sin tetas no hay paraiso
 https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
 #EXTINF:-1 tvg-name="Sindh TV (1080p)" tvg-logo="" group-title="其他",Sindh TV (1080p)
@@ -20105,8 +20127,8 @@ http://euvia.cdn.ses-ps.com/HLS-Live/index.m3u8
 https://live.obslivestream.com/sonoondatv/index.m3u8
 #EXTINF:-1 tvg-name="Sonus FM (1080p) [Not 24/7]" tvg-logo="" group-title="其他",Sonus FM (1080p) [Not 24/7]
 http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
-#EXTINF:-1 tvg-name="Sony Aath (1080p)" tvg-logo="" group-title="其他",Sony Aath (1080p)
-https://cloudplay-sonyliv.pages.dev/aath.m3u8
+#EXTINF:-1 tvg-name="Sony Aath (576p)" tvg-logo="" group-title="其他",Sony Aath (576p)
+http://103.165.93.31:8095/sonyAath/index.m3u8
 #EXTINF:-1 tvg-name="Sony BBC Earth HD (1080p)" tvg-logo="" group-title="其他",Sony BBC Earth HD (1080p)
 http://103.185.24.134:3001/SONY-BBC/index.m3u8
 #EXTINF:-1 tvg-name="Sony Canal Novelas" tvg-logo="" group-title="其他",Sony Canal Novelas
@@ -20123,8 +20145,8 @@ http://103.151.60.162:2122/play/a015/index.m3u8?hls
 http://38.96.178.205/SONYHD/index.m3u8
 #EXTINF:-1 tvg-name="Sony KAL Hindi (1080p)" tvg-logo="" group-title="其他",Sony KAL Hindi (1080p)
 https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-name="Sony Marathi (1080p)" tvg-logo="" group-title="其他",Sony Marathi (1080p)
-https://cloudplay-sonyliv.pages.dev/marathi.m3u8
+#EXTINF:-1 tvg-name="Sony Marathi (576p)" tvg-logo="" group-title="其他",Sony Marathi (576p)
+http://107.167.16.138/sonymarathi/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Sony Max 2 (576p)" tvg-logo="" group-title="其他",Sony Max 2 (576p)
 http://107.167.16.138/sonymax2/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Sony Max (576p) [Geo-blocked]" tvg-logo="" group-title="其他",Sony Max (576p) [Geo-blocked]
@@ -20143,36 +20165,28 @@ https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-name="Sony One Hits Comedie (1080p)" tvg-logo="" group-title="其他",Sony One Hits Comedie (1080p)
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
-#EXTINF:-1 tvg-name="Sony Pal (1080p)" tvg-logo="" group-title="其他",Sony Pal (1080p)
-https://cloudplay-sonyliv.pages.dev/pal.m3u8
+#EXTINF:-1 tvg-name="Sony Pal (576p)" tvg-logo="" group-title="其他",Sony Pal (576p)
+http://59.103.38.46:8000/play/a0ac/index.m3u8
 #EXTINF:-1 tvg-name="Sony Pix HD (1080p)" tvg-logo="" group-title="其他",Sony Pix HD (1080p)
-https://cloudplay-sonyliv.pages.dev/pixhd.m3u8
+http://103.151.60.162:2122/play/a01d/index.m3u8?hls
 #EXTINF:-1 tvg-name="Sony SAB (576p)" tvg-logo="" group-title="其他",Sony SAB (576p)
 http://103.151.60.162:2122/play/a01q/index.m3u8?hls
-#EXTINF:-1 tvg-name="Sony Sports Ten 1 (1080p)" tvg-logo="" group-title="其他",Sony Sports Ten 1 (1080p)
-https://cloudplay-sonyliv.pages.dev/ten1.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Ten 1 (576p)" tvg-logo="" group-title="其他",Sony Sports Ten 1 (576p)
+http://103.151.60.162:2122/play/a01c/index.m3u8?hls
 #EXTINF:-1 tvg-name="Sony Sports Ten 1 HD (1080p)" tvg-logo="" group-title="其他",Sony Sports Ten 1 HD (1080p)
 http://103.185.24.134:3001/SonyTenSports1/index.m3u8
-#EXTINF:-1 tvg-name="Sony Sports Ten 2 (1080p)" tvg-logo="" group-title="其他",Sony Sports Ten 2 (1080p)
-https://cloudplay-sonyliv.pages.dev/ten2.m3u8
-#EXTINF:-1 tvg-name="Sony Sports Ten 2 HD (1080p)" tvg-logo="" group-title="其他",Sony Sports Ten 2 HD (1080p)
-https://cloudplay-sonyliv.pages.dev/ten2hd.m3u8
-#EXTINF:-1 tvg-name="Sony Sports Ten 3 Hindi (1080p)" tvg-logo="" group-title="其他",Sony Sports Ten 3 Hindi (1080p)
-https://cloudplay-sonyliv.pages.dev/ten3.m3u8
-#EXTINF:-1 tvg-name="Sony Sports Ten 3 Hindi HD (1080p)" tvg-logo="" group-title="其他",Sony Sports Ten 3 Hindi HD (1080p)
-https://cloudplay-sonyliv.pages.dev/ten3hd.m3u8
-#EXTINF:-1 tvg-name="Sony Sports Ten 4 (1080p)" tvg-logo="" group-title="其他",Sony Sports Ten 4 (1080p)
-https://cloudplay-sonyliv.pages.dev/ten4.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Ten 2 (576p)" tvg-logo="" group-title="其他",Sony Sports Ten 2 (576p)
+http://103.151.60.162:2122/play/a01b/index.m3u8?hls
+#EXTINF:-1 tvg-name="Sony Sports Ten 3 Hindi (576p)" tvg-logo="" group-title="其他",Sony Sports Ten 3 Hindi (576p)
+http://103.151.60.162:2122/play/a01t/index.m3u8?hls
 #EXTINF:-1 tvg-name="Sony Sports Ten 4 Kannada (576p)" tvg-logo="" group-title="其他",Sony Sports Ten 4 Kannada (576p)
 http://103.151.60.162:2122/play/a021/index.m3u8?hls
-#EXTINF:-1 tvg-name="Sony Sports Ten 4 Telugu (1080p)" tvg-logo="" group-title="其他",Sony Sports Ten 4 Telugu (1080p)
-https://cloudplay-sonyliv.pages.dev/ten4hd.m3u8
-#EXTINF:-1 tvg-name="Sony Sports Ten 5 (1080p)" tvg-logo="" group-title="其他",Sony Sports Ten 5 (1080p)
-https://cloudplay-sonyliv.pages.dev/ten5.m3u8
-#EXTINF:-1 tvg-name="Sony Wah (1080p)" tvg-logo="" group-title="其他",Sony Wah (1080p)
-https://cloudplay-sonyliv.pages.dev/wah.m3u8
-#EXTINF:-1 tvg-name="Sony Yay! (1080p)" tvg-logo="" group-title="其他",Sony Yay! (1080p)
-https://cloudplay-sonyliv.pages.dev/yay.m3u8
+#EXTINF:-1 tvg-name="Sony Sports Ten 5 (576p)" tvg-logo="" group-title="其他",Sony Sports Ten 5 (576p)
+http://103.151.60.162:2122/play/a028/index.m3u8?hls
+#EXTINF:-1 tvg-name="Sony Wah (1080p) [Geo-blocked]" tvg-logo="" group-title="其他",Sony Wah (1080p) [Geo-blocked]
+https://sl.vodep39240327.workers.dev/channel/SONY+WAH.m3u8
+#EXTINF:-1 tvg-name="Sony Yay! (576p)" tvg-logo="" group-title="其他",Sony Yay! (576p)
+http://103.165.93.31:8095/sonyYay/index.m3u8
 #EXTINF:-1 tvg-name="Soona TV" tvg-logo="" group-title="其他",Soona TV
 https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
 #EXTINF:-1 tvg-name="Sooriyan TV (1080p)" tvg-logo="" group-title="其他",Sooriyan TV (1080p)
@@ -20373,8 +20387,6 @@ http://stream.mcquack.net/461/index.m3u8
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 tvg-name="Sport 2 (Hungary)" tvg-logo="" group-title="其他",Sport 2 (Hungary)
 http://88.212.15.19/live/sport2_hun/index.m3u8
-#EXTINF:-1 tvg-name="Sport 2 (Israel) (1080p)" tvg-logo="" group-title="其他",Sport 2 (Israel) (1080p)
-http://str2.iptvhd.ru:8080/Sport_2/index.m3u8
 #EXTINF:-1 tvg-name="Sport 2 (Ukraine) (1080p)" tvg-logo="" group-title="其他",Sport 2 (Ukraine) (1080p)
 http://stream.mcquack.net/392/index.m3u8
 #EXTINF:-1 tvg-name="Sport 3 (Israel) (1080p)" tvg-logo="" group-title="其他",Sport 3 (Israel) (1080p)
@@ -20655,8 +20667,8 @@ https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u
 https://d10cyxntpn0bwm.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-name="Stingray Hot Country (1080p)" tvg-logo="" group-title="其他",Stingray Hot Country (1080p)
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-name="Stingray iConcerts HD (1080p)" tvg-logo="" group-title="其他",Stingray iConcerts HD (1080p)
-http://str2.iptvhd.ru:8080/iConcertsHD/index.m3u8
+#EXTINF:-1 tvg-name="Stingray iConcerts HD" tvg-logo="" group-title="其他",Stingray iConcerts HD
+https://dash4.antik.sk/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-name="Stingray Jukebox Oldies (1080p)" tvg-logo="" group-title="其他",Stingray Jukebox Oldies (1080p)
 https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-name="Stingray Karaoke (1080p)" tvg-logo="" group-title="其他",Stingray Karaoke (1080p)
@@ -21111,6 +21123,8 @@ https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
 https://livetv.tarangplus.in/tarangtv-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Taraqqiyot TV" tvg-logo="" group-title="其他",Taraqqiyot TV
 https://stream8.cinerama.uz/1204/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Tarima TV (720p)" tvg-logo="" group-title="其他",Tarima TV (720p)
+http://190.122.104.210:5080/LiveApp/streams/tarima.m3u8
 #EXTINF:-1 tvg-name="Taroteame (576p)" tvg-logo="" group-title="其他",Taroteame (576p)
 https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
 #EXTINF:-1 tvg-name="Tastemade (1080p)" tvg-logo="" group-title="其他",Tastemade (1080p)
@@ -21781,8 +21795,8 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tevesurSRT/playlist.m3u8
 https://v2.tustreaming.cl/tevex/index.m3u8
 #EXTINF:-1 tvg-name="Tezaur TV (576i)" tvg-logo="" group-title="其他",Tezaur TV (576i)
 https://tezaurtv.md/stream/index.m3u8
-#EXTINF:-1 tvg-name="TF1 (1080p)" tvg-logo="" group-title="其他",TF1 (1080p)
-http://str2.iptvhd.ru:8080/TF1/index.m3u8
+#EXTINF:-1 tvg-name="TF1 (576p)" tvg-logo="" group-title="其他",TF1 (576p)
+https://futbol9865.ultratv13.workers.dev/deportivo111/24.m3u8
 #EXTINF:-1 tvg-name="TF1 HD (720p)" tvg-logo="" group-title="其他",TF1 HD (720p)
 http://151.80.18.177:86/TF1_HD/index.m3u8
 #EXTINF:-1 tvg-name="TFX (720p)" tvg-logo="" group-title="其他",TFX (720p)
@@ -22153,6 +22167,8 @@ http://hls.tmacaraibes.com/live/index.m3u8
 http://151.80.18.177:86/TMC/index.m3u8
 #EXTINF:-1 tvg-name="TMC HD (1080p) [Geo-blocked]" tvg-logo="" group-title="其他",TMC HD (1080p) [Geo-blocked]
 http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
+#EXTINF:-1 tvg-name="TMF (1080p)" tvg-logo="" group-title="其他",TMF (1080p)
+https://tmf-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMGMzZGFhOGYtYjNhMC00Njk1LThkZTktZWNmNmVmNzRmMzY4IiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8
 #EXTINF:-1 tvg-name="TMT (1080p)" tvg-logo="" group-title="其他",TMT (1080p)
 https://live.teleradiocom.tj/9/3m.m3u8
 #EXTINF:-1 tvg-name="TMZ (720p)" tvg-logo="" group-title="其他",TMZ (720p)
@@ -22429,6 +22445,8 @@ https://edge.enhdtv.com/8064/index.m3u8
 http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Travel Box Brazil (720p)" tvg-logo="" group-title="其他",Travel Box Brazil (720p)
 http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
+#EXTINF:-1 tvg-name="Travel Channel (1080p)" tvg-logo="" group-title="其他",Travel Channel (1080p)
+http://stream.mcquack.net/231/index.m3u8
 #EXTINF:-1 tvg-name="Travel TV (576p)" tvg-logo="" group-title="其他",Travel TV (576p)
 https://streamer103.neterra.tv/travel/live.m3u8
 #EXTINF:-1 tvg-name="Travel+Adventure (1080p)" tvg-logo="" group-title="其他",Travel+Adventure (1080p)
@@ -23253,6 +23271,8 @@ http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 https://stmv.webtvninjas.com.br/tvprofissao/tvprofissao/playlist.m3u8
 #EXTINF:-1 tvg-name="TV Publica Fueguina (1080p)" tvg-logo="" group-title="其他",TV Publica Fueguina (1080p)
 https://nd106.republicaservers.com/hls/c8094/index.m3u8
+#EXTINF:-1 tvg-name="TV Publica Marcos Paz (720p)" tvg-logo="" group-title="其他",TV Publica Marcos Paz (720p)
+https://ca.centaurychile.com:2443/hls/mediospublicos.m3u8
 #EXTINF:-1 tvg-name="TV Puls (1080p)" tvg-logo="" group-title="其他",TV Puls (1080p)
 https://lowa8026-cmyk.github.io/PL/PULSHD.php.m3u8
 #EXTINF:-1 tvg-name="TV Puls HD (1080p)" tvg-logo="" group-title="其他",TV Puls HD (1080p)
@@ -23925,8 +23945,6 @@ https://stream.ottlive.co.in/ubangla/index.m3u8
 https://srs.u-channel.tv/live/uchannel-tv.m3u8
 #EXTINF:-1 tvg-name="U Los Lagos TV (1080p) [Not 24/7]" tvg-logo="" group-title="其他",U Los Lagos TV (1080p) [Not 24/7]
 http://tv.ulagos.cl/web/live.m3u8
-#EXTINF:-1 tvg-name="U Travel (1080p)" tvg-logo="" group-title="其他",U Travel (1080p)
-http://str2.iptvhd.ru:8080/travel/index.m3u8
 #EXTINF:-1 tvg-name="U&Alibi (576p)" tvg-logo="" group-title="其他",U&Alibi (576p)
 http://92.114.85.72:8000/play/a0bi
 #EXTINF:-1 tvg-name="U&W" tvg-logo="" group-title="其他",U&W
@@ -24305,6 +24323,8 @@ http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8
 https://video-eu1.streamerr.co/hls/scb80244b91/live.m3u8
 #EXTINF:-1 tvg-name="Vergina TV (1080p)" tvg-logo="" group-title="其他",Vergina TV (1080p)
 https://verginanews.gr:8443/hls_live/stream1.m3u8
+#EXTINF:-1 tvg-name="Veronica / Disney Jr. (360p)" tvg-logo="" group-title="其他",Veronica / Disney Jr. (360p)
+https://lb.iptvnetwork.net/ls28/10011/playlist.m3u8
 #EXTINF:-1 tvg-name="Verso TV" tvg-logo="" group-title="其他",Verso TV
 https://verso.coopcom.cl/live/SHf6GLCpn4hDSpWdzaDzgX0ciU82/index.m3u8
 #EXTINF:-1 tvg-name="Vesti FM (720p)" tvg-logo="" group-title="其他",Vesti FM (720p)
@@ -24551,14 +24571,10 @@ http://46.53.200.153:7777/play/a00h/index.m3u8
 http://iptv.vitotvo.video.makrodigital.com:8081/vitotvo/iptv/playlist.m3u8
 #EXTINF:-1 tvg-name="Vitrina TV (720p)" tvg-logo="" group-title="其他",Vitrina TV (720p)
 https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8
-#EXTINF:-1 tvg-name="Viva Istanbul (1080p)" tvg-logo="" group-title="其他",Viva Istanbul (1080p)
-http://str2.iptvhd.ru:8080/viva_plus/index.m3u8
 #EXTINF:-1 tvg-name="Viva Nicaragua Canal 13 (720p)" tvg-logo="" group-title="其他",Viva Nicaragua Canal 13 (720p)
 https://cdn.vivamediosni.com/viva_720p/index.m3u8
 #EXTINF:-1 tvg-name="Viva Premium (1080p)" tvg-logo="" group-title="其他",Viva Premium (1080p)
 http://stream.mcquack.net/43/index.m3u8
-#EXTINF:-1 tvg-name="Viva Telenovelas (1080p)" tvg-logo="" group-title="其他",Viva Telenovelas (1080p)
-http://str2.iptvhd.ru:8080/VIVA/index.m3u8
 #EXTINF:-1 tvg-name="Viva TV [Not 24/7]" tvg-logo="" group-title="其他",Viva TV [Not 24/7]
 https://cdn.amixtv.com/vivatv/index.m3u8
 #EXTINF:-1 tvg-name="Viva TV Yurimaguas (720p)" tvg-logo="" group-title="其他",Viva TV Yurimaguas (720p)
@@ -24591,6 +24607,14 @@ https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1 tvg-name="Vocea Basarabiei TV" tvg-logo="" group-title="其他",Vocea Basarabiei TV
 https://media.voceabasarabiei.md/vocea/bitrate_1080p.m3u8
+#EXTINF:-1 tvg-name="VOD 205 (576p)" tvg-logo="" group-title="其他",VOD 205 (576p)
+http://91.228.35.249:8001/1:0:1:3F:1964:13E:820000:0:0:0
+#EXTINF:-1 tvg-name="VOD 206 (576p)" tvg-logo="" group-title="其他",VOD 206 (576p)
+http://91.228.35.249:8001/1:0:1:40:1964:13E:820000:0:0:0
+#EXTINF:-1 tvg-name="VOD 207 (576p)" tvg-logo="" group-title="其他",VOD 207 (576p)
+http://91.228.35.249:8001/1:0:1:41:1964:13E:820000:0:0:0
+#EXTINF:-1 tvg-name="VOD 208 (576p)" tvg-logo="" group-title="其他",VOD 208 (576p)
+http://91.228.35.249:8001/1:0:1:42:1964:13E:820000:0:0:0
 #EXTINF:-1 tvg-name="Voice of Lebanon (1080p)" tvg-logo="" group-title="其他",Voice of Lebanon (1080p)
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="VoiceOver Radio TV (720p)" tvg-logo="" group-title="其他",VoiceOver Radio TV (720p)
@@ -24651,6 +24675,14 @@ https://reflect-vsctv.cablecast.tv/live-3/live/live.m3u8
 http://103.250.28.74:8000/play/a00w/index.m3u8
 #EXTINF:-1 tvg-name="VSiN (720p)" tvg-logo="" group-title="其他",VSiN (720p)
 https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
+#EXTINF:-1 tvg-name="VTM 2 (360p)" tvg-logo="" group-title="其他",VTM 2 (360p)
+https://lb.iptvnetwork.net/ls28/10035/playlist.m3u8
+#EXTINF:-1 tvg-name="VTM 3 (360p)" tvg-logo="" group-title="其他",VTM 3 (360p)
+https://lb.iptvnetwork.net/ls28/10037/playlist.m3u8
+#EXTINF:-1 tvg-name="VTM 4 (360p)" tvg-logo="" group-title="其他",VTM 4 (360p)
+https://lb.iptvnetwork.net/ls28/10038/playlist.m3u8
+#EXTINF:-1 tvg-name="VTM (360p)" tvg-logo="" group-title="其他",VTM (360p)
+https://lb.iptvnetwork.net/ls28/10033/playlist.m3u8
 #EXTINF:-1 tvg-name="VTU (1080p)" tvg-logo="" group-title="其他",VTU (1080p)
 https://lbgo.bozztv.com/ssh101/ssh101/afghantheatretv/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV1 HD (1080p)" tvg-logo="" group-title="其他",VTV1 HD (1080p)
@@ -24663,22 +24695,20 @@ https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8
 https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-name="VTV5 HD (1080p)" tvg-logo="" group-title="其他",VTV5 HD (1080p)
 https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-name="VTV5 Tay Nam Bo HD (1080p)" tvg-logo="" group-title="其他",VTV5 Tay Nam Bo HD (1080p)
-https://live-a.fptplay53.net/live/media/vtv5tnb/live-hls-avc/index.m3u8
+#EXTINF:-1 tvg-name="VTV5 Tay Nam Bo HD (720p)" tvg-logo="" group-title="其他",VTV5 Tay Nam Bo HD (720p)
+https://vtvgolive-failover.vtvdigital.vn/vtvgo/vtv5tnb-manifest.m3u8
 #EXTINF:-1 tvg-name="VTV5 Tay Nguyen HD (1080p)" tvg-logo="" group-title="其他",VTV5 Tay Nguyen HD (1080p)
 https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/index.m3u8
 #EXTINF:-1 tvg-name="VTV6 (1080p)" tvg-logo="" group-title="其他",VTV6 (1080p)
-https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-name="VTV7 HD (1080p)" tvg-logo="" group-title="其他",VTV7 HD (1080p)
-https://live-a.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-name="VTV8 HD (1080p)" tvg-logo="" group-title="其他",VTV8 HD (1080p)
-https://live-a.fptplay53.net/live/media/vtv8/live247-hls-avc/index.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/index.m3u8
+#EXTINF:-1 tvg-name="VTV8 HD (720p)" tvg-logo="" group-title="其他",VTV8 HD (720p)
+https://dethich.pw/vtv8/index.m3u8
 #EXTINF:-1 tvg-name="VTV9 HD (1080p)" tvg-logo="" group-title="其他",VTV9 HD (1080p)
-https://live-a.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-name="VTV10 (1080p)" tvg-logo="" group-title="其他",VTV10 (1080p)
-https://live-a.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
-#EXTINF:-1 tvg-name="VTV10 SD (1080p) [Geo-blocked]" tvg-logo="" group-title="其他",VTV10 SD (1080p) [Geo-blocked]
-https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/index.m3u8
 #EXTINF:-1 tvg-name="VTV (Argentina) (720p) [Not 24/7]" tvg-logo="" group-title="其他",VTV (Argentina) (720p) [Not 24/7]
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 #EXTINF:-1 tvg-name="VTV (Honduras) (480p) [Not 24/7]" tvg-logo="" group-title="其他",VTV (Honduras) (480p) [Not 24/7]
@@ -25219,8 +25249,8 @@ https://server.zillarbarta.com/zbmusic/index.m3u8
 https://dash4.antik.sk/live/test_zdf_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-name="ZDFinfo (720p) [Geo-blocked]" tvg-logo="" group-title="其他",ZDFinfo (720p) [Geo-blocked]
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-#EXTINF:-1 tvg-name="ZDFneo" tvg-logo="" group-title="其他",ZDFneo
-http://178.27.12.3:9981/stream/channelid/1351813628?profile=pass
+#EXTINF:-1 tvg-name="ZDFneo (720p)" tvg-logo="" group-title="其他",ZDFneo (720p)
+http://5.180.164.197:8080/ZDFNEO/index.m3u8
 #EXTINF:-1 tvg-name="Zdorovoe TV (576p)" tvg-logo="" group-title="其他",Zdorovoe TV (576p)
 https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Zee 24 Ghanta (576p)" tvg-logo="" group-title="其他",Zee 24 Ghanta (576p)
