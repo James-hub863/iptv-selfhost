@@ -10882,21 +10882,21 @@
     "logo": "",
     "group": "其他",
     "_source": "https://ctlive2.wjdaily.com/wjtv/ch1.m3u8",
-    "url": "ch1-179203573.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
+    "url": "ch1-179205648.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
   },
   {
     "name": "未知",
     "logo": "",
     "group": "其他",
     "_source": "https://ctlive2.wjdaily.com/wjtv/ch1.m3u8",
-    "url": "ch1-179203574.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
+    "url": "ch1-179205649.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
   },
   {
     "name": "未知",
     "logo": "",
     "group": "其他",
     "_source": "https://ctlive2.wjdaily.com/wjtv/ch1.m3u8",
-    "url": "ch1-179203575.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
+    "url": "ch1-179205650.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
   },
   {
     "name": "00s Replay",
@@ -27118,6 +27118,13 @@
     "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8"
   },
   {
+    "name": "CNBC Asia HD (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://freem3u.xyz/api/live/play.m3u8?vid=9855"
+  },
+  {
     "name": "CNBC Awaaz (1080p)",
     "logo": "",
     "group": "其他",
@@ -32473,13 +32480,6 @@
     "url": "http://15.204.246.24:8080/eltreceHD/index.m3u8"
   },
   {
-    "name": "El Trece Internacional Latin America (1080p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "http://200.7.99.59:8000/play/a0gm/index.m3u8"
-  },
-  {
     "name": "EL TV",
     "logo": "",
     "group": "其他",
@@ -32793,6 +32793,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "http://31.148.48.15/English_club_TV_HD/index.m3u8"
+  },
+  {
+    "name": "English Club Global",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/english-club-global.m3u8"
   },
   {
     "name": "English Club TV (576i)",
@@ -35992,6 +35999,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "http://138.59.227.20:8000/play/a085/index.m3u8"
+  },
+  {
+    "name": "Fox Sports News (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8"
   },
   {
     "name": "Fox Weather (720p)",
@@ -44910,6 +44924,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8"
+  },
+  {
+    "name": "L'Equipe (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8"
   },
   {
     "name": "La 1 (1086p)",
@@ -70763,6 +70784,20 @@
     "url": "https://skylivetab-new.akamaized.net/hls/live/2038781/sky2/index.m3u8"
   },
   {
+    "name": "Sky Sports F1 (720p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8"
+  },
+  {
+    "name": "Sky Sports NFL (720p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8"
+  },
+  {
     "name": "SL 1",
     "logo": "",
     "group": "其他",
@@ -71286,6 +71321,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "http://107.167.16.138/sonymarathi/index.m3u8?token=test"
+  },
+  {
+    "name": "Sony Max 1",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://27.116.22.53:5001/live/3418.m3u8"
   },
   {
     "name": "Sony Max 2 (576p)",
@@ -75670,11 +75712,11 @@
     "url": "https://lbgo.bozztv.com/ssh101/ssh101/telecauquenestv/playlist.m3u8"
   },
   {
-    "name": "Teleceiba (720p)",
+    "name": "Teleceiba (1080p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://teleceiba.com/stream/tlcb720.m3u8"
+    "url": "http://45.238.141.222:8000/play/a0pf/index.m3u8"
   },
   {
     "name": "Telecentro (Dominican Republic) (1080p)",
@@ -78439,7 +78481,7 @@
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://tmf-nl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-yourchannels-10-restreaming/bitok/eyJzdGlkIjoiMGMzZGFhOGYtYjNhMC00Njk1LThkZTktZWNmNmVmNzRmMzY4IiwibWt0IjoibmwiLCJjaCI6IjEwIiwicHRmIjo1fQ%3D%3D/mpgmedia/TMF/TMF_NL/TMF_NL.m3u8"
+    "url": "https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/TMF.m3u8"
   },
   {
     "name": "TMT (1080p)",
@@ -80176,6 +80218,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://livestream.telvue.com/templeuni1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8"
+  },
+  {
+    "name": "TV1 (Lithuania) (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://lnk5511.bstrm.net/live/687e3fa8679c8d4d68fab5dd/hd/manifest.mpd"
   },
   {
     "name": "TV1 (Malaysia) (1080p)",
@@ -85636,13 +85685,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8"
-  },
-  {
-    "name": "V90 (1080p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "http://57.128.231.171:8080/228/index.m3u8"
   },
   {
     "name": "V Classic TV (720p)",

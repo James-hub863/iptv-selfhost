@@ -67528,5 +67528,70 @@
     "alive": false,
     "ts": 1792092748.6539795,
     "rt": 9999
+  },
+  "ch1-179205648.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1792115622.9540484,
+    "rt": 9999
+  },
+  "https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8": {
+    "alive": false,
+    "ts": 1792115622.984285,
+    "rt": 9999
+  },
+  "ch1-179205649.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1792115622.9653575,
+    "rt": 9999
+  },
+  "ch1-179205650.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1792115622.9705713,
+    "rt": 9999
+  },
+  "https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/english-club-global.m3u8": {
+    "alive": true,
+    "ts": 1792115622.982786,
+    "rt": 0.142
+  },
+  "https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/TMF.m3u8": {
+    "alive": true,
+    "ts": 1792115623.067532,
+    "rt": 0.135
+  },
+  "http://45.238.141.222:8000/play/a0pf/index.m3u8": {
+    "alive": true,
+    "ts": 1792115623.0604224,
+    "rt": 0.16
+  },
+  "https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8": {
+    "alive": false,
+    "ts": 1792115623.0163403,
+    "rt": 9999
+  },
+  "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8": {
+    "alive": false,
+    "ts": 1792115622.9869735,
+    "rt": 9999
+  },
+  "https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8": {
+    "alive": false,
+    "ts": 1792115623.034143,
+    "rt": 9999
+  },
+  "https://freem3u.xyz/api/live/play.m3u8?vid=9855": {
+    "alive": false,
+    "ts": 1792115622.9754753,
+    "rt": 9999
+  },
+  "http://27.116.22.53:5001/live/3418.m3u8": {
+    "alive": true,
+    "ts": 1792115623.0406456,
+    "rt": 0.989
+  },
+  "https://lnk5511.bstrm.net/live/687e3fa8679c8d4d68fab5dd/hd/manifest.mpd": {
+    "alive": true,
+    "ts": 1792115623.0714753,
+    "rt": 1.138
   }
 }
