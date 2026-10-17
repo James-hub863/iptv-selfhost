@@ -67536,7 +67536,7 @@
   },
   "https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live_1080p.m3u8": {
     "alive": false,
-    "ts": 1792115622.984285,
+    "ts": 1792237692.9313242,
     "rt": 9999
   },
   "ch1-179205649.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
@@ -67550,49 +67550,49 @@
     "rt": 9999
   },
   "https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/english-club-global.m3u8": {
-    "alive": true,
-    "ts": 1792115622.982786,
-    "rt": 0.142
+    "alive": false,
+    "ts": 1792237692.9247963,
+    "rt": 9999
   },
   "https://raw.githubusercontent.com/racitonsen/RacIPTV/refs/heads/main/streams/TMF.m3u8": {
-    "alive": true,
-    "ts": 1792115623.067532,
-    "rt": 0.135
+    "alive": false,
+    "ts": 1792237692.9952762,
+    "rt": 9999
   },
   "http://45.238.141.222:8000/play/a0pf/index.m3u8": {
     "alive": true,
-    "ts": 1792115623.0604224,
-    "rt": 0.16
+    "ts": 1792237692.9704177,
+    "rt": 0.185
   },
   "https://cdn.stmify.com/out/v1/SKY_SPORTS_F1/index.m3u8": {
     "alive": false,
-    "ts": 1792115623.0163403,
+    "ts": 1792237692.9641495,
     "rt": 9999
   },
   "https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8": {
     "alive": false,
-    "ts": 1792115622.9869735,
+    "ts": 1792237692.9349837,
     "rt": 9999
   },
   "https://cdn.stmify.com/out/v1/SKY_SPORTS_ACTION/index.m3u8": {
     "alive": false,
-    "ts": 1792115623.034143,
+    "ts": 1792237692.9648144,
     "rt": 9999
   },
   "https://freem3u.xyz/api/live/play.m3u8?vid=9855": {
     "alive": false,
-    "ts": 1792115622.9754753,
+    "ts": 1792237692.9169953,
     "rt": 9999
   },
   "http://27.116.22.53:5001/live/3418.m3u8": {
-    "alive": true,
-    "ts": 1792115623.0406456,
-    "rt": 0.989
+    "alive": false,
+    "ts": 1792237692.9665236,
+    "rt": 9999
   },
   "https://lnk5511.bstrm.net/live/687e3fa8679c8d4d68fab5dd/hd/manifest.mpd": {
     "alive": true,
-    "ts": 1792115623.0714753,
-    "rt": 1.138
+    "ts": 1792237693.0020542,
+    "rt": 0.651
   },
   "ch1-179209107.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
     "alive": false,
@@ -67697,6 +67697,21 @@
   "https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8": {
     "alive": false,
     "ts": 1792201623.2701182,
+    "rt": 9999
+  },
+  "ch1-179216531.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1792237692.8845713,
+    "rt": 9999
+  },
+  "ch1-179216532.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1792237692.8900182,
+    "rt": 9999
+  },
+  "ch1-179216533.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1792237692.8952932,
     "rt": 9999
   }
 }
