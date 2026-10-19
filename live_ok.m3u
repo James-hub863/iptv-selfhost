@@ -4,10 +4,10 @@
 # ---- 其他 (28) ----
 #EXTINF:-1 tvg-name="CCTV-16 HD (1080p)" tvg-logo="" group-title="央视频道",CCTV-16 HD (1080p)
 http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="" group-title="央视频道",CCTV-15
-http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-14" tvg-logo="" group-title="央视频道",CCTV-14
 http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-15" tvg-logo="" group-title="央视频道",CCTV-15
+http://74.91.26.218:82/live/cctv15hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-1 HD (1080p)" tvg-logo="" group-title="央视频道",CCTV-1 HD (1080p)
 http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV-11" tvg-logo="" group-title="央视频道",CCTV-11
@@ -22,8 +22,6 @@ http://74.91.26.218:82/live/cctv17hd.m3u8
 http://69.30.245.50/live/cctv8.m3u8
 #EXTINF:-1 tvg-name="CCTV-4K HD (1080p)" tvg-logo="" group-title="央视频道",CCTV-4K HD (1080p)
 http://198.204.240.250:82/live/cctv4k.m3u8
-#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="" group-title="央视频道",CCTV-16
-http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV-13" tvg-logo="" group-title="央视频道",CCTV-13
 http://74.91.26.218:82/live/cctv13hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-12" tvg-logo="" group-title="央视频道",CCTV-12
@@ -32,6 +30,8 @@ http://107.150.60.122/live/cctv12hd.m3u8
 http://74.91.26.218:82/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-6" tvg-logo="" group-title="央视频道",CCTV-6
 http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 tvg-name="CCTV-16" tvg-logo="" group-title="央视频道",CCTV-16
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="CCTV-7" tvg-logo="" group-title="央视频道",CCTV-7
 http://107.150.60.122/live/cctv7hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-9 (576i)" tvg-logo="" group-title="央视频道",CCTV-9 (576i)
@@ -391,10 +391,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 # --- 儿童频道 ---
 # ---- 其他境外源 (8) ----
-#EXTINF:-1 tvg-name="Discovery Kids (720p)" tvg-logo="" group-title="儿童频道",Discovery Kids (720p)
-https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network (India) (720p)" tvg-logo="" group-title="儿童频道",Cartoon Network (India) (720p)
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Kids (720p)" tvg-logo="" group-title="儿童频道",Discovery Kids (720p)
+https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8
 #EXTINF:-1 tvg-name="Cartoon Network HD+ (720p)" tvg-logo="" group-title="儿童频道",Cartoon Network HD+ (720p)
 https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Groovia Kids (576p)" tvg-logo="" group-title="儿童频道",Groovia Kids (576p)
@@ -411,7 +411,7 @@ http://198.58.104.90:8989/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-name="TVCARiB Kids & Teens (720p) [Not 24/7]" tvg-logo="" group-title="儿童频道 / 北欧",TVCARiB Kids & Teens (720p) [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 # --- 娱乐频道 ---
-# ---- 其他境外源 (99) ----
+# ---- 其他境外源 (100) ----
 #EXTINF:-1 tvg-name="Eurosport (720p)" tvg-logo="" group-title="娱乐频道",Eurosport (720p)
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 #EXTINF:-1 tvg-name="TLC (India) HD (720p)" tvg-logo="" group-title="娱乐频道",TLC (India) HD (720p)
@@ -420,10 +420,8 @@ https://drk6xq0vhn.gpcdn.net/live/tlc_hd_abr/index.m3u8
 https://drk6xq0vhn.gpcdn.net/live/tlc_sd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Discovery Channel (India) HD (720p)" tvg-logo="" group-title="娱乐频道",Discovery Channel (India) HD (720p)
 https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
-#EXTINF:-1 tvg-name="Kalaignar Seithigal (576p)" tvg-logo="" group-title="娱乐频道",Kalaignar Seithigal (576p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/KalaignarSeithigal.m3u8
-#EXTINF:-1 tvg-name="HBO+ Latin America (720p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",HBO+ Latin America (720p) [Geo-blocked]
-http://15.204.246.24:8080/HBOPlusHD/index.m3u8
+#EXTINF:-1 tvg-name="TCM (720p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",TCM (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-name="Animal Planet (United States) (720p)" tvg-logo="" group-title="娱乐频道",Animal Planet (United States) (720p)
 http://23.239.31.26:8989/animalplanet/index.m3u8
 #EXTINF:-1 tvg-name="Colors Gujarati (396p)" tvg-logo="" group-title="娱乐频道",Colors Gujarati (396p)
@@ -440,8 +438,6 @@ https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 #EXTINF:-1 tvg-name="Mediaset Italia Australia (1080p)" tvg-logo="" group-title="娱乐频道",Mediaset Italia Australia (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
-#EXTINF:-1 tvg-name="TCM West (720p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",TCM West (720p) [Geo-blocked]
-https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-name="ETV Plus (396p)" tvg-logo="" group-title="娱乐频道",ETV Plus (396p)
 https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-name="Sony SAB (720p)" tvg-logo="" group-title="娱乐频道",Sony SAB (720p)
@@ -482,14 +478,12 @@ https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlis
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 7 Neuquen (1080p)" tvg-logo="" group-title="娱乐频道",Canal 7 Neuquen (1080p)
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
-#EXTINF:-1 tvg-name="Colors (576p)" tvg-logo="" group-title="娱乐频道",Colors (576p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
 #EXTINF:-1 tvg-name="沭阳综合" tvg-logo="" group-title="娱乐频道",沭阳综合
 http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 #EXTINF:-1 tvg-name="DellaTV (720p)" tvg-logo="" group-title="娱乐频道",DellaTV (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
-#EXTINF:-1 tvg-name="AMC (United States) (720p)" tvg-logo="" group-title="娱乐频道",AMC (United States) (720p)
-http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:-1 tvg-name="TBS (720p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",TBS (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="ABNsat (720p)" tvg-logo="" group-title="娱乐频道",ABNsat (720p)
 https://mediaserver.abnvideos.com/streams/abnsat.m3u8
 #EXTINF:-1 tvg-name="ABN Urdu (540p)" tvg-logo="" group-title="娱乐频道",ABN Urdu (540p)
@@ -498,6 +492,8 @@ https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 #EXTINF:-1 tvg-name="ABN Africa (480p)" tvg-logo="" group-title="娱乐频道",ABN Africa (480p)
 https://mediaserver.abnvideos.com/streams/abnafrica.m3u8
+#EXTINF:-1 tvg-name="AMC (United States) (720p)" tvg-logo="" group-title="娱乐频道",AMC (United States) (720p)
+http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 tvg-name="Radio Fx Net (720p)" tvg-logo="" group-title="娱乐频道",Radio Fx Net (720p)
 https://streamlov.alsolnet.com/radiofxnet/live/playlist.m3u8
 #EXTINF:-1 tvg-name="ABN TV India (540p)" tvg-logo="" group-title="娱乐频道",ABN TV India (540p)
@@ -538,12 +534,16 @@ https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
 http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1 tvg-name="REV'N Action (720p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",REV'N Action (720p) [Geo-blocked]
 https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8
+#EXTINF:-1 tvg-name="TCM West (720p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",TCM West (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-name="NBC KSHB-TV (720p)" tvg-logo="" group-title="娱乐频道",NBC KSHB-TV (720p)
 https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8
-#EXTINF:-1 tvg-name="Adoram TV (720p)" tvg-logo="" group-title="娱乐频道",Adoram TV (720p)
-https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
+#EXTINF:-1 tvg-name="TNT (United States) West (720p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",TNT (United States) West (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="" group-title="娱乐频道",东森超视
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 tvg-name="Adoram TV (720p)" tvg-logo="" group-title="娱乐频道",Adoram TV (720p)
+https://live20.bozztv.com/giatv/giatv-adoram/adoram/chunks.m3u8
 #EXTINF:-1 tvg-name="Historia HD (1080p)" tvg-logo="" group-title="娱乐频道",Historia HD (1080p)
 https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
 #EXTINF:-1 tvg-name="Canal PyC (720p)" tvg-logo="" group-title="娱乐频道",Canal PyC (720p)
@@ -610,6 +610,8 @@ http://15.204.246.24:8080/ElGourmetHD/index.m3u8
 https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="AXN Spin (Hungary)" tvg-logo="" group-title="娱乐频道",AXN Spin (Hungary)
 https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
+#EXTINF:-1 tvg-name="BBC America (720p)" tvg-logo="" group-title="娱乐频道",BBC America (720p)
+http://23.239.31.26:8989/bbcamerica/index.m3u8
 # ---- 北欧 (14) ----
 #EXTINF:-1 tvg-name="Rai Italia North Americas (1080p)" tvg-logo="" group-title="娱乐频道 / 北欧",Rai Italia North Americas (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
@@ -639,9 +641,6 @@ https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u
 https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TeleCibaoHD (720p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",TeleCibaoHD (720p) [Not 24/7]
 https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8
-# ---- 印度 (1) ----
-#EXTINF:-1 tvg-name="Zee Marathi HD (720p)" tvg-logo="" group-title="娱乐频道 / 印度",Zee Marathi HD (720p)
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
 # ---- 美国 (8) ----
 #EXTINF:-1 tvg-name="Univision West (1080p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道 / 美国",Univision West (1080p) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/uniwest.m3u8
