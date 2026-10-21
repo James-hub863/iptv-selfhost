@@ -10882,21 +10882,21 @@
     "logo": "",
     "group": "其他",
     "_source": "https://ctlive2.wjdaily.com/wjtv/ch1.m3u8",
-    "url": "ch1-179250963.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
+    "url": "ch1-179254697.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
   },
   {
     "name": "未知",
     "logo": "",
     "group": "其他",
     "_source": "https://ctlive2.wjdaily.com/wjtv/ch1.m3u8",
-    "url": "ch1-179250964.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
+    "url": "ch1-179254698.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
   },
   {
     "name": "未知",
     "logo": "",
     "group": "其他",
     "_source": "https://ctlive2.wjdaily.com/wjtv/ch1.m3u8",
-    "url": "ch1-179250965.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
+    "url": "ch1-179254699.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
   },
   {
     "name": "00s Replay",
@@ -12318,6 +12318,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "http://31.148.48.15/A2/index.m3u8"
+  },
+  {
+    "name": "A2 CNN",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8"
   },
   {
     "name": "A2i Music (720p) [Not 24/7]",
@@ -15363,6 +15370,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "http://107.167.7.162:8081/playlist/amhor/playlist.m3u8"
+  },
+  {
+    "name": "American Ninja Warrior (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads.xumo_channelId=99951318&ads.asnw=169843&ads.afid=405342864&ads.sfid=19647852&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior&ads.channelId=99951318"
   },
   {
     "name": "Ameritrade (1080p) [Not 24/7]",
@@ -21007,6 +21021,20 @@
     "url": "http://51.254.199.122:8080/bossbrothersTV/index.m3u8"
   },
   {
+    "name": "Botflix Radioo (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://hls.botflix.tv/radioo/index.m3u8"
+  },
+  {
+    "name": "Botflix TV (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://hls.botflix.tv/tv/index.m3u8"
+  },
+  {
     "name": "Bouke (504p)",
     "logo": "",
     "group": "其他",
@@ -24325,13 +24353,6 @@
     "url": "http://45.132.87.69:8080/cartoon_network/index.m3u8"
   },
   {
-    "name": "Cartoon Network HD+ (720p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8"
-  },
-  {
     "name": "Cartoon Network Latin America",
     "logo": "",
     "group": "其他",
@@ -25016,13 +25037,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "http://go.bkpcp.top/mg/cctv13"
-  },
-  {
-    "name": "CCTV-15 (1080p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://xykt-fix.github.io/play/a02e/index.m3u8"
   },
   {
     "name": "CCTV-16 HD (1080p)",
@@ -31483,7 +31497,7 @@
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://xykt-fix.github.io/play/a02j/index.m3u8"
+    "url": "https://cdn4.skygo.mn/live/disk1/Dreambox/DASH-FTA/Dreambox.mpd"
   },
   {
     "name": "DreamWorks Channel Asia (1080p)",
@@ -32051,6 +32065,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "http://seb.sason.top/sc/dscjxw_fhd.m3u8"
+  },
+  {
+    "name": "EBC Foreign Movie",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv"
   },
   {
     "name": "EBC General Education (720p) [Not 24/7]",
@@ -35922,13 +35943,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "http://stream.mcquack.net/182/index.m3u8"
-  },
-  {
-    "name": "Fox (United States) (720p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "http://stream.cammonitorplus.net/1752/index.m3u8"
   },
   {
     "name": "Fox (United States) KBSI (720p) [Not 24/7]",
@@ -40362,6 +40376,13 @@
     "url": "https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-DistroTV/152.m3u8?ads.vf=3I7CXmxz7vK"
   },
   {
+    "name": "Hunan Economy Channel",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://p8.vzan.com/slowlive/415983998730568937/live.m3u8"
+  },
+  {
     "name": "Hunan News Channel [Geo-blocked]",
     "logo": "",
     "group": "其他",
@@ -41293,11 +41314,11 @@
     "url": "https://cdn.pishow.tv/ott/live/411/master.m3u8"
   },
   {
-    "name": "iNews HD (1080p)",
+    "name": "iNews HD (720p)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "http://202.150.172.59/iNews/index.m3u8"
+    "url": "https://mncmedia.malingtv.workers.dev/inews.m3u8"
   },
   {
     "name": "INFAST (1080p)",
@@ -43727,13 +43748,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://brightonco.cablecast.tv/live-4/live/live.m3u8"
-  },
-  {
-    "name": "KBS Joy [Not 24/7]",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://xykt-fix.github.io/flv/KJ_W.m3u8"
   },
   {
     "name": "KBS World (720p)",
@@ -53599,6 +53613,13 @@
     "url": "https://mumt04.tangotv.in/m18aqlK4NEWS24MPCG/index.m3u8"
   },
   {
+    "name": "News24 Weather",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8"
+  },
+  {
     "name": "News24 World",
     "logo": "",
     "group": "其他",
@@ -54486,6 +54507,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8"
+  },
+  {
+    "name": "Nippon TV (576p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://ntv5.mov3.co/hls/ntv.m3u8"
   },
   {
     "name": "Nireekshana TV (576p)",
@@ -56768,13 +56796,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://183.bozztv.com/giatv/giatv-opinionsurc/opinionsurc/playlist.m3u8"
-  },
-  {
-    "name": "Oplot 2 (720p) [Geo-blocked]",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "http://iptv.mega.net.ru:8888/Oplot_2/index.m3u8"
   },
   {
     "name": "Oplot TV (1080p) [Geo-blocked]",
@@ -60004,14 +60025,7 @@
     "url": "https://jmp2.uk/plu-654a58dbf9cc82000868f0fb.m3u8"
   },
   {
-    "name": "Pluto TV Kids Club (Germany)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8"
-  },
-  {
-    "name": "Pluto TV Kids Club (United States)",
+    "name": "Pluto TV Kids Club",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
@@ -60347,41 +60361,6 @@
     "url": "https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8"
   },
   {
-    "name": "Pluto TV Paranormal (Germany)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8"
-  },
-  {
-    "name": "Pluto TV Paranormal (Germany) ES",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-612ce5214bb5790007ad3016.m3u8"
-  },
-  {
-    "name": "Pluto TV Paranormal (Germany) FR",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-5f8ed9461b35690007a0bc3a.m3u8"
-  },
-  {
-    "name": "Pluto TV Paranormal (Germany) GB",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-5d4af2ffa9506ab29cf38c38.m3u8"
-  },
-  {
-    "name": "Pluto TV Paranormal (Germany) IT",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8"
-  },
-  {
     "name": "Pluto TV Paranormal (Sweden)",
     "logo": "",
     "group": "其他",
@@ -60466,35 +60445,21 @@
     "url": "https://jmp2.uk/plu-60801976f92a750007a0699c.m3u8"
   },
   {
-    "name": "Pluto TV Reality (Germany) FR",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-6092544e7639460007d4835e.m3u8"
-  },
-  {
-    "name": "Pluto TV Reality (Germany) GB",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-5bd8186d53ed2c6334ea0855.m3u8"
-  },
-  {
-    "name": "Pluto TV Reality (United States)",
+    "name": "Pluto TV Reality",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://jmp2.uk/plu-69fa3faab9c0f0d444e64de3.m3u8"
   },
   {
-    "name": "Pluto TV Reality (United States) CA",
+    "name": "Pluto TV Reality CA",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://jmp2.uk/plu-67922858b83355184c699699.m3u8"
   },
   {
-    "name": "Pluto TV Reality (United States) LatAm",
+    "name": "Pluto TV Reality LatAm",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
@@ -60564,14 +60529,7 @@
     "url": "https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8"
   },
   {
-    "name": "Pluto TV Romance (Germany) DACH",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8"
-  },
-  {
-    "name": "Pluto TV Romance (United States)",
+    "name": "Pluto TV Romance",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
@@ -60611,34 +60569,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://jmp2.uk/plu-609404b0a8ec810007d8de9d.m3u8"
-  },
-  {
-    "name": "Pluto TV Sci-Fi (Germany)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8"
-  },
-  {
-    "name": "Pluto TV Sci-Fi (Germany) ES",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-5f6a38eaa5b68b0007a00e7a.m3u8"
-  },
-  {
-    "name": "Pluto TV Sci-Fi (Germany) GB",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8"
-  },
-  {
-    "name": "Pluto TV Sci-Fi (Germany) IT",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-61728bb9ee3773000840c1fa.m3u8"
   },
   {
     "name": "Pluto TV Sci-Fi (Sweden)",
@@ -60690,21 +60620,7 @@
     "url": "https://jmp2.uk/plu-619247c34a270700077c8415.m3u8"
   },
   {
-    "name": "Pluto TV Science (Germany)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8"
-  },
-  {
-    "name": "Pluto TV Science (Germany) GB",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-5d9492c77ea6f99188738ff1.m3u8"
-  },
-  {
-    "name": "Pluto TV Science (United States)",
+    "name": "Pluto TV Science",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
@@ -60739,14 +60655,7 @@
     "url": "https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8"
   },
   {
-    "name": "Pluto TV Series (Germany)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8"
-  },
-  {
-    "name": "Pluto TV Series (United States)",
+    "name": "Pluto TV Series",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
@@ -60858,14 +60767,7 @@
     "url": "https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8"
   },
   {
-    "name": "Pluto TV Series Sci-Fi (Germany)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-65ddec1ef7f0af0008be4b65.m3u8"
-  },
-  {
-    "name": "Pluto TV Series Sci-Fi (United States)",
+    "name": "Pluto TV Series Sci-Fi",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
@@ -60905,41 +60807,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8"
-  },
-  {
-    "name": "Pluto TV Snooker 900 (Germany) (720p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8"
-  },
-  {
-    "name": "Pluto TV Snooker 900 (Germany) ES (720p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-69148c470155f9b136b5d856.m3u8"
-  },
-  {
-    "name": "Pluto TV Snooker 900 (Germany) FR (720p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-66fd35e44ca31f0008060b77.m3u8"
-  },
-  {
-    "name": "Pluto TV Snooker 900 (Germany) GB (720p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-655b7cbb2c46f300086f0afa.m3u8"
-  },
-  {
-    "name": "Pluto TV Snooker 900 (Germany) IT (720p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-69148c76e9dec35c9269a16c.m3u8"
   },
   {
     "name": "Pluto TV Snooker 900 (Sweden) (720p)",
@@ -61159,21 +61026,7 @@
     "url": "https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8"
   },
   {
-    "name": "Pluto TV Thrillers (Germany)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-5f1ac8a87cd38d000745d7cf.m3u8"
-  },
-  {
-    "name": "Pluto TV Thrillers (Germany) GB",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-5dbfedccc563080009b60f4a.m3u8"
-  },
-  {
-    "name": "Pluto TV Thrillers (United States)",
+    "name": "Pluto TV Thrillers",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
@@ -61206,27 +61059,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8"
-  },
-  {
-    "name": "Pluto TV True Crime (Germany)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-615333098185f00008715a56.m3u8"
-  },
-  {
-    "name": "Pluto TV True Crime (Germany) ES",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-64a3f200f238ce0008d47247.m3u8"
-  },
-  {
-    "name": "Pluto TV True Crime (Germany) IT",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://jmp2.uk/plu-66d9ab4bf0f17500084e9b7e.m3u8"
   },
   {
     "name": "Pluto TV True Crime (Sweden)",
@@ -62272,32 +62104,11 @@
     "url": "http://88.212.15.17/live/test_prima_plus_25p/playlist.m3u8"
   },
   {
-    "name": "Prima Sport 1",
+    "name": "Prima Sport Czechia",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://dokagents.site/live/pr1/mono.m3u8"
-  },
-  {
-    "name": "Prima Sport 2",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://dokagents.site/live/pr2/mono.m3u8"
-  },
-  {
-    "name": "Prima Sport 3",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://dokagents.site/live/pr3/mono.m3u8"
-  },
-  {
-    "name": "Prima Sport 4",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://dokagents.site/live/pr4/mono.m3u8"
+    "url": "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0"
   },
   {
     "name": "Prima Star (1080p)",
@@ -62739,6 +62550,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://storage.sardius.media/archives/-KyMV-J0vDqnClcSXs8p/events/site_1a4721d3BA/playlist.m3u8"
+  },
+  {
+    "name": "PTS 3",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv"
   },
   {
     "name": "PTV (Bolivia) (720p)",
@@ -63271,6 +63089,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8"
+  },
+  {
+    "name": "Quantum TV (576p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://vs2140.vcdn.biz/0ca68e9e27bff1ff8d23519b5d9acbfe_megogo/live/hls/b/700_2490_4000/u_sid/0/o/190218421/rsid/0ad6062a-da94-4998-9598-08eece834674/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/86.120.126.66*asn/u_srvc/109126/u_did/web_00eb8979dc50e08f4572830b5a96f2db28ddd9581263144fcb95c26c90424491/type.live/chunklist-sid9102974610344929476-b2490000.m3u8"
   },
   {
     "name": "Quarto Canale Flegreo (720p)",
@@ -70035,13 +69860,6 @@
     "url": "http://31.148.48.15/7TV/index.m3u8"
   },
   {
-    "name": "Seven Channel (720p) [Not 24/7]",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://xykt-fix.github.io/liveh42-syhtv-mn/7Channel_HD/03.m3u8"
-  },
-  {
     "name": "Sever",
     "logo": "",
     "group": "其他",
@@ -70840,6 +70658,13 @@
     "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8"
   },
   {
+    "name": "SJTV",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv"
+  },
+  {
     "name": "SK 1 (720p)",
     "logo": "",
     "group": "其他",
@@ -70971,13 +70796,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
-  },
-  {
-    "name": "Sky News Weather Channel",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live_540p.m3u8"
   },
   {
     "name": "Sky Racing 1 (720p)",
@@ -72903,13 +72721,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starpravah.smil/chunklist_b1928000.m3u8"
-  },
-  {
-    "name": "Star Sports 1 (576p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "http://103.151.60.162:2122/play/a01a/index.m3u8?hls"
   },
   {
     "name": "Star Sports 2 (576p)",
@@ -83034,6 +82845,13 @@
     "url": "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8"
   },
   {
+    "name": "TV Tokyo (576p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://tvtokyo.mov3.co/hls/tvtokyo.m3u8"
+  },
+  {
     "name": "TV Torun (1080p) [Not 24/7]",
     "logo": "",
     "group": "其他",
@@ -87647,6 +87465,20 @@
     "url": "https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8"
   },
   {
+    "name": "VTV5 Tay Nam Bo HD",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://dethich.pw/vtv5tnb/index.m3u8"
+  },
+  {
+    "name": "VTV5 Tay Nguyen HD",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://dethich.pw/vtv5tn/index.m3u8"
+  },
+  {
     "name": "VTV6 (1080p)",
     "logo": "",
     "group": "其他",
@@ -88933,6 +88765,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "http://110.153.180.106:55555/out_3/index.m3u8"
+  },
+  {
+    "name": "Xinjiang TV 5",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://120.70.60.179:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0"
   },
   {
     "name": "Xinjiang TV 8",
