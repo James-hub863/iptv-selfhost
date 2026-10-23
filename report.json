@@ -1,12 +1,12 @@
 {
   "total": 12860,
-  "alive": 7649,
+  "alive": 7522,
   "cn_channels": 150,
   "foreign_channels": 150,
   "total_output": 300,
-  "dead": 5211,
-  "duration": 0.2,
-  "timestamp": "2026-10-23 12:54:46",
+  "dead": 5338,
+  "duration": 1136.0,
+  "timestamp": "2026-10-23 19:55:02",
   "fastest_cn": "ABTV Bariloche",
   "fastest_foreign": "A&E (720p)"
 }
