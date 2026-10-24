@@ -69648,5 +69648,190 @@
     "alive": false,
     "ts": 1792784265.05465,
     "rt": 9999
+  },
+  "ch1-179277946.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1792807781.4418597,
+    "rt": 9999
+  },
+  "ch1-179277947.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1792807781.4420412,
+    "rt": 9999
+  },
+  "ch1-179277948.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1792807781.4521804,
+    "rt": 9999
+  },
+  "https://cc-t2mudtkmuz4wb.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t2mudtkmuz4wb/B4U_Bhojpuri/master.m3u8": {
+    "alive": false,
+    "ts": 1792807781.4879196,
+    "rt": 9999
+  },
+  "https://5e50264bd6766.streamlock.net/canal11ury/videocanal11ury/playlist.m3u8": {
+    "alive": false,
+    "ts": 1792807781.4924428,
+    "rt": 9999
+  },
+  "https://cc-szrmqvu8zkg16.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szrmqvu8zkg16/greengold/stream/grngld/playlist.m3u8": {
+    "alive": false,
+    "ts": 1792807781.5020447,
+    "rt": 9999
+  },
+  "https://stmv.gmpro.top/laelegidatv/laelegidatv/playlist.m3u8": {
+    "alive": true,
+    "ts": 1792807781.5059888,
+    "rt": 0.248
+  },
+  "https://stmv.gmpro.top/surtv/surtv/playlist.m3u8": {
+    "alive": true,
+    "ts": 1792807781.4949682,
+    "rt": 0.293
+  },
+  "https://stmv1.voxtvhd.com.br/canalalmatv/canalalmatv/playlist.m3u8": {
+    "alive": true,
+    "ts": 1792807781.4920304,
+    "rt": 0.303
+  },
+  "https://amg13779-amg13779c1-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13779-amg13779c1-amgplt0016/playlist.m3u8": {
+    "alive": false,
+    "ts": 1792807781.4933865,
+    "rt": 9999
+  },
+  "https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8": {
+    "alive": false,
+    "ts": 1792807781.8273165,
+    "rt": 9999
+  },
+  "https://jmp2.uk/stvp-IN1600002IQ": {
+    "alive": false,
+    "ts": 1792807781.4958162,
+    "rt": 9999
+  },
+  "https://lnk5511.bstrm.net/live/687e3ff1679c8d4d68fab6c5/hd/manifest.mpd": {
+    "alive": true,
+    "ts": 1792807781.470448,
+    "rt": 0.607
+  },
+  "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L5/3264727f/d0a3cb71.isml/.m3u8": {
+    "alive": true,
+    "ts": 1792807781.4732938,
+    "rt": 0.616
+  },
+  "https://d3c7vdfq3tyeyw.cloudfront.net/v1/master/071c0467fcd02420cdf0d8a1ca3524b96c27a151/rusk_media/v1/channel/ruskmedia/germane.m3u8": {
+    "alive": false,
+    "ts": 1792807781.4724278,
+    "rt": 9999
+  },
+  "https://lnk5511.bstrm.net/live/687e3fd2679c8d4d68fab65b/hd/manifest.mpd": {
+    "alive": true,
+    "ts": 1792807781.5035353,
+    "rt": 0.662
+  },
+  "https://cdn.ottlive.co.in/mahuaplay/index.m3u8": {
+    "alive": true,
+    "ts": 1792807781.7875319,
+    "rt": 0.455
+  },
+  "https://cdn.ottlive.co.in/mahuakhabar/index.m3u8": {
+    "alive": true,
+    "ts": 1792807781.754889,
+    "rt": 0.52
+  },
+  "http://5.180.164.197:8080/RAIGULP/index.m3u8": {
+    "alive": true,
+    "ts": 1792807782.0786867,
+    "rt": 0.256
+  },
+  "https://server.livelegitpro.in/bhichannel/bhichannel/index.m3u8": {
+    "alive": true,
+    "ts": 1792807781.4893246,
+    "rt": 0.905
+  },
+  "https://samitaorigin.tangotv.in/GRACETV/SAMITAORIGIN/index.m3u8": {
+    "alive": true,
+    "ts": 1792807781.5017889,
+    "rt": 0.922
+  },
+  "https://samitaorigin.tangotv.in/FGNCHANNEL/SAMITAORIGIN/index.m3u8": {
+    "alive": true,
+    "ts": 1792807781.4988894,
+    "rt": 0.93
+  },
+  "https://samitaorigin.tangotv.in/BSTV/SAMITAORIGIN/index.m3u8": {
+    "alive": true,
+    "ts": 1792807781.4903946,
+    "rt": 0.946
+  },
+  "https://mumbai-edge.smartplaytv.in/GlobeTV/index.m3u8": {
+    "alive": true,
+    "ts": 1792807781.501288,
+    "rt": 0.951
+  },
+  "https://server.livelegitpro.in/globalindiatv/globalindiatv/video.m3u8": {
+    "alive": true,
+    "ts": 1792807781.4999201,
+    "rt": 1.019
+  },
+  "https://live.ekamraott.com/4tv/bharata2z/index.m3u8": {
+    "alive": true,
+    "ts": 1792807781.4892492,
+    "rt": 1.039
+  },
+  "https://samitaorigin.tangotv.in/HINDIHITS/SAMITAORIGIN/index.m3u8": {
+    "alive": true,
+    "ts": 1792807781.5024629,
+    "rt": 1.026
+  },
+  "https://banglajagotv.livebox.co.in/banglajagohls/24x7.m3u8": {
+    "alive": true,
+    "ts": 1792807781.488047,
+    "rt": 1.075
+  },
+  "https://newsliveindia.com:4433/atn/index.m3u8": {
+    "alive": true,
+    "ts": 1792807781.4786346,
+    "rt": 1.125
+  },
+  "https://samitaorigin.tangotv.in/MHONE/SAMITAORIGIN/index.m3u8": {
+    "alive": true,
+    "ts": 1792807781.7959752,
+    "rt": 0.929
+  },
+  "https://mumt01.tangotv.in/O5aw8Zn3PUNJABIBEATSHD/index.m3u8": {
+    "alive": true,
+    "ts": 1792807781.8347101,
+    "rt": 0.922
+  },
+  "https://stream.universal.org.uy/hls/0/stream.m3u8": {
+    "alive": true,
+    "ts": 1792807782.1593883,
+    "rt": 0.617
+  },
+  "https://samitaorigin.tangotv.in/PUTHIYAEXPRESS/SAMITAORIGIN/index.m3u8": {
+    "alive": true,
+    "ts": 1792807782.0241718,
+    "rt": 0.848
+  },
+  "https://samitaorigin.tangotv.in/SONARBANGLA/SAMITAORIGIN/index.m3u8": {
+    "alive": true,
+    "ts": 1792807782.0917583,
+    "rt": 0.952
+  },
+  "https://server.zillarbarta.com/ZBCINEMA/index.m3u8": {
+    "alive": false,
+    "ts": 1792807782.1682081,
+    "rt": 9999
+  },
+  "https://drk6xq0vhn.gpcdn.net/live/and_tv_hd_abr/index.m3u8": {
+    "alive": true,
+    "ts": 1792807781.4711537,
+    "rt": 2.292
+  },
+  "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Zee_Tamil/dash/drm/index.mpd": {
+    "alive": false,
+    "ts": 1792807782.2431173,
+    "rt": 9999
   }
 }
