@@ -10882,21 +10882,21 @@
     "logo": "",
     "group": "其他",
     "_source": "https://ctlive2.wjdaily.com/wjtv/ch1.m3u8",
-    "url": "ch1-179299452.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
+    "url": "ch1-179301341.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
   },
   {
     "name": "未知",
     "logo": "",
     "group": "其他",
     "_source": "https://ctlive2.wjdaily.com/wjtv/ch1.m3u8",
-    "url": "ch1-179299453.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
+    "url": "ch1-179301342.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
   },
   {
     "name": "未知",
     "logo": "",
     "group": "其他",
     "_source": "https://ctlive2.wjdaily.com/wjtv/ch1.m3u8",
-    "url": "ch1-179299454.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
+    "url": "ch1-179301343.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
   },
   {
     "name": "00s Replay",
@@ -24297,11 +24297,18 @@
     "url": "https://acceso.mediosdecostarica.com:3511/stream/play.m3u8"
   },
   {
-    "name": "Cartoon Classics",
+    "name": "Cartoon Classics (Poland)",
     "logo": "",
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://daiconnect.com/live/hls/tvup/rk-cartoonclassics/578f4b7eb725168349ec0af81b21d388/index.m3u8"
+  },
+  {
+    "name": "Cartoon Classics (Russia)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "http://88.218.242.237:8001/Cartoon_Classics"
   },
   {
     "name": "Cartoon Network (India) (720p)",
@@ -25030,6 +25037,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "http://198.204.240.250:82/live/cctv4k.m3u8"
+  },
+  {
+    "name": "CCTV-5+ (1080p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p"
   },
   {
     "name": "CCTV-6 [Geo-blocked]",
@@ -69431,13 +69445,6 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8"
-  },
-  {
-    "name": "SCTV4K (2160p)",
-    "logo": "",
-    "group": "其他",
-    "_source": "https://iptv-org.github.io/iptv/index.m3u",
-    "url": "https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8"
   },
   {
     "name": "SCTV6 (720p)",
