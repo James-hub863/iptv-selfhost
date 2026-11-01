@@ -1,12 +1,12 @@
 {
-  "total": 12914,
-  "alive": 7729,
+  "total": 12947,
+  "alive": 7763,
   "cn_channels": 150,
   "foreign_channels": 150,
   "total_output": 300,
-  "dead": 5185,
-  "duration": 134.3,
-  "timestamp": "2026-10-31 19:40:38",
+  "dead": 5184,
+  "duration": 73.0,
+  "timestamp": "2026-11-01 02:50:19",
   "fastest_cn": "ABTV Bariloche",
   "fastest_foreign": "ABC KXXV (720p)"
 }
