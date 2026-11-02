@@ -1,12 +1,12 @@
 {
   "total": 12958,
-  "alive": 7740,
+  "alive": 7697,
   "cn_channels": 150,
   "foreign_channels": 150,
   "total_output": 300,
-  "dead": 5218,
-  "duration": 77.6,
-  "timestamp": "2026-11-02 02:57:34",
+  "dead": 5261,
+  "duration": 944.0,
+  "timestamp": "2026-11-02 17:46:48",
   "fastest_cn": "ABTV Bariloche",
-  "fastest_foreign": "3CatInfo (1080p)"
+  "fastest_foreign": "ABC KGUN-TV (720p)"
 }
