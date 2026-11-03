@@ -1,12 +1,12 @@
 {
   "total": 12961,
-  "alive": 7725,
+  "alive": 7734,
   "cn_channels": 150,
   "foreign_channels": 150,
   "total_output": 300,
-  "dead": 5236,
-  "duration": 0.3,
-  "timestamp": "2026-11-03 15:32:32",
+  "dead": 5227,
+  "duration": 878.8,
+  "timestamp": "2026-11-03 21:34:53",
   "fastest_cn": "ABTV Bariloche",
-  "fastest_foreign": "ABC KGUN-TV (720p)"
+  "fastest_foreign": "ABN Bible Movies Channel (720p)"
 }
