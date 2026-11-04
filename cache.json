@@ -72923,5 +72923,65 @@
     "alive": false,
     "ts": 1793740915.6860116,
     "rt": 9999
+  },
+  "ch1-179363592.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1793763192.725371,
+    "rt": 9999
+  },
+  "ch1-179363593.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1793763192.7256374,
+    "rt": 9999
+  },
+  "ch1-179363594.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1793763192.747815,
+    "rt": 9999
+  },
+  "http://89.44.231.73:7000/primatv": {
+    "alive": true,
+    "ts": 1793763192.7972074,
+    "rt": 0.333
+  },
+  "http://185.228.163.146:8000/play/a00g/index.m3u8": {
+    "alive": true,
+    "ts": 1793763192.7861269,
+    "rt": 0.346
+  },
+  "http://213.91.179.28:8000/play/a06b": {
+    "alive": true,
+    "ts": 1793763192.7709315,
+    "rt": 0.375
+  },
+  "http://85.11.189.178:8080/bTV/index.m3u8": {
+    "alive": true,
+    "ts": 1793763192.7621229,
+    "rt": 0.389
+  },
+  "http://45.5.57.58:8000/play/a038/index.m3u8": {
+    "alive": true,
+    "ts": 1793763192.8509157,
+    "rt": 0.344
+  },
+  "http://88.212.7.14/live/travel_xp_4k/index.m3u8": {
+    "alive": true,
+    "ts": 1793763192.8534312,
+    "rt": 0.355
+  },
+  "https://srv7.flussonic111.com/PL_POLSAT_HD/tracks-v1a1/mono.m3u8": {
+    "alive": true,
+    "ts": 1793763192.7911973,
+    "rt": 0.729
+  },
+  "https://srv7.flussonic111.com/PL_TVP1_HD/tracks-v1a1/mono.m3u8": {
+    "alive": true,
+    "ts": 1793763192.8618944,
+    "rt": 0.668
+  },
+  "https://srv7.flussonic111.com/PL_TVP2_HD/tracks-v1a1/mono.m3u8": {
+    "alive": true,
+    "ts": 1793763192.8676443,
+    "rt": 0.699
   }
 }
