@@ -1,12 +1,12 @@
 {
   "total": 12961,
-  "alive": 7668,
+  "alive": 7667,
   "cn_channels": 150,
   "foreign_channels": 150,
   "total_output": 300,
-  "dead": 5293,
-  "duration": 1.0,
-  "timestamp": "2026-11-05 03:54:08",
+  "dead": 5294,
+  "duration": 198.1,
+  "timestamp": "2026-11-05 15:55:12",
   "fastest_cn": "ABTV Bariloche",
   "fastest_foreign": "ABC KAAL (1080p)"
 }
