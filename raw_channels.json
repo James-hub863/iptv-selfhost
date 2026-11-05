@@ -10882,21 +10882,21 @@
     "logo": "",
     "group": "其他",
     "_source": "https://ctlive2.wjdaily.com/wjtv/ch1.m3u8",
-    "url": "ch1-179369437.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
+    "url": "ch1-179371453.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
   },
   {
     "name": "未知",
     "logo": "",
     "group": "其他",
     "_source": "https://ctlive2.wjdaily.com/wjtv/ch1.m3u8",
-    "url": "ch1-179369438.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
+    "url": "ch1-179371454.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
   },
   {
     "name": "未知",
     "logo": "",
     "group": "其他",
     "_source": "https://ctlive2.wjdaily.com/wjtv/ch1.m3u8",
-    "url": "ch1-179369439.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
+    "url": "ch1-179371455.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000"
   },
   {
     "name": "00s Replay",
@@ -15946,6 +15946,13 @@
     "url": "https://live4dai.antenaplay.ro/live2_sdi14/live2_sdi14_600k.m3u8"
   },
   {
+    "name": "Antena 1 (Romania) HD (1440p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8"
+  },
+  {
     "name": "Antena 3",
     "logo": "",
     "group": "其他",
@@ -19388,6 +19395,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "http://go.bkpcp.top/mg/bjws"
+  },
+  {
+    "name": "beIN Sports USA (576p)",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://tvsen6.aynaott.com/beinsports/index.m3u8"
   },
   {
     "name": "beIN SPORTS XTRA (1080p)",
@@ -54628,6 +54642,13 @@
     "url": "https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8"
   },
   {
+    "name": "Nippon TV",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://ntv5.mov3.co/hls/ntv.m3u8"
+  },
+  {
     "name": "Nireekshana TV (576p)",
     "logo": "",
     "group": "其他",
@@ -83207,6 +83228,13 @@
     "group": "其他",
     "_source": "https://iptv-org.github.io/iptv/index.m3u",
     "url": "https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8"
+  },
+  {
+    "name": "TV Tokyo",
+    "logo": "",
+    "group": "其他",
+    "_source": "https://iptv-org.github.io/iptv/index.m3u",
+    "url": "https://tvtokyo.mov3.co/hls/tvtokyo.m3u8"
   },
   {
     "name": "TV Torun (1080p) [Not 24/7]",
