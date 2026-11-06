@@ -1,12 +1,12 @@
 {
   "total": 12962,
-  "alive": 7772,
+  "alive": 7768,
   "cn_channels": 150,
   "foreign_channels": 150,
   "total_output": 300,
-  "dead": 5190,
-  "duration": 45.9,
-  "timestamp": "2026-11-06 03:52:37",
+  "dead": 5194,
+  "duration": 16.3,
+  "timestamp": "2026-11-06 15:27:51",
   "fastest_cn": "ABTV Bariloche",
   "fastest_foreign": "3CatInfo (1080p)"
 }
