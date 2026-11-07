@@ -1,12 +1,12 @@
 {
-  "total": 12962,
-  "alive": 7774,
+  "total": 12997,
+  "alive": 7801,
   "cn_channels": 150,
   "foreign_channels": 150,
   "total_output": 300,
-  "dead": 5188,
-  "duration": 188.1,
-  "timestamp": "2026-11-06 21:11:39",
+  "dead": 5196,
+  "duration": 898.3,
+  "timestamp": "2026-11-07 03:41:19",
   "fastest_cn": "ABTV Bariloche",
-  "fastest_foreign": "3CatInfo (1080p)"
+  "fastest_foreign": "ABN Bible Movies Channel (720p)"
 }
