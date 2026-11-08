@@ -69086,7 +69086,7 @@
   },
   "https://ntv5.mov3.co/hls/ntv.m3u8": {
     "alive": false,
-    "ts": 1794080583.6690295,
+    "ts": 1794168070.3985221,
     "rt": 9999
   },
   "http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/prima_sport/live_mq?offsetSeconds=0": {
@@ -69111,7 +69111,7 @@
   },
   "https://tvtokyo.mov3.co/hls/tvtokyo.m3u8": {
     "alive": false,
-    "ts": 1794080583.7463586,
+    "ts": 1794168070.4251564,
     "rt": 9999
   },
   "https://dethich.pw/vtv5tnb/index.m3u8": {
@@ -72941,33 +72941,33 @@
   },
   "http://89.44.231.73:7000/primatv": {
     "alive": true,
-    "ts": 1794080583.689201,
-    "rt": 0.231
+    "ts": 1794168070.4024756,
+    "rt": 0.289
   },
   "http://185.228.163.146:8000/play/a00g/index.m3u8": {
     "alive": true,
-    "ts": 1794080583.6526494,
-    "rt": 0.172
+    "ts": 1794168070.3953354,
+    "rt": 0.263
   },
   "http://213.91.179.28:8000/play/a06b": {
     "alive": true,
-    "ts": 1794080583.5936625,
-    "rt": 0.288
+    "ts": 1794168070.387014,
+    "rt": 0.354
   },
   "http://85.11.189.178:8080/bTV/index.m3u8": {
     "alive": true,
-    "ts": 1794080583.5702984,
-    "rt": 0.283
+    "ts": 1794168070.3842187,
+    "rt": 0.335
   },
   "http://45.5.57.58:8000/play/a038/index.m3u8": {
     "alive": true,
-    "ts": 1794080583.7293675,
-    "rt": 0.254
+    "ts": 1794168070.420559,
+    "rt": 0.285
   },
   "http://88.212.7.14/live/travel_xp_4k/index.m3u8": {
     "alive": true,
-    "ts": 1794080583.7371151,
-    "rt": 0.222
+    "ts": 1794168070.4224327,
+    "rt": 0.252
   },
   "https://srv7.flussonic111.com/PL_POLSAT_HD/tracks-v1a1/mono.m3u8": {
     "alive": false,
@@ -73031,13 +73031,13 @@
   },
   "https://live77cdn2.antenaplay.ro/live2_aws4_sdi01/live2_aws4_sdi01_5000k.m3u8": {
     "alive": true,
-    "ts": 1794080583.5593374,
-    "rt": 0.316
+    "ts": 1794168070.347208,
+    "rt": 0.366
   },
   "https://tvsen6.aynaott.com/beinsports/index.m3u8": {
     "alive": true,
-    "ts": 1794080583.5604763,
-    "rt": 0.93
+    "ts": 1794168070.3731115,
+    "rt": 0.831
   },
   "ch1-179375255.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
     "alive": false,
@@ -76102,6 +76102,21 @@
   "ch1-179398079.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
     "alive": false,
     "ts": 1794148606.5022657,
+    "rt": 9999
+  },
+  "ch1-179399872.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1794168070.3350255,
+    "rt": 9999
+  },
+  "ch1-179399873.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1794168070.3404474,
+    "rt": 9999
+  },
+  "ch1-179399874.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1794168070.340484,
     "rt": 9999
   }
 }
