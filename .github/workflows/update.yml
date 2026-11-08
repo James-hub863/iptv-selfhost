@@ -43,8 +43,8 @@ jobs:
       - name: 设置 Python
         uses: actions/setup-python@v6
         with:
-          python-version: '3.12'
-          cache: 'pip'
+          python-version: '3.11'
+          cache: 'no'  # 添加这一行，禁用默认缓存
 
       - name: 安装依赖
         run: |
