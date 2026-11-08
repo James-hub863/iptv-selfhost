@@ -183,13 +183,32 @@ def classify_foreign_country(name: str) -> str:
 
 
 def parse_entries():
+    """解析 live_ok.m3u → entries（兼容 tvg_id / logo / comment / latency）"""
     lines = Path("live_ok.m3u").read_text(encoding="utf-8").splitlines()
     entries = []
     for i, line in enumerate(lines):
         if line.startswith("#EXTINF"):
+            comment = lines[i - 1] if i > 0 and lines[i - 1].startswith("# [") else ""
             url = lines[i + 1] if i + 1 < len(lines) else ""
             name = get_extinf_name(line)
-            entries.append({"extinf": line, "url": url, "name": name})
+            latency = get_latency(line, comment)
+            logo = ''
+            tvg_id = ''
+            for attr in re.findall(r'(\w+(?:-\w+)*)="([^"]*)"', line):
+                k, v = attr
+                if k == 'tvg-logo':
+                    logo = v.strip()
+                elif k == 'tvg-id':
+                    tvg_id = v.strip()
+            entries.append({
+                "extinf": line,
+                "url": url,
+                "name": name,
+                "latency": latency,
+                "comment": comment,
+                "logo": logo,
+                "tvg_id": tvg_id,
+            })
     return entries
 
 
