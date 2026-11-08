@@ -1,72 +1,176 @@
-name: update
+name: 收集并测活 IPTV 直播源
 
 on:
   schedule:
-    - cron: "0 */8 * * *"
+    # 每 8 小时一次：UTC 00:00 / 08:00 / 16:00（北京时间 08:00 / 16:00 / 24:00）
+    - cron: '0 */8 * * *'
   workflow_dispatch:
+    inputs:
+      tier:
+        description: '测活档位：fast=仅国内核心台(约12min) / full=国内外全量(约35min)'
+        required: false
+        default: 'full'
+        type: choice
+        options: [full, fast]
+  push:
+    branches: [main]
+    paths:
+      - 'sources.txt'
+      - 'collect.py'
+      - 'check.py'
+      - 'group_m3u.py'
+      - '.github/workflows/update.yml'
 
 permissions:
   contents: write
 
+env:
+  TZ: Asia/Shanghai
+  PYTHONUNBUFFERED: "1"
+  # 测活档位：fast 只跑国内核心台，full 跑国内外全量
+  CHECK_TIER: ${{ github.event.inputs.tier || 'full' }}
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
     steps:
-      - uses: actions/checkout@v4
+      - name: 检出仓库
+        uses: actions/checkout@v6
         with:
-          fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0 # 拉取完整历史，便于变基
+
+      - name: 设置 Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: 安装依赖
+        run: |
+          python -m pip install --upgrade pip
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg git-lfs
+          pip install requests urllib3
 
       - name: 初始化 Git 环境与认证
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.com"
           git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
-          git fetch origin main
+          git fetch origin main --unshallow || git fetch origin main
 
-      - name: 安装依赖
+      - name: 初始化缓存（首次运行）
         run: |
-          sudo apt-get install -y -qq git-lfs
-          git lfs install
-          pip install requests
-
-      - name: 收集原始源
-        run: |
-          echo "🔍 开始收集原始源..."
-          python collect.py
-          echo "✅ 收集完成"
-
-      - name: 测活与分组重写
-        run: |
-          echo "🏥 开始测活..."
-          python check.py
-          echo "✅ 测活完成"
-          echo "📋 开始分组重写..."
-          python group_m3u.py
-          echo "✅ 分组重写完成"
-
-      - name: 生成全量聚合清单
-        run: |
-          if [ -f "m3u.py" ]; then
-            python m3u.py
-          else
-            echo "⚠️ m3u.py 不存在，跳过生成全量清单"
+          if [ ! -f cache.json ]; then
+            echo '{}' > cache.json
+            echo "已创建初始 cache.json"
           fi
 
-      - name: 提交 GitHub 结果（含缓存，自动变基防冲突）
+      # ════════════════════════════════════════════════
+      # 阶段 1：收集（L1 jsDelivr 主源 + L2 国内单源）
+      # ════════════════════════════════════════════════
+      - name: 收集最新 M3U 源（jsDelivr 通道）
+        id: collect
+        timeout-minutes: 30
+        continue-on-error: true
         run: |
-          git fetch origin main
-          
+          echo "📡 开始收集（L1 jsDelivr 主源 + L2 国内直链）..."
+          python collect.py
+          echo "collect_exit=$?" >> "$GITHUB_OUTPUT"
+
+      - name: 收集结果自检
+        run: |
+          if [ ! -f raw_channels.json ]; then
+            echo "❌ raw_channels.json 未生成，终止流程"
+            exit 1
+          fi
+          COUNT=$(python -c "import json;print(len(json.load(open('raw_channels.json'))))")
+          echo "📊 原始频道池: $COUNT 条"
+          if [ "$COUNT" -lt 100 ]; then
+            echo "⚠️ 频道池小于 100，疑似 jsDelivr 被限，中止本次提交"
+            exit 1
+          fi
+
+      # ════════════════════════════════════════════════
+      # 阶段 2：分层测活（国内优先，国外限速）
+      #   国内台(央卫视频道/省市台)：严格两轮实测，保留最快
+      #   国外台(Pluto/FAST/分类源)：轻量探测，避免拖慢整体
+      # ════════════════════════════════════════════════
+      - name: 并发测活并择优（国内 + 国外分层）
+        id: check
+        timeout-minutes: 65
+        env:
+          # 国内档位限额（秒）：给国内台更多时间，保证央卫视频道质量
+          CHECK_CN_MAX: 900
+          # 国外档位限额（秒）：Pluto/FAST 海外源多，设上限防拖尾
+          CHECK_FOREIGN_MAX: 600
+        run: |
+          echo "🏥 开始分层测活 [档位=$CHECK_TIER]"
+          echo "   ├ 国内限额: ${CHECK_CN_MAX}s"
+          echo "   └ 国外限额: ${CHECK_FOREIGN_MAX}s"
+          python check.py
+          echo "check_exit=$?" >> "$GITHUB_OUTPUT"
+
+      # ════════════════════════════════════════════════
+      # 阶段 3：分组（国内 央视/卫视/地方/电影/少儿；国外 新闻/电影/儿童/娱乐）
+      # ════════════════════════════════════════════════
+      - name: 分组重写（国内按类型+省份 / 国外按类型+国家）
+        run: |
+          if [ -f group_m3u.py ]; then
+            echo "📋 开始分组重写..."
+            python group_m3u.py
+            echo "group_exit=$?" >> "$GITHUB_OUTPUT"
+          else
+            echo "⚠️ group_m3u.py 不存在，跳过分组"
+          fi
+
+      # ════════════════════════════════════════════════
+      # 阶段 4：生成全量聚合清单（不去重，便于审计）
+      # ════════════════════════════════════════════════
+      - name: 生成全量聚合清单 live_all.m3u
+        run: |
+          python - <<'PY'
+          import json
+          with open('raw_channels.json', encoding='utf-8') as f:
+              items = json.load(f)
+          seen = set()
+          lines = ['#EXTM3U']
+          for it in items:
+              if it.get('url') in seen: continue
+              seen.add(it['url'])
+              logo = it.get('logo') or ''
+              logo_attr = f' tvg-logo="{logo}"' if logo else ''
+              lines.append(
+                  f'#EXTINF:-1 tvg-name="{it.get("name","")}"{logo_attr} '
+                  f'group-title="{it.get("group","其他")}",{it.get("name","")}'
+              )
+              lines.append(it['url'])
+          with open('live_all.m3u', 'w', encoding='utf-8') as f:
+              f.write('\n'.join(lines) + '\n')
+          print('全量清单', len(seen), '条')
+          PY
+
+      # ════════════════════════════════════════════════
+      # 阶段 5：提交结果（含缓存，自动变基防冲突）
+      # ════════════════════════════════════════════════
+      - name: 提交结果（含缓存，自动变基防冲突）
+        run: |
+          git fetch origin main --unshallow || git fetch origin main
+
           git add -A
+          git add -f cache.json live_ok.m3u live_all.m3u report.json dead_urls.txt
+
           if git diff --cached --quiet; then
             echo "无变更，跳过提交"
             exit 0
           fi
-          
-          git commit -m "chore: 自动收集测活 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M')"
-          
+
+          git commit -m "chore: 自动收集测活 $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M') [tier=$CHECK_TIER]"
+
+          # 变基拉取最新，冲突时用本次测活结果覆盖（避免卡死）
           if ! git pull --rebase origin main; then
-            echo "⚠️ 检测到合并冲突，正在强制使用本地测活结果覆盖..."
+            echo "⚠️ 检测到合并冲突，正在用本次测活结果覆盖..."
             CONFLICTS=$(git diff --name-only --diff-filter=U)
             for file in $CONFLICTS; do
               git checkout --ours -- "$file"
@@ -74,15 +178,20 @@ jobs:
             done
             git rebase --continue
           fi
-          
+
           git push origin main
 
-      - name: 上传测活报告与死链清单（保留 7 天）
-        uses: actions/upload-artifact@v4
+      # ════════════════════════════════════════════════
+      # 阶段 6：上传测活报告与清单（保留 7 天）
+      # ════════════════════════════════════════════════
+      - name: 上传测活报告、死链清单与分组清单（保留 7 天）
+        uses: actions/upload-artifact@v7
         with:
           name: iptv-report-${{ github.run_number }}
           path: |
             report.json
             dead_urls.txt
             live_ok.m3u
+            live_all.m3u
           retention-days: 7
+          overwrite: true
