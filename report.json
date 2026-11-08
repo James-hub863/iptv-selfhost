@@ -1,12 +1,12 @@
 {
   "total": 13037,
-  "alive": 8011,
+  "alive": 8001,
   "cn_channels": 150,
   "foreign_channels": 150,
   "total_output": 300,
-  "dead": 5026,
-  "duration": 0.3,
-  "timestamp": "2026-11-08 17:52:43",
+  "dead": 5036,
+  "duration": 43.9,
+  "timestamp": "2026-11-08 22:37:30",
   "fastest_cn": "ABTV Bariloche",
   "fastest_foreign": "24 Hour Free Movies (720p)"
 }

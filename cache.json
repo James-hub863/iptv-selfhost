@@ -33021,8 +33021,8 @@
   },
   "https://cdn.pishow.tv/ott/live/1521/master.m3u8": {
     "alive": true,
-    "ts": 1794061650.199126,
-    "rt": 0.238
+    "ts": 1794148610.5249116,
+    "rt": 0.239
   },
   "https://mumbai-edge.smartplaytv.in/MahaBhakthi/index.m3u8": {
     "alive": true,
@@ -36251,8 +36251,8 @@
   },
   "https://cdn.pishow.tv/ott/live/1389/master.m3u8": {
     "alive": true,
-    "ts": 1794061651.1212606,
-    "rt": 0.245
+    "ts": 1794148611.6449292,
+    "rt": 0.231
   },
   "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8": {
     "alive": true,
@@ -71276,8 +71276,8 @@
   },
   "https://cdn.pishow.tv/ott/live/1624/master.m3u8": {
     "alive": true,
-    "ts": 1794061648.2267916,
-    "rt": 0.246
+    "ts": 1794148608.0546052,
+    "rt": 0.239
   },
   "https://a-cdn.klowdtv.com/live2/estv_720p/playlist.m3u8": {
     "alive": true,
@@ -73086,162 +73086,162 @@
   },
   "srt://102.89.119.176:4001": {
     "alive": false,
-    "ts": 1794061646.7777612,
+    "ts": 1794148606.5630474,
     "rt": 9999
   },
   "https://d4whmvwm0rdvi.cloudfront.net/10007/99951318/hls/master.m3u8?ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_coppa=0&ads._fw_deviceMake=GitHubAction&ads._fw_deviceType=3-Connected_TV&ads._fw_device_model=PythonScript&ads._fw_did=a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_vcid2=512116:a5090924-15b1-4b7f-b6cd-2f06e2ba51e1&ads.afid=405342864&ads.appName=XumoPlay&ads.appVersion=1.0.0&ads.asnw=169843&ads.channelId=99951318&ads.csid=xumo_web_NBCUAmericanNinjaWarrior_ssai_cro&ads.sfid=19647852&ads.xumo_channelId=99951318&ads.xumo_contentId=4063&ads.xumo_contentName=NBCUAmericanNinjaWarrior&ads.xumo_providerId=4063&ads.xumo_providerName=NBCUAmericanNinjaWarrior": {
     "alive": false,
-    "ts": 1794061646.7816901,
+    "ts": 1794148606.5745113,
     "rt": 9999
   },
   "https://edge.enhdtv.com/8150/index.m3u8": {
     "alive": true,
-    "ts": 1794061646.7710161,
-    "rt": 0.123
+    "ts": 1794148606.5437741,
+    "rt": 0.124
   },
   "https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061646.780913,
-    "rt": 0.164
+    "ts": 1794148606.5737665,
+    "rt": 0.165
   },
   "http://hlspackager.akamaized.net/live/DB/AVA_TV/HLS/AVA_TV-avc1_2500000=10002,mp4a_128000=20000.m3u8": {
     "alive": false,
-    "ts": 1794061646.9243271,
+    "ts": 1794148606.7198896,
     "rt": 9999
   },
   "http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8": {
     "alive": true,
-    "ts": 1794061646.783403,
+    "ts": 1794148606.578135,
     "rt": 0.12
   },
   "http://79.127.238.228:14551": {
     "alive": true,
-    "ts": 1794061646.7715077,
-    "rt": 0.298
+    "ts": 1794148606.5500658,
+    "rt": 0.32
   },
   "http://45.162.64.114/ADULT_SWIM/index.m3u8": {
     "alive": true,
-    "ts": 1794061646.7770362,
-    "rt": 0.335
+    "ts": 1794148606.562087,
+    "rt": 0.342
   },
   "http://167.249.23.102:8000/play/a0a3/index.m3u8": {
     "alive": true,
-    "ts": 1794061646.9450066,
-    "rt": 0.157
+    "ts": 1794148606.7429907,
+    "rt": 0.144
   },
   "http://141.94.193.53/axn_black/index.m3u8": {
     "alive": true,
-    "ts": 1794061646.9392893,
-    "rt": 0.241
+    "ts": 1794148606.7386603,
+    "rt": 0.608
   },
   "https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8": {
     "alive": true,
-    "ts": 1794061646.778997,
-    "rt": 0.145
+    "ts": 1794148606.5665064,
+    "rt": 0.176
   },
   "https://amg30483-amg30483c23-amgplt0794.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg30483-amg30483c23-amgplt0794/playlist.m3u8?ads.appname=[APP_NAME]&ads.appstoreurl=[APP_STOREURL]&ads.appversion=[APP_VERSION]&ads.bundleid=[APP_BUNDLE]&ads.coppa=0&ads.country=[COUNTRY]&ads.deviceid=[DEVICE_ID]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.devicetype=[DEVICE_TYPE]&ads.donotsell=[DNS]&ads.fck=[FCK]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.givn=[NONCE]&ads.ic=[IC]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.ip=[IP]&ads.lat=[LMT]&ads.network_name=[networkname]&ads.targetad=[TARGETAD_ALLOWED]&ads.ua=[UA]&ads.usprivacy=[US_PRIVACY]&ads.viewsize=[VIEWSIZE]": {
     "alive": true,
-    "ts": 1794061646.7795923,
-    "rt": 0.706
+    "ts": 1794148606.5674052,
+    "rt": 0.708
   },
   "https://d2gvyg6lvauoko.cloudfront.net/230226/awakeningtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b": {
     "alive": true,
-    "ts": 1794061646.9243786,
-    "rt": 0.354
+    "ts": 1794148606.719961,
+    "rt": 0.351
   },
   "https://d1msejlow1t3l4.cloudfront.net/fta/apnnews/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061646.894617,
-    "rt": 0.38
+    "ts": 1794148606.6687412,
+    "rt": 0.335
   },
   "http://176.118.197.101/2x2/index.m3u8": {
     "alive": true,
-    "ts": 1794061646.733258,
-    "rt": 0.551
+    "ts": 1794148606.5128312,
+    "rt": 0.573
   },
   "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8": {
-    "alive": false,
-    "ts": 1794061646.7825036,
-    "rt": 9999
+    "alive": true,
+    "ts": 1794148606.5761073,
+    "rt": 0.297
   },
   "https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8": {
     "alive": true,
-    "ts": 1794061647.0694559,
-    "rt": 0.301
+    "ts": 1794148606.869872,
+    "rt": 0.282
   },
   "https://cdn.pishow.tv/ott/live/1454/master.m3u8": {
     "alive": true,
-    "ts": 1794061646.771878,
-    "rt": 0.783
+    "ts": 1794148606.5575583,
+    "rt": 0.786
   },
   "http://88.212.15.50/live/test_bober/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061647.2781618,
-    "rt": 0.292
+    "ts": 1794148607.0716374,
+    "rt": 0.284
   },
   "https://cdn.pishow.tv/ott/live/252/master.m3u8": {
     "alive": true,
-    "ts": 1794061646.7715933,
-    "rt": 0.761
+    "ts": 1794148606.550184,
+    "rt": 0.815
   },
   "http://185.121.1.163:8083/Badakhshon/index.m3u8": {
     "alive": true,
-    "ts": 1794061647.1019123,
-    "rt": 0.437
+    "ts": 1794148606.8730893,
+    "rt": 0.446
   },
   "https://fta.ektv.in/live/54/54_0.m3u8": {
     "alive": true,
-    "ts": 1794061646.7803023,
-    "rt": 0.842
+    "ts": 1794148606.5729833,
+    "rt": 0.783
   },
   "https://cdn.pishow.tv/ott/live/471/master.m3u8": {
     "alive": true,
-    "ts": 1794061646.7757077,
-    "rt": 0.778
+    "ts": 1794148606.5611022,
+    "rt": 0.757
   },
   "https://cdn.pishow.tv/ott/live/262/master.m3u8": {
     "alive": true,
-    "ts": 1794061646.774367,
-    "rt": 0.785
+    "ts": 1794148606.5600576,
+    "rt": 0.793
   },
   "https://cdn.pishow.tv/ott/live/234/master.m3u8": {
     "alive": true,
-    "ts": 1794061646.7728207,
+    "ts": 1794148606.557993,
     "rt": 0.759
   },
   "https://fta.ektv.in/live/372/master.m3u8": {
     "alive": true,
-    "ts": 1794061646.772137,
-    "rt": 0.839
+    "ts": 1794148606.5578105,
+    "rt": 0.867
   },
   "http://181.119.177.253:8000/play/a03o/index.m3u8": {
     "alive": true,
-    "ts": 1794061647.5329063,
-    "rt": 0.133
+    "ts": 1794148607.318291,
+    "rt": 0.131
   },
   "http://178.134.1.158:8081/BRIDGE/index.m3u8": {
     "alive": true,
-    "ts": 1794061647.2845845,
-    "rt": 0.364
+    "ts": 1794148607.086237,
+    "rt": 0.355
   },
   "https://5fe2654d6127d.streamlock.net/telemetrika3/_definst_/videotelemetrika3/playlist.m3u8": {
     "alive": false,
-    "ts": 1794061647.6223233,
+    "ts": 1794148607.3654835,
     "rt": 9999
   },
   "http://45.186.106.207:8000/play/a09t/index.m3u8": {
     "alive": true,
-    "ts": 1794061647.538493,
-    "rt": 0.142
+    "ts": 1794148607.3195574,
+    "rt": 0.144
   },
   "https://mumbai-edge.smartplaytv.in/6TVTelugu/index.m3u8": {
     "alive": true,
-    "ts": 1794061646.7568069,
-    "rt": 0.904
+    "ts": 1794148606.5333583,
+    "rt": 1.059
   },
   "http://45.5.118.188:8000/play/a02x/index.m3u8": {
     "alive": false,
-    "ts": 1794061647.5538085,
+    "ts": 1794148607.343369,
     "rt": 9999
   },
   "https://cdn.pishow.tv/ott/live/227/master.m3u8": {
@@ -73251,228 +73251,228 @@
   },
   "http://181.119.177.253:8000/play/a03n/index.m3u8": {
     "alive": true,
-    "ts": 1794061647.5544894,
-    "rt": 0.136
+    "ts": 1794148607.3469875,
+    "rt": 0.145
   },
   "https://freem3u.xyz/api/live/play.m3u8?vid=20": {
     "alive": false,
-    "ts": 1794061646.7822044,
+    "ts": 1794148606.5751934,
     "rt": 9999
   },
   "http://5.188.159.128:8070/Bridge_TV_Classic/index.m3u8": {
-    "alive": true,
-    "ts": 1794061647.3702772,
-    "rt": 0.309
+    "alive": false,
+    "ts": 1794148607.152177,
+    "rt": 9999
   },
   "https://fta.ektv.in/live/697/master.m3u8": {
-    "alive": true,
-    "ts": 1794061646.9037435,
-    "rt": 0.914
+    "alive": false,
+    "ts": 1794148606.6991549,
+    "rt": 9999
   },
   "http://168.196.127.137:6001/play/a064/index.m3u8": {
     "alive": true,
-    "ts": 1794061647.6111972,
-    "rt": 0.143
+    "ts": 1794148607.3562644,
+    "rt": 0.62
   },
   "http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8": {
-    "alive": true,
-    "ts": 1794061647.4854276,
-    "rt": 0.336
+    "alive": false,
+    "ts": 1794148607.2752771,
+    "rt": 9999
   },
   "http://45.5.117.188:8000/play/a02w/index.m3u8": {
     "alive": true,
-    "ts": 1794061647.5697868,
-    "rt": 0.15
+    "ts": 1794148607.3552833,
+    "rt": 0.157
   },
   "https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061647.6941698,
-    "rt": 0.057
+    "ts": 1794148607.4956453,
+    "rt": 0.053
   },
   "https://cdn.pishow.tv/ott/live/1139/master.m3u8": {
     "alive": true,
-    "ts": 1794061647.1813824,
-    "rt": 0.706
+    "ts": 1794148606.9049408,
+    "rt": 0.756
   },
   "http://179.1.196.222:9000/play/a02y/index.m3u8": {
     "alive": true,
-    "ts": 1794061647.6224968,
-    "rt": 0.197
+    "ts": 1794148607.3657053,
+    "rt": 0.2
   },
   "http://38.134.250.110:8000/play/a00i/index.m3u8": {
     "alive": true,
-    "ts": 1794061647.6659684,
-    "rt": 0.217
+    "ts": 1794148607.449625,
+    "rt": 0.194
   },
   "http://138.94.3.106:8000/play/a07i/index.m3u8": {
     "alive": true,
-    "ts": 1794061647.676087,
-    "rt": 0.249
+    "ts": 1794148607.4635527,
+    "rt": 0.211
   },
   "http://168.196.127.137:6001/play/a08o/index.m3u8": {
     "alive": true,
-    "ts": 1794061647.8198776,
-    "rt": 0.159
+    "ts": 1794148607.592143,
+    "rt": 0.155
   },
   "http://38.190.100.202:8000/play/a09v/index.m3u8": {
     "alive": false,
-    "ts": 1794061647.6903088,
+    "ts": 1794148607.4924238,
     "rt": 9999
   },
   "http://45.171.64.30:6060/play/a039/index.m3u8": {
     "alive": true,
-    "ts": 1794061647.8221526,
-    "rt": 0.143
+    "ts": 1794148607.6435342,
+    "rt": 0.147
   },
   "https://ip.pdtvhd.com/Khmer/streams/Bayonhd.m3u8": {
     "alive": false,
-    "ts": 1794061647.1127248,
+    "ts": 1794148606.8876252,
     "rt": 9999
   },
   "https://fta.ektv.in/live/173/master.m3u8": {
     "alive": false,
-    "ts": 1794061647.6791139,
+    "ts": 1794148607.4707494,
     "rt": 9999
   },
   "http://45.171.64.30:6060/play/a00w/index.m3u8": {
     "alive": true,
-    "ts": 1794061647.8362732,
-    "rt": 0.139
+    "ts": 1794148607.6606374,
+    "rt": 0.14
   },
   "https://cdn23lhr.tamashaweb.com:8087/jazzauth/PNN-abr/live/vsat-84H/chunks.m3u8": {
     "alive": false,
-    "ts": 1794061646.7781115,
+    "ts": 1794148606.5639327,
     "rt": 9999
   },
   "http://45.5.117.57:8200/play/a0e9/index.m3u8": {
     "alive": true,
-    "ts": 1794061647.6805828,
-    "rt": 0.156
+    "ts": 1794148607.4809604,
+    "rt": 1.848
   },
   "https://mumbai-edge.smartplaytv.in/BloombergHT/index.m3u8": {
     "alive": true,
-    "ts": 1794061647.274582,
-    "rt": 0.878
+    "ts": 1794148607.0038419,
+    "rt": 0.987
   },
   "https://fta.ektv.in/live/97/97_0.m3u8": {
     "alive": true,
-    "ts": 1794061647.193325,
-    "rt": 0.769
+    "ts": 1794148606.9623783,
+    "rt": 0.73
   },
   "http://45.70.201.81:8000/play/a014/index.m3u8": {
     "alive": true,
-    "ts": 1794061647.932409,
-    "rt": 0.221
+    "ts": 1794148607.6923656,
+    "rt": 0.229
   },
   "http://777905.live.tvstitch.com/playlist.m3u8?master=539&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw==": {
     "alive": true,
-    "ts": 1794061647.754601,
-    "rt": 0.467
+    "ts": 1794148607.565349,
+    "rt": 0.437
   },
   "http://777905.live.tvstitch.com/playlist.m3u8?master=567&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR": {
     "alive": true,
-    "ts": 1794061647.752259,
-    "rt": 0.474
+    "ts": 1794148607.5485148,
+    "rt": 0.441
   },
   "http://777905.live.tvstitch.com/playlist.m3u8?master=568&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ==": {
     "alive": true,
-    "ts": 1794061647.817742,
-    "rt": 0.529
+    "ts": 1794148607.588691,
+    "rt": 0.46
   },
   "https://canalmasuruguay.com/hls/720p/index.m3u8": {
-    "alive": false,
-    "ts": 1794061647.6485727,
-    "rt": 9999
+    "alive": true,
+    "ts": 1794148607.4252198,
+    "rt": 0.656
   },
   "http://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L2/c0620faf/27ea2088.isml/.mpd": {
     "alive": true,
-    "ts": 1794061647.5322835,
-    "rt": 0.405
+    "ts": 1794148607.3168497,
+    "rt": 0.361
   },
   "https://cdn.pishow.tv/ott/live/1453/master.m3u8": {
     "alive": true,
-    "ts": 1794061647.9648736,
-    "rt": 0.243
+    "ts": 1794148607.7809007,
+    "rt": 0.279
   },
   "http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8": {
     "alive": true,
-    "ts": 1794061648.2147202,
-    "rt": 0.072
+    "ts": 1794148608.0315597,
+    "rt": 0.076
   },
   "https://fta.ektv.in/live/705/master.m3u8": {
-    "alive": true,
-    "ts": 1794061647.9380403,
-    "rt": 0.253
+    "alive": false,
+    "ts": 1794148607.721045,
+    "rt": 9999
   },
   "http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8": {
     "alive": true,
-    "ts": 1794061648.2222912,
-    "rt": 0.067
+    "ts": 1794148608.0518038,
+    "rt": 0.066
   },
   "https://cdn.pishow.tv/ott/live/32/master.m3u8": {
     "alive": true,
-    "ts": 1794061647.97252,
-    "rt": 0.237
+    "ts": 1794148607.790546,
+    "rt": 0.264
   },
   "http://176.118.197.101/Che/index.m3u8": {
     "alive": true,
-    "ts": 1794061647.720517,
-    "rt": 0.525
+    "ts": 1794148607.512894,
+    "rt": 0.519
   },
   "https://cdn.pishow.tv/ott/live/37/master.m3u8": {
     "alive": true,
-    "ts": 1794061647.9751801,
-    "rt": 0.24
+    "ts": 1794148607.8005977,
+    "rt": 0.251
   },
   "https://cdn.pishow.tv/ott/live/28/master.m3u8": {
     "alive": true,
-    "ts": 1794061647.9793506,
-    "rt": 0.235
+    "ts": 1794148607.8519745,
+    "rt": 0.273
   },
   "https://cdn.pishow.tv/ott/live/1617/master.m3u8": {
     "alive": true,
-    "ts": 1794061648.152551,
-    "rt": 0.249
+    "ts": 1794148607.971168,
+    "rt": 0.238
   },
   "https://fta.ektv.in/live/384/master.m3u8": {
     "alive": true,
-    "ts": 1794061648.2082932,
-    "rt": 0.276
+    "ts": 1794148607.990483,
+    "rt": 0.229
   },
   "https://cdn.pishow.tv/ott/live/16/master.m3u8": {
     "alive": true,
-    "ts": 1794061648.153189,
-    "rt": 0.247
+    "ts": 1794148607.976283,
+    "rt": 0.238
   },
   "https://cdn.pishow.tv/ott/live/22/master.m3u8": {
     "alive": true,
-    "ts": 1794061648.2099133,
-    "rt": 0.238
+    "ts": 1794148608.0023682,
+    "rt": 0.758
   },
   "https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061647.8762178,
-    "rt": 0.41
+    "ts": 1794148607.6748571,
+    "rt": 0.477
   },
   "https://fta.ektv.in/live/15/master.m3u8": {
     "alive": true,
-    "ts": 1794061648.1911166,
-    "rt": 0.253
+    "ts": 1794148607.9893095,
+    "rt": 0.25
   },
   "https://fta.ektv.in/live/119/119_0.m3u8": {
     "alive": true,
-    "ts": 1794061648.061166,
-    "rt": 0.224
+    "ts": 1794148607.9211402,
+    "rt": 0.223
   },
   "http://92.114.85.87:8014/play/a007/index.m3u8": {
     "alive": true,
-    "ts": 1794061648.215809,
-    "rt": 0.253
+    "ts": 1794148608.0489423,
+    "rt": 0.262
   },
   "http://103.135.253.32:8080/Color-HD/index.m3u8": {
     "alive": true,
-    "ts": 1794061647.883064,
-    "rt": 0.51
+    "ts": 1794148607.6782174,
+    "rt": 0.5
   },
   "http://103.151.60.162:2122/play/a02o/index.m3u8?hls": {
     "alive": false,
@@ -73481,223 +73481,223 @@
   },
   "http://88.212.15.50/live/test_dom_kino/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061648.2842593,
-    "rt": 0.267
+    "ts": 1794148608.081612,
+    "rt": 0.285
   },
   "https://fta.ektv.in/live/592/master.m3u8": {
     "alive": true,
-    "ts": 1794061648.2456846,
-    "rt": 0.249
+    "ts": 1794148608.0599089,
+    "rt": 0.228
   },
   "http://45.5.117.57:8999/play/a01c/index.m3u8": {
     "alive": true,
-    "ts": 1794061648.4008148,
-    "rt": 0.157
+    "ts": 1794148608.2098436,
+    "rt": 1.832
   },
   "https://fta.ektv.in/live/159/master.m3u8": {
     "alive": true,
-    "ts": 1794061648.3932574,
-    "rt": 0.223
+    "ts": 1794148608.177907,
+    "rt": 0.222
   },
   "https://fta.ektv.in/live/471/master.m3u8": {
     "alive": true,
-    "ts": 1794061648.4015484,
-    "rt": 0.848
+    "ts": 1794148608.2141056,
+    "rt": 0.762
   },
   "https://fta.ektv.in/live/467/master.m3u8": {
     "alive": true,
-    "ts": 1794061648.4411106,
-    "rt": 0.798
+    "ts": 1794148608.22,
+    "rt": 0.23
   },
   "http://176.118.197.101/Evrokino/index.m3u8": {
     "alive": true,
-    "ts": 1794061648.48428,
-    "rt": 0.261
+    "ts": 1794148608.3668675,
+    "rt": 0.996
   },
   "https://canal8mdq.unpocodeawita.workers.dev": {
     "alive": false,
-    "ts": 1794061647.5599437,
+    "ts": 1794148607.352671,
     "rt": 9999
   },
   "http://185.121.1.163:8083/DushanbeHD/index.m3u8": {
     "alive": true,
-    "ts": 1794061648.3468676,
-    "rt": 0.435
+    "ts": 1794148608.1516542,
+    "rt": 0.446
   },
   "https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Comedy_Central/playlist.m3u8": {
     "alive": false,
-    "ts": 1794061647.925746,
+    "ts": 1794148607.679432,
     "rt": 9999
   },
   "http://31.148.5.241/kanal_14/index.m3u8": {
     "alive": true,
-    "ts": 1794061648.2858427,
-    "rt": 0.492
+    "ts": 1794148608.1173844,
+    "rt": 0.5
   },
   "https://fta.ektv.in/live/188/master.m3u8": {
     "alive": true,
-    "ts": 1794061648.5518684,
-    "rt": 0.249
+    "ts": 1794148608.4497972,
+    "rt": 0.23
   },
   "https://barinaslive1.boldmss.com/ESPN/ESPN.isml/ESPN.mpd": {
     "alive": true,
-    "ts": 1794061648.4693406,
-    "rt": 0.534
+    "ts": 1794148608.294229,
+    "rt": 3.591
   },
   "https://rjrfame-ioriver-cdn.encoders.immergo.tv/master.m3u8": {
     "alive": true,
-    "ts": 1794061648.5577922,
-    "rt": 0.29
+    "ts": 1794148608.5523784,
+    "rt": 0.283
   },
   "https://cdn.pishow.tv/ott/live/267/master.m3u8": {
     "alive": true,
-    "ts": 1794061648.745843,
-    "rt": 0.236
+    "ts": 1794148608.6176746,
+    "rt": 0.242
   },
   "https://fta.ektv.in/live/596/master.m3u8": {
     "alive": true,
-    "ts": 1794061648.6168141,
-    "rt": 0.223
+    "ts": 1794148608.59821,
+    "rt": 0.224
   },
   "http://185.121.1.163:8083/FootballHD/index.m3u8": {
     "alive": true,
-    "ts": 1794061648.840043,
-    "rt": 0.216
+    "ts": 1794148608.8357768,
+    "rt": 0.222
   },
   "http://15.204.196.147:22880/RECEPCION-GOLDEN_LAT-FHD/video.m3u8": {
     "alive": true,
-    "ts": 1794061649.0064445,
+    "ts": 1794148609.0120919,
     "rt": 0.036
   },
   "http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8": {
     "alive": true,
-    "ts": 1794061649.0282931,
-    "rt": 0.074
+    "ts": 1794148609.0451345,
+    "rt": 0.076
   },
   "https://freem3u.xyz/api/live/play.m3u8?vid=10007": {
     "alive": false,
-    "ts": 1794061648.7498975,
+    "ts": 1794148608.6636012,
     "rt": 9999
   },
   "http://79.127.238.228:14455": {
     "alive": true,
-    "ts": 1794061648.9820592,
-    "rt": 0.294
+    "ts": 1794148608.9761589,
+    "rt": 0.284
   },
   "http://200.57.28.141:8540/play/a0lo": {
     "alive": true,
-    "ts": 1794061649.030721,
-    "rt": 0.134
+    "ts": 1794148609.0480535,
+    "rt": 0.133
   },
   "https://cdn.pishow.tv/ott/live/1391/master.m3u8": {
     "alive": true,
-    "ts": 1794061649.0039208,
-    "rt": 0.236
+    "ts": 1794148608.9776247,
+    "rt": 0.24
   },
   "http://31.148.5.241/kanal_16/index.m3u8": {
     "alive": true,
-    "ts": 1794061648.781702,
-    "rt": 0.247
+    "ts": 1794148608.7609224,
+    "rt": 0.251
   },
   "https://fs.uplink.kz/domashnie_zhivotnie/mono.m3u8?token=onlinetv": {
     "alive": false,
-    "ts": 1794061648.28515,
+    "ts": 1794148608.1078606,
     "rt": 9999
   },
   "https://fta.ektv.in/live/53/53_0.m3u8": {
     "alive": true,
-    "ts": 1794061649.1026382,
-    "rt": 0.25
+    "ts": 1794148609.1810813,
+    "rt": 0.222
   },
   "https://fta.ektv.in/live/584/master.m3u8": {
     "alive": true,
-    "ts": 1794061649.1651068,
-    "rt": 0.276
+    "ts": 1794148609.191757,
+    "rt": 0.23
   },
   "https://fta.ektv.in/live/46/46_0.m3u8": {
     "alive": true,
-    "ts": 1794061649.0563078,
-    "rt": 0.223
+    "ts": 1794148609.1212516,
+    "rt": 0.222
   },
   "https://fta.ektv.in/live/52/52_0.m3u8": {
     "alive": true,
-    "ts": 1794061649.1729374,
-    "rt": 0.253
+    "ts": 1794148609.2173383,
+    "rt": 0.228
   },
   "https://freem3u.xyz/api/live/play.m3u8?vid=96": {
     "alive": false,
-    "ts": 1794061648.778086,
+    "ts": 1794148608.6793773,
     "rt": 9999
   },
   "https://vtm1.msinteractiva.com/globaltv/globaltv/playlist.m3u8": {
     "alive": false,
-    "ts": 1794061648.895334,
+    "ts": 1794148608.9231665,
     "rt": 9999
   },
   "https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8": {
     "alive": true,
-    "ts": 1794061648.8484075,
-    "rt": 0.846
+    "ts": 1794148608.8602252,
+    "rt": 0.788
   },
   "https://gtc.ottlive.co.in/gtcnews/index.m3u8": {
     "alive": true,
-    "ts": 1794061649.2497172,
-    "rt": 0.417
+    "ts": 1794148609.3405745,
+    "rt": 1.556
   },
   "http://45.228.234.9:8000/play/a06t/index.m3u8": {
-    "alive": false,
-    "ts": 1794061649.4266958,
-    "rt": 9999
+    "alive": true,
+    "ts": 1794148609.4216495,
+    "rt": 0.152
   },
   "https://d2gvyg6lvauoko.cloudfront.net/230226/gujaratfirst/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b": {
     "alive": true,
-    "ts": 1794061649.3523035,
-    "rt": 0.283
+    "ts": 1794148609.4035006,
+    "rt": 0.26
   },
   "https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8": {
     "alive": false,
-    "ts": 1794061649.5752878,
+    "ts": 1794148609.648278,
     "rt": 9999
   },
   "https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8": {
     "alive": false,
-    "ts": 1794061649.5752957,
+    "ts": 1794148609.6482868,
     "rt": 9999
   },
   "https://cdn.pishow.tv/ott/live/1385/master.m3u8": {
     "alive": true,
-    "ts": 1794061649.4417331,
-    "rt": 0.237
+    "ts": 1794148609.4457536,
+    "rt": 0.297
   },
   "https://fta.ektv.in/live/710/master.m3u8": {
-    "alive": true,
-    "ts": 1794061649.4461074,
-    "rt": 0.276
+    "alive": false,
+    "ts": 1794148609.509612,
+    "rt": 9999
   },
   "https://fta.ektv.in/live/704/master.m3u8": {
-    "alive": true,
-    "ts": 1794061649.239203,
-    "rt": 0.25
+    "alive": false,
+    "ts": 1794148609.2598143,
+    "rt": 9999
   },
   "http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1": {
-    "alive": true,
-    "ts": 1794061649.279152,
-    "rt": 0.776
+    "alive": false,
+    "ts": 1794148609.362795,
+    "rt": 9999
   },
   "http://nmk.ioapk.com:5050/4gtv-live017/index.m3u8": {
     "alive": false,
-    "ts": 1794061648.2890458,
+    "ts": 1794148608.14382,
     "rt": 9999
   },
   "https://cdnplay.peanutsquare.com/560828843292539228453915.m3u8": {
     "alive": true,
-    "ts": 1794061649.2401543,
-    "rt": 0.744
+    "ts": 1794148609.3287787,
+    "rt": 0.698
   },
   "https://cdn.pishow.tv/ott/live/269/master.m3u8": {
     "alive": true,
-    "ts": 1794061649.5756838,
-    "rt": 0.238
+    "ts": 1794148609.6487114,
+    "rt": 0.241
   },
   "https://fta.ektv.in/live/309/master.m3u8": {
     "alive": true,
@@ -73706,352 +73706,352 @@
   },
   "https://fta.ektv.in/live/642/master.m3u8": {
     "alive": true,
-    "ts": 1794061649.6354315,
-    "rt": 0.253
+    "ts": 1794148609.742617,
+    "rt": 0.23
   },
   "https://amg01540-amg01540c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061649.6785417,
-    "rt": 0.309
+    "ts": 1794148609.775517,
+    "rt": 0.316
   },
   "https://fta.ektv.in/live/297/master.m3u8": {
     "alive": true,
-    "ts": 1794061649.592373,
-    "rt": 0.25
+    "ts": 1794148609.6636786,
+    "rt": 0.228
   },
   "https://d1msejlow1t3l4.cloudfront.net/fta/insync/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061649.666518,
-    "rt": 0.282
+    "ts": 1794148609.7592852,
+    "rt": 0.275
   },
   "http://200.57.28.141:8540/play/a0ln": {
     "alive": true,
-    "ts": 1794061649.042245,
-    "rt": 0.131
+    "ts": 1794148609.057429,
+    "rt": 0.134
   },
   "https://fta.ektv.in/live/700/master.m3u8": {
-    "alive": true,
-    "ts": 1794061649.6941535,
-    "rt": 0.249
+    "alive": false,
+    "ts": 1794148609.8895147,
+    "rt": 9999
   },
   "https://d1msejlow1t3l4.cloudfront.net/fta/jantantratv/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061649.702309,
-    "rt": 0.315
+    "ts": 1794148609.891296,
+    "rt": 0.261
   },
   "https://fta.ektv.in/live/669/master.m3u8": {
     "alive": true,
-    "ts": 1794061649.8137972,
-    "rt": 0.276
+    "ts": 1794148610.0269132,
+    "rt": 0.23
   },
   "https://d1msejlow1t3l4.cloudfront.net/fta/kappatv/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061649.8420908,
-    "rt": 0.292
+    "ts": 1794148610.0340939,
+    "rt": 0.239
   },
   "https://cdn.pishow.tv/ott/live/243/master.m3u8": {
     "alive": true,
-    "ts": 1794061649.9436016,
-    "rt": 0.247
+    "ts": 1794148610.091583,
+    "rt": 0.24
   },
   "http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061649.6885939,
-    "rt": 0.641
+    "ts": 1794148609.8326097,
+    "rt": 0.692
   },
   "https://elephant.t62a.com/hls/8103/index.m3u8": {
     "alive": true,
-    "ts": 1794061649.8889678,
-    "rt": 0.446
+    "ts": 1794148610.0414367,
+    "rt": 0.475
   },
   "https://livingindiaottlive.akamaized.net/livingindia/index.m3u8": {
     "alive": false,
-    "ts": 1794061650.0902429,
+    "ts": 1794148610.3890564,
     "rt": 9999
   },
   "http://45.189.151.7:8000/play/a07s": {
     "alive": false,
-    "ts": 1794061650.0183644,
+    "ts": 1794148610.3325014,
     "rt": 9999
   },
   "https://fta.ektv.in/live/740/master.m3u8": {
     "alive": true,
-    "ts": 1794061649.9487221,
-    "rt": 0.25
+    "ts": 1794148610.1392019,
+    "rt": 0.249
   },
   "https://fta.ektv.in/live/308/master.m3u8": {
     "alive": true,
-    "ts": 1794061649.9778192,
-    "rt": 0.253
+    "ts": 1794148610.152041,
+    "rt": 0.228
   },
   "http://176.118.197.101/Komediya/index.m3u8": {
     "alive": true,
-    "ts": 1794061649.984866,
-    "rt": 0.262
+    "ts": 1794148610.256926,
+    "rt": 0.26
   },
   "http://190.128.214.97:64333/play/a03i/index.m3u8": {
     "alive": true,
-    "ts": 1794061650.055563,
-    "rt": 0.387
+    "ts": 1794148610.3798466,
+    "rt": 0.367
   },
   "https://cdn.pishow.tv/ott/live/1265/master.m3u8": {
     "alive": true,
-    "ts": 1794061650.1347165,
-    "rt": 0.235
+    "ts": 1794148610.5163083,
+    "rt": 0.241
   },
   "https://cdn.ottlive.co.in/gtcpunjabi/index.m3u8": {
     "alive": true,
-    "ts": 1794061649.2763114,
-    "rt": 0.412
+    "ts": 1794148609.3437448,
+    "rt": 0.488
   },
   "https://mmtvlive3.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvAdCampaign3/index.m3u8": {
     "alive": false,
-    "ts": 1794061650.3293989,
+    "ts": 1794148610.756212,
     "rt": 9999
   },
   "https://vmttv.dpdns.org/tv360?id=davinci-hd": {
     "alive": false,
-    "ts": 1794061647.9627538,
+    "ts": 1794148607.7470634,
     "rt": 9999
   },
   "https://fta.ektv.in/live/711/master.m3u8": {
-    "alive": true,
-    "ts": 1794061650.1901896,
-    "rt": 0.276
+    "alive": false,
+    "ts": 1794148610.5171504,
+    "rt": 9999
   },
   "http://775065.live.tvstitch.com/playlist.m3u8?master=311&source=aHR0cHM6Ly9obHMtY2RuMi5keXZ5YXBwLmNvbS9rb25rdXJlbnQtdWtyYWluYS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg/dG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmphR0Z1Ym1Wc1gybGtJam96TVRFc0ltTm9ZVzV1Wld4ZmJtRnRaU0k2SWx4MU1EUXhZVngxTURRelpWeDFNRFF6WkZ4MU1EUXpZVngxTURRME0xeDFNRFEwTUZ4MU1EUXpOVngxTURRelpGeDFNRFEwTWlCY2RUQTBNak5jZFRBME0yRmNkVEEwTkRCY2RUQTBNekJjZFRBME5UZGNkVEEwTTJSY2RUQTBNekFpTENKcGNDSTZJakUzT0M0eE16WXVOREl1TWpJd0lpd2lZMjkxYm5SeWVTSTZJbFZyY21GcGJtVWlMQ0oxYzJWeVgybGtJam8zTkRBM0xDSjFjMlZ5WDNCb2IyNWxJam9pS3pNNE1Ea3pNRGsyTnpReU15SXNJblZ6WlhKZmNtOXNaWE1pT2xzaVkyeHBaVzUwSWwwc0luQnliMlpwYkdWZmFXUWlPalkwTnpFc0luTmxjM05wYjI1ZmFXUWlPaUprTURBNU5tSm1PQzB5TTJVMUxUUmxaVFl0WW1Vek5TMW1PREE0TXpsbFpqbGtPRFFpTENKbGJuWnBjbTl1YldWdWRDSTZJbkJ5YjJSMVkzUnBiMjRpTENKd2JHRjBabTl5YlNJNklrUmxjMnQwYjNBaUxDSjFjMlZ5WDJGblpXNTBJam9pVFc5NmFXeHNZVnd2TlM0d0lDaFhhVzVrYjNkeklFNVVJREV3TGpBN0lGZHBialkwT3lCNE5qUXBJRUZ3Y0d4bFYyVmlTMmwwWEM4MU16Y3VNellnS0V0SVZFMU1MQ0JzYVd0bElFZGxZMnR2S1NCRGFISnZiV1ZjTHpFMU1pNHdMakF1TUNCVFlXWmhjbWxjTHpVek55NHpOaUlzSW1WNGNDSTZNVGM0T0RNek5qTXdOSDAuOGgzdDlhSkFPUjh0djhvX0NZWjlDbHVuaTVvZ2NiRVFVcC1SbThlcUMwNA==": {
     "alive": true,
-    "ts": 1794061649.987492,
-    "rt": 0.642
+    "ts": 1794148610.2731564,
+    "rt": 0.553
   },
   "http://777905.live.tvstitch.com/stream.m3u8?channel=431&m=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9sdXgtdHYvdmlkZW8ubTN1OD90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamFHRnVibVZzWDJsa0lqbzBNekVzSW1Ob1lXNXVaV3hmYm1GdFpTSTZJa3hWV0NCVVZpSXNJbWx3SWpvaU1UYzRMakV6Tmk0ME1pNHlNakFpTENKamIzVnVkSEo1SWpvaVZXdHlZV2x1WlNJc0luVnpaWEpmYVdRaU9tNTFiR3dzSW5WelpYSmZjR2h2Ym1VaU9tNTFiR3dzSW5WelpYSmZjbTlzWlhNaU9sdGRMQ0p3Y205bWFXeGxYMmxrSWpwdWRXeHNMQ0p6WlhOemFXOXVYMmxrSWpvaU56ZGpabVUzTkdJdE1USmtaQzAwTTJSbExXSmtNVGt0WVRKaFptUmtabUUwT0RWaElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hOekk0TnpOOS5GV2NmZDBhOV93dEVONmozWS1GaFNFYzFjbV9uamh1VVZmWjhiZzVLcG84": {
     "alive": true,
-    "ts": 1794061650.0904963,
-    "rt": 0.493
+    "ts": 1794148610.3893645,
+    "rt": 0.433
   },
   "https://fta.ektv.in/live/47/47_0.m3u8": {
     "alive": true,
-    "ts": 1794061650.3294096,
-    "rt": 0.25
+    "ts": 1794148610.7562232,
+    "rt": 0.228
   },
   "https://cdn.pishow.tv/ott/live/1474/master.m3u8": {
     "alive": true,
-    "ts": 1794061650.3350194,
-    "rt": 0.228
+    "ts": 1794148610.7572424,
+    "rt": 0.24
   },
   "https://fta.ektv.in/live/690/master.m3u8": {
     "alive": true,
-    "ts": 1794061650.2313588,
-    "rt": 0.253
+    "ts": 1794148610.5286226,
+    "rt": 0.227
   },
   "http://141.94.193.53/Match4_HD/index.m3u8": {
     "alive": true,
-    "ts": 1794061650.370171,
-    "rt": 0.623
+    "ts": 1794148610.764567,
+    "rt": 0.251
   },
   "http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8": {
     "alive": true,
-    "ts": 1794061650.5793235,
+    "ts": 1794148610.9841394,
     "rt": 0.037
   },
   "http://141.94.193.53/MAX4_HD/index.m3u8": {
     "alive": true,
-    "ts": 1794061650.4373333,
-    "rt": 0.235
+    "ts": 1794148610.7665384,
+    "rt": 0.223
   },
   "https://live-us1.thaimomo.com/live-as/chmcothd-3/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061650.5632489,
-    "rt": 0.085
+    "ts": 1794148610.8966775,
+    "rt": 0.117
   },
   "https://cdn.pishow.tv/ott/live/1479/master.m3u8": {
     "alive": true,
-    "ts": 1794061650.442878,
-    "rt": 0.238
+    "ts": 1794148610.822332,
+    "rt": 0.244
   },
   "https://mumt01.tangotv.in/O5aw8Zn3WETV/index.m3u8": {
     "alive": false,
-    "ts": 1794061649.722448,
+    "ts": 1794148609.9734097,
     "rt": 9999
   },
   "http://stream.sun0769.com/dgrtv1/mp4tv1_1500.flv": {
     "alive": true,
-    "ts": 1794061648.2871225,
-    "rt": 1.415
+    "ts": 1794148608.1248968,
+    "rt": 4.194
   },
   "http://45.167.1.138:8000/play/a02b": {
     "alive": true,
-    "ts": 1794061650.6160526,
-    "rt": 0.162
+    "ts": 1794148610.9975178,
+    "rt": 0.158
   },
   "https://fta.ektv.in/live/245/master.m3u8": {
     "alive": true,
-    "ts": 1794061650.4660916,
-    "rt": 0.276
+    "ts": 1794148610.8258967,
+    "rt": 0.25
   },
   "https://cdn.pishow.tv/ott/live/1017/master.m3u8": {
     "alive": true,
-    "ts": 1794061650.484696,
-    "rt": 0.242
+    "ts": 1794148610.8842115,
+    "rt": 0.231
   },
   "https://fta.ektv.in/live/351/master.m3u8": {
     "alive": true,
-    "ts": 1794061650.6722894,
-    "rt": 0.253
+    "ts": 1794148611.066025,
+    "rt": 0.23
   },
   "https://fta.ektv.in/live/643/master.m3u8": {
     "alive": true,
-    "ts": 1794061650.6358314,
-    "rt": 0.249
+    "ts": 1794148611.0161903,
+    "rt": 0.228
   },
   "https://fta.ektv.in/live/344/master.m3u8": {
     "alive": true,
-    "ts": 1794061650.684,
-    "rt": 0.223
+    "ts": 1794148611.1150696,
+    "rt": 0.222
   },
   "http://flussonic.linkintel.ru/mama/index.m3u8": {
     "alive": true,
-    "ts": 1794061650.2465405,
-    "rt": 0.948
+    "ts": 1794148610.7472112,
+    "rt": 0.91
   },
   "https://fta.ektv.in/live/639/master.m3u8": {
     "alive": true,
-    "ts": 1794061650.6812966,
-    "rt": 0.249
+    "ts": 1794148611.0755818,
+    "rt": 0.25
   },
   "http://103.172.187.30:12000/stream/mytv/null-2/master.m3u8": {
     "alive": true,
-    "ts": 1794061650.6299207,
-    "rt": 0.45
+    "ts": 1794148611.0134444,
+    "rt": 0.43
   },
   "http://190.128.214.97:64333/play/a046/index.m3u8": {
     "alive": true,
-    "ts": 1794061650.7424886,
-    "rt": 0.379
+    "ts": 1794148611.244527,
+    "rt": 0.38
   },
   "http://dtv.vol.net.ua/M1-HD/index.m3u8": {
     "alive": false,
-    "ts": 1794061650.133643,
+    "ts": 1794148610.446527,
     "rt": 9999
   },
   "http://dtv.vol.net.ua/MEGA_HD/index.m3u8": {
     "alive": false,
-    "ts": 1794061650.5832005,
+    "ts": 1794148610.9898398,
     "rt": 9999
   },
   "https://mumt01.tangotv.in/O5aw8Zn3MOVIEPUNJAB/index.m3u8": {
     "alive": false,
-    "ts": 1794061650.885212,
+    "ts": 1794148611.3252616,
     "rt": 9999
   },
   "https://cdn.pishow.tv/ott/live/1121/master.m3u8": {
     "alive": true,
-    "ts": 1794061650.7776513,
-    "rt": 0.247
+    "ts": 1794148611.2958655,
+    "rt": 0.232
   },
   "https://fta.ektv.in/live/598/master.m3u8": {
     "alive": true,
-    "ts": 1794061650.925864,
-    "rt": 0.254
+    "ts": 1794148611.3542197,
+    "rt": 0.223
   },
   "http://777905.live.tvstitch.com/playlist.m3u8?master=57&source=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9NdXNpYy1Cb3gvdHJhY2tzLXYxYTEvbW9uby50cy5tM3U4P3Rva2VuPWV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpqYUdGdWJtVnNYMmxrSWpvMU55d2lZMmhoYm01bGJGOXVZVzFsSWpvaVRYVnphV01nUW05NElpd2lhWEFpT2lJeE56Z3VNVE0yTGpReUxqSXlNQ0lzSW1OdmRXNTBjbmtpT2lKVmEzSmhhVzVsSWl3aWRYTmxjbDlwWkNJNk56UXdOeXdpZFhObGNsOXdhRzl1WlNJNklpc3pPREE1TXpBNU5qYzBNak1pTENKMWMyVnlYM0p2YkdWeklqcGJJbU5zYVdWdWRDSmRMQ0p3Y205bWFXeGxYMmxrSWpvMk5EY3hMQ0p6WlhOemFXOXVYMmxrSWpvaVpEQXdPVFppWmpndE1qTmxOUzAwWldVMkxXSmxNelV0Wmpnd09ETTVaV1k1WkRnMElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hPRFV4TmpkOS5nYUo1WGRxTjJ3djY2SnFxYldnX0dGUzY3V3lZVEVOc0JQa3VpcU1sNTVN": {
     "alive": true,
-    "ts": 1794061650.9305434,
-    "rt": 0.403
+    "ts": 1794148611.4432988,
+    "rt": 0.408
   },
   "http://88.212.15.50/live/test_muzyka_pervogo/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061651.0918486,
-    "rt": 0.273
+    "ts": 1794148611.6242578,
+    "rt": 0.269
   },
   "https://fta.ektv.in/live/158/master.m3u8": {
     "alive": true,
-    "ts": 1794061650.9927745,
-    "rt": 0.25
+    "ts": 1794148611.5276167,
+    "rt": 0.251
   },
   "https://mumt01.tangotv.in/O5aw8Zn3NANAKSARLIVE/index.m3u8": {
     "alive": false,
-    "ts": 1794061651.179597,
+    "ts": 1794148611.6522312,
     "rt": 9999
   },
   "http://190.128.214.97:64333/play/a06o/index.m3u8": {
     "alive": true,
-    "ts": 1794061651.0245435,
-    "rt": 0.381
+    "ts": 1794148611.5312083,
+    "rt": 0.361
   },
   "http://dtv.vol.net.ua/Nat-Geo-Wild_HD/index.m3u8": {
     "alive": false,
-    "ts": 1794061651.242999,
+    "ts": 1794148611.7792134,
     "rt": 9999
   },
   "http://190.128.214.97:64333/play/a02d/index.m3u8": {
     "alive": true,
-    "ts": 1794061651.194462,
-    "rt": 0.379
+    "ts": 1794148611.6575098,
+    "rt": 0.361
   },
   "https://mumt04.tangotv.in/m18aqlK4MHONE/index.m3u8": {
     "alive": true,
-    "ts": 1794061650.6484632,
-    "rt": 0.905
+    "ts": 1794148611.021489,
+    "rt": 0.915
   },
   "https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8": {
     "alive": true,
-    "ts": 1794061651.4059734,
-    "rt": 0.072
+    "ts": 1794148611.9282684,
+    "rt": 0.051
   },
   "http://31.148.5.241/kanal_20/index.m3u8": {
     "alive": true,
-    "ts": 1794061651.0798383,
-    "rt": 0.503
+    "ts": 1794148611.576917,
+    "rt": 0.51
   },
   "https://fta.ektv.in/live/681/master.m3u8": {
     "alive": true,
-    "ts": 1794061651.361731,
-    "rt": 0.249
+    "ts": 1794148611.8554208,
+    "rt": 0.25
   },
   "https://cdn.pishow.tv/ott/live/1490/master.m3u8": {
     "alive": true,
-    "ts": 1794061651.3649356,
-    "rt": 0.238
+    "ts": 1794148611.8760126,
+    "rt": 0.233
   },
   "https://cdn.pishow.tv/ott/live/1498/master.m3u8": {
     "alive": true,
-    "ts": 1794061651.3688548,
-    "rt": 0.249
+    "ts": 1794148611.8920085,
+    "rt": 0.243
   },
   "https://fta.ektv.in/live/307/master.m3u8": {
     "alive": true,
-    "ts": 1794061651.3865497,
-    "rt": 0.223
+    "ts": 1794148611.8929234,
+    "rt": 0.229
   },
   "https://fta.ektv.in/live/102/102_0.m3u8": {
     "alive": true,
-    "ts": 1794061651.3663979,
-    "rt": 0.254
+    "ts": 1794148611.8857417,
+    "rt": 0.223
   },
   "https://cc-52950m0v2qv0p.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-52950m0v2qv0p/nntv/national/index.m3u8": {
     "alive": false,
-    "ts": 1794061651.609231,
+    "ts": 1794148612.1091368,
     "rt": 9999
   },
   "https://fta.ektv.in/live/303/master.m3u8": {
     "alive": true,
-    "ts": 1794061651.5826492,
-    "rt": 0.25
+    "ts": 1794148612.0868826,
+    "rt": 0.228
   },
   "https://fta.ektv.in/live/316/master.m3u8": {
     "alive": true,
-    "ts": 1794061651.6027782,
-    "rt": 0.278
+    "ts": 1794148612.105109,
+    "rt": 0.25
   },
   "https://cdn.pishow.tv/ott/live/1049/master.m3u8": {
     "alive": true,
-    "ts": 1794061651.6093059,
-    "rt": 0.253
+    "ts": 1794148612.1092205,
+    "rt": 0.269
   },
   "https://mumt01.tangotv.in/O5aw8Zn3NEWSLIVE24X7/index.m3u8": {
     "alive": false,
-    "ts": 1794061651.6035497,
+    "ts": 1794148612.1083677,
     "rt": 9999
   },
   "https://cdn.pishow.tv/ott/live/10003/master.m3u8": {
@@ -74061,43 +74061,43 @@
   },
   "https://vmttv.dpdns.org/tv360?id=htv-the-thao": {
     "alive": false,
-    "ts": 1794061649.4890587,
+    "ts": 1794148609.574955,
     "rt": 9999
   },
   "https://cdn.pishow.tv/ott/live/455/master.m3u8": {
     "alive": true,
-    "ts": 1794061651.6110117,
-    "rt": 0.229
+    "ts": 1794148612.1225312,
+    "rt": 0.269
   },
   "https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061651.832369,
-    "rt": 0.221
+    "ts": 1794148612.3146667,
+    "rt": 0.251
   },
   "http://87.120.179.187:8000/play/a00x": {
     "alive": true,
-    "ts": 1794061651.6203778,
-    "rt": 0.308
+    "ts": 1794148612.135299,
+    "rt": 0.306
   },
   "https://mumbai-edge.smartplaytv.in/NDTVIndia/index.m3u8": {
     "alive": true,
-    "ts": 1794061651.3338358,
-    "rt": 0.931
+    "ts": 1794148611.8516066,
+    "rt": 0.947
   },
   "http://flussonic.linkintel.ru/ntv/index.m3u8": {
     "alive": true,
-    "ts": 1794061651.8805406,
+    "ts": 1794148612.378047,
     "rt": 0.141
   },
   "http://stream.mcquack.net/326/index.m3u8": {
     "alive": true,
-    "ts": 1794061651.8405344,
-    "rt": 0.331
+    "ts": 1794148612.319823,
+    "rt": 0.414
   },
   "http://31.148.5.241/kanal_4/index.m3u8": {
     "alive": true,
-    "ts": 1794061651.862875,
-    "rt": 0.247
+    "ts": 1794148612.3550692,
+    "rt": 0.257
   },
   "http://103.151.60.162:2122/play/a00s/index.m3u8?hls": {
     "alive": false,
@@ -74106,273 +74106,273 @@
   },
   "http://dtv.vol.net.ua/OnePlanet/index.m3u8": {
     "alive": false,
-    "ts": 1794061651.928133,
+    "ts": 1794148612.441862,
     "rt": 9999
   },
   "https://mumbai-edge.smartplaytv.in/news18odiya/index.m3u8": {
     "alive": false,
-    "ts": 1794061651.5734484,
+    "ts": 1794148612.0181863,
     "rt": 9999
   },
   "http://45.70.168.162:1503/play/a02a/index.m3u8": {
     "alive": true,
-    "ts": 1794061652.1581542,
-    "rt": 0.176
+    "ts": 1794148612.7338634,
+    "rt": 0.2
   },
   "https://fta.ektv.in/live/167/master.m3u8": {
     "alive": true,
-    "ts": 1794061652.053918,
-    "rt": 0.276
+    "ts": 1794148612.5664656,
+    "rt": 0.25
   },
   "https://fta.ektv.in/live/170/master.m3u8": {
     "alive": true,
-    "ts": 1794061652.0731375,
-    "rt": 0.249
+    "ts": 1794148612.5912585,
+    "rt": 0.228
   },
   "https://mumbai-edge.smartplaytv.in/news18kannada/index.m3u8": {
     "alive": false,
-    "ts": 1794061651.5540295,
+    "ts": 1794148611.9367757,
     "rt": 9999
   },
   "https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061652.3228,
-    "rt": 0.177
+    "ts": 1794148612.8162365,
+    "rt": 0.201
   },
   "https://fta.ektv.in/live/695/master.m3u8": {
-    "alive": true,
-    "ts": 1794061652.1102583,
-    "rt": 0.253
+    "alive": false,
+    "ts": 1794148612.6124928,
+    "rt": 9999
   },
   "https://cdn.pishow.tv/ott/live/1245/master.m3u8": {
     "alive": true,
-    "ts": 1794061652.1725082,
-    "rt": 0.239
+    "ts": 1794148612.8001647,
+    "rt": 0.24
   },
   "http://31.148.5.241/kanal_9/index.m3u8": {
     "alive": true,
-    "ts": 1794061652.021613,
-    "rt": 0.491
+    "ts": 1794148612.5189097,
+    "rt": 0.506
   },
   "http://92.114.85.87:8014/play/a00d/index.m3u8": {
     "alive": true,
-    "ts": 1794061652.264621,
-    "rt": 0.263
+    "ts": 1794148612.8111649,
+    "rt": 0.249
   },
   "https://fta.ektv.in/live/336/master.m3u8": {
     "alive": true,
-    "ts": 1794061652.3340304,
-    "rt": 0.276
+    "ts": 1794148612.8426268,
+    "rt": 0.23
   },
   "https://cdn.pishow.tv/ott/live/247/master.m3u8": {
     "alive": true,
-    "ts": 1794061652.330137,
-    "rt": 0.228
+    "ts": 1794148612.819181,
+    "rt": 0.231
   },
   "https://fta.ektv.in/live/623/master.m3u8": {
     "alive": true,
-    "ts": 1794061652.3635454,
-    "rt": 0.253
+    "ts": 1794148612.9073832,
+    "rt": 0.228
   },
   "https://cdn.pishow.tv/ott/live/1437/master.m3u8": {
     "alive": true,
-    "ts": 1794061652.3810737,
-    "rt": 0.262
+    "ts": 1794148612.933481,
+    "rt": 0.24
   },
   "https://cdn.pishow.tv/ott/live/1503/master.m3u8": {
     "alive": true,
-    "ts": 1794061652.500196,
-    "rt": 0.229
+    "ts": 1794148613.0405,
+    "rt": 0.24
   },
   "https://cdn.pishow.tv/ott/live/1604/master.m3u8": {
     "alive": true,
-    "ts": 1794061652.411159,
-    "rt": 0.244
+    "ts": 1794148613.0244758,
+    "rt": 0.231
   },
   "https://fta.ektv.in/live/237/master.m3u8": {
     "alive": false,
-    "ts": 1794061652.512727,
+    "ts": 1794148613.0504134,
     "rt": 9999
   },
   "https://fta.ektv.in/live/182/master.m3u8": {
     "alive": true,
-    "ts": 1794061652.4071648,
-    "rt": 0.249
+    "ts": 1794148613.0175908,
+    "rt": 0.25
   },
   "https://fta.ektv.in/live/239/master.m3u8": {
     "alive": true,
-    "ts": 1794061652.52802,
+    "ts": 1794148613.0600383,
     "rt": 0.223
   },
   "https://fta.ektv.in/live/240/master.m3u8": {
     "alive": true,
-    "ts": 1794061652.5584009,
-    "rt": 0.25
+    "ts": 1794148613.0722923,
+    "rt": 0.23
   },
   "http://38.65.175.84:8000/play/a0ku/index.m3u8": {
     "alive": true,
-    "ts": 1794061652.647095,
-    "rt": 1.126
+    "ts": 1794148613.267317,
+    "rt": 0.103
   },
   "https://cdn.pishow.tv/ott/live/1261/master.m3u8": {
     "alive": true,
-    "ts": 1794061652.643479,
-    "rt": 0.252
+    "ts": 1794148613.255869,
+    "rt": 0.239
   },
   "https://fta.ektv.in/live/25/master.m3u8": {
     "alive": true,
-    "ts": 1794061652.6551905,
-    "rt": 0.253
+    "ts": 1794148613.2728024,
+    "rt": 0.223
   },
   "http://178.76.68.60:7442/64/mpegts": {
     "alive": false,
-    "ts": 1794061651.7116797,
+    "ts": 1794148612.2213054,
     "rt": 9999
   },
   "http://178.76.68.60:7442/80/mpegts": {
     "alive": false,
-    "ts": 1794061651.8110194,
+    "ts": 1794148612.3119862,
     "rt": 9999
   },
   "https://fta.ektv.in/live/306/master.m3u8": {
     "alive": true,
-    "ts": 1794061652.908379,
-    "rt": 0.253
+    "ts": 1794148613.7187164,
+    "rt": 0.223
   },
   "https://vs137.vcdn.biz/6aa0d03eb8d337c5a12c8275477af53a_megogo/live/hls/b/700_2490_4000/u_sid/0/o/229009131/rsid/15fbd560-a86a-45ca-8058-baf9f5f61c8e/u_uid/0/u_vod/0/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/45.80.208.174*asn/u_srvc/84416/u_did/web_MjE7M10AtBKsWN3CHzhzNBgiG7LkULPx/type.live/chunklist-sid8840242905769027046-b4000000.m3u8": {
-    "alive": false,
-    "ts": 1794061652.6564443,
-    "rt": 9999
+    "alive": true,
+    "ts": 1794148613.2809026,
+    "rt": 0.795
   },
   "http://138.59.177.78:9999/play/a0gf/index.m3u8": {
     "alive": true,
-    "ts": 1794061653.1618514,
-    "rt": 0.149
+    "ts": 1794148613.802041,
+    "rt": 0.226
   },
   "https://legitpro.co.in/punjabihits/punjabihits/index.m3u8": {
     "alive": true,
-    "ts": 1794061652.6100986,
-    "rt": 0.898
+    "ts": 1794148613.1355724,
+    "rt": 0.943
   },
   "https://cdn.pishow.tv/ott/live/1507/master.m3u8": {
     "alive": true,
-    "ts": 1794061653.226539,
-    "rt": 0.238
+    "ts": 1794148613.9417233,
+    "rt": 0.232
   },
   "https://cdn.pishow.tv/ott/live/279/master.m3u8": {
     "alive": true,
-    "ts": 1794061653.3005214,
-    "rt": 0.229
+    "ts": 1794148614.0283968,
+    "rt": 0.24
   },
   "https://gtc.ottlive.co.in/punjabshort/index.m3u8": {
     "alive": true,
-    "ts": 1794061652.6166983,
-    "rt": 0.03
+    "ts": 1794148613.173387,
+    "rt": 1.101
   },
   "http://777905.live.tvstitch.com/playlist.m3u8?master=180&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3": {
     "alive": true,
-    "ts": 1794061653.4468143,
-    "rt": 0.303
+    "ts": 1794148614.0787342,
+    "rt": 0.304
   },
   "http://46.151.196.223:14244": {
     "alive": true,
-    "ts": 1794061653.529731,
-    "rt": 0.045
+    "ts": 1794148614.2747517,
+    "rt": 0.056
   },
   "http://45.224.96.220:18000/play/a098/index.m3u8": {
     "alive": true,
-    "ts": 1794061653.5085113,
-    "rt": 0.242
+    "ts": 1794148614.268722,
+    "rt": 0.266
   },
   "http://31.148.5.241/kanal_11/index.m3u8": {
     "alive": true,
-    "ts": 1794061653.7060232,
-    "rt": 0.246
+    "ts": 1794148614.3831291,
+    "rt": 0.252
   },
   "http://176.118.197.101/RBK/index.m3u8": {
     "alive": true,
-    "ts": 1794061653.464175,
-    "rt": 1.197
+    "ts": 1794148614.1733263,
+    "rt": 0.489
   },
   "http://190.128.214.97:64333/play/a05o/index.m3u8": {
     "alive": true,
-    "ts": 1794061653.5746462,
-    "rt": 0.381
+    "ts": 1794148614.3308241,
+    "rt": 0.368
   },
   "https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index.m3u8": {
     "alive": false,
-    "ts": 1794061652.8965044,
+    "ts": 1794148613.4963148,
     "rt": 9999
   },
   "https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/b8640d6b-d131-4401-9451-944e1e65fe79/0.m3u8": {
     "alive": false,
-    "ts": 1794061653.3104577,
+    "ts": 1794148614.0760348,
     "rt": 9999
   },
   "https://cdn.pishow.tv/ott/live/1510/master.m3u8": {
     "alive": true,
-    "ts": 1794061653.75066,
-    "rt": 0.236
+    "ts": 1794148614.6347687,
+    "rt": 0.241
   },
   "https://cdn.pishow.tv/ott/live/270/master.m3u8": {
     "alive": true,
-    "ts": 1794061653.7735329,
-    "rt": 0.235
+    "ts": 1794148614.6619482,
+    "rt": 0.231
   },
   "https://fta.ektv.in/live/709/master.m3u8": {
     "alive": true,
-    "ts": 1794061653.7498038,
-    "rt": 0.254
+    "ts": 1794148614.5343792,
+    "rt": 0.223
   },
   "http://176.118.197.101/Retro/index.m3u8": {
     "alive": true,
-    "ts": 1794061653.9525313,
-    "rt": 0.506
+    "ts": 1794148614.688906,
+    "rt": 0.247
   },
   "https://mumbai-edge.smartplaytv.in/RTIndia/index.m3u8": {
     "alive": true,
-    "ts": 1794061653.9562051,
+    "ts": 1794148614.698974,
     "rt": 0.203
   },
   "http://46.53.200.153:7777/play/a00u/index.m3u8": {
     "alive": true,
-    "ts": 1794061653.986621,
-    "rt": 0.277
+    "ts": 1794148614.757051,
+    "rt": 0.284
   },
   "http://38.134.250.110:8000/play/a01p/index.m3u8": {
     "alive": true,
-    "ts": 1794061654.004203,
-    "rt": 0.205
+    "ts": 1794148614.8025975,
+    "rt": 0.2
   },
   "http://31.148.5.241/kanal_6/index.m3u8": {
     "alive": true,
-    "ts": 1794061654.055084,
-    "rt": 0.246
+    "ts": 1794148614.8907387,
+    "rt": 0.251
   },
   "https://fta.ektv.in/live/410/master.m3u8": {
-    "alive": true,
-    "ts": 1794061654.2636185,
-    "rt": 0.25
+    "alive": false,
+    "ts": 1794148614.935612,
+    "rt": 9999
   },
   "https://fta.ektv.in/live/650/master.m3u8": {
     "alive": true,
-    "ts": 1794061654.209175,
-    "rt": 0.253
+    "ts": 1794148614.9024982,
+    "rt": 0.223
   },
   "https://cdn.pishow.tv/ott/live/1235/master.m3u8": {
     "alive": true,
-    "ts": 1794061654.2843368,
-    "rt": 0.242
+    "ts": 1794148615.0026166,
+    "rt": 0.233
   },
   "http://176.118.197.101/RossiyaHD/index.m3u8": {
     "alive": true,
-    "ts": 1794061654.0090039,
-    "rt": 0.525
+    "ts": 1794148614.8754585,
+    "rt": 0.505
   },
   "https://cdn.pishow.tv/ott/live/1611/master.m3u8": {
     "alive": true,
-    "ts": 1794061654.3007421,
-    "rt": 0.229
+    "ts": 1794148615.0416179,
+    "rt": 0.253
   },
   "https://cdn.pishow.tv/ott/live/409/master.m3u8": {
     "alive": true,
@@ -74381,78 +74381,78 @@
   },
   "https://fta.ektv.in/live/349/master.m3u8": {
     "alive": true,
-    "ts": 1794061654.4625523,
-    "rt": 0.253
+    "ts": 1794148615.1417706,
+    "rt": 0.224
   },
   "https://fta.ektv.in/live/589/master.m3u8": {
-    "alive": true,
-    "ts": 1794061654.4585967,
-    "rt": 0.25
+    "alive": false,
+    "ts": 1794148615.1262028,
+    "rt": 9999
   },
   "https://mumbai-edge.smartplaytv.in/SriSankara/index.m3u8": {
     "alive": true,
-    "ts": 1794061654.5137153,
-    "rt": 0.203
+    "ts": 1794148615.1667151,
+    "rt": 0.205
   },
   "http://46.53.200.153:7777/play/Sapfir_HD/index.m3u8": {
     "alive": true,
-    "ts": 1794061654.5297759,
-    "rt": 0.281
+    "ts": 1794148615.2943888,
+    "rt": 0.297
   },
   "https://d1msejlow1t3l4.cloudfront.net/fta/sarvdharmsangam/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061654.5344594,
-    "rt": 0.23
+    "ts": 1794148615.350639,
+    "rt": 0.226
   },
   "https://live.smotrim.ru/vgtrk/0/kultura-hd/index.m3u8": {
     "alive": true,
-    "ts": 1794061654.1592336,
-    "rt": 1.206
+    "ts": 1794148614.8931377,
+    "rt": 1.066
   },
   "http://138.121.15.230:9002/SENAL-COLOMBIA/index.m3u8": {
     "alive": true,
-    "ts": 1794061654.7084029,
-    "rt": 0.238
+    "ts": 1794148615.3718143,
+    "rt": 1.229
   },
   "http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061654.7158067,
-    "rt": 0.696
+    "ts": 1794148615.3806808,
+    "rt": 0.641
   },
   "http://46.53.200.153:7777/play/Shanson_TV/index.m3u8": {
     "alive": true,
-    "ts": 1794061654.71707,
-    "rt": 0.299
+    "ts": 1794148615.576485,
+    "rt": 0.308
   },
   "https://d1msejlow1t3l4.cloudfront.net/fta/sharanamtv/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061654.7650328,
-    "rt": 0.245
+    "ts": 1794148615.591752,
+    "rt": 0.223
   },
   "https://5790d294af2dc.streamlock.net/streamtv/streamtv/playlist.m3u8": {
     "alive": false,
-    "ts": 1794061655.0108094,
+    "ts": 1794148615.9596305,
     "rt": 9999
   },
   "https://cdn.pishow.tv/ott/live/337/master.m3u8": {
     "alive": true,
-    "ts": 1794061654.8104632,
+    "ts": 1794148615.815155,
     "rt": 0.24
   },
   "https://cdn.pishow.tv/ott/live/457/master.m3u8": {
     "alive": true,
-    "ts": 1794061654.9469895,
-    "rt": 0.249
+    "ts": 1794148615.884359,
+    "rt": 0.238
   },
   "http://777905.live.tvstitch.com/playlist.m3u8?master=1103&source=aHR0cDovLzE3Ni4xMjIuMTI1LjIzOjcwMDAvY2g0My90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTU3LjEyOC4yMzYuMjIzJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1NTE0NiZzdD02SC1HSlEtemw4X1NCQjMzRjVLTUpn": {
     "alive": true,
-    "ts": 1794061655.0108473,
-    "rt": 0.29
+    "ts": 1794148615.9596632,
+    "rt": 0.295
   },
   "https://canalsantaferts.argtelemax.workers.dev": {
     "alive": true,
-    "ts": 1794061654.5260146,
-    "rt": 1.211
+    "ts": 1794148615.235566,
+    "rt": 1.131
   },
   "http://103.151.60.162:2122/play/a02v/index.m3u8?hls": {
     "alive": false,
@@ -74466,8 +74466,8 @@
   },
   "http://31.148.5.241/kanal_12/index.m3u8": {
     "alive": true,
-    "ts": 1794061655.301724,
-    "rt": 0.246
+    "ts": 1794148616.0224123,
+    "rt": 0.251
   },
   "http://103.151.60.162:2122/play/a01o/index.m3u8?hls": {
     "alive": false,
@@ -74476,13 +74476,13 @@
   },
   "https://sistemastr.tropicalmoonmedia.com/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8": {
     "alive": true,
-    "ts": 1794061655.5480328,
-    "rt": 0.232
+    "ts": 1794148616.0564294,
+    "rt": 0.162
   },
   "https://rightsboosterltd-scl-1-us.xumo.wurl.tv/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061655.5516958,
-    "rt": 0.164
+    "ts": 1794148616.1227086,
+    "rt": 0.228
   },
   "http://103.151.60.162:2122/play/a01n/index.m3u8?hls": {
     "alive": false,
@@ -74496,143 +74496,143 @@
   },
   "https://livingindiaottlive.akamaized.net/tabbarhits/index.m3u8": {
     "alive": false,
-    "ts": 1794061655.7379196,
+    "ts": 1794148616.3510454,
     "rt": 9999
   },
   "http://31.148.5.241/kanal_13/index.m3u8": {
     "alive": true,
-    "ts": 1794061655.5819862,
-    "rt": 0.247
+    "ts": 1794148616.2182364,
+    "rt": 0.254
   },
   "https://d2gvyg6lvauoko.cloudfront.net/230226/studioyuva/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b": {
     "alive": true,
-    "ts": 1794061655.7155755,
-    "rt": 0.314
+    "ts": 1794148616.2546747,
+    "rt": 0.27
   },
   "http://138.121.15.230:9002/TELECAFE/index.m3u8": {
     "alive": true,
-    "ts": 1794061655.7800214,
-    "rt": 0.113
+    "ts": 1794148616.3668933,
+    "rt": 0.223
   },
   "http://46.151.196.223:14326": {
     "alive": true,
-    "ts": 1794061655.8288343,
-    "rt": 0.052
+    "ts": 1794148616.472805,
+    "rt": 0.056
   },
   "http://158.172.217.18:8000/play/a0ns/index.m3u8": {
     "alive": true,
-    "ts": 1794061655.893102,
-    "rt": 0.343
+    "ts": 1794148616.528789,
+    "rt": 0.351
   },
   "https://canal11saltatv.unpocodeawita.workers.dev": {
     "alive": false,
-    "ts": 1794061655.8810391,
+    "ts": 1794148616.5243616,
     "rt": 9999
   },
   "http://186.148.196.100:8000/play/a01s": {
     "alive": true,
-    "ts": 1794061655.9147136,
-    "rt": 0.299
+    "ts": 1794148616.5901122,
+    "rt": 0.298
   },
   "https://live-us1.thaimomo.com/live-as/chthairathhd-3/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061656.0300312,
-    "rt": 0.086
+    "ts": 1794148616.861244,
+    "rt": 0.092
   },
   "http://45.173.231.22:8000/play/a01h/index.m3u8": {
     "alive": true,
-    "ts": 1794061655.9451478,
-    "rt": 0.222
+    "ts": 1794148616.6011858,
+    "rt": 0.259
   },
   "https://mumt03.tangotv.in/Dsly5z3HTHANTHITV/index.m3u8": {
     "alive": false,
-    "ts": 1794061656.1674786,
+    "ts": 1794148616.8884895,
     "rt": 9999
   },
   "https://vmttv.dpdns.org/tv360?id=175": {
     "alive": false,
-    "ts": 1794061651.9117525,
+    "ts": 1794148612.3921356,
     "rt": 9999
   },
   "https://mumbai-edge.smartplaytv.in/TheMovieClub/index.m3u8": {
     "alive": true,
-    "ts": 1794061656.2361066,
-    "rt": 0.201
+    "ts": 1794148617.0004988,
+    "rt": 0.209
   },
   "https://hlslive.olidigital.in/suriyantv/suriyantv/index.m3u8": {
-    "alive": true,
-    "ts": 1794061655.7306805,
-    "rt": 1.233
+    "alive": false,
+    "ts": 1794148616.2734914,
+    "rt": 9999
   },
   "https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061656.4068155,
-    "rt": 0.219
+    "ts": 1794148617.2093801,
+    "rt": 0.171
   },
   "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a5ee7c4e7a2a4b15a22a3bcf523b9776/index.m3u8": {
     "alive": true,
-    "ts": 1794061656.6258776,
-    "rt": 0.378
+    "ts": 1794148617.7966077,
+    "rt": 0.354
   },
   "http://138.121.15.230:9002/TELENOVELAS/index.m3u8": {
     "alive": true,
-    "ts": 1794061656.777808,
-    "rt": 0.113
+    "ts": 1794148618.1507375,
+    "rt": 0.109
   },
   "http://62.60.207.173:8080/hls/thaqalayn/index.m3u8": {
     "alive": true,
-    "ts": 1794061656.2132945,
-    "rt": 0.564
+    "ts": 1794148616.953664,
+    "rt": 1.891
   },
   "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039": {
     "alive": false,
-    "ts": 1794061656.8906276,
+    "ts": 1794148618.25963,
     "rt": 9999
   },
   "http://31.148.5.241/kanal_19/index.m3u8": {
     "alive": true,
-    "ts": 1794061657.0042508,
-    "rt": 0.247
+    "ts": 1794148618.6953092,
+    "rt": 0.254
   },
   "http://176.118.197.101/TNT4/index.m3u8": {
     "alive": false,
-    "ts": 1794061656.9633102,
+    "ts": 1794148618.449249,
     "rt": 9999
   },
   "http://37.49.224.5/stream/1/index.m3u8": {
     "alive": true,
-    "ts": 1794061657.099487,
-    "rt": 0.225
+    "ts": 1794148618.9497635,
+    "rt": 0.219
   },
   "http://37.49.224.5/stream/2/index.m3u8": {
     "alive": true,
-    "ts": 1794061657.2101226,
-    "rt": 0.218
+    "ts": 1794148619.1690018,
+    "rt": 0.109
   },
   "http://158.172.155.130:8000/play/a0at/index.m3u8": {
     "alive": true,
-    "ts": 1794061657.0933323,
-    "rt": 0.4
+    "ts": 1794148618.8444762,
+    "rt": 0.391
   },
   "http://37.49.224.5/stream/3/index.m3u8": {
     "alive": true,
-    "ts": 1794061657.2510054,
-    "rt": 0.224
+    "ts": 1794148619.2355976,
+    "rt": 0.226
   },
   "http://37.49.224.5/stream/4/index.m3u8": {
     "alive": true,
-    "ts": 1794061657.3244874,
-    "rt": 0.111
+    "ts": 1794148619.2365837,
+    "rt": 0.229
   },
   "https://fs.uplink.kz/tochka_otriva/mono.m3u8?token=onlinetv": {
     "alive": false,
-    "ts": 1794061657.4277725,
+    "ts": 1794148619.2784088,
     "rt": 9999
   },
   "https://sistemastr.tropicalmoonmedia.com/live/D8E123ACA054EF85B153C354A481A406/4.m3u8": {
     "alive": true,
-    "ts": 1794061657.4748373,
-    "rt": 0.049
+    "ts": 1794148619.4661453,
+    "rt": 0.033
   },
   "http://66.102.126.10:8000/play/a01n/index.m3u8": {
     "alive": false,
@@ -74641,217 +74641,217 @@
   },
   "https://mumbai-edge.smartplaytv.in/tv5kannada/index.m3u8": {
     "alive": false,
-    "ts": 1794061657.523714,
+    "ts": 1794148620.4919355,
     "rt": 9999
   },
   "https://cdn.pishow.tv/ott/live/387/master.m3u8": {
     "alive": true,
-    "ts": 1794061657.7235007,
-    "rt": 0.279
+    "ts": 1794148620.6996393,
+    "rt": 0.232
   },
   "http://170.244.209.30:8000/play/a1ib/index.m3u8": {
     "alive": false,
-    "ts": 1794061647.6610007,
+    "ts": 1794148607.4414947,
     "rt": 9999
   },
   "https://mumbai-edge.smartplaytv.in/tv9kannada/index.m3u8": {
     "alive": true,
-    "ts": 1794061658.0030806,
-    "rt": 0.201
+    "ts": 1794148620.9313707,
+    "rt": 0.209
   },
   "http://46.53.200.153:7777/play/TV-21M/index.m3u8": {
     "alive": true,
-    "ts": 1794061658.2038498,
-    "rt": 0.292
+    "ts": 1794148621.140138,
+    "rt": 0.321
   },
   "http://31.148.5.241/kanal_10/index.m3u8": {
     "alive": true,
-    "ts": 1794061658.3562407,
-    "rt": 0.247
+    "ts": 1794148621.4618363,
+    "rt": 0.255
   },
   "http://79.127.238.228:14173": {
     "alive": true,
-    "ts": 1794061658.4963303,
-    "rt": 0.286
+    "ts": 1794148621.7172396,
+    "rt": 0.276
   },
   "http://181.224.200.5:2277/play/a0dx/index.m3u8": {
     "alive": true,
-    "ts": 1794061658.6037943,
-    "rt": 0.324
+    "ts": 1794148621.9941769,
+    "rt": 0.29
   },
   "http://31.148.5.241/kanal_15/index.m3u8": {
     "alive": true,
-    "ts": 1794061658.7831082,
-    "rt": 0.247
+    "ts": 1794148622.2846215,
+    "rt": 0.258
   },
   "http://66.102.126.10:8000/play/a01i/index.m3u8": {
     "alive": false,
-    "ts": 1794061648.4442246,
+    "ts": 1794148608.239032,
     "rt": 9999
   },
   "https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8": {
     "alive": false,
-    "ts": 1794061663.678148,
+    "ts": 1794148624.2522054,
     "rt": 9999
   },
   "http://132.255.210.69:8000/play/a02v/index.m3u8": {
     "alive": false,
-    "ts": 1794061648.4475858,
+    "ts": 1794148608.2881486,
     "rt": 9999
   },
   "http://38.252.238.18:8000/play/a01d/index.m3u8": {
     "alive": false,
-    "ts": 1794061648.4725976,
+    "ts": 1794148608.3108008,
     "rt": 9999
   },
   "http://170.244.209.30:8000/play/a1ic/index.m3u8": {
     "alive": false,
-    "ts": 1794061648.4948337,
+    "ts": 1794148608.400421,
     "rt": 9999
   },
   "https://d1rc86nwwc9fag.cloudfront.net/140622/v6newsdev/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b": {
     "alive": true,
-    "ts": 1794061664.4572728,
-    "rt": 0.181
+    "ts": 1794148624.3276088,
+    "rt": 0.166
   },
   "https://fta.ektv.in/live/688/master.m3u8": {
-    "alive": true,
-    "ts": 1794061663.6783175,
-    "rt": 0.254
+    "alive": false,
+    "ts": 1794148624.252411,
+    "rt": 9999
   },
   "https://mumbai-edge.smartplaytv.in/VanithaTV/index.m3u8": {
     "alive": false,
-    "ts": 1794061664.4601161,
+    "ts": 1794148624.4173315,
     "rt": 9999
   },
   "https://fta.ektv.in/live/228/master.m3u8": {
     "alive": true,
-    "ts": 1794061664.4856231,
-    "rt": 0.254
+    "ts": 1794148624.4755235,
+    "rt": 0.223
   },
   "http://120.39.52.202:5140/福建综合": {
     "alive": false,
-    "ts": 1794061648.801297,
+    "ts": 1794148608.8222249,
     "rt": 9999
   },
   "https://mumbai-edge.smartplaytv.in/Velichamtv/index.m3u8": {
     "alive": true,
-    "ts": 1794061664.638643,
-    "rt": 0.211
+    "ts": 1794148624.6252265,
+    "rt": 0.209
   },
   "https://fta.ektv.in/live/223/master.m3u8": {
     "alive": true,
-    "ts": 1794061664.6596391,
-    "rt": 0.25
+    "ts": 1794148624.698595,
+    "rt": 0.223
   },
   "https://fta.ektv.in/live/628/master.m3u8": {
     "alive": true,
-    "ts": 1794061664.5075314,
-    "rt": 0.25
+    "ts": 1794148624.4939704,
+    "rt": 0.222
   },
   "http://777905.live.tvstitch.com/playlist.m3u8?master=78&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ==": {
     "alive": true,
-    "ts": 1794061664.7394655,
-    "rt": 0.453
+    "ts": 1794148624.7166731,
+    "rt": 0.313
   },
   "http://777905.live.tvstitch.com/playlist.m3u8?master=249&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ==": {
     "alive": true,
-    "ts": 1794061664.7572484,
-    "rt": 0.446
+    "ts": 1794148624.833903,
+    "rt": 0.414
   },
   "http://777905.live.tvstitch.com/playlist.m3u8?master=102&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ==": {
     "alive": true,
-    "ts": 1794061664.8172197,
-    "rt": 0.471
+    "ts": 1794148624.834798,
+    "rt": 0.405
   },
   "http://777905.live.tvstitch.com/playlist.m3u8?master=77&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw==": {
     "alive": true,
-    "ts": 1794061664.8496423,
-    "rt": 0.459
+    "ts": 1794148624.921738,
+    "rt": 0.574
   },
   "http://777905.live.tvstitch.com/playlist.m3u8?master=599&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw==": {
     "alive": true,
-    "ts": 1794061664.909403,
-    "rt": 0.453
+    "ts": 1794148625.029631,
+    "rt": 0.303
   },
   "http://46.53.200.153:7777/play/a01i/index.m3u8": {
     "alive": true,
-    "ts": 1794061665.1925151,
-    "rt": 0.302
+    "ts": 1794148625.24008,
+    "rt": 0.289
   },
   "http://46.53.200.153:7777/play/a01j/index.m3u8": {
     "alive": true,
-    "ts": 1794061665.2034132,
-    "rt": 0.292
+    "ts": 1794148625.2483106,
+    "rt": 0.264
   },
   "http://46.53.200.153:7777/play/a01k/index.m3u8": {
     "alive": true,
-    "ts": 1794061665.288546,
-    "rt": 0.271
+    "ts": 1794148625.3329709,
+    "rt": 0.274
   },
   "http://46.53.200.153:7777/play/TV_1000/index.m3u8": {
     "alive": true,
-    "ts": 1794061665.3090782,
-    "rt": 0.275
+    "ts": 1794148625.49624,
+    "rt": 0.268
   },
   "http://46.53.200.153:7777/play/a01h/index.m3u8": {
     "alive": true,
-    "ts": 1794061665.3621984,
-    "rt": 0.273
+    "ts": 1794148625.5126617,
+    "rt": 0.27
   },
   "http://46.53.200.153:7777/play/Viju_Comedy_HD/index.m3u8": {
     "alive": true,
-    "ts": 1794061665.4950433,
-    "rt": 0.266
+    "ts": 1794148625.6067078,
+    "rt": 0.271
   },
   "http://46.53.200.153:7777/play/a01g/index.m3u8": {
     "alive": true,
-    "ts": 1794061665.4942188,
-    "rt": 0.274
+    "ts": 1794148625.529456,
+    "rt": 0.281
   },
   "http://46.53.200.153:7777/play/Viju_Megahit_HD/index.m3u8": {
     "alive": true,
-    "ts": 1794061665.5597193,
-    "rt": 0.257
+    "ts": 1794148625.763989,
+    "rt": 0.271
   },
   "http://46.53.200.153:7777/play/Viju_Premiere/index.m3u8": {
     "alive": true,
-    "ts": 1794061665.584108,
-    "rt": 0.272
+    "ts": 1794148625.7822754,
+    "rt": 0.274
   },
   "http://46.53.200.153:7777/play/Viju_Serial_HD/index.m3u8": {
     "alive": true,
-    "ts": 1794061665.6347787,
-    "rt": 0.266
+    "ts": 1794148625.8106582,
+    "rt": 0.262
   },
   "http://31.148.5.241/Viasat_Sport/index.m3u8": {
     "alive": true,
-    "ts": 1794061665.760892,
-    "rt": 0.247
+    "ts": 1794148625.8774495,
+    "rt": 0.255
   },
   "https://d1msejlow1t3l4.cloudfront.net/fta/vtvgujarati/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061665.8558533,
-    "rt": 0.242
+    "ts": 1794148626.0728004,
+    "rt": 0.223
   },
   "http://125hvt.ddns.net:21585/vtv2/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061665.7682872,
-    "rt": 0.532
+    "ts": 1794148626.0359507,
+    "rt": 0.504
   },
   "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8": {
     "alive": false,
-    "ts": 1794061666.0981154,
+    "ts": 1794148626.5044842,
     "rt": 9999
   },
   "https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8": {
     "alive": true,
-    "ts": 1794061666.0981426,
-    "rt": 0.052
+    "ts": 1794148626.5045118,
+    "rt": 0.05
   },
   "https://mumbai-edge.smartplaytv.in/WINTV/index.m3u8": {
     "alive": false,
-    "ts": 1794061666.0083587,
+    "ts": 1794148626.2962027,
     "rt": 9999
   },
   "http://103.151.60.162:2122/play/a012/index.m3u8?hls": {
@@ -74861,72 +74861,72 @@
   },
   "https://fs.uplink.kz/zoopark/mono.m3u8?token=onlinetv": {
     "alive": false,
-    "ts": 1794061666.3010318,
+    "ts": 1794148626.5553157,
     "rt": 9999
   },
   "http://168.228.44.241:9999/play/a054/index.m3u8": {
     "alive": false,
-    "ts": 1794061650.7265549,
+    "ts": 1794148611.1551085,
     "rt": 9999
   },
   "http://170.244.209.30:8000/play/a1i8/index.m3u8": {
     "alive": false,
-    "ts": 1794061650.9071972,
+    "ts": 1794148611.33743,
     "rt": 9999
   },
   "http://119.166.53.110:85/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1": {
     "alive": false,
-    "ts": 1794061652.7290788,
+    "ts": 1794148613.282715,
     "rt": 9999
   },
   "http://119.166.53.110:85/tsfile/live/1002_1.m3u8?authid=0&key=txiptv&playlive=1": {
     "alive": false,
-    "ts": 1794061652.7509675,
+    "ts": 1794148613.3021219,
     "rt": 9999
   },
   "http://119.166.53.110:85/tsfile/live/1004_1.m3u8?authid=0&key=txiptv&playlive=1": {
     "alive": false,
-    "ts": 1794061652.7620704,
+    "ts": 1794148613.3701084,
     "rt": 9999
   },
   "http://119.166.53.110:85/tsfile/live/0002_1.m3u8?authid=0&key=txiptv&playlive=1": {
     "alive": false,
-    "ts": 1794061652.8082573,
+    "ts": 1794148613.4953446,
     "rt": 9999
   },
   "http://38.252.238.18:8000/play/a00g/index.m3u8": {
     "alive": false,
-    "ts": 1794061654.6612163,
+    "ts": 1794148615.366205,
     "rt": 9999
   },
   "http://200.122.223.13:55000/play/a01n/index.m3u8": {
     "alive": false,
-    "ts": 1794061655.7392223,
+    "ts": 1794148616.3516023,
     "rt": 9999
   },
   "http://77.232.131.211/TravelAdventureHD/index.m3u8": {
     "alive": false,
-    "ts": 1794061657.4354486,
+    "ts": 1794148619.46238,
     "rt": 9999
   },
   "http://109.104.153.220/TSN-4/index.m3u8": {
     "alive": false,
-    "ts": 1794061657.4938266,
+    "ts": 1794148619.4993944,
     "rt": 9999
   },
   "http://38.252.238.18:8000/play/a01h/index.m3u8": {
     "alive": false,
-    "ts": 1794061658.9281132,
+    "ts": 1794148622.5425222,
     "rt": 9999
   },
   "http://202.150.172.59/TVRI/index.m3u8": {
     "alive": false,
-    "ts": 1794061659.0301857,
+    "ts": 1794148623.45847,
     "rt": 9999
   },
   "http://38.252.238.18:8000/play/a03e/index.m3u8": {
     "alive": false,
-    "ts": 1794061663.9323301,
+    "ts": 1794148624.2990825,
     "rt": 9999
   },
   "https://box.bbaria.net/DurontoTV/index.m3u8": {
@@ -74936,27 +74936,27 @@
   },
   "http://202.150.172.59/VTVHD/index.m3u8": {
     "alive": false,
-    "ts": 1794061665.8170218,
+    "ts": 1794148626.0568407,
     "rt": 9999
   },
   "http://170.244.209.30:8000/play/a1id/index.m3u8": {
     "alive": false,
-    "ts": 1794061665.9006875,
+    "ts": 1794148626.1331084,
     "rt": 9999
   },
   "http://103.185.24.134:3001/ZEE-BANGLA-CINEMA/index.m3u8": {
     "alive": false,
-    "ts": 1794061666.1504416,
+    "ts": 1794148626.54069,
     "rt": 9999
   },
   "https://mumbai-edge.smartplaytv.in/thanthione/index.m3u8": {
     "alive": false,
-    "ts": 1794061656.116597,
+    "ts": 1794148616.8795693,
     "rt": 9999
   },
   "http://flussonic.linkintel.ru/tiji/index.m3u8": {
     "alive": false,
-    "ts": 1794061656.4370408,
+    "ts": 1794148617.3808177,
     "rt": 9999
   },
   "ch1-179382862.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
@@ -76087,6 +76087,21 @@
   "ch1-179396585.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
     "alive": false,
     "ts": 1794131562.9205053,
+    "rt": 9999
+  },
+  "ch1-179398078.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1794148606.496387,
+    "rt": 9999
+  },
+  "ch1-179398080.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1794148606.5074642,
+    "rt": 9999
+  },
+  "ch1-179398079.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1794148606.5022657,
     "rt": 9999
   }
 }
