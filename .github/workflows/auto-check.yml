@@ -1,0 +1,61 @@
+# GitHub Actions：定时测活 + 自动生成 CDN 镜像源
+# ============================================================
+# 作用：
+#   1) 定时（默认每天 6:00 / 18:00 UTC，即北京时间 14:00 / 次日 02:00）
+#      拉取 James-hub863/iptv-selfhost 的 live_ok.m3u
+#   2) 用 CDN 镜像（jsDelivr / ghproxy）绕开 raw 域名直连不稳定
+#   3) 逐条探活，仅保留存活源
+#   4) 自动 commit 到本仓库 output/ 目录，形成「可直连的镜像 m3u」
+#
+# 用法：
+#   把这个文件放到 你的仓库/.github/workflows/auto-check.yml
+#   output/ 目录会被自动生成并提交
+#
+# 注意：
+#   - 默认 PUBLIC_REPO = true（公开仓库，GITHUB_TOKEN 有写权限）
+#   - 若是私有仓库，需要在仓库 Settings → Actions → General
+#     里把「Workflow permissions」设为「Read and write permissions」
+
+name: IPTV 测活 & CDN 镜像生成
+
+on:
+  schedule:
+    # 每天 06:00 与 18:00 UTC 各跑一次
+    - cron: "0 6,18 * * *"
+  workflow_dispatch:   # 允许手动触发
+  push:
+    branches: [main]
+    paths:
+      - "check_live.py"
+
+permissions:
+  contents: write   # 允许提交 output/
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 运行测活脚本
+        run: |
+          python check_live.py \
+            --raw "https://raw.githubusercontent.com/James-hub863/iptv-selfhost/refs/heads/main/live_ok.m3u" \
+            --outdir output \
+            --workers 30 \
+            --timeout 10
+
+      - name: 提交镜像源与报告
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          # 只在有变化时才提交
+          git diff --cached --quiet || git commit -m "chore: 自动更新存活源与 CDN 镜像（$(date -u '+%Y-%m-%d %H:%M UTC')）"
+          git push
