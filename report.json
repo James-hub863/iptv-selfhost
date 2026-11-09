@@ -1,12 +1,12 @@
 {
-  "total": 13037,
-  "alive": 8001,
+  "total": 13024,
+  "alive": 7966,
   "cn_channels": 150,
   "foreign_channels": 150,
   "total_output": 300,
-  "dead": 5036,
-  "duration": 0.9,
-  "timestamp": "2026-11-09 04:01:11",
+  "dead": 5058,
+  "duration": 196.6,
+  "timestamp": "2026-11-09 11:18:11",
   "fastest_cn": "ABTV Bariloche",
-  "fastest_foreign": "24 Hour Free Movies (720p)"
+  "fastest_foreign": "13eme Rue"
 }
