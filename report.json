@@ -1,12 +1,12 @@
 {
   "total": 13028,
-  "alive": 7918,
+  "alive": 7967,
   "cn_channels": 150,
   "foreign_channels": 150,
   "total_output": 300,
-  "dead": 5110,
-  "duration": 0.3,
-  "timestamp": "2026-11-10 23:53:29",
+  "dead": 5061,
+  "duration": 891.4,
+  "timestamp": "2026-11-11 05:45:35",
   "fastest_cn": "ABTV Bariloche",
-  "fastest_foreign": "A&R Canal (720p)"
+  "fastest_foreign": "ABC KOAT-TV (720p)"
 }
