@@ -1,12 +1,12 @@
 {
-  "total": 13024,
-  "alive": 7873,
+  "total": 13028,
+  "alive": 7918,
   "cn_channels": 150,
   "foreign_channels": 150,
   "total_output": 300,
-  "dead": 5151,
-  "duration": 934.2,
-  "timestamp": "2026-11-10 02:08:58",
+  "dead": 5110,
+  "duration": 210.8,
+  "timestamp": "2026-11-10 12:58:26",
   "fastest_cn": "ABTV Bariloche",
   "fastest_foreign": "A&R Canal (720p)"
 }
