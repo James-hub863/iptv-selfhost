@@ -77278,5 +77278,20 @@
     "alive": false,
     "ts": 1794457984.64518,
     "rt": 9999
+  },
+  "ch1-179447544.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1794500677.5036852,
+    "rt": 9999
+  },
+  "ch1-179447545.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1794500677.503872,
+    "rt": 9999
+  },
+  "ch1-179447546.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1794500677.503937,
+    "rt": 9999
   }
 }
