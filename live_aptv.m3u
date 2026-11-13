@@ -61,10 +61,10 @@ http://cdn2.163189.xyz/live/gdty/stream.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="" group-title="卫视频道·广东",广东新闻
 http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="" group-title="卫视频道·广东",深圳卫视
-http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="" group-title="卫视频道·广东",广东珠江
 http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="" group-title="卫视频道·广东",深圳卫视
+http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="" group-title="卫视频道·广东",广东卫视
 http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="广东民生" tvg-logo="" group-title="卫视频道·广东",广东民生
@@ -98,12 +98,12 @@ http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
 http://107.150.60.122/live/zjwshd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江经济" tvg-logo="" group-title="卫视频道·浙江",浙江经济
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="浙江民生" tvg-logo="" group-title="卫视频道·浙江",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="浙江教科" tvg-logo="" group-title="卫视频道·浙江",浙江教科
-http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-logo="" group-title="卫视频道·浙江",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江教科" tvg-logo="" group-title="卫视频道·浙江",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江民生" tvg-logo="" group-title="卫视频道·浙江",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="浙江钱江" tvg-logo="" group-title="卫视频道·浙江",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="浙江少儿" tvg-logo="" group-title="卫视频道·浙江",浙江少儿
@@ -291,8 +291,8 @@ http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 # ---- 其他境外源 (2) ----
 #EXTINF:-1 tvg-id="" tvg-name="Rai News 24 HD (1080p)" tvg-logo="" group-title="新闻频道",Rai News 24 HD (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sandesh News (1080p)" tvg-logo="" group-title="新闻频道",Sandesh News (1080p)
-https://stream.ottlive.co.in/sandeshnews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="News Tamil 24x7 (1080p)" tvg-logo="" group-title="新闻频道",News Tamil 24x7 (1080p)
+https://stream.ottlive.co.in/newstamil/index.m3u8
 # ---- 印度 (1) ----
 #EXTINF:-1 tvg-id="" tvg-name="Zee Tamil News (720p)" tvg-logo="" group-title="新闻频道·印度",Zee Tamil News (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
@@ -309,9 +309,6 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Filmex Clasico (1080p) [Geo-blocked]" tvg-logo="" group-title="电影频道",Filmex Clasico (1080p) [Geo-blocked]
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
-# ---- 印度 (1) ----
-#EXTINF:-1 tvg-id="" tvg-name="Sony Movies Latin America (720p)" tvg-logo="" group-title="电影频道·印度",Sony Movies Latin America (720p)
-http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
 # --- 儿童频道 ---
 # ---- 其他境外源 (1) ----
 #EXTINF:-1 tvg-id="" tvg-name="PBS Kids Pacific (1080p)" tvg-logo="" group-title="儿童频道",PBS Kids Pacific (1080p)
@@ -323,19 +320,21 @@ http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 # ---- 东欧 (1) ----
 #EXTINF:-1 tvg-id="" tvg-name="Yahoo! Finance (1080p)" tvg-logo="" group-title="娱乐频道·东欧",Yahoo! Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-# ---- 其他境外源 (135) ----
+# ---- 其他境外源 (136) ----
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-16 HD (1080p)" tvg-logo="" group-title="娱乐频道",CCTV-16 HD (1080p)
 http://74.91.26.218:82/live/cctv16hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-14" tvg-logo="" group-title="娱乐频道",CCTV-14
-http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-15" tvg-logo="" group-title="娱乐频道",CCTV-15
 http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-14" tvg-logo="" group-title="娱乐频道",CCTV-14
+http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-13" tvg-logo="" group-title="娱乐频道",CCTV-13
 http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-12" tvg-logo="" group-title="娱乐频道",CCTV-12
-http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-17" tvg-logo="" group-title="娱乐频道",CCTV-17
 http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-12" tvg-logo="" group-title="娱乐频道",CCTV-12
+http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4 America" tvg-logo="" group-title="娱乐频道",CCTV-4 America
+https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-9" tvg-logo="" group-title="娱乐频道",CCTV-9
 http://74.91.26.218:82/live/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-1 HD (1080p)" tvg-logo="" group-title="娱乐频道",CCTV-1 HD (1080p)
@@ -346,10 +345,10 @@ http://69.30.245.50/live/cctv8.m3u8
 http://107.150.60.122/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WBTV 64.1 (720p)" tvg-logo="" group-title="娱乐频道",WBTV 64.1 (720p)
 https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-11" tvg-logo="" group-title="娱乐频道",CCTV-11
-http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-16" tvg-logo="" group-title="娱乐频道",CCTV-16
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-11" tvg-logo="" group-title="娱乐频道",CCTV-11
+http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5+" tvg-logo="" group-title="娱乐频道",CCTV-5+
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-10" tvg-logo="" group-title="娱乐频道",CCTV-10
@@ -367,7 +366,7 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-id="" tvg-name="BTV (Lithuania) (576p)" tvg-logo="" group-title="娱乐频道",BTV (Lithuania) (576p)
 http://stream.mcquack.net/35/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-7" tvg-logo="" group-title="娱乐频道",CCTV-7
-http://74.91.26.218:82/live/cctv7hd.m3u8
+http://107.150.60.122/live/cctv7hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-8K HD (1080p)" tvg-logo="" group-title="娱乐频道",CCTV-8K HD (1080p)
 http://192.151.150.154/live/cctv8k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-2 (720p)" tvg-logo="" group-title="娱乐频道",CCTV-2 (720p)
@@ -378,8 +377,6 @@ http://107.150.60.122/live/cctv2hd.m3u8
 http://107.150.60.122/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-3" tvg-logo="" group-title="娱乐频道",CCTV-3
 http://74.91.26.218:82/live/cctv3hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-4 America" tvg-logo="" group-title="娱乐频道",CCTV-4 America
-https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBTV (720p)" tvg-logo="" group-title="娱乐频道",MBTV (720p)
 https://edge-f.swagit.com/live/miamibeachfl/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="bTV (576p)" tvg-logo="" group-title="娱乐频道",bTV (576p)
@@ -430,32 +427,18 @@ https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 8 (Singapore) (720p)" tvg-logo="" group-title="娱乐频道",Channel 8 (Singapore) (720p)
 https://cdn.qd.je/163189/ch8
-#EXTINF:-1 tvg-id="" tvg-name="Telecyan (720p)" tvg-logo="" group-title="娱乐频道",Telecyan (720p)
-https://183.giatvcdn.com/giatvplayout7/giatv-211227/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC KOAT-TV (720p)" tvg-logo="" group-title="娱乐频道",ABC KOAT-TV (720p)
 https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nautical Channel (720p)" tvg-logo="" group-title="娱乐频道",Nautical Channel (720p)
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fateh TV (1080p)" tvg-logo="" group-title="娱乐频道",Fateh TV (1080p)
-https://stream.ottlive.co.in/fatehtv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sound View Community Media (480p)" tvg-logo="" group-title="娱乐频道",Sound View Community Media (480p)
 https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KTV Bangla (1080p)" tvg-logo="" group-title="娱乐频道",KTV Bangla (1080p)
-https://stream.ottlive.co.in/ktvbangla/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mangalmay TV (576p)" tvg-logo="" group-title="娱乐频道",Mangalmay TV (576p)
 https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-id="" tvg-name="Munsif TV (1080p)" tvg-logo="" group-title="娱乐频道",Munsif TV (1080p)
-https://stream.ottlive.co.in/munsiftv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Swastik Stories (1080p)" tvg-logo="" group-title="娱乐频道",Swastik Stories (1080p)
-https://amg14122-amg14122c1-amgplt0835.playout.now3.amagi.tv/playout/amg14122/amg14122c1/amgplt0835/amgplt0835.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="The Unmute (1080p)" tvg-logo="" group-title="娱乐频道",The Unmute (1080p)
-https://stream.ottlive.co.in/unmute/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC KXXV (720p)" tvg-logo="" group-title="娱乐频道",ABC KXXV (720p)
 https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC Masr 2 (1080p)" tvg-logo="" group-title="娱乐频道",MBC Masr 2 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DellaTV (720p)" tvg-logo="" group-title="娱乐频道",DellaTV (720p)
-https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MBC 4 (1080p)" tvg-logo="" group-title="娱乐频道",MBC 4 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="The Design Network (1080p)" tvg-logo="" group-title="娱乐频道",The Design Network (1080p)
@@ -514,6 +497,8 @@ http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PBS WEDQ (1080p)" tvg-logo="" group-title="娱乐频道",PBS WEDQ (1080p)
 https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecyan (720p)" tvg-logo="" group-title="娱乐频道",Telecyan (720p)
+https://183.giatvcdn.com/giatvplayout7/giatv-211227/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="True Crime Network WCVB-TV (720p)" tvg-logo="" group-title="娱乐频道",True Crime Network WCVB-TV (720p)
 https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Big Ten Network (720p)" tvg-logo="" group-title="娱乐频道",Big Ten Network (720p)
@@ -546,6 +531,8 @@ http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cooking Channel (720p)" tvg-logo="" group-title="娱乐频道",Cooking Channel (720p)
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DellaTV (720p)" tvg-logo="" group-title="娱乐频道",DellaTV (720p)
+https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mediaset Italia (1080p)" tvg-logo="" group-title="娱乐频道",Mediaset Italia (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Aspire TV Life (1080p)" tvg-logo="" group-title="娱乐频道",Aspire TV Life (1080p)
@@ -594,6 +581,18 @@ http://15.204.246.24:8080/PasionesHD/index.m3u8
 https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Swerve Combat (1080p)" tvg-logo="" group-title="娱乐频道",Swerve Combat (1080p)
 https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal 4 Esquel (720p)" tvg-logo="" group-title="娱乐频道",Canal 4 Esquel (720p)
+https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ultimate TV (1080p)" tvg-logo="" group-title="娱乐频道",Ultimate TV (1080p)
+https://stream.ottlive.co.in/utvtamil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel Mexico (1080p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",Warner Channel Mexico (1080p) [Geo-blocked]
+http://15.204.246.24:8080/WarnerChannelHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World Brazil (720p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",Discovery World Brazil (720p) [Geo-blocked]
+http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel Latin America (1080p)" tvg-logo="" group-title="娱乐频道",Disney Channel Latin America (1080p)
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dove Channel (1080p)" tvg-logo="" group-title="娱乐频道",Dove Channel (1080p)
+https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
 # ---- 北欧 (13) ----
 #EXTINF:-1 tvg-id="" tvg-name="SiTV (1080p) [Not 24/7]" tvg-logo="" group-title="娱乐频道·北欧",SiTV (1080p) [Not 24/7]
 http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
