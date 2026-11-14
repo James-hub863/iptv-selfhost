@@ -199,10 +199,10 @@ https://ls.qingting.fm/live/5022100/64k.m3u8
 http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
 #EXTINF:-1 tvg-name="亳州农村" tvg-logo="" group-title="地方台",亳州农村
 http://zbbf2.ahbztv.com/live/418.m3u8
-#EXTINF:-1 tvg-name="无线星河" tvg-logo="" group-title="地方台",无线星河
-http://r.jdshipin.com/Voac4
 #EXTINF:-1 tvg-name="兵器科技" tvg-logo="" group-title="地方台",兵器科技
 http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="无线星河" tvg-logo="" group-title="地方台",无线星河
+http://r.jdshipin.com/Voac4
 # ---- 四川 (6) ----
 #EXTINF:-1 tvg-name="渭源新闻" tvg-logo="" group-title="地方台 / 四川",渭源新闻
 http://play.kankanlive.com/live/1720408280309109.m3u8
@@ -320,7 +320,7 @@ http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 # ---- 东欧 (1) ----
 #EXTINF:-1 tvg-name="Yahoo! Finance (1080p)" tvg-logo="" group-title="娱乐频道 / 东欧",Yahoo! Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-# ---- 其他境外源 (135) ----
+# ---- 其他境外源 (136) ----
 #EXTINF:-1 tvg-name="CCTV-16 HD (1080p)" tvg-logo="" group-title="娱乐频道",CCTV-16 HD (1080p)
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-15" tvg-logo="" group-title="娱乐频道",CCTV-15
@@ -335,10 +335,10 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqpub/cctv12hd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CCTV-4 America" tvg-logo="" group-title="娱乐频道",CCTV-4 America
 https://h5cul1yar48um3t.wcetv.com/hls/cctv4.m3u8
-#EXTINF:-1 tvg-name="CCTV-1 HD (1080p)" tvg-logo="" group-title="娱乐频道",CCTV-1 HD (1080p)
-http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV-9" tvg-logo="" group-title="娱乐频道",CCTV-9
 http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-1 HD (1080p)" tvg-logo="" group-title="娱乐频道",CCTV-1 HD (1080p)
+http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 tvg-name="CCTV-8" tvg-logo="" group-title="娱乐频道",CCTV-8
 http://69.30.245.50/live/cctv8.m3u8
 #EXTINF:-1 tvg-name="CCTV-5" tvg-logo="" group-title="娱乐频道",CCTV-5
@@ -419,38 +419,38 @@ https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playl
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 #EXTINF:-1 tvg-name="Italiana (1080p)" tvg-logo="" group-title="娱乐频道",Italiana (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
-#EXTINF:-1 tvg-name="TCM West (720p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",TCM West (720p) [Geo-blocked]
-https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-name="LA7 HD (1080p)" tvg-logo="" group-title="娱乐频道",LA7 HD (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
+#EXTINF:-1 tvg-name="TCM West (720p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",TCM West (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023187/tcmwest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-name="LCP (477p)" tvg-logo="" group-title="娱乐频道",LCP (477p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 tvg-name="Channel 8 (Singapore) (720p)" tvg-logo="" group-title="娱乐频道",Channel 8 (Singapore) (720p)
 https://cdn.qd.je/163189/ch8
-#EXTINF:-1 tvg-name="Nautical Channel (720p)" tvg-logo="" group-title="娱乐频道",Nautical Channel (720p)
-https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="ABC KOAT-TV (720p)" tvg-logo="" group-title="娱乐频道",ABC KOAT-TV (720p)
 https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8
+#EXTINF:-1 tvg-name="Nautical Channel (720p)" tvg-logo="" group-title="娱乐频道",Nautical Channel (720p)
+https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Sound View Community Media (480p)" tvg-logo="" group-title="娱乐频道",Sound View Community Media (480p)
 https://livestream.telvue.com/soundviewcmt2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Mangalmay TV (576p)" tvg-logo="" group-title="娱乐频道",Mangalmay TV (576p)
 https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-name="MBC Masr 2 (1080p)" tvg-logo="" group-title="娱乐频道",MBC Masr 2 (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-name="ABC KXXV (720p)" tvg-logo="" group-title="娱乐频道",ABC KXXV (720p)
 https://content.uplynk.com/channel/9d4e02c9c3544c269d32e6b316792c8f.m3u8
+#EXTINF:-1 tvg-name="MBC Masr 2 (1080p)" tvg-logo="" group-title="娱乐频道",MBC Masr 2 (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 #EXTINF:-1 tvg-name="MBC 4 (1080p)" tvg-logo="" group-title="娱乐频道",MBC 4 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 #EXTINF:-1 tvg-name="The Design Network (1080p)" tvg-logo="" group-title="娱乐频道",The Design Network (1080p)
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="MBC Masr (1080p)" tvg-logo="" group-title="娱乐频道",MBC Masr (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
 #EXTINF:-1 tvg-name="Hmong TV Network (720p)" tvg-logo="" group-title="娱乐频道",Hmong TV Network (720p)
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="JEMR TV (1080p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",JEMR TV (1080p) [Geo-blocked]
-https://tv.webmedialive.com/jmrtv/live/playlist.m3u8
+#EXTINF:-1 tvg-name="MBC Masr (1080p)" tvg-logo="" group-title="娱乐频道",MBC Masr (1080p)
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
 #EXTINF:-1 tvg-name="AXN Spin (Hungary)" tvg-logo="" group-title="娱乐频道",AXN Spin (Hungary)
 https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
+#EXTINF:-1 tvg-name="JEMR TV (1080p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",JEMR TV (1080p) [Geo-blocked]
+https://tv.webmedialive.com/jmrtv/live/playlist.m3u8
 #EXTINF:-1 tvg-name="TCM (720p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",TCM (720p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 tvg-name="Fox Soul (1080p)" tvg-logo="" group-title="娱乐频道",Fox Soul (1080p)
@@ -477,131 +477,133 @@ https://carolburnett-vizio.amagi.tv/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 #EXTINF:-1 tvg-name="Mediaset Italia Australia (1080p)" tvg-logo="" group-title="娱乐频道",Mediaset Italia Australia (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
-#EXTINF:-1 tvg-name="CMT (720p)" tvg-logo="" group-title="娱乐频道",CMT (720p)
-http://23.237.104.106:8080/USA_CMT/index.m3u8
-#EXTINF:-1 tvg-name="Al Sunnah Al Nabawiyah TV (720p)" tvg-logo="" group-title="娱乐频道",Al Sunnah Al Nabawiyah TV (720p)
-http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
-#EXTINF:-1 tvg-name="Buzzr (1080p)" tvg-logo="" group-title="娱乐频道",Buzzr (1080p)
-http://23.237.104.106:8080/USA_BUZZR/index.m3u8
 #EXTINF:-1 tvg-name="Animal Planet (United States) (720p)" tvg-logo="" group-title="娱乐频道",Animal Planet (United States) (720p)
 http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1 tvg-name="PBS WEDQ (1080p)" tvg-logo="" group-title="娱乐频道",PBS WEDQ (1080p)
-https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
-#EXTINF:-1 tvg-name="True Crime Network WCVB-TV (720p)" tvg-logo="" group-title="娱乐频道",True Crime Network WCVB-TV (720p)
-https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
-#EXTINF:-1 tvg-name="Paramount Network (1080p)" tvg-logo="" group-title="娱乐频道",Paramount Network (1080p)
-http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="Al Sunnah Al Nabawiyah TV (720p)" tvg-logo="" group-title="娱乐频道",Al Sunnah Al Nabawiyah TV (720p)
+http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV (1080p)" tvg-logo="" group-title="娱乐频道",Bloomberg TV (1080p)
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
-#EXTINF:-1 tvg-name="Outdoor Channel HD (720p)" tvg-logo="" group-title="娱乐频道",Outdoor Channel HD (720p)
-http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
+#EXTINF:-1 tvg-name="Buzzr (1080p)" tvg-logo="" group-title="娱乐频道",Buzzr (1080p)
+http://23.237.104.106:8080/USA_BUZZR/index.m3u8
 #EXTINF:-1 tvg-name="Celebrity Name Game (1080p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",Celebrity Name Game (1080p) [Geo-blocked]
 https://amg00353-amg00353c19-xumo-us-2608.playouts.now.amagi.tv/lionsgate-clbng/playlist.m3u8
-#EXTINF:-1 tvg-name="Telecyan (720p)" tvg-logo="" group-title="娱乐频道",Telecyan (720p)
-https://183.giatvcdn.com/giatvplayout7/giatv-211227/playlist.m3u8
+#EXTINF:-1 tvg-name="CMT (720p)" tvg-logo="" group-title="娱乐频道",CMT (720p)
+http://23.237.104.106:8080/USA_CMT/index.m3u8
 #EXTINF:-1 tvg-name="ION TV (720p)" tvg-logo="" group-title="娱乐频道",ION TV (720p)
 http://23.237.104.106:8080/USA_ION/index.m3u8
-#EXTINF:-1 tvg-name="Showtime Family Zone (720p)" tvg-logo="" group-title="娱乐频道",Showtime Family Zone (720p)
-http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
-#EXTINF:-1 tvg-name="MTV Live (720p)" tvg-logo="" group-title="娱乐频道",MTV Live (720p)
-http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-name="Destination America (720p)" tvg-logo="" group-title="娱乐频道",Destination America (720p)
-http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
-#EXTINF:-1 tvg-name="MTV (United States) (1080p)" tvg-logo="" group-title="娱乐频道",MTV (United States) (1080p)
-http://23.237.104.106:8080/USA_MTV/index.m3u8
-#EXTINF:-1 tvg-name="Rede TV! Mais (720p)" tvg-logo="" group-title="娱乐频道",Rede TV! Mais (720p)
-https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1 tvg-name="Outdoor Channel HD (720p)" tvg-logo="" group-title="娱乐频道",Outdoor Channel HD (720p)
+http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
+#EXTINF:-1 tvg-name="Paramount Network (1080p)" tvg-logo="" group-title="娱乐频道",Paramount Network (1080p)
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-name="PBS WEDQ (1080p)" tvg-logo="" group-title="娱乐频道",PBS WEDQ (1080p)
+https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
+#EXTINF:-1 tvg-name="Telecyan (720p)" tvg-logo="" group-title="娱乐频道",Telecyan (720p)
+https://183.giatvcdn.com/giatvplayout7/giatv-211227/playlist.m3u8
+#EXTINF:-1 tvg-name="True Crime Network WCVB-TV (720p)" tvg-logo="" group-title="娱乐频道",True Crime Network WCVB-TV (720p)
+https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
+#EXTINF:-1 tvg-name="Big Ten Network (720p)" tvg-logo="" group-title="娱乐频道",Big Ten Network (720p)
+http://23.237.104.106:8080/USA_BTN/index.m3u8
 #EXTINF:-1 tvg-name="Bounce (720p)" tvg-logo="" group-title="娱乐频道",Bounce (720p)
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1 tvg-name="Boomerang (United States) (720p)" tvg-logo="" group-title="娱乐频道",Boomerang (United States) (720p)
 http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-name="Fuse (1080p)" tvg-logo="" group-title="娱乐频道",Fuse (1080p)
-http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 tvg-name="Crime + Investigation (720p)" tvg-logo="" group-title="娱乐频道",Crime + Investigation (720p)
 http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
-#EXTINF:-1 tvg-name="OWN (720p)" tvg-logo="" group-title="娱乐频道",OWN (720p)
-http://23.237.104.106:8080/USA_OWN/index.m3u8
-#EXTINF:-1 tvg-name="Big Ten Network (720p)" tvg-logo="" group-title="娱乐频道",Big Ten Network (720p)
-http://23.237.104.106:8080/USA_BTN/index.m3u8
-#EXTINF:-1 tvg-name="Ning TV (720p)" tvg-logo="" group-title="娱乐频道",Ning TV (720p)
-https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Destination America (720p)" tvg-logo="" group-title="娱乐频道",Destination America (720p)
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+#EXTINF:-1 tvg-name="Fuse (1080p)" tvg-logo="" group-title="娱乐频道",Fuse (1080p)
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 tvg-name="IFC (1080p)" tvg-logo="" group-title="娱乐频道",IFC (1080p)
 http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1 tvg-name="MTV (United States) (1080p)" tvg-logo="" group-title="娱乐频道",MTV (United States) (1080p)
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 tvg-name="MTV Live (720p)" tvg-logo="" group-title="娱乐频道",MTV Live (720p)
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-name="Ning TV (720p)" tvg-logo="" group-title="娱乐频道",Ning TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="OWN (720p)" tvg-logo="" group-title="娱乐频道",OWN (720p)
+http://23.237.104.106:8080/USA_OWN/index.m3u8
+#EXTINF:-1 tvg-name="Rede TV! Mais (720p)" tvg-logo="" group-title="娱乐频道",Rede TV! Mais (720p)
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1 tvg-name="Showtime Family Zone (720p)" tvg-logo="" group-title="娱乐频道",Showtime Family Zone (720p)
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1 tvg-name="ABC WTXL-TV (720p)" tvg-logo="" group-title="娱乐频道",ABC WTXL-TV (720p)
 https://aegis-cloudfront-1.tubi.video/e739361e-fa12-4cac-92f3-e0dbf332cd88/playlist.m3u8
-#EXTINF:-1 tvg-name="DellaTV (720p)" tvg-logo="" group-title="娱乐频道",DellaTV (720p)
-https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8
 #EXTINF:-1 tvg-name="Cooking Channel (720p)" tvg-logo="" group-title="娱乐频道",Cooking Channel (720p)
 http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:-1 tvg-name="DellaTV (720p)" tvg-logo="" group-title="娱乐频道",DellaTV (720p)
+https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8
 #EXTINF:-1 tvg-name="Mediaset Italia (1080p)" tvg-logo="" group-title="娱乐频道",Mediaset Italia (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
-#EXTINF:-1 tvg-name="Aspire TV Life (1080p)" tvg-logo="" group-title="娱乐频道",Aspire TV Life (1080p)
-https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Cadena TV SD" tvg-logo="" group-title="娱乐频道",Cadena TV SD
 https://live-evg10.tv360.bitel.com.pe/bitel/cadenatv/playlist.m3u8
-#EXTINF:-1 tvg-name="truTV West (720p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",truTV West (720p) [Geo-blocked]
-https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-name="Canal TV Radio Maya TGBA (480p)" tvg-logo="" group-title="娱乐频道",Canal TV Radio Maya TGBA (480p)
-https://s.emisoras.tv:8081/radiomaya/index.m3u8
 #EXTINF:-1 tvg-name="Balle Balle HD (720p)" tvg-logo="" group-title="娱乐频道",Balle Balle HD (720p)
 https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:-1 tvg-name="NTD TV Canada West" tvg-logo="" group-title="娱乐频道",NTD TV Canada West
-https://live.ntdtv.com/cwlive220/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal TV Radio Maya TGBA (480p)" tvg-logo="" group-title="娱乐频道",Canal TV Radio Maya TGBA (480p)
+https://s.emisoras.tv:8081/radiomaya/index.m3u8
+#EXTINF:-1 tvg-name="Aspire TV Life (1080p)" tvg-logo="" group-title="娱乐频道",Aspire TV Life (1080p)
+https://uptv-aspiretvlife-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="truTV West (720p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",truTV West (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="Animal Planet Latin America HD (720p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",Animal Planet Latin America HD (720p) [Geo-blocked]
 http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
 #EXTINF:-1 tvg-name="LS TV (480p)" tvg-logo="" group-title="娱乐频道",LS TV (480p)
 https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="NTD TV Canada West" tvg-logo="" group-title="娱乐频道",NTD TV Canada West
+https://live.ntdtv.com/cwlive220/playlist.m3u8
 #EXTINF:-1 tvg-name="World of Freesports (1080p)" tvg-logo="" group-title="娱乐频道",World of Freesports (1080p)
 https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="El Nueve (1080p)" tvg-logo="" group-title="娱乐频道",El Nueve (1080p)
-http://15.204.246.24:8080/elnueveHD/index.m3u8
 #EXTINF:-1 tvg-name="Cinecanal (1080p)" tvg-logo="" group-title="娱乐频道",Cinecanal (1080p)
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
+#EXTINF:-1 tvg-name="El Nueve (1080p)" tvg-logo="" group-title="娱乐频道",El Nueve (1080p)
+http://15.204.246.24:8080/elnueveHD/index.m3u8
 #EXTINF:-1 tvg-name="Overtime (1080p)" tvg-logo="" group-title="娱乐频道",Overtime (1080p)
 https://d1a8aq6t30gkqj.cloudfront.net/v1/amc_overtime_1/samsungheadend_us/latest/main/hls/playlist_hd.m3u8
+#EXTINF:-1 tvg-name="BBC Drama (1080p)" tvg-logo="" group-title="娱乐频道",BBC Drama (1080p)
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 7 Neuquen (1080p)" tvg-logo="" group-title="娱乐频道",Canal 7 Neuquen (1080p)
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 5 Santa Fe (240p)" tvg-logo="" group-title="娱乐频道",Canal 5 Santa Fe (240p)
 https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 #EXTINF:-1 tvg-name="Cascara TV (720p)" tvg-logo="" group-title="娱乐频道",Cascara TV (720p)
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
-#EXTINF:-1 tvg-name="Golden Edge (1080p)" tvg-logo="" group-title="娱乐频道",Golden Edge (1080p)
-http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
-#EXTINF:-1 tvg-name="BBC Drama (1080p)" tvg-logo="" group-title="娱乐频道",BBC Drama (1080p)
-https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Circle (1080p)" tvg-logo="" group-title="娱乐频道",Circle (1080p)
 https://circle-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Swerve Combat (1080p)" tvg-logo="" group-title="娱乐频道",Swerve Combat (1080p)
-https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-name="PBS Antiques Roadshow (1080p)" tvg-logo="" group-title="娱乐频道",PBS Antiques Roadshow (1080p)
-https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="Pasiones Latin America (1080p)" tvg-logo="" group-title="娱乐频道",Pasiones Latin America (1080p)
-http://15.204.246.24:8080/PasionesHD/index.m3u8
-#EXTINF:-1 tvg-name="Mega Ficcion (1080p)" tvg-logo="" group-title="娱乐频道",Mega Ficcion (1080p)
-http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
 #EXTINF:-1 tvg-name="FloHockey (1080p)" tvg-logo="" group-title="娱乐频道",FloHockey (1080p)
 https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Golden Edge (1080p)" tvg-logo="" group-title="娱乐频道",Golden Edge (1080p)
+http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
+#EXTINF:-1 tvg-name="Mega Ficcion (1080p)" tvg-logo="" group-title="娱乐频道",Mega Ficcion (1080p)
+http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+#EXTINF:-1 tvg-name="Pasiones Latin America (1080p)" tvg-logo="" group-title="娱乐频道",Pasiones Latin America (1080p)
+http://15.204.246.24:8080/PasionesHD/index.m3u8
+#EXTINF:-1 tvg-name="PBS Antiques Roadshow (1080p)" tvg-logo="" group-title="娱乐频道",PBS Antiques Roadshow (1080p)
+https://amg00953-pbsusa-antiroadshow-xumo-x6ud5.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Swerve Combat (1080p)" tvg-logo="" group-title="娱乐频道",Swerve Combat (1080p)
+https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 4 Esquel (720p)" tvg-logo="" group-title="娱乐频道",Canal 4 Esquel (720p)
 https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 #EXTINF:-1 tvg-name="Ultimate TV (1080p)" tvg-logo="" group-title="娱乐频道",Ultimate TV (1080p)
 https://stream.ottlive.co.in/utvtamil/index.m3u8
 #EXTINF:-1 tvg-name="Warner Channel Mexico (1080p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",Warner Channel Mexico (1080p) [Geo-blocked]
 http://15.204.246.24:8080/WarnerChannelHD/index.m3u8
-#EXTINF:-1 tvg-name="Tea TV (720p)" tvg-logo="" group-title="娱乐频道",Tea TV (720p)
-https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Discovery World Brazil (720p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",Discovery World Brazil (720p) [Geo-blocked]
 http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
-# ---- 北欧 (14) ----
+#EXTINF:-1 tvg-name="Disney Channel Latin America (1080p)" tvg-logo="" group-title="娱乐频道",Disney Channel Latin America (1080p)
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+#EXTINF:-1 tvg-name="Dove Channel (1080p)" tvg-logo="" group-title="娱乐频道",Dove Channel (1080p)
+https://linear-896.frequency.stream/dist/cineverse/896/hls/master/playlist.m3u8
+# ---- 北欧 (13) ----
 #EXTINF:-1 tvg-name="SiTV (1080p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",SiTV (1080p) [Not 24/7]
 http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
 #EXTINF:-1 tvg-name="KBSV 23.1 (720p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",KBSV 23.1 (720p) [Not 24/7]
 http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1 tvg-name="Codigo TV (1080p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",Codigo TV (1080p) [Not 24/7]
 https://edge.essastream.com/codigotv/playlist.m3u8
-#EXTINF:-1 tvg-name="TeleCibaoHD (720p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",TeleCibaoHD (720p) [Not 24/7]
-https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Telecanal 28 (1080p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",Telecanal 28 (1080p) [Not 24/7]
 https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TeleCibaoHD (720p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",TeleCibaoHD (720p) [Not 24/7]
+https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Nour Mariam (576p)" tvg-logo="" group-title="娱乐频道 / 北欧",Nour Mariam (576p)
 https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Al-Iman TV (Lebanon) (240p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",Al-Iman TV (Lebanon) (240p) [Not 24/7]
@@ -618,8 +620,6 @@ https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 tvg-name="Meganoticias Ahora (1080p)" tvg-logo="" group-title="娱乐频道 / 北欧",Meganoticias Ahora (1080p)
 http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
-#EXTINF:-1 tvg-name="Electric Now (720p)" tvg-logo="" group-title="娱乐频道 / 北欧",Electric Now (720p)
-https://amg01705-amg01705c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
 # ---- 印度 (7) ----
 #EXTINF:-1 tvg-name="Zee TV Asia Pacific (720p)" tvg-logo="" group-title="娱乐频道 / 印度",Zee TV Asia Pacific (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8

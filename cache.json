@@ -8716,8 +8716,8 @@
   },
   "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8": {
     "alive": true,
-    "ts": 1794457977.2189894,
-    "rt": 0.543
+    "ts": 1794627928.9872615,
+    "rt": 0.547
   },
   "http://51.75.127.199:3141/andxplorehd/index.m3u8": {
     "alive": false,
@@ -72606,8 +72606,8 @@
   },
   "https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8": {
     "alive": true,
-    "ts": 1793999463.1072462,
-    "rt": 0.031
+    "ts": 1794627929.1346555,
+    "rt": 0.164
   },
   "ch1-179343864.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
     "alive": false,
@@ -77493,5 +77493,110 @@
     "alive": false,
     "ts": 1794606226.420149,
     "rt": 9999
+  },
+  "ch1-179458985.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1794627928.9604738,
+    "rt": 9999
+  },
+  "ch1-179458986.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1794627928.9710295,
+    "rt": 9999
+  },
+  "ch1-179458987.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1794627928.9812098,
+    "rt": 9999
+  },
+  "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3.mpd": {
+    "alive": true,
+    "ts": 1794627928.9906926,
+    "rt": 0.196
+  },
+  "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/a3s.mpd": {
+    "alive": true,
+    "ts": 1794627929.0092566,
+    "rt": 0.179
+  },
+  "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/neox.mpd": {
+    "alive": true,
+    "ts": 1794627929.076263,
+    "rt": 0.119
+  },
+  "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/nova.mpd": {
+    "alive": true,
+    "ts": 1794627929.0872347,
+    "rt": 0.159
+  },
+  "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/mega.mpd": {
+    "alive": true,
+    "ts": 1794627929.0723655,
+    "rt": 0.2
+  },
+  "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la6.mpd": {
+    "alive": true,
+    "ts": 1794627929.0689912,
+    "rt": 0.214
+  },
+  "https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8": {
+    "alive": true,
+    "ts": 1794627929.009797,
+    "rt": 0.276
+  },
+  "http://5.175.174.49:1234/stream/maxtvhr/nickelodeonhr/master.m3u8": {
+    "alive": false,
+    "ts": 1794627929.0822034,
+    "rt": 9999
+  },
+  "http://5.175.174.49:1234/stream/maxtvhr/nicktoonshr-1/master.m3u8": {
+    "alive": false,
+    "ts": 1794627929.0848114,
+    "rt": 9999
+  },
+  "https://cdn.jsdelivr.net/gh/Ignac16/voxel-tv@main/src/constants/channels/la2.m3u8": {
+    "alive": true,
+    "ts": 1794627929.0677133,
+    "rt": 0.226
+  },
+  "http://5.175.174.49:1234/stream/maxtvhr/nickjrhr/master.m3u8": {
+    "alive": false,
+    "ts": 1794627929.080981,
+    "rt": 9999
+  },
+  "https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/szchd.m3u8": {
+    "alive": true,
+    "ts": 1794627929.111868,
+    "rt": 0.235
+  },
+  "http://57.129.0.61:1990/stream/117/index.m3u8": {
+    "alive": false,
+    "ts": 1794627929.025317,
+    "rt": 9999
+  },
+  "https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8": {
+    "alive": true,
+    "ts": 1794627929.0601559,
+    "rt": 0.519
+  },
+  "https://stream1.antenaplay.ro/promo/nhl-12-1411/chunklist.m3u8": {
+    "alive": true,
+    "ts": 1794627929.0800016,
+    "rt": 0.606
+  },
+  "http://s7.merlive.am/Fastsports/index.m3u8": {
+    "alive": true,
+    "ts": 1794627929.0584278,
+    "rt": 0.772
+  },
+  "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2/live.livx/playlist.m3u8": {
+    "alive": true,
+    "ts": 1794627929.05687,
+    "rt": 0.968
+  },
+  "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1/live.livx/playlist.m3u8": {
+    "alive": true,
+    "ts": 1794627929.0556118,
+    "rt": 0.98
   }
 }
