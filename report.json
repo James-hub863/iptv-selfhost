@@ -1,12 +1,12 @@
 {
   "total": 13030,
-  "alive": 8025,
+  "alive": 7995,
   "cn_channels": 150,
   "foreign_channels": 150,
   "total_output": 300,
-  "dead": 5005,
-  "duration": 1.2,
-  "timestamp": "2026-11-14 11:45:30",
+  "dead": 5035,
+  "duration": 956.7,
+  "timestamp": "2026-11-14 22:52:12",
   "fastest_cn": "ABTV Bariloche",
-  "fastest_foreign": "ABC KOAT-TV (720p)"
+  "fastest_foreign": "ABN Bible Movies Channel (720p)"
 }
