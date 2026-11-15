@@ -833,15 +833,15 @@
   镜像 : http://213.91.179.28:8000/play/a04k
   镜像 : https://ghproxy.net/http://213.91.179.28:8000/play/a04k
 
-# bTV Action
-  原始 : http://213.91.179.28:8000/play/a04n
-  镜像 : http://213.91.179.28:8000/play/a04n
-  镜像 : https://ghproxy.net/http://213.91.179.28:8000/play/a04n
-
 # bTV Lady
   原始 : http://213.91.179.28:8000/play/a05i
   镜像 : http://213.91.179.28:8000/play/a05i
   镜像 : https://ghproxy.net/http://213.91.179.28:8000/play/a05i
+
+# bTV Action
+  原始 : http://213.91.179.28:8000/play/a04n
+  镜像 : http://213.91.179.28:8000/play/a04n
+  镜像 : https://ghproxy.net/http://213.91.179.28:8000/play/a04n
 
 # CCTV-4 Europe
   原始 : https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
@@ -928,15 +928,15 @@
   镜像 : https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
   镜像 : https://ghproxy.net/https://install.akctvcontrol.com/speed/broadcast/140/desktop-playlist.m3u8
 
-# Canal 3 Las Heras (720p)
-  原始 : https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
-  镜像 : https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
-  镜像 : https://ghproxy.net/https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
-
 # Canal 5 Santa Fe (240p)
   原始 : https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
   镜像 : https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
   镜像 : https://ghproxy.net/https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+
+# Canal 3 Las Heras (720p)
+  原始 : https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+  镜像 : https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+  镜像 : https://ghproxy.net/https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 
 # Cinecanal (1080p)
   原始 : http://15.204.246.24:8080/CinecanalHD/index.m3u8
@@ -1058,35 +1058,35 @@
   镜像 : http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
   镜像 : https://ghproxy.net/http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
 
+# Canal 4 Esquel (720p)
+  原始 : https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
+  镜像 : https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
+  镜像 : https://ghproxy.net/https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
+
 # AMC Latin America (1080p)
   原始 : http://15.204.246.24:8080/AMCHD/index.m3u8
   镜像 : http://15.204.246.24:8080/AMCHD/index.m3u8
   镜像 : https://ghproxy.net/http://15.204.246.24:8080/AMCHD/index.m3u8
-
-# ABN TV India (540p)
-  原始 : https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
-  镜像 : https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
-  镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
-
-# ABN Urdu (540p)
-  原始 : https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-  镜像 : https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-  镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-
-# ABN China (720p)
-  原始 : https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-  镜像 : https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-  镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 
 # ABNsat (720p)
   原始 : https://mediaserver.abnvideos.com/streams/abnsat.m3u8
   镜像 : https://mediaserver.abnvideos.com/streams/abnsat.m3u8
   镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abnsat.m3u8
 
-# Canal 4 Esquel (720p)
-  原始 : https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
-  镜像 : https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
-  镜像 : https://ghproxy.net/https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
+# ABN Urdu (540p)
+  原始 : https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+  镜像 : https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+  镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+
+# ABN TV India (540p)
+  原始 : https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
+  镜像 : https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
+  镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
+
+# ABN China (720p)
+  原始 : https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+  镜像 : https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+  镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 
 # Cartoon Network Latin America Brazil (720p) [Geo-blocked]
   原始 : http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
@@ -1213,15 +1213,15 @@
   镜像 : https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
   镜像 : https://ghproxy.net/https://d3slqp9xhts6qb.cloudfront.net/live/omroepbrabant/visualradio/index.m3u8
 
-# Az Mundo (1080p)
-  原始 : http://15.204.142.109:22880/DIRECTV-ARGENTINA-AZMUNDO/INTERNACIONAL/video.m3u8
-  镜像 : http://15.204.142.109:22880/DIRECTV-ARGENTINA-AZMUNDO/INTERNACIONAL/video.m3u8
-  镜像 : https://ghproxy.net/http://15.204.142.109:22880/DIRECTV-ARGENTINA-AZMUNDO/INTERNACIONAL/video.m3u8
-
 # Akaku 54 (1080p)
   原始 : https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
   镜像 : https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
   镜像 : https://ghproxy.net/https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
+
+# Az Mundo (1080p)
+  原始 : http://15.204.142.109:22880/DIRECTV-ARGENTINA-AZMUNDO/INTERNACIONAL/video.m3u8
+  镜像 : http://15.204.142.109:22880/DIRECTV-ARGENTINA-AZMUNDO/INTERNACIONAL/video.m3u8
+  镜像 : https://ghproxy.net/http://15.204.142.109:22880/DIRECTV-ARGENTINA-AZMUNDO/INTERNACIONAL/video.m3u8
 
 # TCM (720p) [Geo-blocked]
   原始 : https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
@@ -1313,15 +1313,15 @@
   镜像 : https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8
   镜像 : https://ghproxy.net/https://183.giatvcdn.com/giatvplayout7/giatv-211474/playlist.m3u8
 
-# Boomerang (United States) (720p)
-  原始 : http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-  镜像 : http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-
 # Buzzr (1080p)
   原始 : http://23.237.104.106:8080/USA_BUZZR/index.m3u8
   镜像 : http://23.237.104.106:8080/USA_BUZZR/index.m3u8
   镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_BUZZR/index.m3u8
+
+# Boomerang (United States) (720p)
+  原始 : http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+  镜像 : http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
 
 # Destination America (720p)
   原始 : http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
@@ -1343,11 +1343,6 @@
   镜像 : https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
   镜像 : https://ghproxy.net/https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
 
-# Big Ten Network (720p)
-  原始 : http://23.237.104.106:8080/USA_BTN/index.m3u8
-  镜像 : http://23.237.104.106:8080/USA_BTN/index.m3u8
-  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_BTN/index.m3u8
-
 # Bloomberg TV (1080p)
   原始 : http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
   镜像 : http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
@@ -1357,6 +1352,11 @@
   原始 : http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
   镜像 : http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
   镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+
+# Big Ten Network (720p)
+  原始 : http://23.237.104.106:8080/USA_BTN/index.m3u8
+  镜像 : http://23.237.104.106:8080/USA_BTN/index.m3u8
+  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_BTN/index.m3u8
 
 # SiTV (1080p) [Not 24/7]
   原始 : http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
