@@ -88,30 +88,30 @@
   镜像 : http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
   镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
 
-# 广东民生
-  原始 : http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
-  镜像 : http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
-  镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
-
 # 广东体育
   原始 : http://cdn2.163189.xyz/live/gdty/stream.m3u8
   镜像 : http://cdn2.163189.xyz/live/gdty/stream.m3u8
   镜像 : https://ghproxy.net/http://cdn2.163189.xyz/live/gdty/stream.m3u8
+
+# 广东民生
+  原始 : http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
+  镜像 : http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
+  镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
 
 # 大湾区卫视
   原始 : http://198.204.228.26/live/nfws.m3u8
   镜像 : http://198.204.228.26/live/nfws.m3u8
   镜像 : https://ghproxy.net/http://198.204.228.26/live/nfws.m3u8
 
-# 广东卫视
-  原始 : http://107.150.60.122/live/gdwshd.m3u8
-  镜像 : http://107.150.60.122/live/gdwshd.m3u8
-  镜像 : https://ghproxy.net/http://107.150.60.122/live/gdwshd.m3u8
-
 # 深圳卫视
   原始 : http://107.150.60.122/live/szwshd.m3u8
   镜像 : http://107.150.60.122/live/szwshd.m3u8
   镜像 : https://ghproxy.net/http://107.150.60.122/live/szwshd.m3u8
+
+# 广东卫视
+  原始 : http://107.150.60.122/live/gdwshd.m3u8
+  镜像 : http://107.150.60.122/live/gdwshd.m3u8
+  镜像 : https://ghproxy.net/http://107.150.60.122/live/gdwshd.m3u8
 
 # 广东新闻
   原始 : http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
@@ -998,25 +998,30 @@
   镜像 : http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
   镜像 : https://ghproxy.net/http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 
+# La Sexta HD (1080p)
+  原始 : https://ignac16.github.io/voxel-tv-streams/la6.mpd
+  镜像 : https://ignac16.github.io/voxel-tv-streams/la6.mpd
+  镜像 : https://ghproxy.net/https://ignac16.github.io/voxel-tv-streams/la6.mpd
+
 # Stingray Karaoke (1080p)
   原始 : https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
   镜像 : https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
   镜像 : https://ghproxy.net/https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
 
-# ABN China (720p)
-  原始 : https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-  镜像 : https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-  镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+# ABNsat (720p)
+  原始 : https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+  镜像 : https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+  镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abnsat.m3u8
 
 # ABN Urdu (540p)
   原始 : https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
   镜像 : https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
   镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 
-# ABNsat (720p)
-  原始 : https://mediaserver.abnvideos.com/streams/abnsat.m3u8
-  镜像 : https://mediaserver.abnvideos.com/streams/abnsat.m3u8
-  镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+# ABN China (720p)
+  原始 : https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+  镜像 : https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+  镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 
 # Balle Balle HD (720p)
   原始 : https://mcncdndigital.com/balleballetv/index.m3u8
@@ -1062,6 +1067,11 @@
   原始 : http://15.204.142.109:22880/DIRECTV-ARGENTINA-AZMUNDO/INTERNACIONAL/video.m3u8
   镜像 : http://15.204.142.109:22880/DIRECTV-ARGENTINA-AZMUNDO/INTERNACIONAL/video.m3u8
   镜像 : https://ghproxy.net/http://15.204.142.109:22880/DIRECTV-ARGENTINA-AZMUNDO/INTERNACIONAL/video.m3u8
+
+# Mega (Spain) HD (1080p)
+  原始 : https://ignac16.github.io/voxel-tv-streams/mega.mpd
+  镜像 : https://ignac16.github.io/voxel-tv-streams/mega.mpd
+  镜像 : https://ghproxy.net/https://ignac16.github.io/voxel-tv-streams/mega.mpd
 
 # Akaku 54 (1080p)
   原始 : https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
@@ -1132,6 +1142,11 @@
   原始 : http://15.204.246.24:8080/MTVHD/index.m3u8
   镜像 : http://15.204.246.24:8080/MTVHD/index.m3u8
   镜像 : https://ghproxy.net/http://15.204.246.24:8080/MTVHD/index.m3u8
+
+# Neox HD (1080p)
+  原始 : https://ignac16.github.io/voxel-tv-streams/neox.mpd
+  镜像 : https://ignac16.github.io/voxel-tv-streams/neox.mpd
+  镜像 : https://ghproxy.net/https://ignac16.github.io/voxel-tv-streams/neox.mpd
 
 # HTV 2 Houston Television (720p)
   原始 : https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
@@ -1338,16 +1353,6 @@
   镜像 : https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
   镜像 : https://ghproxy.net/https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
 
-# MBC Mood (1080p)
-  原始 : https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
-  镜像 : https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
-  镜像 : https://ghproxy.net/https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
-
-# A&R Canal (720p)
-  原始 : http://51.222.9.192:3589/stream/play.m3u8
-  镜像 : http://51.222.9.192:3589/stream/play.m3u8
-  镜像 : https://ghproxy.net/http://51.222.9.192:3589/stream/play.m3u8
-
 # SiTV (1080p) [Not 24/7]
   原始 : http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
   镜像 : http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
@@ -1388,6 +1393,11 @@
   镜像 : https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8
   镜像 : https://ghproxy.net/https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8
 
+# Nova (Spain) HD (1080p)
+  原始 : https://ignac16.github.io/voxel-tv-streams/nova.mpd
+  镜像 : https://ignac16.github.io/voxel-tv-streams/nova.mpd
+  镜像 : https://ghproxy.net/https://ignac16.github.io/voxel-tv-streams/nova.mpd
+
 # Sur TV (720p) [Not 24/7]
   原始 : https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8
   镜像 : https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8
@@ -1417,11 +1427,6 @@
   原始 : https://aka-live1050.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8
   镜像 : https://aka-live1050.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8
   镜像 : https://ghproxy.net/https://aka-live1050.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8
-
-# CTT Canal 49 (1080p) [Not 24/7]
-  原始 : https://cdnfox.hostlagarto.com/cct49/index.m3u8
-  镜像 : https://cdnfox.hostlagarto.com/cct49/index.m3u8
-  镜像 : https://ghproxy.net/https://cdnfox.hostlagarto.com/cct49/index.m3u8
 
 # Colors Gujarati (396p)
   原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
@@ -1487,11 +1492,6 @@
   原始 : http://15.204.246.24:8080/UniversalHD/index.m3u8
   镜像 : http://15.204.246.24:8080/UniversalHD/index.m3u8
   镜像 : https://ghproxy.net/http://15.204.246.24:8080/UniversalHD/index.m3u8
-
-# MBC Masr USA (1080p)
-  原始 : https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
-  镜像 : https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
-  镜像 : https://ghproxy.net/https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
 
 # V+ TVI (720p)
   原始 : https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8

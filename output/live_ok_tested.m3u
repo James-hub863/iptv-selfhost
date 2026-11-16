@@ -35,16 +35,16 @@ http://107.150.60.122/live/sdwshd.m3u8
 https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="" group-title="卫视频道 / 广东",广东珠江
 http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="广东民生" tvg-logo="" group-title="卫视频道 / 广东",广东民生
-http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="" group-title="卫视频道 / 广东",广东体育
 http://cdn2.163189.xyz/live/gdty/stream.m3u8
+#EXTINF:-1 tvg-name="广东民生" tvg-logo="" group-title="卫视频道 / 广东",广东民生
+http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="" group-title="卫视频道 / 广东",大湾区卫视
 http://198.204.228.26/live/nfws.m3u8
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="" group-title="卫视频道 / 广东",广东卫视
-http://107.150.60.122/live/gdwshd.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="" group-title="卫视频道 / 广东",深圳卫视
 http://107.150.60.122/live/szwshd.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="" group-title="卫视频道 / 广东",广东卫视
+http://107.150.60.122/live/gdwshd.m3u8
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="" group-title="卫视频道 / 广东",广东新闻
 http://38.75.136.137:98/gslb/dsdqpub/gdxw.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="广西国际" tvg-logo="" group-title="卫视频道 / 广西",广西国际
@@ -185,6 +185,8 @@ http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 #EXTINF:-1 tvg-name="开化新闻综合" tvg-logo="" group-title="地方台 / 浙江",开化新闻综合
 http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
+#EXTINF:-1 tvg-name="新昌新闻综合" tvg-logo="" group-title="地方台 / 浙江",新昌新闻综合
+https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 #EXTINF:-1 tvg-name="武义新闻综合" tvg-logo="" group-title="地方台 / 浙江",武义新闻综合
 http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 #EXTINF:-1 tvg-name="兰溪新闻综合" tvg-logo="" group-title="地方台 / 浙江",兰溪新闻综合
@@ -219,6 +221,8 @@ https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-name="Sandesh News (1080p)" tvg-logo="" group-title="新闻频道",Sandesh News (1080p)
 https://stream.ottlive.co.in/sandeshnews/index.m3u8
+#EXTINF:-1 tvg-name="News12 Westchester (1080p) [Geo-blocked]" tvg-logo="" group-title="新闻频道",News12 Westchester (1080p) [Geo-blocked]
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 tvg-name="News Marathi 24x7 (1080p)" tvg-logo="" group-title="新闻频道",News Marathi 24x7 (1080p)
 https://stream.ottlive.co.in/newsmarathi/index.m3u8
 #EXTINF:-1 tvg-name="News Tamil 24x7 (1080p)" tvg-logo="" group-title="新闻频道",News Tamil 24x7 (1080p)
@@ -237,14 +241,22 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://s.emisoras.tv:8081/tve/index.m3u8
 #EXTINF:-1 tvg-name="TV Curuca (360p)" tvg-logo="" group-title="新闻频道 / 拉美",TV Curuca (360p)
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+#EXTINF:-1 tvg-name="TVN (Chile) (1080p)" tvg-logo="" group-title="新闻频道 / 拉美",TVN (Chile) (1080p)
+http://15.204.246.24:8080/TVNHD/index.m3u8
 #EXTINF:-1 tvg-name="Televisora de Oriente (406p)" tvg-logo="" group-title="新闻频道 / 拉美",Televisora de Oriente (406p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 #EXTINF:-1 tvg-name="bTV Cinema" tvg-logo="" group-title="电影频道",bTV Cinema
 http://213.91.179.28:8000/play/a04i
+#EXTINF:-1 tvg-name="Az Cinema (1080p)" tvg-logo="" group-title="电影频道",Az Cinema (1080p)
+http://15.204.196.147:22880/CABLE-MAGES-AZCINEMA/video.m3u8
 #EXTINF:-1 tvg-name="Gospel Movie TV (360p)" tvg-logo="" group-title="电影频道",Gospel Movie TV (360p)
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-name="Sony Channel Andes (1080p)" tvg-logo="" group-title="电影频道 / 印度",Sony Channel Andes (1080p)
+http://15.204.246.24:8080/SonyHD/index.m3u8
 #EXTINF:-1 tvg-name="Sony Entertainment Television HD (1080p)" tvg-logo="" group-title="电影频道 / 印度",Sony Entertainment Television HD (1080p)
 http://38.96.178.205/SONYHD/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Kids Latin America Brazil (720p) [Geo-blocked]" tvg-logo="" group-title="儿童频道",Discovery Kids Latin America Brazil (720p) [Geo-blocked]
+http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
 #EXTINF:-1 tvg-name="TVCARiB Kids & Teens (720p) [Not 24/7]" tvg-logo="" group-title="儿童频道 / 北欧",TVCARiB Kids & Teens (720p) [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-16 HD (1080p)" tvg-logo="" group-title="娱乐频道",CCTV-16 HD (1080p)
@@ -337,18 +349,34 @@ https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-name="SVBC 4 (1080p)" tvg-logo="" group-title="娱乐频道",SVBC 4 (1080p)
 https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Animal Planet Latin America HD (720p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",Animal Planet Latin America HD (720p) [Geo-blocked]
+http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
 #EXTINF:-1 tvg-name="Beach TV Panama City (720p)" tvg-logo="" group-title="娱乐频道",Beach TV Panama City (720p)
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 7 Neuquen (1080p)" tvg-logo="" group-title="娱乐频道",Canal 7 Neuquen (1080p)
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Canal 7 TV (720p)" tvg-logo="" group-title="娱乐频道",Canal 7 TV (720p)
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+#EXTINF:-1 tvg-name="Cinecanal (1080p)" tvg-logo="" group-title="娱乐频道",Cinecanal (1080p)
+http://15.204.246.24:8080/CinecanalHD/index.m3u8
+#EXTINF:-1 tvg-name="Discovery World Brazil (720p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",Discovery World Brazil (720p) [Geo-blocked]
+http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
+#EXTINF:-1 tvg-name="Disney Channel Latin America (1080p)" tvg-logo="" group-title="娱乐频道",Disney Channel Latin America (1080p)
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+#EXTINF:-1 tvg-name="El Nueve (1080p)" tvg-logo="" group-title="娱乐频道",El Nueve (1080p)
+http://15.204.246.24:8080/elnueveHD/index.m3u8
 #EXTINF:-1 tvg-name="Mega Ficcion (1080p)" tvg-logo="" group-title="娱乐频道",Mega Ficcion (1080p)
 http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+#EXTINF:-1 tvg-name="Pasiones Latin America (1080p)" tvg-logo="" group-title="娱乐频道",Pasiones Latin America (1080p)
+http://15.204.246.24:8080/PasionesHD/index.m3u8
 #EXTINF:-1 tvg-name="Rai Italia South Americas (1080p)" tvg-logo="" group-title="娱乐频道",Rai Italia South Americas (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
 #EXTINF:-1 tvg-name="Stingray Everything '80s (1080p)" tvg-logo="" group-title="娱乐频道",Stingray Everything '80s (1080p)
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-name="DHE (1080p)" tvg-logo="" group-title="娱乐频道",DHE (1080p)
+http://15.204.246.24:8080/DHEHD/index.m3u8
+#EXTINF:-1 tvg-name="Hola! TV Latin America (1080p)" tvg-logo="" group-title="娱乐频道",Hola! TV Latin America (1080p)
+http://15.204.246.24:8080/HOLATVHD/index.m3u8
 #EXTINF:-1 tvg-name="Rai Italia (1080p)" tvg-logo="" group-title="娱乐频道",Rai Italia (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
 #EXTINF:-1 tvg-name="Rai Italia Australia (1080p)" tvg-logo="" group-title="娱乐频道",Rai Italia Australia (1080p)
@@ -357,18 +385,24 @@ https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
 https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
 #EXTINF:-1 tvg-name="Rai World Premium (1080p)" tvg-logo="" group-title="娱乐频道",Rai World Premium (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
+#EXTINF:-1 tvg-name="Studio Universal Latin America (1080p)" tvg-logo="" group-title="娱乐频道",Studio Universal Latin America (1080p)
+http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
+#EXTINF:-1 tvg-name="La Sexta HD (1080p)" tvg-logo="" group-title="娱乐频道",La Sexta HD (1080p)
+https://ignac16.github.io/voxel-tv-streams/la6.mpd
 #EXTINF:-1 tvg-name="Stingray Karaoke (1080p)" tvg-logo="" group-title="娱乐频道",Stingray Karaoke (1080p)
 https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-name="ABN China (720p)" tvg-logo="" group-title="娱乐频道",ABN China (720p)
-https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-#EXTINF:-1 tvg-name="ABN Urdu (540p)" tvg-logo="" group-title="娱乐频道",ABN Urdu (540p)
-https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 #EXTINF:-1 tvg-name="ABNsat (720p)" tvg-logo="" group-title="娱乐频道",ABNsat (720p)
 https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+#EXTINF:-1 tvg-name="ABN Urdu (540p)" tvg-logo="" group-title="娱乐频道",ABN Urdu (540p)
+https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+#EXTINF:-1 tvg-name="ABN China (720p)" tvg-logo="" group-title="娱乐频道",ABN China (720p)
+https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 #EXTINF:-1 tvg-name="Balle Balle HD (720p)" tvg-logo="" group-title="娱乐频道",Balle Balle HD (720p)
 https://mcncdndigital.com/balleballetv/index.m3u8
 #EXTINF:-1 tvg-name="Historia HD (1080p)" tvg-logo="" group-title="娱乐频道",Historia HD (1080p)
 https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
+#EXTINF:-1 tvg-name="Warner Channel Mexico (1080p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",Warner Channel Mexico (1080p) [Geo-blocked]
+http://15.204.246.24:8080/WarnerChannelHD/index.m3u8
 #EXTINF:-1 tvg-name="ABN TV India (540p)" tvg-logo="" group-title="娱乐频道",ABN TV India (540p)
 https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
 #EXTINF:-1 tvg-name="City TV Carlsbad (720p)" tvg-logo="" group-title="娱乐频道",City TV Carlsbad (720p)
@@ -381,30 +415,58 @@ https://s.emisoras.tv:8081/radiomaya/index.m3u8
 https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
 #EXTINF:-1 tvg-name="Az Mundo (1080p)" tvg-logo="" group-title="娱乐频道",Az Mundo (1080p)
 http://15.204.142.109:22880/DIRECTV-ARGENTINA-AZMUNDO/INTERNACIONAL/video.m3u8
+#EXTINF:-1 tvg-name="Mega (Spain) HD (1080p)" tvg-logo="" group-title="娱乐频道",Mega (Spain) HD (1080p)
+https://ignac16.github.io/voxel-tv-streams/mega.mpd
 #EXTINF:-1 tvg-name="Akaku 54 (1080p)" tvg-logo="" group-title="娱乐频道",Akaku 54 (1080p)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
+#EXTINF:-1 tvg-name="AMC Latin America (1080p)" tvg-logo="" group-title="娱乐频道",AMC Latin America (1080p)
+http://15.204.246.24:8080/AMCHD/index.m3u8
+#EXTINF:-1 tvg-name="Canal 13 (Chile) (1080p)" tvg-logo="" group-title="娱乐频道",Canal 13 (Chile) (1080p)
+http://15.204.246.24:8080/Canal13HD/index.m3u8
+#EXTINF:-1 tvg-name="ChileVision (1080p)" tvg-logo="" group-title="娱乐频道",ChileVision (1080p)
+http://15.204.246.24:8080/CHVHD/index.m3u8
 #EXTINF:-1 tvg-name="City TV Channel 3/41 (360p)" tvg-logo="" group-title="娱乐频道",City TV Channel 3/41 (360p)
 https://edge-f.swagit.com/live/chinohillsca/live-1-a/playlist.m3u8
 #EXTINF:-1 tvg-name="De Pelicula Latin America (1080p)" tvg-logo="" group-title="娱乐频道",De Pelicula Latin America (1080p)
 http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
 #EXTINF:-1 tvg-name="Distrito Comedia (1080p)" tvg-logo="" group-title="娱乐频道",Distrito Comedia (1080p)
 http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 tvg-name="El Gourmet (1080p)" tvg-logo="" group-title="娱乐频道",El Gourmet (1080p)
+http://15.204.246.24:8080/ElGourmetHD/index.m3u8
 #EXTINF:-1 tvg-name="Golden (1080p)" tvg-logo="" group-title="娱乐频道",Golden (1080p)
 http://15.204.196.147:22880/RECEPCION-GOLDEN_LAT-FHD/video.m3u8
+#EXTINF:-1 tvg-name="Golf Channel Latin America (1080p)" tvg-logo="" group-title="娱乐频道",Golf Channel Latin America (1080p)
+http://15.204.246.24:8080/GolfChannelHD/index.m3u8
+#EXTINF:-1 tvg-name="HBO Pop Latin America (1080p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",HBO Pop Latin America (1080p) [Geo-blocked]
+http://15.204.246.24:8080/HBOPOPHD/index.m3u8
+#EXTINF:-1 tvg-name="History Latin America (1080p)" tvg-logo="" group-title="娱乐频道",History Latin America (1080p)
+http://15.204.246.24:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-name="Mega 2 (1080p)" tvg-logo="" group-title="娱乐频道",Mega 2 (1080p)
 http://15.204.196.147:22880/MEGA2-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+#EXTINF:-1 tvg-name="MTV Latin America (1080p)" tvg-logo="" group-title="娱乐频道",MTV Latin America (1080p)
+http://15.204.246.24:8080/MTVHD/index.m3u8
+#EXTINF:-1 tvg-name="Neox HD (1080p)" tvg-logo="" group-title="娱乐频道",Neox HD (1080p)
+https://ignac16.github.io/voxel-tv-streams/neox.mpd
 #EXTINF:-1 tvg-name="HTV 2 Houston Television (720p)" tvg-logo="" group-title="娱乐频道",HTV 2 Houston Television (720p)
 https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
 #EXTINF:-1 tvg-name="KTV Bangla (1080p)" tvg-logo="" group-title="娱乐频道",KTV Bangla (1080p)
 https://stream.ottlive.co.in/ktvbangla/index.m3u8
+#EXTINF:-1 tvg-name="Las Estrellas Latin America (1080p)" tvg-logo="" group-title="娱乐频道",Las Estrellas Latin America (1080p)
+http://15.204.246.24:8080/LasEstrellasHD/index.m3u8
 #EXTINF:-1 tvg-name="Fateh TV (1080p)" tvg-logo="" group-title="娱乐频道",Fateh TV (1080p)
 https://stream.ottlive.co.in/fatehtv/index.m3u8
 #EXTINF:-1 tvg-name="Munsif TV (1080p)" tvg-logo="" group-title="娱乐频道",Munsif TV (1080p)
 https://stream.ottlive.co.in/munsiftv/index.m3u8
+#EXTINF:-1 tvg-name="FX Latin America (1080p)" tvg-logo="" group-title="娱乐频道",FX Latin America (1080p)
+http://15.204.246.24:8080/FXHD/index.m3u8
+#EXTINF:-1 tvg-name="TNT Latin America Brazil (720p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道",TNT Latin America Brazil (720p) [Geo-blocked]
+http://15.204.246.24:8080/TNTHD/index.m3u8
 #EXTINF:-1 tvg-name="Aaryaa TV (1080p)" tvg-logo="" group-title="娱乐频道",Aaryaa TV (1080p)
 https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 #EXTINF:-1 tvg-name="Akaku 55 (1080p)" tvg-logo="" group-title="娱乐频道",Akaku 55 (1080p)
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
+#EXTINF:-1 tvg-name="National Geographic Latin America (1080p)" tvg-logo="" group-title="娱乐频道",National Geographic Latin America (1080p)
+http://15.204.246.24:8080/NatGeoHD/index.m3u8
 #EXTINF:-1 tvg-name="Cascara TV (720p)" tvg-logo="" group-title="娱乐频道",Cascara TV (720p)
 https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
 #EXTINF:-1 tvg-name="Ultimate TV (1080p)" tvg-logo="" group-title="娱乐频道",Ultimate TV (1080p)
@@ -465,10 +527,6 @@ https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8
 https://edge.enhdtv.com/8192/index.m3u8
 #EXTINF:-1 tvg-name="AXN Spin" tvg-logo="" group-title="娱乐频道",AXN Spin
 https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
-#EXTINF:-1 tvg-name="MBC Mood (1080p)" tvg-logo="" group-title="娱乐频道",MBC Mood (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-mood/78367bf48ccdba501d0d014a10c21031/index.m3u8
-#EXTINF:-1 tvg-name="A&R Canal (720p)" tvg-logo="" group-title="娱乐频道",A&R Canal (720p)
-http://51.222.9.192:3589/stream/play.m3u8
 #EXTINF:-1 tvg-name="SiTV (1080p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",SiTV (1080p) [Not 24/7]
 http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
 #EXTINF:-1 tvg-name="SBTV (1080p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",SBTV (1080p) [Not 24/7]
@@ -485,6 +543,8 @@ http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
 https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="AntenaPlay Events (576i) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",AntenaPlay Events (576i) [Not 24/7]
 https://live77cdn2.antenaplay.ro/live2_sport07/live2_sport07_3500k.m3u8
+#EXTINF:-1 tvg-name="Nova (Spain) HD (1080p)" tvg-logo="" group-title="娱乐频道 / 北欧",Nova (Spain) HD (1080p)
+https://ignac16.github.io/voxel-tv-streams/nova.mpd
 #EXTINF:-1 tvg-name="Sur TV (720p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",Sur TV (720p) [Not 24/7]
 https://ss2.tvrdomi.com:1936/eradiofonicas/eradiofonicas/playlist.m3u8
 #EXTINF:-1 tvg-name="DKN (1080p)" tvg-logo="" group-title="娱乐频道 / 北欧",DKN (1080p)
@@ -497,12 +557,12 @@ https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
 https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LiveNOW from FOX (1080p)" tvg-logo="" group-title="娱乐频道 / 北欧",LiveNOW from FOX (1080p)
 https://aka-live1050.delivery.roku.com/eaf7d889-16e0-4c14-a299-a2932df9f467/t2-origin/out/v1/live.m3u8
-#EXTINF:-1 tvg-name="CTT Canal 49 (1080p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",CTT Canal 49 (1080p) [Not 24/7]
-https://cdnfox.hostlagarto.com/cct49/index.m3u8
 #EXTINF:-1 tvg-name="Colors Gujarati (396p)" tvg-logo="" group-title="娱乐频道 / 印度",Colors Gujarati (396p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
 #EXTINF:-1 tvg-name="Zee Bihar Jharkhand (720p)" tvg-logo="" group-title="娱乐频道 / 印度",Zee Bihar Jharkhand (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
+#EXTINF:-1 tvg-name="Star Channel Latin America (1080p)" tvg-logo="" group-title="娱乐频道 / 印度",Star Channel Latin America (1080p)
+http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
 #EXTINF:-1 tvg-name="Zee Marathi HD (720p)" tvg-logo="" group-title="娱乐频道 / 印度",Zee Marathi HD (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
 #EXTINF:-1 tvg-name="Colors Cineplex (576p)" tvg-logo="" group-title="娱乐频道 / 印度",Colors Cineplex (576p)
@@ -521,7 +581,7 @@ https://streaming-live-fcdn.api.prd.univisionnow.com/uniwest/uniwest.isml/hls/un
 https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
 #EXTINF:-1 tvg-name="Univision KMEX-DT (1080p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道 / 美国",Univision KMEX-DT (1080p) [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kmex/kmex.isml/hls/kmex.m3u8
-#EXTINF:-1 tvg-name="MBC Masr USA (1080p)" tvg-logo="" group-title="娱乐频道 / 美国",MBC Masr USA (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
+#EXTINF:-1 tvg-name="Universal TV Latin America (1080p)" tvg-logo="" group-title="娱乐频道 / 美国",Universal TV Latin America (1080p)
+http://15.204.246.24:8080/UniversalHD/index.m3u8
 #EXTINF:-1 tvg-name="V+ TVI (720p)" tvg-logo="" group-title="娱乐频道 / 葡萄牙",V+ TVI (720p)
 https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/vmaistvi.m3u8
