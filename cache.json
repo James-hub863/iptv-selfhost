@@ -18106,7 +18106,7 @@
   },
   "http://flussonic.linkintel.ru/che/index.m3u8": {
     "alive": false,
-    "ts": 1794713036.6995277,
+    "ts": 1794799602.889155,
     "rt": 9999
   },
   "https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8": {
@@ -77646,348 +77646,348 @@
   },
   "https://ignac16.github.io/voxel-tv-streams/a3.mpd": {
     "alive": true,
-    "ts": 1794713036.582908,
-    "rt": 0.173
+    "ts": 1794799602.8709075,
+    "rt": 0.142
   },
   "https://ignac16.github.io/voxel-tv-streams/a3s.mpd": {
     "alive": true,
-    "ts": 1794713036.6201203,
-    "rt": 0.147
+    "ts": 1794799602.8745334,
+    "rt": 0.083
   },
   "https://183.giatvcdn.com/ssh101/ssh101/camutv/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713036.6466224,
-    "rt": 0.253
+    "ts": 1794799602.882134,
+    "rt": 0.194
   },
   "http://85.237.89.159:3342/ar-s/Discovery-HD/index.m3u8": {
     "alive": true,
-    "ts": 1794713036.7676177,
-    "rt": 0.275
+    "ts": 1794799603.0129254,
+    "rt": 0.274
   },
   "https://tvnow.hostless.app/comedy-central.m3u8": {
     "alive": false,
-    "ts": 1794713036.7129316,
+    "ts": 1794799602.8919206,
     "rt": 9999
   },
   "http://41.205.93.154/BOOMERANG/index.m3u8": {
-    "alive": true,
-    "ts": 1794713036.6388652,
-    "rt": 0.493
+    "alive": false,
+    "ts": 1794799602.8797734,
+    "rt": 9999
   },
   "https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713037.1241715,
-    "rt": 0.057
+    "ts": 1794799603.2473872,
+    "rt": 0.045
   },
   "https://tvnow.hostless.app/disney-junior.m3u8": {
     "alive": false,
-    "ts": 1794713036.900373,
+    "ts": 1794799603.076644,
     "rt": 9999
   },
   "https://cdn.pishow.tv/ott/live/258/master.m3u8": {
     "alive": true,
-    "ts": 1794713036.5952172,
-    "rt": 0.773
+    "ts": 1794799602.873487,
+    "rt": 0.707
   },
   "http://sultanios.alwaysdata.net/vavo.php?ID=4124538275": {
     "alive": true,
-    "ts": 1794713036.7557654,
-    "rt": 0.843
+    "ts": 1794799602.9574864,
+    "rt": 1.753
   },
   "https://tvnow.hostless.app/cartoon-network.m3u8": {
     "alive": false,
-    "ts": 1794713036.6869576,
+    "ts": 1794799602.88491,
     "rt": 9999
   },
   "https://cdn4.skygo.mn/live/disk1/Channel_5/HLSv3-FTA/Channel_5.m3u8": {
     "alive": true,
-    "ts": 1794713036.6958253,
-    "rt": 1.196
+    "ts": 1794799602.8881059,
+    "rt": 1.221
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_it/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713037.1816168,
-    "rt": 0.731
+    "ts": 1794799603.2924259,
+    "rt": 1.203
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/comedy_central/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713036.7117257,
-    "rt": 1.256
+    "ts": 1794799602.8912451,
+    "rt": 1.201
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/6ter_fr/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713036.5510683,
-    "rt": 1.418
+    "ts": 1794799602.8248467,
+    "rt": 1.269
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_2/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713037.8575447,
-    "rt": 0.289
+    "ts": 1794799604.0947607,
+    "rt": 0.296
   },
   "http://sultanios.alwaysdata.net/vavo.php?ID=4238619703": {
     "alive": true,
-    "ts": 1794713036.6291416,
-    "rt": 1.543
+    "ts": 1794799602.8755763,
+    "rt": 2.684
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_1_it/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713037.1328447,
-    "rt": 1.044
+    "ts": 1794799603.2881618,
+    "rt": 1.209
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/eurosport_2_en/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713037.1870255,
-    "rt": 1.005
+    "ts": 1794799603.3570893,
+    "rt": 0.996
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_4/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713037.9130259,
-    "rt": 0.291
+    "ts": 1794799604.3531244,
+    "rt": 0.295
   },
   "https://183.giatvcdn.com/giatvplayout7/giatv-209163/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713038.2056155,
+    "ts": 1794799604.509515,
     "rt": 0.046
   },
   "https://raw.githubusercontent.com/yaskar661-lgtm/stream/refs/heads/main/filbox/krthd.m3u8": {
     "alive": true,
-    "ts": 1794713038.1724303,
-    "rt": 0.104
+    "ts": 1794799604.477818,
+    "rt": 0.05
   },
   "https://ignac16.github.io/voxel-tv-streams/la6.mpd": {
     "alive": true,
-    "ts": 1794713038.1770046,
-    "rt": 0.104
+    "ts": 1794799604.496423,
+    "rt": 0.011
   },
   "https://183.giatvcdn.com/giatvplayout7/giatv-208138/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713038.25206,
-    "rt": 0.048
+    "ts": 1794799604.5278602,
+    "rt": 0.191
   },
   "http://sultanios.alwaysdata.net/vavo.php?ID=4279401658": {
     "alive": true,
-    "ts": 1794713036.723551,
-    "rt": 1.59
+    "ts": 1794799602.896875,
+    "rt": 3.091
   },
   "https://183.giatvcdn.com/giatvplayout7/giatv-209909/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713038.3005903,
-    "rt": 0.046
+    "ts": 1794799604.6479013,
+    "rt": 0.207
   },
   "https://ignac16.github.io/voxel-tv-streams/mega.mpd": {
     "alive": true,
-    "ts": 1794713038.3139715,
-    "rt": 0.079
+    "ts": 1794799604.6500945,
+    "rt": 0.015
   },
   "http://sultanios.alwaysdata.net/vavo.php?ID=2705627802": {
     "alive": true,
-    "ts": 1794713036.6397831,
-    "rt": 1.76
+    "ts": 1794799602.880703,
+    "rt": 3.925
   },
   "https://ignac16.github.io/voxel-tv-streams/neox.mpd": {
     "alive": true,
-    "ts": 1794713038.396222,
-    "rt": 0.079
+    "ts": 1794799604.675326,
+    "rt": 0.016
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/lci/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713038.1920564,
-    "rt": 0.291
+    "ts": 1794799604.4980614,
+    "rt": 0.294
   },
   "https://183.giatvcdn.com/giatvplayout7/giatv-208730/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713038.2763166,
-    "rt": 0.224
+    "ts": 1794799604.5552073,
+    "rt": 0.044
   },
   "https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713038.2812781,
-    "rt": 0.223
+    "ts": 1794799604.5993006,
+    "rt": 0.05
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_info/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713037.9694924,
-    "rt": 0.599
+    "ts": 1794799604.3910928,
+    "rt": 0.294
   },
   "https://c82fe9a663ed758d6c517fb44c28ba73.4gfbw5.channel-assembly.mediatailor.eu-west-1.amazonaws.com/v1/channel/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/3.m3u8": {
     "alive": false,
-    "ts": 1794713038.1537871,
+    "ts": 1794799604.4117448,
     "rt": 9999
   },
   "http://sultanios.alwaysdata.net/vavo.php?ID=2493319111": {
     "alive": true,
-    "ts": 1794713036.6307354,
-    "rt": 1.988
+    "ts": 1794799602.876816,
+    "rt": 3.658
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/mtv/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713038.3497982,
-    "rt": 0.283
+    "ts": 1794799604.6663895,
+    "rt": 0.286
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_3/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713037.8919258,
-    "rt": 0.749
+    "ts": 1794799604.1088405,
+    "rt": 0.297
   },
   "http://85.237.89.159:3342/ar-s/Nickelodeon/index.m3u8": {
     "alive": true,
-    "ts": 1794713038.5000465,
-    "rt": 0.147
+    "ts": 1794799604.710614,
+    "rt": 0.142
   },
   "https://tvnow.hostless.app/nick-jr.m3u8": {
     "alive": false,
-    "ts": 1794713038.4006712,
+    "ts": 1794799604.6861997,
     "rt": 9999
   },
   "http://sultanios.alwaysdata.net/vavo.php?ID=2665922581": {
     "alive": true,
-    "ts": 1794713036.560337,
-    "rt": 2.14
+    "ts": 1794799602.8575618,
+    "rt": 2.541
   },
   "https://ignac16.github.io/voxel-tv-streams/nova.mpd": {
     "alive": true,
-    "ts": 1794713038.6198082,
-    "rt": 0.085
+    "ts": 1794799604.8551044,
+    "rt": 0.017
   },
   "https://tvnow.hostless.app/nickelodeon.m3u8": {
     "alive": false,
-    "ts": 1794713038.4836273,
+    "ts": 1794799604.6940837,
     "rt": 9999
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon_junior/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713038.5048032,
-    "rt": 0.294
+    "ts": 1794799604.718804,
+    "rt": 0.295
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nicktoons/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713038.5685248,
-    "rt": 0.288
+    "ts": 1794799604.7924354,
+    "rt": 0.295
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/france_5/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713037.968083,
-    "rt": 0.952
+    "ts": 1794799604.3889294,
+    "rt": 0.285
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/novo_19/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713038.633031,
-    "rt": 0.289
+    "ts": 1794799604.8720915,
+    "rt": 0.295
   },
   "https://tvnow.hostless.app/nicktoons.m3u8": {
     "alive": false,
-    "ts": 1794713038.5995357,
+    "ts": 1794799604.8522615,
     "rt": 9999
   },
   "http://85.237.89.159:3342/ar-s/STAR-Action-HD/index.m3u8": {
     "alive": true,
-    "ts": 1794713038.804593,
-    "rt": 0.146
+    "ts": 1794799604.9928892,
+    "rt": 0.138
   },
   "http://181.119.177.253:8000/play/a0da": {
     "alive": true,
-    "ts": 1794713038.8593354,
-    "rt": 0.155
+    "ts": 1794799605.0572429,
+    "rt": 0.15
   },
   "http://sultanios.alwaysdata.net/vavo.php?ID=2896573317": {
     "alive": true,
-    "ts": 1794713037.5993707,
-    "rt": 1.461
+    "ts": 1794799604.092096,
+    "rt": 0.824
   },
   "http://85.237.89.159:3342/ar-s/STAR-World-HD/index.m3u8": {
     "alive": true,
-    "ts": 1794713038.8059068,
-    "rt": 0.268
+    "ts": 1794799605.0138867,
+    "rt": 0.273
   },
   "http://team-tv.co:81/rai1/index.m3u8": {
     "alive": true,
-    "ts": 1794713038.7022107,
-    "rt": 0.381
+    "ts": 1794799604.9236434,
+    "rt": 0.378
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/nickelodeon/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713038.4755251,
-    "rt": 0.612
+    "ts": 1794799604.6917276,
+    "rt": 0.294
   },
   "https://183.giatvcdn.com/ssh101/ssh101/tvmontana10tv/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713039.0178077,
-    "rt": 0.078
+    "ts": 1794799605.2356143,
+    "rt": 0.082
   },
   "http://sultanios.alwaysdata.net/vavo.php?ID=3174529991": {
     "alive": true,
-    "ts": 1794713036.7218988,
-    "rt": 2.396
+    "ts": 1794799602.8945708,
+    "rt": 1.583
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tfx/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713038.9222922,
-    "rt": 0.285
+    "ts": 1794799605.1310372,
+    "rt": 0.299
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tf1_series_films/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713038.920421,
-    "rt": 0.289
+    "ts": 1794799605.0876062,
+    "rt": 0.29
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/the_israeli_network/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713038.925647,
-    "rt": 0.288
+    "ts": 1794799605.1677697,
+    "rt": 0.294
   },
   "http://sultanios.alwaysdata.net/vavo.php?ID=867728420": {
     "alive": true,
-    "ts": 1794713036.722771,
-    "rt": 2.525
+    "ts": 1794799602.8960514,
+    "rt": 2.797
   },
   "http://sultanios.alwaysdata.net/vavo.php?ID=2743527845": {
     "alive": true,
-    "ts": 1794713036.5621576,
-    "rt": 2.749
+    "ts": 1794799602.8674803,
+    "rt": 3.377
   },
   "https://r.eu.cdn-redge.media/livehls/oeu/mt/live/tve/live.livx/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713039.0614736,
-    "rt": 0.291
+    "ts": 1794799605.287853,
+    "rt": 0.294
   },
   "http://sultanios.alwaysdata.net/vavo.php?ID=3390498693": {
     "alive": true,
-    "ts": 1794713038.6474817,
-    "rt": 0.948
+    "ts": 1794799604.9101791,
+    "rt": 1.136
   },
   "https://ss2.tvrdomi.com:1936/nuevaisabelatv/nuevaisabelatv/playlist.m3u8": {
     "alive": true,
-    "ts": 1794713038.9511647,
-    "rt": 0.656
+    "ts": 1794799605.2077608,
+    "rt": 0.651
   },
   "http://sultanios.alwaysdata.net/vavo.php?ID=512159637": {
-    "alive": true,
-    "ts": 1794713037.3685932,
-    "rt": 2.322
+    "alive": false,
+    "ts": 1794799603.5801034,
+    "rt": 9999
   },
   "http://sultanios.alwaysdata.net/vavo.php?ID=3166915380": {
     "alive": true,
-    "ts": 1794713037.0442066,
-    "rt": 2.952
+    "ts": 1794799603.2364774,
+    "rt": 1.458
   },
   "http://sultanios.alwaysdata.net/vavo.php?ID=843891896": {
     "alive": true,
-    "ts": 1794713038.7046988,
-    "rt": 1.563
+    "ts": 1794799604.9522288,
+    "rt": 1.944
   },
   "http://sultanios.alwaysdata.net/vavo.php?ID=3645291205": {
     "alive": true,
-    "ts": 1794713036.5593073,
-    "rt": 3.752
+    "ts": 1794799602.847045,
+    "rt": 3.66
   },
   "https://bingbang.kotmiuaczek.workers.dev/?id=1594464": {
     "alive": true,
-    "ts": 1794713038.6874647,
-    "rt": 2.395
+    "ts": 1794799604.9190714,
+    "rt": 1.184
   },
   "https://vmttv.dpdns.org/tv360?id=187": {
-    "alive": false,
-    "ts": 1794713038.6417613,
-    "rt": 5.795
+    "alive": true,
+    "ts": 1794799604.8837473,
+    "rt": 2.453
   },
   "ch1-179470315.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
     "alive": false,
@@ -78017,6 +78017,21 @@
   "ch1-179472188.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
     "alive": false,
     "ts": 1794775120.815706,
+    "rt": 9999
+  },
+  "ch1-179479728.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1794799602.8038888,
+    "rt": 9999
+  },
+  "ch1-179479729.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1794799602.809127,
+    "rt": 9999
+  },
+  "ch1-179479730.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1794799602.8192832,
     "rt": 9999
   }
 }
