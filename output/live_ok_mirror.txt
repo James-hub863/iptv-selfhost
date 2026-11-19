@@ -188,15 +188,15 @@
   镜像 : http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
   镜像 : https://ghproxy.net/http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 
-# 浙江少儿
-  原始 : https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
-  镜像 : https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
-  镜像 : https://ghproxy.net/https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
-
 # 浙江经济
   原始 : https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
   镜像 : https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
   镜像 : https://ghproxy.net/https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
+
+# 浙江少儿
+  原始 : https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+  镜像 : https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
+  镜像 : https://ghproxy.net/https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 
 # 浙江钱江
   原始 : https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?
@@ -723,25 +723,25 @@
   镜像 : http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
   镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 
-# CCTV-9
-  原始 : http://74.91.26.218:82/live/cctv9hd.m3u8
-  镜像 : http://74.91.26.218:82/live/cctv9hd.m3u8
-  镜像 : https://ghproxy.net/http://74.91.26.218:82/live/cctv9hd.m3u8
+# CCTV-14
+  原始 : http://74.91.26.218:82/live/cctv14hd.m3u8
+  镜像 : http://74.91.26.218:82/live/cctv14hd.m3u8
+  镜像 : https://ghproxy.net/http://74.91.26.218:82/live/cctv14hd.m3u8
 
 # CCTV-5
   原始 : http://107.150.60.122/live/cctv5hd.m3u8
   镜像 : http://107.150.60.122/live/cctv5hd.m3u8
   镜像 : https://ghproxy.net/http://107.150.60.122/live/cctv5hd.m3u8
 
-# CCTV-14
-  原始 : http://74.91.26.218:82/live/cctv14hd.m3u8
-  镜像 : http://74.91.26.218:82/live/cctv14hd.m3u8
-  镜像 : https://ghproxy.net/http://74.91.26.218:82/live/cctv14hd.m3u8
-
 # CCTV-10
   原始 : http://74.91.26.218:82/live/cctv10hd.m3u8
   镜像 : http://74.91.26.218:82/live/cctv10hd.m3u8
   镜像 : https://ghproxy.net/http://74.91.26.218:82/live/cctv10hd.m3u8
+
+# CCTV-9
+  原始 : http://74.91.26.218:82/live/cctv9hd.m3u8
+  镜像 : http://74.91.26.218:82/live/cctv9hd.m3u8
+  镜像 : https://ghproxy.net/http://74.91.26.218:82/live/cctv9hd.m3u8
 
 # CCTV-4K HD (1080p)
   原始 : http://198.204.240.250:82/live/cctv4k.m3u8
@@ -1053,20 +1053,20 @@
   镜像 : https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
   镜像 : https://ghproxy.net/https://livestream.telvue.com/natickpegasus3/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-# ABN Urdu (540p)
-  原始 : https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-  镜像 : https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
-  镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+# ABN China (720p)
+  原始 : https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+  镜像 : https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+  镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abnchina.m3u8
 
 # ABN TV India (540p)
   原始 : https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
   镜像 : https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
   镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
 
-# ABN China (720p)
-  原始 : https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-  镜像 : https://mediaserver.abnvideos.com/streams/abnchina.m3u8
-  镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+# ABN Urdu (540p)
+  原始 : https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+  镜像 : https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
+  镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
 
 # Canal TV Radio Maya TGBA (480p)
   原始 : https://s.emisoras.tv:8081/radiomaya/index.m3u8
