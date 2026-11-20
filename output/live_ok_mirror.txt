@@ -13,15 +13,15 @@
   镜像 : http://107.150.60.122/live/ynwshd.m3u8
   镜像 : https://ghproxy.net/http://107.150.60.122/live/ynwshd.m3u8
 
-# 天津卫视
-  原始 : http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
-  镜像 : http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
-  镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
-
 # CHC动作电影
   原始 : http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
   镜像 : http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
   镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+
+# 天津卫视
+  原始 : http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+  镜像 : http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
+  镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 
 # CHC家庭影院
   原始 : http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
@@ -88,15 +88,15 @@
   镜像 : https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
   镜像 : https://ghproxy.net/https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
-# 广东珠江
-  原始 : http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
-  镜像 : http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
-  镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
-
 # 广东民生
   原始 : http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
   镜像 : http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
   镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
+
+# 广东珠江
+  原始 : http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
+  镜像 : http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
+  镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
 
 # 广东体育
   原始 : http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
@@ -188,20 +188,20 @@
   镜像 : https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
   镜像 : https://ghproxy.net/https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 
-# 浙江经济生活
-  原始 : https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-  镜像 : https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-  镜像 : https://ghproxy.net/https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+# 浙江新闻
+  原始 : https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
+  镜像 : https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
+  镜像 : https://ghproxy.net/https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
 
 # 浙江民生
   原始 : https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
   镜像 : https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
   镜像 : https://ghproxy.net/https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 
-# 浙江新闻
-  原始 : https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
-  镜像 : https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
-  镜像 : https://ghproxy.net/https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
+# 浙江经济生活
+  原始 : https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+  镜像 : https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+  镜像 : https://ghproxy.net/https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 
 # 浙江钱江
   原始 : https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?
@@ -218,15 +218,15 @@
   镜像 : http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
   镜像 : https://ghproxy.net/http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
 
-# 浙江国际
-  原始 : http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-  镜像 : http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-  镜像 : https://ghproxy.net/http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-
 # 浙江休闲台
   原始 : http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
   镜像 : http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
   镜像 : https://ghproxy.net/http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
+
+# 浙江国际
+  原始 : http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+  镜像 : http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+  镜像 : https://ghproxy.net/http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 
 # 浙江教科影视
   原始 : http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
@@ -298,15 +298,15 @@
   镜像 : http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
   镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
 
-# 辽宁影视剧
-  原始 : http://120.76.248.139/live/bfgd/4200000070.m3u8
-  镜像 : http://120.76.248.139/live/bfgd/4200000070.m3u8
-  镜像 : https://ghproxy.net/http://120.76.248.139/live/bfgd/4200000070.m3u8
-
 # 辽宁生活
   原始 : http://120.76.248.139/live/bfgd/4200000073.m3u8
   镜像 : http://120.76.248.139/live/bfgd/4200000073.m3u8
   镜像 : https://ghproxy.net/http://120.76.248.139/live/bfgd/4200000073.m3u8
+
+# 辽宁影视剧
+  原始 : http://120.76.248.139/live/bfgd/4200000070.m3u8
+  镜像 : http://120.76.248.139/live/bfgd/4200000070.m3u8
+  镜像 : https://ghproxy.net/http://120.76.248.139/live/bfgd/4200000070.m3u8
 
 # 辽宁经济
   原始 : http://120.76.248.139/live/bfgd/4200000480.m3u8
@@ -708,15 +708,15 @@
   镜像 : https://xykt-fix.github.io/Y77.m3u8
   镜像 : https://ghproxy.net/https://xykt-fix.github.io/Y77.m3u8
 
-# CCTV-8
-  原始 : http://74.91.26.218:82/live/cctv8hd.m3u8
-  镜像 : http://74.91.26.218:82/live/cctv8hd.m3u8
-  镜像 : https://ghproxy.net/http://74.91.26.218:82/live/cctv8hd.m3u8
-
 # CCTV-9
   原始 : http://107.150.60.122/live/cctv9hd.m3u8
   镜像 : http://107.150.60.122/live/cctv9hd.m3u8
   镜像 : https://ghproxy.net/http://107.150.60.122/live/cctv9hd.m3u8
+
+# CCTV-8
+  原始 : http://74.91.26.218:82/live/cctv8hd.m3u8
+  镜像 : http://74.91.26.218:82/live/cctv8hd.m3u8
+  镜像 : https://ghproxy.net/http://74.91.26.218:82/live/cctv8hd.m3u8
 
 # CCTV-14
   原始 : http://74.91.26.218:82/live/cctv14hd.m3u8
@@ -1093,11 +1093,6 @@
   镜像 : https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
   镜像 : https://ghproxy.net/https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
 
-# BBC Earth US (1080p)
-  原始 : https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-  镜像 : https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-  镜像 : https://ghproxy.net/https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-
 # KIIO-LD 10.4 (480p)
   原始 : https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
   镜像 : https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
@@ -1143,11 +1138,6 @@
   镜像 : https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8
   镜像 : https://ghproxy.net/https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8
 
-# Tom Sings TV (576p)
-  原始 : https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8
-  镜像 : https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8
-  镜像 : https://ghproxy.net/https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8
-
 # TheGrio TV FAST (1080p)
   原始 : https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
   镜像 : https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
@@ -1182,11 +1172,6 @@
   原始 : https://edge.enhdtv.com/8192/index.m3u8
   镜像 : https://edge.enhdtv.com/8192/index.m3u8
   镜像 : https://ghproxy.net/https://edge.enhdtv.com/8192/index.m3u8
-
-# ALLBLK Gems (720p)
-  原始 : https://df1zke3zj042m.cloudfront.net/playlist.m3u8
-  镜像 : https://df1zke3zj042m.cloudfront.net/playlist.m3u8
-  镜像 : https://ghproxy.net/https://df1zke3zj042m.cloudfront.net/playlist.m3u8
 
 # Channel U (720p)
   原始 : https://cdn.qd.je/163189/chu
@@ -1323,11 +1308,6 @@
   镜像 : http://23.237.104.106:8080/USA_FUSE/index.m3u8
   镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_FUSE/index.m3u8
 
-# On Patrol: Live (720p)
-  原始 : https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8
-  镜像 : https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8
-  镜像 : https://ghproxy.net/https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8
-
 # Showtime Family Zone (720p)
   原始 : http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
   镜像 : http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
@@ -1357,6 +1337,16 @@
   原始 : https://canal.mediaserver.com.co/live/oracionconson.m3u8
   镜像 : https://canal.mediaserver.com.co/live/oracionconson.m3u8
   镜像 : https://ghproxy.net/https://canal.mediaserver.com.co/live/oracionconson.m3u8
+
+# Don't Tell The Bride (1080p)
+  原始 : https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8
+  镜像 : https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8
+  镜像 : https://ghproxy.net/https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8
+
+# Oh Muang Lao TV (720p)
+  原始 : https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+  镜像 : https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+  镜像 : https://ghproxy.net/https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 
 # SiTV (1080p) [Not 24/7]
   原始 : http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
@@ -1438,6 +1428,11 @@
   镜像 : https://live.obslivestream.com/controversiatv/index.m3u8
   镜像 : https://ghproxy.net/https://live.obslivestream.com/controversiatv/index.m3u8
 
+# Game Show Network (720p) [Not 24/7]
+  原始 : https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+  镜像 : https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+  镜像 : https://ghproxy.net/https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
+
 # Colors Gujarati (396p)
   原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
   镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/in/YuppTV/ColorsGujarati.m3u8
@@ -1472,6 +1467,11 @@
   原始 : http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
   镜像 : http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
   镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+
+# Colors Cineplex (576p)
+  原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
+  镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
+  镜像 : https://ghproxy.net/https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 
 # Mediaset Italia USA (1080p)
   原始 : https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8

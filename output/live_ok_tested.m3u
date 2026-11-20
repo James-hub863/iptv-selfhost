@@ -5,10 +5,10 @@ http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="" group-title="卫视频道 / 云南",云南卫视
 http://107.150.60.122/live/ynwshd.m3u8
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="" group-title="卫视频道",天津卫视
-http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="" group-title="卫视频道",CHC动作电影
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="" group-title="卫视频道",天津卫视
+http://38.75.136.137:98/gslb/dsdqpub/tjwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="" group-title="卫视频道",CHC家庭影院
 http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="天津体育" tvg-logo="" group-title="卫视频道",天津体育
@@ -35,10 +35,10 @@ http://198.204.228.26/live/ahwshd.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="" group-title="卫视频道 / 山西",山西卫视
 https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="" group-title="卫视频道 / 广东",广东珠江
-http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="" group-title="卫视频道 / 广东",广东民生
 http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="" group-title="卫视频道 / 广东",广东珠江
+http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="" group-title="卫视频道 / 广东",大湾区卫视
 http://38.75.136.137:98/gslb/dsdqpub/nfws.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="" group-title="卫视频道 / 广东",广东卫视
@@ -73,22 +73,22 @@ http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="" group-title="卫视频道 / 浙江",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
-#EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="" group-title="卫视频道 / 浙江",浙江经济生活
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-name="浙江民生" tvg-logo="" group-title="卫视频道 / 浙江",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="" group-title="卫视频道 / 浙江",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
+#EXTINF:-1 tvg-name="浙江民生" tvg-logo="" group-title="卫视频道 / 浙江",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
+#EXTINF:-1 tvg-name="浙江经济生活" tvg-logo="" group-title="卫视频道 / 浙江",浙江经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江钱江" tvg-logo="" group-title="卫视频道 / 浙江",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?
 #EXTINF:-1 tvg-name="浙江数码时代" tvg-logo="" group-title="卫视频道 / 浙江",浙江数码时代
 http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="浙江经视" tvg-logo="" group-title="卫视频道 / 浙江",浙江经视
 http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
-#EXTINF:-1 tvg-name="浙江国际" tvg-logo="" group-title="卫视频道 / 浙江",浙江国际
-http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江休闲台" tvg-logo="" group-title="卫视频道 / 浙江",浙江休闲台
 http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
+#EXTINF:-1 tvg-name="浙江国际" tvg-logo="" group-title="卫视频道 / 浙江",浙江国际
+http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江教科影视" tvg-logo="" group-title="卫视频道 / 浙江",浙江教科影视
 http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江教科" tvg-logo="" group-title="卫视频道 / 浙江",浙江教科
@@ -117,10 +117,10 @@ https://liveout.xntv.tv/a65jur/96iln2.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/gzwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="" group-title="卫视频道 / 辽宁",辽宁卫视
 http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="" group-title="卫视频道 / 辽宁",辽宁影视剧
-http://120.76.248.139/live/bfgd/4200000070.m3u8
 #EXTINF:-1 tvg-name="辽宁生活" tvg-logo="" group-title="卫视频道 / 辽宁",辽宁生活
 http://120.76.248.139/live/bfgd/4200000073.m3u8
+#EXTINF:-1 tvg-name="辽宁影视剧" tvg-logo="" group-title="卫视频道 / 辽宁",辽宁影视剧
+http://120.76.248.139/live/bfgd/4200000070.m3u8
 #EXTINF:-1 tvg-name="辽宁经济" tvg-logo="" group-title="卫视频道 / 辽宁",辽宁经济
 http://120.76.248.139/live/bfgd/4200000480.m3u8
 #EXTINF:-1 tvg-name="辽宁教育青少" tvg-logo="" group-title="卫视频道 / 辽宁",辽宁教育青少
@@ -269,10 +269,10 @@ http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-name="CCTV-9 (576i)" tvg-logo="" group-title="娱乐频道",CCTV-9 (576i)
 https://xykt-fix.github.io/Y77.m3u8
-#EXTINF:-1 tvg-name="CCTV-8" tvg-logo="" group-title="娱乐频道",CCTV-8
-http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-9" tvg-logo="" group-title="娱乐频道",CCTV-9
 http://107.150.60.122/live/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV-8" tvg-logo="" group-title="娱乐频道",CCTV-8
+http://74.91.26.218:82/live/cctv8hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-14" tvg-logo="" group-title="娱乐频道",CCTV-14
 http://74.91.26.218:82/live/cctv14hd.m3u8
 #EXTINF:-1 tvg-name="CCTV-1 HD (1080p)" tvg-logo="" group-title="娱乐频道",CCTV-1 HD (1080p)
@@ -393,6 +393,8 @@ https://a-cdn.klowdtv.com/live1/aweint/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
 #EXTINF:-1 tvg-name="Comedy.TV (720p)" tvg-logo="" group-title="娱乐频道",Comedy.TV (720p)
 https://a-cdn.klowdtv.com/live2/comedytv_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="Real Television (720p)" tvg-logo="" group-title="娱乐频道",Real Television (720p)
+https://live-evg10.tv360.bitel.com.pe/bitel/realtv/playlist.m3u8
 #EXTINF:-1 tvg-name="bon appetit (1080p)" tvg-logo="" group-title="娱乐频道",bon appetit (1080p)
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="FloRacing (1080p)" tvg-logo="" group-title="娱乐频道",FloRacing (1080p)
@@ -421,8 +423,6 @@ https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Unidentified (1080p)" tvg-logo="" group-title="娱乐频道",Unidentified (1080p)
 https://d3ify425qsio2d.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC Earth US (1080p)" tvg-logo="" group-title="娱乐频道",BBC Earth US (1080p)
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 tvg-name="KIIO-LD 10.4 (480p)" tvg-logo="" group-title="娱乐频道",KIIO-LD 10.4 (480p)
 https://streamer1.connectto.com/AABC_WEB_1201/index.m3u8
 #EXTINF:-1 tvg-name="BBC Home & Garden (1080p)" tvg-logo="" group-title="娱乐频道",BBC Home & Garden (1080p)
@@ -441,8 +441,6 @@ https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=
 https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CAN TV36 (1080p)" tvg-logo="" group-title="娱乐频道",CAN TV36 (1080p)
 https://cantv.streamguys1.com/cantv/cantv36hls/playlist.m3u8
-#EXTINF:-1 tvg-name="Tom Sings TV (576p)" tvg-logo="" group-title="娱乐频道",Tom Sings TV (576p)
-https://ia600505.us.archive.org/34/items/live_tstv/tomsingstv.m3u8
 #EXTINF:-1 tvg-name="TheGrio TV FAST (1080p)" tvg-logo="" group-title="娱乐频道",TheGrio TV FAST (1080p)
 https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="TODAY All Day (1080p)" tvg-logo="" group-title="娱乐频道",TODAY All Day (1080p)
@@ -457,8 +455,6 @@ https://pac12-firetv.amagi.tv/playlist.m3u8
 https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
 #EXTINF:-1 tvg-name="Unifranz (720p)" tvg-logo="" group-title="娱乐频道",Unifranz (720p)
 https://edge.enhdtv.com/8192/index.m3u8
-#EXTINF:-1 tvg-name="ALLBLK Gems (720p)" tvg-logo="" group-title="娱乐频道",ALLBLK Gems (720p)
-https://df1zke3zj042m.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-name="Channel U (720p)" tvg-logo="" group-title="娱乐频道",Channel U (720p)
 https://cdn.qd.je/163189/chu
 #EXTINF:-1 tvg-name="NHRA TV (1080p)" tvg-logo="" group-title="娱乐频道",NHRA TV (1080p)
@@ -513,8 +509,6 @@ http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
 http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
 #EXTINF:-1 tvg-name="Fuse (1080p)" tvg-logo="" group-title="娱乐频道",Fuse (1080p)
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
-#EXTINF:-1 tvg-name="On Patrol: Live (720p)" tvg-logo="" group-title="娱乐频道",On Patrol: Live (720p)
-https://a-cdn.klowdtv.com/live3/onpatrol_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Showtime Family Zone (720p)" tvg-logo="" group-title="娱乐频道",Showtime Family Zone (720p)
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 #EXTINF:-1 tvg-name="Always Funny Videos (720p)" tvg-logo="" group-title="娱乐频道",Always Funny Videos (720p)
@@ -527,6 +521,10 @@ https://outsidetv-firetv.amagi.tv/playlist.m3u8
 http://m.live.net.sa:1935/live/sunnah/gmswf.m3u8
 #EXTINF:-1 tvg-name="Canal Oracion Con Son (1080p)" tvg-logo="" group-title="娱乐频道",Canal Oracion Con Son (1080p)
 https://canal.mediaserver.com.co/live/oracionconson.m3u8
+#EXTINF:-1 tvg-name="Don't Tell The Bride (1080p)" tvg-logo="" group-title="娱乐频道",Don't Tell The Bride (1080p)
+https://amg00426-lds-amg00426c15-samsung-au-3684.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Oh Muang Lao TV (720p)" tvg-logo="" group-title="娱乐频道",Oh Muang Lao TV (720p)
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="SiTV (1080p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",SiTV (1080p) [Not 24/7]
 http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
 #EXTINF:-1 tvg-name="Nour Mariam (576p)" tvg-logo="" group-title="娱乐频道 / 北欧",Nour Mariam (576p)
@@ -539,8 +537,6 @@ https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
 https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TeleCibaoHD (720p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",TeleCibaoHD (720p) [Not 24/7]
 https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Codigo TV (1080p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",Codigo TV (1080p) [Not 24/7]
-https://edge.essastream.com/codigotv/playlist.m3u8
 #EXTINF:-1 tvg-name="Payam-e-Afghan TV (480p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",Payam-e-Afghan TV (480p) [Not 24/7]
 https://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
 #EXTINF:-1 tvg-name="Right Now TV (720p)" tvg-logo="" group-title="娱乐频道 / 北欧",Right Now TV (720p)
@@ -549,8 +545,6 @@ https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 https://amg00170-amg00170c4-samsung-gb-4232.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="High Vision TV (1080p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",High Vision TV (1080p) [Not 24/7]
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/index.m3u8
-#EXTINF:-1 tvg-name="CTT Canal 49 (1080p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",CTT Canal 49 (1080p) [Not 24/7]
-https://cdnfox.hostlagarto.com/cct49/index.m3u8
 #EXTINF:-1 tvg-name="Electric Now (720p)" tvg-logo="" group-title="娱乐频道 / 北欧",Electric Now (720p)
 https://amg01705-amg01705c1-amgplt0095.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Good Idea TV (720p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",Good Idea TV (720p) [Not 24/7]
@@ -559,6 +553,8 @@ http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
 #EXTINF:-1 tvg-name="Controversia TV (720p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",Controversia TV (720p) [Not 24/7]
 https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:-1 tvg-name="Game Show Network (720p) [Not 24/7]" tvg-logo="" group-title="娱乐频道 / 北欧",Game Show Network (720p) [Not 24/7]
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="Colors Gujarati (396p)" tvg-logo="" group-title="娱乐频道 / 印度",Colors Gujarati (396p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
 #EXTINF:-1 tvg-name="Colors (576p)" tvg-logo="" group-title="娱乐频道 / 印度",Colors (576p)
@@ -573,6 +569,8 @@ https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Starz Comedy (1080p)" tvg-logo="" group-title="娱乐频道 / 印度",Starz Comedy (1080p)
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-name="Colors Cineplex (576p)" tvg-logo="" group-title="娱乐频道 / 印度",Colors Cineplex (576p)
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 #EXTINF:-1 tvg-name="Mediaset Italia USA (1080p)" tvg-logo="" group-title="娱乐频道 / 美国",Mediaset Italia USA (1080p)
 https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
 #EXTINF:-1 tvg-name="Univision (1080p) [Geo-blocked]" tvg-logo="" group-title="娱乐频道 / 美国",Univision (1080p) [Geo-blocked]
