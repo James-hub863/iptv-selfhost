@@ -3,7 +3,7 @@
 # --- 卫视频道 ---
 # ---- 上海 (1) ----
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="" group-title="卫视频道·上海",东方卫视
-http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
+http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub
 # ---- 云南 (1) ----
 #EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="" group-title="卫视频道·云南",云南卫视
 http://107.150.60.122/live/ynwshd.m3u8
@@ -86,18 +86,18 @@ http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hewshd
 https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 # ---- 河南 (1) ----
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="" group-title="卫视频道·河南",河南卫视
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hawshd
+http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub
 # ---- 浙江 (16) ----
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="" group-title="卫视频道·浙江",浙江卫视
 http://107.150.60.122/live/zjwshd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江钱江" tvg-logo="" group-title="卫视频道·浙江",浙江钱江
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="浙江民生" tvg-logo="" group-title="卫视频道·浙江",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="浙江新闻" tvg-logo="" group-title="卫视频道·浙江",浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-logo="" group-title="卫视频道·浙江",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="浙江新闻" tvg-logo="" group-title="卫视频道·浙江",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="浙江民生" tvg-logo="" group-title="卫视频道·浙江",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
+#EXTINF:-1 tvg-id="" tvg-name="浙江钱江" tvg-logo="" group-title="卫视频道·浙江",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="浙江经济" tvg-logo="" group-title="卫视频道·浙江",浙江经济
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="浙江公共新闻" tvg-logo="" group-title="卫视频道·浙江",浙江公共新闻
@@ -340,12 +340,12 @@ https://xykt-fix.github.io/Y77.m3u8
 http://74.91.26.218:82/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NRBTV (720p)" tvg-logo="" group-title="娱乐频道",NRBTV (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=15811
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-6" tvg-logo="" group-title="娱乐频道",CCTV-6
-http://74.91.26.218:82/live/cctv6hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CCTV-7" tvg-logo="" group-title="娱乐频道",CCTV-7
-http://74.91.26.218:82/live/cctv7hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-8" tvg-logo="" group-title="娱乐频道",CCTV-8
 http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-7" tvg-logo="" group-title="娱乐频道",CCTV-7
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-6" tvg-logo="" group-title="娱乐频道",CCTV-6
+http://74.91.26.218:82/live/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-11" tvg-logo="" group-title="娱乐频道",CCTV-11
 http://74.91.26.218:82/live/cctv11hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-15" tvg-logo="" group-title="娱乐频道",CCTV-15
