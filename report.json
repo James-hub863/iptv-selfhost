@@ -1,12 +1,12 @@
 {
-  "total": 13239,
-  "alive": 8029,
+  "total": 13125,
+  "alive": 7881,
   "cn_channels": 150,
   "foreign_channels": 150,
   "total_output": 300,
-  "dead": 5210,
-  "duration": 3.8,
-  "timestamp": "2026-11-21 00:28:55",
+  "dead": 5244,
+  "duration": 991.1,
+  "timestamp": "2026-11-21 12:44:41",
   "fastest_cn": "ABTV Bariloche",
-  "fastest_foreign": "ABC KAAL (1080p)"
+  "fastest_foreign": "ABN Bible Movies Channel (720p)"
 }
