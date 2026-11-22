@@ -64426,8 +64426,8 @@
   },
   "https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_asia_main_576.m3u8": {
     "alive": true,
-    "ts": 1793069686.395598,
-    "rt": 0.476
+    "ts": 1795319015.23616,
+    "rt": 0.399
   },
   "https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8": {
     "alive": true,
@@ -80713,5 +80713,130 @@
     "alive": false,
     "ts": 1795295748.1397986,
     "rt": 9999
+  },
+  "https://5f71743aa95e4.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8": {
+    "alive": false,
+    "ts": 1795319015.0224242,
+    "rt": 9999
+  },
+  "ch1-179526314.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1795319015.0083437,
+    "rt": 9999
+  },
+  "ch1-179526315.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1795319015.018665,
+    "rt": 9999
+  },
+  "ch1-179526316.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1795319015.0187194,
+    "rt": 9999
+  },
+  "http://167.249.23.102:8000/play/TvCatolico_CO/index.m3u8": {
+    "alive": true,
+    "ts": 1795319015.0222442,
+    "rt": 0.212
+  },
+  "https://v4.tustreaming.cl:2020/hls/ondatv/ondatv.m3u8": {
+    "alive": true,
+    "ts": 1795319015.0526104,
+    "rt": 0.25
+  },
+  "https://edge.essastream.com/portaldigital/index.m3u8": {
+    "alive": true,
+    "ts": 1795319015.070069,
+    "rt": 0.259
+  },
+  "https://live.obslivestream.com/sanjuanera/index.m3u8": {
+    "alive": true,
+    "ts": 1795319015.077873,
+    "rt": 0.254
+  },
+  "http://181.78.8.199:8000/play/a0e4/index.m3u8": {
+    "alive": true,
+    "ts": 1795319015.0220835,
+    "rt": 0.312
+  },
+  "https://videoserver.tmcreativos.com:2020/hls/selvatv/selvatv.m3u8": {
+    "alive": true,
+    "ts": 1795319015.0796762,
+    "rt": 0.256
+  },
+  "http://90.183.52.46:4000/play/a04a/index.m3u8": {
+    "alive": true,
+    "ts": 1795319015.0240946,
+    "rt": 0.346
+  },
+  "https://stream.haislin.com/super7fm/index.m3u8": {
+    "alive": true,
+    "ts": 1795319015.0828621,
+    "rt": 0.294
+  },
+  "https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8": {
+    "alive": true,
+    "ts": 1795319015.0230682,
+    "rt": 0.462
+  },
+  "http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts": {
+    "alive": true,
+    "ts": 1795319015.0768836,
+    "rt": 0.408
+  },
+  "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8": {
+    "alive": true,
+    "ts": 1795319015.0844424,
+    "rt": 0.528
+  },
+  "https://mundial.cpustream.com:8081/sullanatv/video.m3u8": {
+    "alive": true,
+    "ts": 1795319015.082286,
+    "rt": 0.637
+  },
+  "https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8": {
+    "alive": true,
+    "ts": 1795319015.0230234,
+    "rt": 0.769
+  },
+  "https://cdn.jwplayer.com/live/broadcast/igp9r9oc.mpd": {
+    "alive": true,
+    "ts": 1795319015.0881577,
+    "rt": 0.581
+  },
+  "https://cache2.zapitv.com/live/eds_c2/la_septima/dash_live_ez/la_septima.mpd": {
+    "alive": true,
+    "ts": 1795319015.041852,
+    "rt": 0.779
+  },
+  "https://eu1.servers10.com:8081/8162/index.m3u8": {
+    "alive": true,
+    "ts": 1795319015.305032,
+    "rt": 0.748
+  },
+  "https://video.rionitv.com/hls/live/rioni.m3u8": {
+    "alive": true,
+    "ts": 1795319015.075485,
+    "rt": 1.121
+  },
+  "https://live.telelima.net/web/index.m3u8": {
+    "alive": false,
+    "ts": 1795319015.085015,
+    "rt": 9999
+  },
+  "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk5%2Fusergen0grnd8l2y6gw-got.htm": {
+    "alive": true,
+    "ts": 1795319015.072597,
+    "rt": 4.313
+  },
+  "https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk3%2Fusergenrx4t0l8sybkr-got.htm": {
+    "alive": true,
+    "ts": 1795319015.0704455,
+    "rt": 4.424
+  },
+  "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuk4%2Fusergendx3j2x4tqrnd-got.htm": {
+    "alive": true,
+    "ts": 1795319015.071025,
+    "rt": 4.48
   }
 }
