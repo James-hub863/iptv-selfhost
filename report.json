@@ -1,12 +1,12 @@
 {
   "total": 13070,
-  "alive": 7574,
+  "alive": 7803,
   "cn_channels": 150,
   "foreign_channels": 150,
   "total_output": 300,
-  "dead": 5094,
-  "duration": 1226.4,
-  "timestamp": "2026-11-23 00:05:36",
+  "dead": 5267,
+  "duration": 71.9,
+  "timestamp": "2026-11-23 05:24:56",
   "fastest_cn": "ABTV Bariloche",
   "fastest_foreign": "ABN China (720p)"
 }
