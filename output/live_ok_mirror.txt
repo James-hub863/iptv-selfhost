@@ -194,24 +194,24 @@
   镜像 : https://ghproxy.net/http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 
 # 浙江数码时代
-  原始 : http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
-  镜像 : http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
-  镜像 : https://ghproxy.net/http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
+  原始 : http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
+  镜像 : http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
+  镜像 : https://ghproxy.net/http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 
-# 浙江经济生活
-  原始 : https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-  镜像 : https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-  镜像 : https://ghproxy.net/https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+# 浙江少儿
+  原始 : https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+  镜像 : https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+  镜像 : https://ghproxy.net/https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 # 浙江民生
   原始 : https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
   镜像 : https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
   镜像 : https://ghproxy.net/https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 
-# 浙江少儿
-  原始 : https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-  镜像 : https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-  镜像 : https://ghproxy.net/https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+# 浙江经济生活
+  原始 : https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+  镜像 : https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+  镜像 : https://ghproxy.net/https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 
 # 浙江钱江
   原始 : https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?
@@ -303,15 +303,15 @@
   镜像 : http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
   镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqpub/lnwshd.m3u8?auth=testpub
 
-# 辽宁影视剧
-  原始 : http://120.76.248.139/live/bfgd/4200000070.m3u8
-  镜像 : http://120.76.248.139/live/bfgd/4200000070.m3u8
-  镜像 : https://ghproxy.net/http://120.76.248.139/live/bfgd/4200000070.m3u8
-
 # 辽宁生活
   原始 : http://120.76.248.139/live/bfgd/4200000073.m3u8
   镜像 : http://120.76.248.139/live/bfgd/4200000073.m3u8
   镜像 : https://ghproxy.net/http://120.76.248.139/live/bfgd/4200000073.m3u8
+
+# 辽宁影视剧
+  原始 : http://120.76.248.139/live/bfgd/4200000070.m3u8
+  镜像 : http://120.76.248.139/live/bfgd/4200000070.m3u8
+  镜像 : https://ghproxy.net/http://120.76.248.139/live/bfgd/4200000070.m3u8
 
 # 辽宁经济
   原始 : http://120.76.248.139/live/bfgd/4200000480.m3u8
@@ -543,15 +543,15 @@
   镜像 : https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
   镜像 : https://ghproxy.net/https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 
-# TVBS亚洲
-  原始 : http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
-  镜像 : http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
-  镜像 : https://ghproxy.net/http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
-
 # 东森超视
   原始 : http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
   镜像 : http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
   镜像 : https://ghproxy.net/http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+
+# TVBS亚洲
+  原始 : http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+  镜像 : http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+  镜像 : https://ghproxy.net/http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 
 # 武汉一台新闻综合
   原始 : https://ls.qingting.fm/live/20198/64k.m3u8
@@ -633,16 +633,6 @@
   镜像 : https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
   镜像 : https://ghproxy.net/https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
 
-# News12 Hudson Valley (1080p) [Geo-blocked]
-  原始 : https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https
-  镜像 : https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https
-  镜像 : https://ghproxy.net/https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https
-
-# Zee Tamil News (720p)
-  原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
-  镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/in/ZMCL/ZeeTamilNews.m3u8
-  镜像 : https://ghproxy.net/https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
-
 # Televida (Dominican Republic) (1080p) [Not 24/7]
   原始 : https://cnn.hostlagarto.com/televida/playlist.m3u8
   镜像 : https://cnn.hostlagarto.com/televida/playlist.m3u8
@@ -677,6 +667,11 @@
   原始 : https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
   镜像 : https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
   镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+# Zee Cinema APAC (720p)
+  原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+  镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
+  镜像 : https://ghproxy.net/https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
 
 # Sony Movies Latin America (720p)
   原始 : http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
@@ -723,15 +718,15 @@
   镜像 : https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
   镜像 : https://ghproxy.net/https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
 
-# CCTV-11
-  原始 : http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
-  镜像 : http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
-  镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
-
 # CCTV-15
   原始 : http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
   镜像 : http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
   镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+
+# CCTV-11
+  原始 : http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+  镜像 : http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+  镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
 
 # CCTV-9 (576i)
   原始 : https://xykt-fix.github.io/Y77.m3u8
@@ -753,35 +748,35 @@
   镜像 : http://69.30.245.50/live/cctv1.m3u8
   镜像 : https://ghproxy.net/http://69.30.245.50/live/cctv1.m3u8
 
-# CCTV-8
-  原始 : http://74.91.26.218:82/live/cctv8hd.m3u8
-  镜像 : http://74.91.26.218:82/live/cctv8hd.m3u8
-  镜像 : https://ghproxy.net/http://74.91.26.218:82/live/cctv8hd.m3u8
-
-# CCTV-9
-  原始 : http://107.150.60.122/live/cctv9hd.m3u8
-  镜像 : http://107.150.60.122/live/cctv9hd.m3u8
-  镜像 : https://ghproxy.net/http://107.150.60.122/live/cctv9hd.m3u8
+# CCTV-17
+  原始 : http://74.91.26.218:82/live/cctv17hd.m3u8
+  镜像 : http://74.91.26.218:82/live/cctv17hd.m3u8
+  镜像 : https://ghproxy.net/http://74.91.26.218:82/live/cctv17hd.m3u8
 
 # CCTV-12
   原始 : http://74.91.26.218:82/live/cctv12hd.m3u8
   镜像 : http://74.91.26.218:82/live/cctv12hd.m3u8
   镜像 : https://ghproxy.net/http://74.91.26.218:82/live/cctv12hd.m3u8
 
-# CCTV-17
-  原始 : http://74.91.26.218:82/live/cctv17hd.m3u8
-  镜像 : http://74.91.26.218:82/live/cctv17hd.m3u8
-  镜像 : https://ghproxy.net/http://74.91.26.218:82/live/cctv17hd.m3u8
+# CCTV-9
+  原始 : http://107.150.60.122/live/cctv9hd.m3u8
+  镜像 : http://107.150.60.122/live/cctv9hd.m3u8
+  镜像 : https://ghproxy.net/http://107.150.60.122/live/cctv9hd.m3u8
 
-# CCTV-14
-  原始 : http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-  镜像 : http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-  镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+# CCTV-8
+  原始 : http://74.91.26.218:82/live/cctv8hd.m3u8
+  镜像 : http://74.91.26.218:82/live/cctv8hd.m3u8
+  镜像 : https://ghproxy.net/http://74.91.26.218:82/live/cctv8hd.m3u8
 
 # CCTV-16
   原始 : http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
   镜像 : http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
   镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
+
+# CCTV-14
+  原始 : http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+  镜像 : http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+  镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 
 # CCTV-5
   原始 : http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
@@ -883,11 +878,6 @@
   镜像 : https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
   镜像 : https://ghproxy.net/https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 
-# Republic TV (1080p)
-  原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicTV.m3u8
-  镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/in/YuppTV/RepublicTV.m3u8
-  镜像 : https://ghproxy.net/https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicTV.m3u8
-
 # Rai World Premium (1080p)
   原始 : https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
   镜像 : https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
@@ -933,10 +923,10 @@
   镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/in/YuppTV/JeevanTV.m3u8
   镜像 : https://ghproxy.net/https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JeevanTV.m3u8
 
-# Republic Bharat (1080p)
-  原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicBharat.m3u8
-  镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/in/YuppTV/RepublicBharat.m3u8
-  镜像 : https://ghproxy.net/https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/RepublicBharat.m3u8
+# YOY International (576p)
+  原始 : https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8
+  镜像 : https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8
+  镜像 : https://ghproxy.net/https://gist.githubusercontent.com/iptvonlinetv/8a6b2f12e5e968537378f1245cea02c9/raw/78bf84476f8e24cc8ea9d5ac24855078c61b18db/udp305.575.530:3030.m3u8
 
 # Law & Crime (720p)
   原始 : https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8
@@ -973,11 +963,6 @@
   镜像 : https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
   镜像 : https://ghproxy.net/https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
 
-# Wonder (1080p)
-  原始 : https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
-  镜像 : https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
-  镜像 : https://ghproxy.net/https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
-
 # B15 Zacatecas (1080p)
   原始 : https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
   镜像 : https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
@@ -997,11 +982,6 @@
   原始 : https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8
   镜像 : https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8
   镜像 : https://ghproxy.net/https://live77cdn2.antenaplay.ro/live2_aws4_sdi02/live2_aws4_sdi02_5000k.m3u8
-
-# World of Freesports (1080p)
-  原始 : https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
-  镜像 : https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
-  镜像 : https://ghproxy.net/https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 
 # TCM (720p) [Geo-blocked]
   原始 : https://turnerlive.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
@@ -1027,6 +1007,31 @@
   原始 : https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8
   镜像 : https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8
   镜像 : https://ghproxy.net/https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8
+
+# WFTS-TV 32.1 (1080p)
+  原始 : https://amg01438-amg01438c12-vizio-us-10904.playouts.now.amagi.tv/playlist.m3u8
+  镜像 : https://amg01438-amg01438c12-vizio-us-10904.playouts.now.amagi.tv/playlist.m3u8
+  镜像 : https://ghproxy.net/https://amg01438-amg01438c12-vizio-us-10904.playouts.now.amagi.tv/playlist.m3u8
+
+# Willow Sports (1080p)
+  原始 : https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+  镜像 : https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+  镜像 : https://ghproxy.net/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+
+# Wonder (1080p)
+  原始 : https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+  镜像 : https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+  镜像 : https://ghproxy.net/https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
+
+# World of Freesports (1080p)
+  原始 : https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+  镜像 : https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+  镜像 : https://ghproxy.net/https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+
+# Young Hollywood (720p)
+  原始 : https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+  镜像 : https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
+  镜像 : https://ghproxy.net/https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
 
 # ATXN2 (1080p)
   原始 : https://cdn-atxn-01.vos360.video/Content/HLS/Live/channel(f97b5ddc-b7e4-dff8-9f10-8c16d0833639)/index.m3u8
@@ -1137,11 +1142,6 @@
   原始 : https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
   镜像 : https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
   镜像 : https://ghproxy.net/https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
-
-# Young Hollywood (720p)
-  原始 : https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
-  镜像 : https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
-  镜像 : https://ghproxy.net/https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
 
 # Peniel TV Biblia Abierta (480p)
   原始 : https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
@@ -1328,21 +1328,6 @@
   镜像 : https://canal.mediaserver.com.co/live/cinedios.m3u8
   镜像 : https://ghproxy.net/https://canal.mediaserver.com.co/live/cinedios.m3u8
 
-# Bark TV (1080p)
-  原始 : https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8
-  镜像 : https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8
-  镜像 : https://ghproxy.net/https://bbb-barkt-streamstak.otteravision.com/bbb/barkt/barkt.m3u8
-
-# HTV 2 Houston Television (720p)
-  原始 : https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
-  镜像 : https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
-  镜像 : https://ghproxy.net/https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
-
-# IFC (1080p)
-  原始 : http://23.237.104.106:8080/USA_IFC/index.m3u8
-  镜像 : http://23.237.104.106:8080/USA_IFC/index.m3u8
-  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_IFC/index.m3u8
-
 # SiTV (1080p) [Not 24/7]
   原始 : http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
   镜像 : http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
@@ -1423,12 +1408,22 @@
   镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/in/YuppTV/ZeeMarathiHD.m3u8
   镜像 : https://ghproxy.net/https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
 
+# Zee TV Asia Pacific (720p)
+  原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
+  镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
+  镜像 : https://ghproxy.net/https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
+
 # ETV Plus (396p)
   原始 : https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
   镜像 : https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
   镜像 : https://ghproxy.net/https://yupplivegcpusa.yuppcdn.net/100823/smil:etvplus.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
-# Star Bharat (United Kingdom) (576p)
+# Zee Bangla HD (720p)
+  原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+  镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+  镜像 : https://ghproxy.net/https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
+
+# Star Bharat (576p)
   原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
   镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/gb/YuppTV/UtsavBharat.m3u8
   镜像 : https://ghproxy.net/https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
@@ -1487,6 +1482,11 @@
   原始 : https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
   镜像 : https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
   镜像 : https://ghproxy.net/https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
+
+# XITE (720p)
+  原始 : https://xite-rakuten.amagi.tv/playlist.m3u8
+  镜像 : https://xite-rakuten.amagi.tv/playlist.m3u8
+  镜像 : https://ghproxy.net/https://xite-rakuten.amagi.tv/playlist.m3u8
 
 # VICE TV (1080p)
   原始 : http://23.237.104.106:8080/USA_VICETV/index.m3u8
