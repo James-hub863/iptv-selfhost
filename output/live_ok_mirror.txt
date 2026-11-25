@@ -483,15 +483,15 @@
   镜像 : http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
   镜像 : https://ghproxy.net/http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 
-# 武义新闻综合
-  原始 : http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
-  镜像 : http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
-  镜像 : https://ghproxy.net/http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
-
 # 云和新闻综合
   原始 : http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
   镜像 : http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
   镜像 : https://ghproxy.net/http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
+
+# 武义新闻综合
+  原始 : http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+  镜像 : http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
+  镜像 : https://ghproxy.net/http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8
 
 # 文成新闻综合
   原始 : http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
@@ -543,15 +543,15 @@
   镜像 : https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
   镜像 : https://ghproxy.net/https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
 
-# 东森超视
-  原始 : http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-  镜像 : http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-  镜像 : https://ghproxy.net/http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-
 # TVBS亚洲
   原始 : http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
   镜像 : http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
   镜像 : https://ghproxy.net/http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+
+# 东森超视
+  原始 : http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+  镜像 : http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+  镜像 : https://ghproxy.net/http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 
 # 武汉一台新闻综合
   原始 : https://ls.qingting.fm/live/20198/64k.m3u8
@@ -618,20 +618,25 @@
   镜像 : https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
   镜像 : https://ghproxy.net/https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
 
-# Big TV 24x7 (1080p)
-  原始 : https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
-  镜像 : https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
-  镜像 : https://ghproxy.net/https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
-
 # News Tamil 24x7 (1080p)
   原始 : https://stream.ottlive.co.in/newstamil/index.m3u8
   镜像 : https://stream.ottlive.co.in/newstamil/index.m3u8
   镜像 : https://ghproxy.net/https://stream.ottlive.co.in/newstamil/index.m3u8
 
+# Big TV 24x7 (1080p)
+  原始 : https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
+  镜像 : https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
+  镜像 : https://ghproxy.net/https://stream.ottlive.co.in/bigtvmalayalam/index.m3u8
+
 # News12+ Long Island (1080p) [Geo-blocked]
   原始 : https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
   镜像 : https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
   镜像 : https://ghproxy.net/https://mdc4.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
+
+# News12 Hudson Valley (1080p) [Geo-blocked]
+  原始 : https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https
+  镜像 : https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https
+  镜像 : https://ghproxy.net/https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https
 
 # Televida (Dominican Republic) (1080p) [Not 24/7]
   原始 : https://cnn.hostlagarto.com/televida/playlist.m3u8
@@ -653,15 +658,15 @@
   镜像 : http://213.91.179.28:8000/play/a04i
   镜像 : https://ghproxy.net/http://213.91.179.28:8000/play/a04i
 
-# Cinemax Classics (1080p)
-  原始 : http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-  镜像 : http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-
 # Cinemax Hits (1080p)
   原始 : http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
   镜像 : http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
   镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+
+# Cinemax Classics (1080p)
+  原始 : http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+  镜像 : http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
 # ABN Bible Movies Channel (720p)
   原始 : https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
@@ -858,15 +863,15 @@
   镜像 : http://213.91.179.28:8000/play/a05i
   镜像 : https://ghproxy.net/http://213.91.179.28:8000/play/a05i
 
-# bTV Action
-  原始 : http://213.91.179.28:8000/play/a04n
-  镜像 : http://213.91.179.28:8000/play/a04n
-  镜像 : https://ghproxy.net/http://213.91.179.28:8000/play/a04n
-
 # bTV Comedy
   原始 : http://213.91.179.28:8000/play/a04k
   镜像 : http://213.91.179.28:8000/play/a04k
   镜像 : https://ghproxy.net/http://213.91.179.28:8000/play/a04k
+
+# bTV Action
+  原始 : http://213.91.179.28:8000/play/a04n
+  镜像 : http://213.91.179.28:8000/play/a04n
+  镜像 : https://ghproxy.net/http://213.91.179.28:8000/play/a04n
 
 # ABTV Bariloche
   原始 : https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
@@ -943,25 +948,25 @@
   镜像 : https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
   镜像 : https://ghproxy.net/https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
 
-# Canal Oracion Con Son (1080p)
-  原始 : https://canal.mediaserver.com.co/live/oracionconson.m3u8
-  镜像 : https://canal.mediaserver.com.co/live/oracionconson.m3u8
-  镜像 : https://ghproxy.net/https://canal.mediaserver.com.co/live/oracionconson.m3u8
-
 # LA7 HD (1080p)
   原始 : https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
   镜像 : https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
   镜像 : https://ghproxy.net/https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
 
-# Italiana (1080p)
-  原始 : https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
-  镜像 : https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
-  镜像 : https://ghproxy.net/https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+# Canal Oracion Con Son (1080p)
+  原始 : https://canal.mediaserver.com.co/live/oracionconson.m3u8
+  镜像 : https://canal.mediaserver.com.co/live/oracionconson.m3u8
+  镜像 : https://ghproxy.net/https://canal.mediaserver.com.co/live/oracionconson.m3u8
 
 # Kalaignar TV (396p)
   原始 : https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
   镜像 : https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
   镜像 : https://ghproxy.net/https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
+
+# Italiana (1080p)
+  原始 : https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+  镜像 : https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+  镜像 : https://ghproxy.net/https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
 
 # B15 Zacatecas (1080p)
   原始 : https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
@@ -998,35 +1003,35 @@
   镜像 : https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
   镜像 : https://ghproxy.net/https://yupplivegcpusa.yuppcdn.net/100823/mangalmay_1800/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 
-# WeatherSpy (United States) (720p)
-  原始 : https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
-  镜像 : https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
-  镜像 : https://ghproxy.net/https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
-
 # Wedo TV Amor (1080p)
   原始 : https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8
   镜像 : https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8
   镜像 : https://ghproxy.net/https://amg00735-videosolutions-amg00735c15-wedotv-eu-1915.playouts.now.amagi.tv/playlist/amg00735-videosolutionsagfast-wedoamor-wedotveu/playlist.m3u8
 
-# WFTS-TV 32.1 (1080p)
-  原始 : https://amg01438-amg01438c12-vizio-us-10904.playouts.now.amagi.tv/playlist.m3u8
-  镜像 : https://amg01438-amg01438c12-vizio-us-10904.playouts.now.amagi.tv/playlist.m3u8
-  镜像 : https://ghproxy.net/https://amg01438-amg01438c12-vizio-us-10904.playouts.now.amagi.tv/playlist.m3u8
+# WeatherSpy (United States) (720p)
+  原始 : https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
+  镜像 : https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
+  镜像 : https://ghproxy.net/https://d12gab6t5iutxf.cloudfront.net/playlist.m3u8
 
-# Willow Sports (1080p)
-  原始 : https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
-  镜像 : https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
-  镜像 : https://ghproxy.net/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+# World of Freesports (1080p)
+  原始 : https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+  镜像 : https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+  镜像 : https://ghproxy.net/https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 
 # Wonder (1080p)
   原始 : https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
   镜像 : https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
   镜像 : https://ghproxy.net/https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
 
-# World of Freesports (1080p)
-  原始 : https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
-  镜像 : https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
-  镜像 : https://ghproxy.net/https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
+# Willow Sports (1080p)
+  原始 : https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+  镜像 : https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+  镜像 : https://ghproxy.net/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV.m3u8
+
+# WFTS-TV 32.1 (1080p)
+  原始 : https://amg01438-amg01438c12-vizio-us-10904.playouts.now.amagi.tv/playlist.m3u8
+  镜像 : https://amg01438-amg01438c12-vizio-us-10904.playouts.now.amagi.tv/playlist.m3u8
+  镜像 : https://ghproxy.net/https://amg01438-amg01438c12-vizio-us-10904.playouts.now.amagi.tv/playlist.m3u8
 
 # Young Hollywood (720p)
   原始 : https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
@@ -1063,90 +1068,95 @@
   镜像 : https://edge.enhdtv.com/8192/index.m3u8
   镜像 : https://ghproxy.net/https://edge.enhdtv.com/8192/index.m3u8
 
-# Animal Planet Latin America HD (720p) [Geo-blocked]
-  原始 : http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
-  镜像 : http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
-  镜像 : https://ghproxy.net/http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
-
 # Canal 4 Esquel (720p)
   原始 : https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
   镜像 : https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
   镜像 : https://ghproxy.net/https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
-
-# Golden Edge (1080p)
-  原始 : http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
-  镜像 : http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
-  镜像 : https://ghproxy.net/http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
 
 # Hola! TV Latin America (1080p)
   原始 : http://15.204.246.24:8080/HOLATVHD/index.m3u8
   镜像 : http://15.204.246.24:8080/HOLATVHD/index.m3u8
   镜像 : https://ghproxy.net/http://15.204.246.24:8080/HOLATVHD/index.m3u8
 
-# Cinecanal (1080p)
-  原始 : http://15.204.246.24:8080/CinecanalHD/index.m3u8
-  镜像 : http://15.204.246.24:8080/CinecanalHD/index.m3u8
-  镜像 : https://ghproxy.net/http://15.204.246.24:8080/CinecanalHD/index.m3u8
+# Animal Planet Latin America HD (720p) [Geo-blocked]
+  原始 : http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
+  镜像 : http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
+  镜像 : https://ghproxy.net/http://15.204.246.24:8080/AnimalPlanetHD/index.m3u8
 
-# DHE (1080p)
-  原始 : http://15.204.246.24:8080/DHEHD/index.m3u8
-  镜像 : http://15.204.246.24:8080/DHEHD/index.m3u8
-  镜像 : https://ghproxy.net/http://15.204.246.24:8080/DHEHD/index.m3u8
-
-# Discovery World Brazil (720p) [Geo-blocked]
-  原始 : http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
-  镜像 : http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
-  镜像 : https://ghproxy.net/http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
-
-# Disney Channel Latin America (1080p)
-  原始 : http://15.204.246.24:8080/DisneyHD/index.m3u8
-  镜像 : http://15.204.246.24:8080/DisneyHD/index.m3u8
-  镜像 : https://ghproxy.net/http://15.204.246.24:8080/DisneyHD/index.m3u8
-
-# Mega Ficcion (1080p)
-  原始 : http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
-  镜像 : http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
-  镜像 : https://ghproxy.net/http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+# Golden Edge (1080p)
+  原始 : http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
+  镜像 : http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
+  镜像 : https://ghproxy.net/http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
 
 # Pasiones Latin America (1080p)
   原始 : http://15.204.246.24:8080/PasionesHD/index.m3u8
   镜像 : http://15.204.246.24:8080/PasionesHD/index.m3u8
   镜像 : https://ghproxy.net/http://15.204.246.24:8080/PasionesHD/index.m3u8
 
-# Canal 7 TV (720p)
-  原始 : https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
-  镜像 : https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
-  镜像 : https://ghproxy.net/https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+# Cinecanal (1080p)
+  原始 : http://15.204.246.24:8080/CinecanalHD/index.m3u8
+  镜像 : http://15.204.246.24:8080/CinecanalHD/index.m3u8
+  镜像 : https://ghproxy.net/http://15.204.246.24:8080/CinecanalHD/index.m3u8
+
+# Disney Channel Latin America (1080p)
+  原始 : http://15.204.246.24:8080/DisneyHD/index.m3u8
+  镜像 : http://15.204.246.24:8080/DisneyHD/index.m3u8
+  镜像 : https://ghproxy.net/http://15.204.246.24:8080/DisneyHD/index.m3u8
+
+# Discovery World Brazil (720p) [Geo-blocked]
+  原始 : http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
+  镜像 : http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
+  镜像 : https://ghproxy.net/http://15.204.246.24:8080/DiscoveryWorldHD/index.m3u8
+
+# Mega Ficcion (1080p)
+  原始 : http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+  镜像 : http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+  镜像 : https://ghproxy.net/http://15.204.196.147:22880/MEGAFICCION-MEGAMEDIA-EE.UU-PROVEEDOR/index.m3u8
+
+# DHE (1080p)
+  原始 : http://15.204.246.24:8080/DHEHD/index.m3u8
+  镜像 : http://15.204.246.24:8080/DHEHD/index.m3u8
+  镜像 : https://ghproxy.net/http://15.204.246.24:8080/DHEHD/index.m3u8
 
 # El Nueve (1080p)
   原始 : http://15.204.246.24:8080/elnueveHD/index.m3u8
   镜像 : http://15.204.246.24:8080/elnueveHD/index.m3u8
   镜像 : https://ghproxy.net/http://15.204.246.24:8080/elnueveHD/index.m3u8
 
+# Canal 7 TV (720p)
+  原始 : https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+  镜像 : https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+  镜像 : https://ghproxy.net/https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
+
 # Dabanga TV (1080p)
   原始 : https://hls.dabangasudan.org/hls/stream.m3u8
   镜像 : https://hls.dabangasudan.org/hls/stream.m3u8
   镜像 : https://ghproxy.net/https://hls.dabangasudan.org/hls/stream.m3u8
-
-# Canal TV Radio Maya TGBA (480p)
-  原始 : https://s.emisoras.tv:8081/radiomaya/index.m3u8
-  镜像 : https://s.emisoras.tv:8081/radiomaya/index.m3u8
-  镜像 : https://ghproxy.net/https://s.emisoras.tv:8081/radiomaya/index.m3u8
-
-# TVBS-Asia (1080p)
-  原始 : http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-  镜像 : http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-  镜像 : https://ghproxy.net/http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 
 # TVK (Cambodia) (720p)
   原始 : https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
   镜像 : https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
   镜像 : https://ghproxy.net/https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 
+# TVBS-Asia (1080p)
+  原始 : http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+  镜像 : http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+  镜像 : https://ghproxy.net/http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+
+# Canal TV Radio Maya TGBA (480p)
+  原始 : https://s.emisoras.tv:8081/radiomaya/index.m3u8
+  镜像 : https://s.emisoras.tv:8081/radiomaya/index.m3u8
+  镜像 : https://ghproxy.net/https://s.emisoras.tv:8081/radiomaya/index.m3u8
+
 # Peniel TV Biblia Abierta (480p)
   原始 : https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
   镜像 : https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
   镜像 : https://ghproxy.net/https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
+
+# Cascara TV (720p)
+  原始 : https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
+  镜像 : https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
+  镜像 : https://ghproxy.net/https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
 
 # BIG TV (1080p)
   原始 : https://stream.ottlive.co.in/bigtv/index.m3u8
@@ -1158,16 +1168,6 @@
   镜像 : https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
   镜像 : https://ghproxy.net/https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
-# Cascara TV (720p)
-  原始 : https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
-  镜像 : https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
-  镜像 : https://ghproxy.net/https://ss2.tvrdomi.com:1936/cascaratv/cascaratv/playlist.m3u8
-
-# Canal 5 Santa Fe (240p)
-  原始 : https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-  镜像 : https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-  镜像 : https://ghproxy.net/https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
-
 # True History (720p)
   原始 : https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
   镜像 : https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
@@ -1178,15 +1178,20 @@
   镜像 : https://stream.ottlive.co.in/utvtamil/index.m3u8
   镜像 : https://ghproxy.net/https://stream.ottlive.co.in/utvtamil/index.m3u8
 
-# Elevation Church Network (1080p)
-  原始 : https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
-  镜像 : https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
-  镜像 : https://ghproxy.net/https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
+# Canal 5 Santa Fe (240p)
+  原始 : https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+  镜像 : https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
+  镜像 : https://ghproxy.net/https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8
 
 # Joel Osteen Network (1080p)
   原始 : https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8
   镜像 : https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8
   镜像 : https://ghproxy.net/https://linear-860.frequency.stream/dist/xumo/860/hls/master/playlist.m3u8
+
+# Elevation Church Network (1080p)
+  原始 : https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
+  镜像 : https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
+  镜像 : https://ghproxy.net/https://linear-1066.frequency.stream/dist/stirr/1066/hls/master/playlist.m3u8
 
 # ABN Urdu (540p)
   原始 : https://mediaserver.abnvideos.com/streams/abnurdu.m3u8
@@ -1198,6 +1203,21 @@
   镜像 : https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
   镜像 : https://ghproxy.net/https://cronos.mangora1.cfd/spyn/usergencs85ja0j1rrnd.m3u8
 
+# Destination America (720p)
+  原始 : http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+  镜像 : http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+
+# CMT (720p)
+  原始 : http://23.237.104.106:8080/USA_CMT/index.m3u8
+  镜像 : http://23.237.104.106:8080/USA_CMT/index.m3u8
+  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_CMT/index.m3u8
+
+# Buzzr (1080p)
+  原始 : http://23.237.104.106:8080/USA_BUZZR/index.m3u8
+  镜像 : http://23.237.104.106:8080/USA_BUZZR/index.m3u8
+  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_BUZZR/index.m3u8
+
 # ABN China (720p)
   原始 : https://mediaserver.abnvideos.com/streams/abnchina.m3u8
   镜像 : https://mediaserver.abnvideos.com/streams/abnchina.m3u8
@@ -1207,66 +1227,6 @@
   原始 : http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
   镜像 : http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
   镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-
-# Buzzr (1080p)
-  原始 : http://23.237.104.106:8080/USA_BUZZR/index.m3u8
-  镜像 : http://23.237.104.106:8080/USA_BUZZR/index.m3u8
-  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_BUZZR/index.m3u8
-
-# CMT (720p)
-  原始 : http://23.237.104.106:8080/USA_CMT/index.m3u8
-  镜像 : http://23.237.104.106:8080/USA_CMT/index.m3u8
-  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_CMT/index.m3u8
-
-# Destination America (720p)
-  原始 : http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
-  镜像 : http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
-  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
-
-# Big Ten Network (720p)
-  原始 : http://23.237.104.106:8080/USA_BTN/index.m3u8
-  镜像 : http://23.237.104.106:8080/USA_BTN/index.m3u8
-  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_BTN/index.m3u8
-
-# Bloomberg TV (1080p)
-  原始 : http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
-  镜像 : http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
-  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
-
-# Boomerang (United States) (720p)
-  原始 : http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-  镜像 : http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-
-# Bounce (720p)
-  原始 : http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
-  镜像 : http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
-  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
-
-# Cooking Channel (720p)
-  原始 : http://23.237.104.106:8080/USA_COOKING/index.m3u8
-  镜像 : http://23.237.104.106:8080/USA_COOKING/index.m3u8
-  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_COOKING/index.m3u8
-
-# Crime + Investigation (720p)
-  原始 : http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
-  镜像 : http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
-  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
-
-# Dog the Bounty Hunter (1080p)
-  原始 : https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
-  镜像 : https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
-  镜像 : https://ghproxy.net/https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
-
-# ION TV (1080p)
-  原始 : https://wurlewscripps.global.transmit.live/hls/68b9b0338cacd6fc468c222c/v1/scripps_ion_1/vizio_us/latest/main/hls/playlist.m3u8
-  镜像 : https://wurlewscripps.global.transmit.live/hls/68b9b0338cacd6fc468c222c/v1/scripps_ion_1/vizio_us/latest/main/hls/playlist.m3u8
-  镜像 : https://ghproxy.net/https://wurlewscripps.global.transmit.live/hls/68b9b0338cacd6fc468c222c/v1/scripps_ion_1/vizio_us/latest/main/hls/playlist.m3u8
-
-# MTV (United States) (1080p)
-  原始 : http://23.237.104.106:8080/USA_MTV/index.m3u8
-  镜像 : http://23.237.104.106:8080/USA_MTV/index.m3u8
-  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_MTV/index.m3u8
 
 # Nautical Channel (720p)
   原始 : https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
@@ -1278,25 +1238,60 @@
   镜像 : https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
   镜像 : https://ghproxy.net/https://plex-xumoent-ch485-e7l5l.fast.nbcuni.com/live/master_5.m3u8
 
+# ION TV (1080p)
+  原始 : https://wurlewscripps.global.transmit.live/hls/68b9b0338cacd6fc468c222c/v1/scripps_ion_1/vizio_us/latest/main/hls/playlist.m3u8
+  镜像 : https://wurlewscripps.global.transmit.live/hls/68b9b0338cacd6fc468c222c/v1/scripps_ion_1/vizio_us/latest/main/hls/playlist.m3u8
+  镜像 : https://ghproxy.net/https://wurlewscripps.global.transmit.live/hls/68b9b0338cacd6fc468c222c/v1/scripps_ion_1/vizio_us/latest/main/hls/playlist.m3u8
+
+# Dog the Bounty Hunter (1080p)
+  原始 : https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
+  镜像 : https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
+  镜像 : https://ghproxy.net/https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
+
+# Bounce (720p)
+  原始 : http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+  镜像 : http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+
+# Boomerang (United States) (720p)
+  原始 : http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+  镜像 : http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+
+# Crime + Investigation (720p)
+  原始 : http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
+  镜像 : http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
+  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
+
+# Bloomberg TV (1080p)
+  原始 : http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+  镜像 : http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+
+# Cooking Channel (720p)
+  原始 : http://23.237.104.106:8080/USA_COOKING/index.m3u8
+  镜像 : http://23.237.104.106:8080/USA_COOKING/index.m3u8
+  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_COOKING/index.m3u8
+
+# MTV (United States) (1080p)
+  原始 : http://23.237.104.106:8080/USA_MTV/index.m3u8
+  镜像 : http://23.237.104.106:8080/USA_MTV/index.m3u8
+  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_MTV/index.m3u8
+
+# Big Ten Network (720p)
+  原始 : http://23.237.104.106:8080/USA_BTN/index.m3u8
+  镜像 : http://23.237.104.106:8080/USA_BTN/index.m3u8
+  镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_BTN/index.m3u8
+
 # Paramount Network (United States) (1080p)
   原始 : http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
   镜像 : http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
   镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
 
-# ABN TV India (540p)
-  原始 : https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
-  镜像 : https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
-  镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
-
-# ABNsat (720p)
-  原始 : https://mediaserver.abnvideos.com/streams/abnsat.m3u8
-  镜像 : https://mediaserver.abnvideos.com/streams/abnsat.m3u8
-  镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abnsat.m3u8
-
-# On Patrol: Live (1080p)
-  原始 : https://linear-1287.frequency.stream/mt/vizio/1287/hls/master/playlist.m3u8
-  镜像 : https://linear-1287.frequency.stream/mt/vizio/1287/hls/master/playlist.m3u8
-  镜像 : https://ghproxy.net/https://linear-1287.frequency.stream/mt/vizio/1287/hls/master/playlist.m3u8
+# SPEEDVISION (1080p)
+  原始 : https://linear-1683.frequency.stream/mt/vizio/1683/hls/master/playlist.m3u8
+  镜像 : https://linear-1683.frequency.stream/mt/vizio/1683/hls/master/playlist.m3u8
+  镜像 : https://ghproxy.net/https://linear-1683.frequency.stream/mt/vizio/1683/hls/master/playlist.m3u8
 
 # Outdoor Channel HD (720p)
   原始 : http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
@@ -1308,25 +1303,30 @@
   镜像 : http://23.237.104.106:8080/USA_OWN/index.m3u8
   镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_OWN/index.m3u8
 
+# ABNsat (720p)
+  原始 : https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+  镜像 : https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+  镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+
+# ABN TV India (540p)
+  原始 : https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
+  镜像 : https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
+  镜像 : https://ghproxy.net/https://mediaserver.abnvideos.com/streams/abntvindia.m3u8
+
 # Revolt (720p)
   原始 : http://23.237.104.106:8080/USA_REVOLT/index.m3u8
   镜像 : http://23.237.104.106:8080/USA_REVOLT/index.m3u8
   镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_REVOLT/index.m3u8
 
+# On Patrol: Live (1080p)
+  原始 : https://linear-1287.frequency.stream/mt/vizio/1287/hls/master/playlist.m3u8
+  镜像 : https://linear-1287.frequency.stream/mt/vizio/1287/hls/master/playlist.m3u8
+  镜像 : https://ghproxy.net/https://linear-1287.frequency.stream/mt/vizio/1287/hls/master/playlist.m3u8
+
 # Showtime Family Zone (720p)
   原始 : http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
   镜像 : http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
   镜像 : https://ghproxy.net/http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
-
-# SPEEDVISION (1080p)
-  原始 : https://linear-1683.frequency.stream/mt/vizio/1683/hls/master/playlist.m3u8
-  镜像 : https://linear-1683.frequency.stream/mt/vizio/1683/hls/master/playlist.m3u8
-  镜像 : https://ghproxy.net/https://linear-1683.frequency.stream/mt/vizio/1683/hls/master/playlist.m3u8
-
-# Canal Cine Dios
-  原始 : https://canal.mediaserver.com.co/live/cinedios.m3u8
-  镜像 : https://canal.mediaserver.com.co/live/cinedios.m3u8
-  镜像 : https://ghproxy.net/https://canal.mediaserver.com.co/live/cinedios.m3u8
 
 # SiTV (1080p) [Not 24/7]
   原始 : http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
@@ -1398,15 +1398,15 @@
   镜像 : https://live.obslivestream.com/controversiatv/index.m3u8
   镜像 : https://ghproxy.net/https://live.obslivestream.com/controversiatv/index.m3u8
 
-# Zee Bihar Jharkhand (720p)
-  原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
-  镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
-  镜像 : https://ghproxy.net/https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
-
 # Zee Marathi HD (720p)
   原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
   镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/in/YuppTV/ZeeMarathiHD.m3u8
   镜像 : https://ghproxy.net/https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
+
+# Zee Bihar Jharkhand (720p)
+  原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
+  镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
+  镜像 : https://ghproxy.net/https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
 
 # Zee TV Asia Pacific (720p)
   原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
@@ -1433,15 +1433,15 @@
   镜像 : https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8
   镜像 : https://ghproxy.net/https://listas-m3u8.github.io/iptv/128.19.173.10:8888/ZEETELUGUHD.m3u8
 
-# Colors Cineplex (576p)
-  原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
-  镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
-  镜像 : https://ghproxy.net/https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
-
 # Colors Gujarati (396p)
   原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
   镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/in/YuppTV/ColorsGujarati.m3u8
   镜像 : https://ghproxy.net/https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ColorsGujarati.m3u8
+
+# Colors Cineplex (576p)
+  原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
+  镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
+  镜像 : https://ghproxy.net/https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/ColorsCineplexUK.m3u8
 
 # Colors (576p)
   原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
