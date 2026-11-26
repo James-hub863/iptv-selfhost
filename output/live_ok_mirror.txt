@@ -89,24 +89,24 @@
   镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqpub/sdwshd.m3u8?auth=testpub
 
 # 山西卫视
-  原始 : https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-  镜像 : https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-  镜像 : https://ghproxy.net/https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+  原始 : http://204.12.221.218:8181/3m1080p/sxws.m3u8
+  镜像 : http://204.12.221.218:8181/3m1080p/sxws.m3u8
+  镜像 : https://ghproxy.net/http://204.12.221.218:8181/3m1080p/sxws.m3u8
 
 # 广东体育
   原始 : http://cdn2.163189.xyz/live/gdty/stream.m3u8
   镜像 : http://cdn2.163189.xyz/live/gdty/stream.m3u8
   镜像 : https://ghproxy.net/http://cdn2.163189.xyz/live/gdty/stream.m3u8
 
-# 广东珠江
-  原始 : http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
-  镜像 : http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
-  镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
-
 # 广东民生
   原始 : http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
   镜像 : http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
   镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqpub/gdgga.m3u8?auth=testpub
+
+# 广东珠江
+  原始 : http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
+  镜像 : http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
+  镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqpub/gdzja.m3u8?auth=testpub
 
 # 大湾区卫视
   原始 : http://198.204.228.26/live/nfws.m3u8
@@ -198,15 +198,15 @@
   镜像 : https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
   镜像 : https://ghproxy.net/https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 
-# 浙江少儿
-  原始 : https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-  镜像 : https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-  镜像 : https://ghproxy.net/https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-
 # 浙江数码时代
   原始 : http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
   镜像 : http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
   镜像 : https://ghproxy.net/http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8
+
+# 浙江少儿
+  原始 : https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+  镜像 : https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+  镜像 : https://ghproxy.net/https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 
 # 浙江公共新闻
   原始 : http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
@@ -218,15 +218,15 @@
   镜像 : http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
   镜像 : https://ghproxy.net/http://ali-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 
-# 浙江民生
-  原始 : https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
-  镜像 : https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
-  镜像 : https://ghproxy.net/https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
-
 # 浙江休闲台
   原始 : http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
   镜像 : http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
   镜像 : https://ghproxy.net/http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
+
+# 浙江民生
+  原始 : https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
+  镜像 : https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
+  镜像 : https://ghproxy.net/https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
 
 # 浙江经视
   原始 : http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
@@ -279,14 +279,14 @@
   镜像 : https://ghproxy.net/https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8
 
 # 东南卫视
-  原始 : http://107.150.60.122/live/dnwshd.m3u8
-  镜像 : http://107.150.60.122/live/dnwshd.m3u8
-  镜像 : https://ghproxy.net/http://107.150.60.122/live/dnwshd.m3u8
+  原始 : http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+  镜像 : http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
+  镜像 : https://ghproxy.net/http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub
 
 # 厦门卫视
-  原始 : http://107.150.60.122/live/xmws.m3u8
-  镜像 : http://107.150.60.122/live/xmws.m3u8
-  镜像 : https://ghproxy.net/http://107.150.60.122/live/xmws.m3u8
+  原始 : http://198.204.228.26/live/xmws.m3u8
+  镜像 : http://198.204.228.26/live/xmws.m3u8
+  镜像 : https://ghproxy.net/http://198.204.228.26/live/xmws.m3u8
 
 # 西藏卫视
   原始 : https://live.264788.xyz/channel/xizangweishi?streamid=4b4e8ea919f1cfd5e43deed1d1675251&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -478,15 +478,15 @@
   镜像 : http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
   镜像 : https://ghproxy.net/http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8?fbl=
 
-# 文成新闻综合
-  原始 : http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-  镜像 : http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-  镜像 : https://ghproxy.net/http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-
 # 中国蓝新闻
   原始 : http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
   镜像 : http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
   镜像 : https://ghproxy.net/http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
+
+# 文成新闻综合
+  原始 : http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+  镜像 : http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+  镜像 : https://ghproxy.net/http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 
 # 开化新闻综合
   原始 : http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed
@@ -708,11 +708,6 @@
   镜像 : http://198.204.228.26/live/cctv15hd.m3u8
   镜像 : https://ghproxy.net/http://198.204.228.26/live/cctv15hd.m3u8
 
-# WBTV 64.1 (720p)
-  原始 : https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
-  镜像 : https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
-  镜像 : https://ghproxy.net/https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
-
 # CCTV-6
   原始 : http://69.30.245.50/live/cctv6.m3u8
   镜像 : http://69.30.245.50/live/cctv6.m3u8
@@ -732,6 +727,11 @@
   原始 : http://69.30.245.50/live/cctv1.m3u8
   镜像 : http://69.30.245.50/live/cctv1.m3u8
   镜像 : https://ghproxy.net/http://69.30.245.50/live/cctv1.m3u8
+
+# WBTV 64.1 (720p)
+  原始 : https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
+  镜像 : https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
+  镜像 : https://ghproxy.net/https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
 
 # CCTV-12
   原始 : http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
@@ -1318,6 +1318,21 @@
   镜像 : https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
   镜像 : https://ghproxy.net/https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 
+# TAP TV Channel 24 (720p)
+  原始 : https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+  镜像 : https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+  镜像 : https://ghproxy.net/https://livestream.telvue.com/lompoccmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+
+# Maxcine Family (720p)
+  原始 : https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8
+  镜像 : https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8
+  镜像 : https://ghproxy.net/https://183.giatvcdn.com/giatvplayout7/giatv-208817/playlist.m3u8
+
+# Stingray Pop Adult (1080p)
+  原始 : https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+  镜像 : https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+  镜像 : https://ghproxy.net/https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+
 # SiTV (1080p) [Not 24/7]
   原始 : http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
   镜像 : http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
@@ -1432,21 +1447,6 @@
   原始 : http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
   镜像 : http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
   镜像 : https://ghproxy.net/http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
-
-# Zee Bihar Jharkhand (720p)
-  原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
-  镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
-  镜像 : https://ghproxy.net/https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBiharJharkhand.m3u8
-
-# Zee Marathi HD (720p)
-  原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
-  镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/in/YuppTV/ZeeMarathiHD.m3u8
-  镜像 : https://ghproxy.net/https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeMarathiHD.m3u8
-
-# Zee TV Asia Pacific (720p)
-  原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
-  镜像 : https://cdn.jsdelivr.net/gh/amazeyourself/adaptive-streams@main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
-  镜像 : https://ghproxy.net/https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeTVHDAPAC.m3u8
 
 # Star Bharat (576p)
   原始 : https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
