@@ -12741,8 +12741,8 @@
   },
   "https://amg01408-amg01408c5-amgplt0747.playout.now3.amagi.tv/b4um001/playlist.m3u8": {
     "alive": true,
-    "ts": 1793914901.1914122,
-    "rt": 0.177
+    "ts": 1795671626.4845383,
+    "rt": 0.123
   },
   "https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8": {
     "alive": true,
@@ -82053,5 +82053,190 @@
     "alive": false,
     "ts": 1795630512.2024019,
     "rt": 9999
+  },
+  "ch1-179557945.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1795671626.4461443,
+    "rt": 9999
+  },
+  "ch1-179557946.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1795671626.4515443,
+    "rt": 9999
+  },
+  "ch1-179557947.ts?ctyun_app=wjtv&ctyun_stream=ch1&ctyun_rate=0.000": {
+    "alive": false,
+    "ts": 1795671626.4622178,
+    "rt": 9999
+  },
+  "https://liveingesta318.cdnmedia.tv/101televisionlive/smil:sevillaott.smil/playlist.m3u8": {
+    "alive": false,
+    "ts": 1795671626.4782236,
+    "rt": 9999
+  },
+  "https://liveingesta318.cdnmedia.tv/101weblive/smil:CADIZ.smil/playlist.m3u8": {
+    "alive": false,
+    "ts": 1795671626.468092,
+    "rt": 9999
+  },
+  "https://liveingesta318.cdnmedia.tv/101televisionlive/smil:malagaott.smil/playlist.m3u8": {
+    "alive": false,
+    "ts": 1795671626.4775665,
+    "rt": 9999
+  },
+  "http://93.92.17.139:9981/stream/channelid/788918401?profile=pass": {
+    "alive": true,
+    "ts": 1795671626.6031904,
+    "rt": 0.183
+  },
+  "https://stream.ottlive.co.in/nebharat24/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.5708883,
+    "rt": 0.227
+  },
+  "https://stream.ottlive.co.in/in24news/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.556546,
+    "rt": 0.26
+  },
+  "http://91.235.165.117:8001/play/a02f/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.5546231,
+    "rt": 0.266
+  },
+  "http://91.235.165.117:8001/play/a08t/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.5534248,
+    "rt": 0.274
+  },
+  "http://91.235.165.117:8001/play/a01p/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.5663035,
+    "rt": 0.269
+  },
+  "https://stream.ottlive.co.in/taratv/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.8224642,
+    "rt": 0.016
+  },
+  "https://live.skystream.in/live/ccnet7082/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.5319684,
+    "rt": 0.313
+  },
+  "https://live.skystream.in/live/DrisyaPala2924/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.5459893,
+    "rt": 0.311
+  },
+  "http://91.235.165.117:8001/play/a038/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.5907047,
+    "rt": 0.274
+  },
+  "https://stream.ottlive.co.in/vandebharatnews/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.86782,
+    "rt": 0.019
+  },
+  "https://live.skystream.in/live/keralam2742/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.5594695,
+    "rt": 0.332
+  },
+  "https://edge.enhdtv.com/teleestrella/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.83415,
+    "rt": 0.121
+  },
+  "https://stream.ottlive.co.in/pulse24news/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.7935874,
+    "rt": 0.278
+  },
+  "http://91.235.165.117:8001/play/a08f/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.8358989,
+    "rt": 0.262
+  },
+  "http://103.165.207.108:8000/play/a00v/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.5937226,
+    "rt": 0.508
+  },
+  "http://91.235.165.117:8001/play/a08c/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.8455648,
+    "rt": 0.271
+  },
+  "http://91.235.165.117:8001/play/a00p/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.8621802,
+    "rt": 0.262
+  },
+  "http://91.235.165.117:8001/play/a08h/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.8883846,
+    "rt": 0.262
+  },
+  "https://i.mjh.nz/.r/10-nicktoons.m3u8": {
+    "alive": true,
+    "ts": 1795671626.6077569,
+    "rt": 0.084
+  },
+  "https://i.mjh.nz/.r/10-nick-jr.m3u8": {
+    "alive": true,
+    "ts": 1795671626.5770502,
+    "rt": 0.089
+  },
+  "http://103.148.210.190:8000/play/a14r": {
+    "alive": true,
+    "ts": 1795671626.5189142,
+    "rt": 0.664
+  },
+  "https://www.tl.com.gt/live.php?file=0.m3u8": {
+    "alive": true,
+    "ts": 1795671626.5000014,
+    "rt": 0.722
+  },
+  "https://media.hydeinnovations.com/Tooro_TV-srt/index.m3u8": {
+    "alive": false,
+    "ts": 1795671626.8387544,
+    "rt": 9999
+  },
+  "https://stream.ottlive.co.in/sristitv/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.8180363,
+    "rt": 1.004
+  },
+  "https://stream.ottlive.co.in/news21/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.5751739,
+    "rt": 1.409
+  },
+  "https://stream.ottlive.co.in/abcnews/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.4801295,
+    "rt": 1.534
+  },
+  "https://stream.ottlive.co.in/lokmatbharat/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.5637765,
+    "rt": 1.477
+  },
+  "https://stream.ottlive.co.in/newsbeatkarnataka/index.m3u8": {
+    "alive": true,
+    "ts": 1795671626.5606217,
+    "rt": 1.504
+  },
+  "https://rangdhonulive.samiulislamabhi.workers.dev/sonyMAXhd/tracks-v1a1/mono.ts.m3u8": {
+    "alive": true,
+    "ts": 1795671626.8049984,
+    "rt": 1.893
+  },
+  "https://rundle.tv/proxy5.php?src=https%3A%2F%2Fkuruk1.xn--okq6e.shop%2Fkuk1%2Fusergendx419snx12kdgwqrnd.m3u8": {
+    "alive": true,
+    "ts": 1795671626.5438523,
+    "rt": 4.107
   }
 }
